@@ -317,7 +317,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -334,6 +334,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-15T21:21:33.590998"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-15T21:37:33.804376"
       }
     ]
   },
@@ -430,6 +434,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-15T21:35:33.758711"
+      }
+    ]
+  },
+  "bf9307bb67fc24b5fce09c97360c9d8c": {
+    "time": "2026/09/15 21:36:08",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前金區",
+    "units": "前金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-15T21:37:33.804376"
       }
     ]
   }
