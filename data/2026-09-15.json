@@ -99,7 +99,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區大仁街",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已到達",
@@ -108,6 +108,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-15T21:07:33.256315"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-15T21:15:33.365530"
       }
     ]
   },
@@ -275,7 +279,7 @@
     "sub_category": "創傷",
     "location": "高雄市仁武區水管路",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -288,6 +292,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-15T21:04:33.252897"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-15T21:15:33.365530"
       }
     ]
   },
@@ -329,11 +337,15 @@
     "sub_category": "其他",
     "location": "高雄市苓雅區",
     "units": "",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-15T21:14:33.728284"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-15T21:15:33.365530"
       }
     ]
   }
