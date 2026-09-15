@@ -3743,7 +3743,7 @@
     "sub_category": "車禍",
     "location": "高雄市前金區成功一路和長生街",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3752,6 +3752,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T07:53:33.920566"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T07:56:35.220593"
       }
     ]
   },
@@ -3783,7 +3787,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區",
     "units": "高桂分隊,鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3792,6 +3796,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T07:52:33.764735"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T07:56:35.220593"
       }
     ]
   },
@@ -3860,6 +3868,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T07:54:34.590663"
+      }
+    ]
+  },
+  "bbdf55baab1eb642e27cffffcae93280": {
+    "time": "2026/09/16 07:55:05",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T07:56:35.220593"
       }
     ]
   }
