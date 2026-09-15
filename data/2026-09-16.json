@@ -3203,7 +3203,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3212,6 +3212,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T07:08:33.395094"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T07:18:33.475564"
       }
     ]
   },
@@ -3261,7 +3265,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3270,6 +3274,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T07:12:33.331958"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T07:18:33.475564"
+      }
+    ]
+  },
+  "8f0de302789532aad078146e958a5ee8": {
+    "time": "2026/09/16 07:16:52",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市仁武區文館路",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T07:18:33.475564"
       }
     ]
   }
