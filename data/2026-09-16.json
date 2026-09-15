@@ -2179,7 +2179,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2192,6 +2192,24 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T04:03:33.760664"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T04:05:33.756406"
+      }
+    ]
+  },
+  "7a22a1554e3fa1a65d39b784d70fe6c1": {
+    "time": "2026/09/16 04:04:06",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T04:05:33.756406"
       }
     ]
   }
