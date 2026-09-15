@@ -431,11 +431,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-15T19:59:21.765091"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-15T20:02:39.593321"
       }
     ]
   },
@@ -445,11 +449,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-15T19:59:21.765091"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-15T20:02:39.593321"
       }
     ]
   },
@@ -459,11 +467,15 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-15T19:59:21.765091"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-15T20:02:39.593321"
       }
     ]
   },
@@ -487,11 +499,15 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區本洲路",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已到達",
         "timestamp": "2026-09-15T19:59:21.765091"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-15T20:02:39.593321"
       }
     ]
   },
@@ -501,11 +517,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "大社分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已到達",
         "timestamp": "2026-09-15T19:59:21.765091"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-15T20:02:39.593321"
       }
     ]
   },
@@ -604,6 +624,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-15T19:59:21.765091"
+      }
+    ]
+  },
+  "e72ccb665f0aed2c948bc5e6968a4e6a": {
+    "time": "2026/09/15 20:01:36",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區新富路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-15T20:02:39.593321"
+      }
+    ]
+  },
+  "e223303e2e7cb18ce874094f3edd15be": {
+    "time": "2026/09/15 20:01:01",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-15T20:02:39.593321"
       }
     ]
   }
