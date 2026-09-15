@@ -619,7 +619,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -628,6 +628,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-15T21:58:34.009746"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-15T22:01:34.065880"
+      }
+    ]
+  },
+  "4e395146e23d975e97388694973cfae4": {
+    "time": "2026/09/15 22:00:28",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳥松區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-15T22:01:34.065880"
       }
     ]
   }
