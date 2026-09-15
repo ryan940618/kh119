@@ -1265,7 +1265,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區南和街",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1282,6 +1282,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-15T23:45:33.871631"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-15T23:54:33.938243"
       }
     ]
   },
@@ -1429,11 +1433,15 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區中正二路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-15T23:52:33.971126"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-15T23:54:33.938243"
       }
     ]
   },
@@ -1443,11 +1451,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-15T23:53:33.974766"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-15T23:54:33.938243"
       }
     ]
   },
@@ -1457,11 +1469,15 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區廣西路和修文街",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-15T23:53:33.974766"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-15T23:54:33.938243"
       }
     ]
   }
