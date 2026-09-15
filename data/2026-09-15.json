@@ -599,7 +599,7 @@
     "sub_category": "創傷",
     "location": "高雄市杉林區山仙路",
     "units": "杉林分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -612,6 +612,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-15T22:07:33.115355"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-15T22:20:33.222268"
       }
     ]
   },
@@ -734,6 +738,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-15T22:18:33.308398"
+      }
+    ]
+  },
+  "41fcdd292f2a75ffea646b2a1abf2595": {
+    "time": "2026/09/15 22:20:11",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳥松區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-15T22:20:33.222268"
       }
     ]
   }
