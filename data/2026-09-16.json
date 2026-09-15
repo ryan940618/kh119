@@ -3589,7 +3589,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區仁雄路",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3598,6 +3598,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T07:41:33.985091"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T07:50:33.716897"
       }
     ]
   },
@@ -3607,7 +3611,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區中山東路",
     "units": "大寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3620,6 +3624,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T07:47:33.745125"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T07:50:33.716897"
       }
     ]
   },
@@ -3665,7 +3673,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3674,6 +3682,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T07:45:34.161728"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T07:50:33.716897"
       }
     ]
   },
@@ -3733,11 +3745,43 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區福安二街",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T07:48:34.024867"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T07:50:33.716897"
+      }
+    ]
+  },
+  "6690aea1a9a959539685132672de2f9b": {
+    "time": "2026/09/16 07:49:25",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區",
+    "units": "高桂分隊,鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T07:50:33.716897"
+      }
+    ]
+  },
+  "a04b2ae65d018d2bb407bbaadb4759a1": {
+    "time": "2026/09/16 07:46:52",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區青年路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T07:50:33.716897"
       }
     ]
   }
