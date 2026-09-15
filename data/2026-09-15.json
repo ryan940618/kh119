@@ -1165,7 +1165,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1178,6 +1178,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-15T23:29:33.879344"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-15T23:45:33.871631"
       }
     ]
   },
@@ -1253,7 +1257,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區南和街",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1266,6 +1270,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-15T23:32:33.839360"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-15T23:45:33.871631"
       }
     ]
   },
@@ -1311,7 +1319,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1320,6 +1328,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-15T23:40:34.084786"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-15T23:45:33.871631"
       }
     ]
   },
@@ -1334,6 +1346,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-15T23:43:33.841553"
+      }
+    ]
+  },
+  "cac1bdd7dfe50585fd4b142e1d148b47": {
+    "time": "2026/09/15 23:43:19",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市梓官區",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-15T23:45:33.871631"
       }
     ]
   }
