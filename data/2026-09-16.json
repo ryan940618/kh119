@@ -2775,7 +2775,7 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2792,6 +2792,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T06:48:33.262843"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T06:56:33.251913"
       }
     ]
   },
@@ -2889,7 +2893,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2898,6 +2902,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T06:51:33.169120"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T06:56:33.251913"
       }
     ]
   },
@@ -2961,7 +2969,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2970,6 +2978,38 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T06:53:33.255335"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T06:56:33.251913"
+      }
+    ]
+  },
+  "81ffcf1071d18186071b5564d90425a9": {
+    "time": "2026/09/16 06:55:39",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大樹區龍目路",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T06:56:33.251913"
+      }
+    ]
+  },
+  "8e524403d261e81bac452b0cfdb0530b": {
+    "time": "2026/09/16 06:55:10",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T06:56:33.251913"
       }
     ]
   }
