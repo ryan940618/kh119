@@ -2849,7 +2849,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2862,6 +2862,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T06:49:33.170776"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T06:58:33.270767"
       }
     ]
   },
@@ -2915,7 +2919,7 @@
     "sub_category": "汽機車",
     "location": "高雄市左營區自由三路",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "火已滅",
     "status_history": [
       {
         "status": "已派遣",
@@ -2928,6 +2932,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T06:57:33.223323"
+      },
+      {
+        "status": "火已滅",
+        "timestamp": "2026-09-16T06:58:33.270767"
       }
     ]
   },
@@ -3003,11 +3011,15 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區龍目路",
     "units": "大樹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T06:56:33.251913"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T06:58:33.270767"
       }
     ]
   },
@@ -3026,6 +3038,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T06:57:33.223323"
+      }
+    ]
+  },
+  "bd9acce8744815427c3367f7d4cf1fdd": {
+    "time": "2026/09/16 06:57:24",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T06:58:33.270767"
       }
     ]
   }
