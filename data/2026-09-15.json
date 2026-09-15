@@ -787,7 +787,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -796,6 +796,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-15T22:27:33.221266"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-15T22:29:33.336892"
       }
     ]
   },
@@ -805,11 +809,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-15T22:28:33.282853"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-15T22:29:33.336892"
       }
     ]
   }
