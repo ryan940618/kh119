@@ -1371,7 +1371,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1380,6 +1380,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-15T23:46:34.231900"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-15T23:53:33.974766"
       }
     ]
   },
@@ -1430,6 +1434,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-15T23:52:33.971126"
+      }
+    ]
+  },
+  "84e19331d323f870758b9d81f6241cf5": {
+    "time": "2026/09/15 23:53:10",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-15T23:53:33.974766"
+      }
+    ]
+  },
+  "63436dda81d4ef62e38006ce414410f6": {
+    "time": "2026/09/15 23:52:43",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市前鎮區廣西路和修文街",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-15T23:53:33.974766"
       }
     ]
   }
