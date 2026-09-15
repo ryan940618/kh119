@@ -3227,7 +3227,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3240,6 +3240,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T07:18:33.475564"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T07:26:33.567446"
       }
     ]
   },
@@ -3351,7 +3355,7 @@
     "sub_category": "創傷",
     "location": "高雄市林園區忠義一街",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3360,6 +3364,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T07:21:33.476265"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T07:26:33.567446"
+      }
+    ]
+  },
+  "ca135f4552025b844cf90a1e18813271": {
+    "time": "2026/09/16 07:25:51",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區鳳屏二路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T07:26:33.567446"
       }
     ]
   }
