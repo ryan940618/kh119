@@ -2533,7 +2533,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2546,6 +2546,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T05:45:33.750533"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T05:58:33.760411"
       }
     ]
   },
@@ -2573,11 +2577,15 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區一心二路",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T05:55:33.723976"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T05:58:33.760411"
       }
     ]
   },
@@ -2587,11 +2595,15 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T05:56:33.748263"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T05:58:33.760411"
       }
     ]
   }
