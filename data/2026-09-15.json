@@ -59,7 +59,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -68,6 +68,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-15T19:23:20.821812"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-15T19:59:21.765091"
       }
     ]
   },
@@ -159,7 +163,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已到達",
@@ -168,6 +172,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-15T19:23:20.821812"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-15T19:59:21.765091"
       }
     ]
   },
@@ -289,11 +297,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-15T19:23:20.821812"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-15T19:59:21.765091"
       }
     ]
   },
@@ -359,11 +371,15 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區延平路",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已到達",
         "timestamp": "2026-09-15T19:23:20.821812"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-15T19:59:21.765091"
       }
     ]
   },
@@ -406,6 +422,188 @@
       {
         "status": "已到院",
         "timestamp": "2026-09-15T19:23:20.821812"
+      }
+    ]
+  },
+  "f2b8b1590c4d528ca946cac56c6ca0ca": {
+    "time": "2026/09/15 19:57:38",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-15T19:59:21.765091"
+      }
+    ]
+  },
+  "38bc2c64e33e4e50d874bc064aee77d3": {
+    "time": "2026/09/15 19:55:10",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-15T19:59:21.765091"
+      }
+    ]
+  },
+  "b1b7c644baf7427d93c555c5049477e6": {
+    "time": "2026/09/15 19:54:52",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "中庄分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-15T19:59:21.765091"
+      }
+    ]
+  },
+  "dfacb89f460af50c575b41b86907208a": {
+    "time": "2026/09/15 19:52:45",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "左營小隊",
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-15T19:59:21.765091"
+      }
+    ]
+  },
+  "022fe0fa19c63f151a6b66792db0013a": {
+    "time": "2026/09/15 19:49:33",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區本洲路",
+    "units": "岡山分隊",
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-15T19:59:21.765091"
+      }
+    ]
+  },
+  "efb301c3da408778156cb257c81ffbef": {
+    "time": "2026/09/15 19:47:00",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "大社分隊",
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-15T19:59:21.765091"
+      }
+    ]
+  },
+  "19a83cc89239c61bbfb8e5ab951f70f5": {
+    "time": "2026/09/15 19:45:55",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區翠華路",
+    "units": "鼎金分隊",
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-15T19:59:21.765091"
+      }
+    ]
+  },
+  "0f620e961bc235fc6c4a07151973974d": {
+    "time": "2026/09/15 19:41:57",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鹽埕區興華街",
+    "units": "鼓山分隊",
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-15T19:59:21.765091"
+      }
+    ]
+  },
+  "892a0d83d5c0ac610c4ce3a1ddd96f8a": {
+    "time": "2026/09/15 19:39:57",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區中崙五路",
+    "units": "鳳祥分隊",
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-15T19:59:21.765091"
+      }
+    ]
+  },
+  "5bd0a9bf882711432854f55484472e99": {
+    "time": "2026/09/15 19:33:21",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區站東路",
+    "units": "十全分隊",
+    "current_status": "已到院",
+    "status_history": [
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-15T19:59:21.765091"
+      }
+    ]
+  },
+  "c3293cd679af3e93f57a6e01d21d043b": {
+    "time": "2026/09/15 19:28:54",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已到院",
+    "status_history": [
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-15T19:59:21.765091"
+      }
+    ]
+  },
+  "6dfcda6671635182ebf189e23fae5d35": {
+    "time": "2026/09/15 19:27:21",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "左營分隊",
+    "current_status": "已到院",
+    "status_history": [
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-15T19:59:21.765091"
+      }
+    ]
+  },
+  "ca88806128794b487432ae4cfbdca416": {
+    "time": "2026/09/15 19:21:10",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市楠梓區後昌路",
+    "units": "後勁分隊",
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-15T19:59:21.765091"
       }
     ]
   }
