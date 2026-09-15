@@ -1749,7 +1749,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1758,6 +1758,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T01:10:33.543044"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T01:15:33.614624"
+      }
+    ]
+  },
+  "9052bf5bf4b8ac63200d9699a93b28b7": {
+    "time": "2026/09/16 01:14:40",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前金區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T01:15:33.614624"
       }
     ]
   }
