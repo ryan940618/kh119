@@ -475,7 +475,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -488,6 +488,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-15T20:09:11.859154"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-15T20:14:33.109103"
       }
     ]
   },
@@ -734,6 +738,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-15T20:13:34.546462"
+      }
+    ]
+  },
+  "eb9cd29be139a9062fb4df47487e76f3": {
+    "time": "2026/09/15 20:11:22",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區高雄大學路",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-15T20:14:33.109103"
       }
     ]
   }
