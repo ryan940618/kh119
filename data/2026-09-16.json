@@ -2995,7 +2995,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3008,6 +3008,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T06:57:33.223323"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T07:10:33.391051"
       }
     ]
   },
@@ -3017,7 +3021,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3030,6 +3034,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T06:56:33.251913"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T07:10:33.391051"
       }
     ]
   },
@@ -3105,7 +3113,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3114,6 +3122,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T07:04:34.343024"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T07:10:33.391051"
       }
     ]
   },
@@ -3123,7 +3135,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3136,6 +3148,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T07:07:33.320540"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T07:10:33.391051"
       }
     ]
   },
@@ -3145,7 +3161,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3154,6 +3170,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T07:05:33.353990"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T07:10:33.391051"
       }
     ]
   },
@@ -3181,11 +3201,15 @@
     "sub_category": "受困",
     "location": "高雄市林園區龍潭路",
     "units": "林園分隊",
-    "current_status": "已派遣",
+    "current_status": "",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T07:07:33.320540"
+      },
+      {
+        "status": "",
+        "timestamp": "2026-09-16T07:10:33.391051"
       }
     ]
   },
@@ -3200,6 +3224,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T07:08:33.395094"
+      }
+    ]
+  },
+  "5cd1b2399260d446ba4aa14bdac80eb0": {
+    "time": "2026/09/16 07:09:23",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T07:10:33.391051"
       }
     ]
   }
