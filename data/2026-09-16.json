@@ -2877,11 +2877,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T06:48:33.262843"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T06:51:33.169120"
       }
     ]
   },
@@ -2891,11 +2895,15 @@
     "sub_category": "汽機車",
     "location": "高雄市左營區自由三路",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T06:49:33.170776"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T06:51:33.169120"
       }
     ]
   },
@@ -2919,11 +2927,29 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T06:50:33.219264"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T06:51:33.169120"
+      }
+    ]
+  },
+  "72d931905dafa4d59346e9a16219e49e": {
+    "time": "2026/09/16 06:50:53",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T06:51:33.169120"
       }
     ]
   }
