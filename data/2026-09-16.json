@@ -2977,7 +2977,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2994,6 +2994,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T07:11:33.402934"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T07:19:33.453722"
       }
     ]
   },
@@ -3287,11 +3291,29 @@
     "sub_category": "其他",
     "location": "高雄市仁武區文館路",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T07:18:33.475564"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T07:19:33.453722"
+      }
+    ]
+  },
+  "2f891a63d7298d66fd07c4516135d500": {
+    "time": "2026/09/16 07:18:01",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區翠華路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T07:19:33.453722"
       }
     ]
   }
