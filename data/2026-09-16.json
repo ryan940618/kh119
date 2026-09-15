@@ -2737,11 +2737,15 @@
     "sub_category": "路倒",
     "location": "高雄市左營區新庄仔路",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T06:30:33.034145"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T06:33:33.048049"
       }
     ]
   },
@@ -2770,6 +2774,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T06:32:33.088019"
+      }
+    ]
+  },
+  "9bf691e6eecdf3eb5fe4b8e9ea5d4f78": {
+    "time": "2026/09/16 06:32:26",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市小港區",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T06:33:33.048049"
       }
     ]
   }
