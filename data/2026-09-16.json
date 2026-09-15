@@ -2645,7 +2645,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2662,6 +2662,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T06:21:33.925658"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T06:29:32.975468"
       }
     ]
   },
@@ -2711,7 +2715,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -2720,6 +2724,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T06:25:32.908965"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T06:29:32.975468"
       }
     ]
   }
