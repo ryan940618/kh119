@@ -3111,7 +3111,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3120,6 +3120,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T07:03:33.274386"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T07:07:33.320540"
       }
     ]
   },
@@ -3138,6 +3142,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T07:05:33.353990"
+      }
+    ]
+  },
+  "fd1a22acc78b4c17ae56682128b57a1b": {
+    "time": "2026/09/16 07:06:37",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市美濃區",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T07:07:33.320540"
+      }
+    ]
+  },
+  "76784e0ead75a035acdbcafb1ea90228": {
+    "time": "2026/09/16 07:05:20",
+    "category": "其他",
+    "sub_category": "受困",
+    "location": "高雄市林園區龍潭路",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T07:07:33.320540"
       }
     ]
   }
