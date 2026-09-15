@@ -2771,7 +2771,7 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "大社分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2784,6 +2784,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T06:43:33.075434"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T06:48:33.262843"
       }
     ]
   },
@@ -2860,6 +2864,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T06:47:33.129926"
+      }
+    ]
+  },
+  "f1c77eb345cf37d0b91a9321c9761266": {
+    "time": "2026/09/16 06:47:50",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T06:48:33.262843"
       }
     ]
   }
