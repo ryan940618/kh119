@@ -3353,7 +3353,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區翠華路",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3370,6 +3370,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T07:36:33.676060"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T07:39:33.634998"
       }
     ]
   },
@@ -3423,7 +3427,7 @@
     "sub_category": "車禍",
     "location": "高雄市大社區中正路",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3432,6 +3436,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T07:34:33.594780"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T07:39:33.634998"
       }
     ]
   },
@@ -3459,7 +3467,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區美庄路",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3468,6 +3476,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T07:35:33.619887"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T07:39:33.634998"
       }
     ]
   },
@@ -3496,6 +3508,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T07:38:33.659942"
+      }
+    ]
+  },
+  "6227d2d606a8406d153f2bb3dafd249b": {
+    "time": "2026/09/16 07:38:49",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T07:39:33.634998"
+      }
+    ]
+  },
+  "ce21a0a8c8db3e7fcb4e8fc3c9bb6c30": {
+    "time": "2026/09/16 07:38:07",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "鳥松分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T07:39:33.634998"
       }
     ]
   }
