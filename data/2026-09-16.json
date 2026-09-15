@@ -2435,7 +2435,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2452,6 +2452,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T05:34:33.528535"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T05:39:33.699324"
       }
     ]
   },
@@ -2483,7 +2487,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區大順三路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2492,6 +2496,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T05:29:33.553474"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T05:39:33.699324"
       }
     ]
   },
@@ -2501,11 +2509,15 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T05:37:33.571078"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T05:39:33.699324"
       }
     ]
   }
