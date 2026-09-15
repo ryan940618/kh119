@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>即時災情與狀態追蹤系統</title>
+    <style>
+        :root {
+            --primary: #4AB28D;
+            --primary-light: #E0F2EC;
+            --border: #7BBEAB;
+            --bg-odd: #ffeedf;
+            --bg-hover: #f1f1f1;
+        }
+        body {
+            font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+            margin: 20px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1 {
+            color: var(--primary);
+            border-bottom: 2px solid var(--primary);
+            padding-bottom: 10px;
+        }
+        .controls {
+            margin-bottom: 20px;
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+        button, input[type="date"] {
+            padding: 8px 12px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+        button {
+            background-color: var(--primary);
+            color: white;
+            border: none;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+        button:hover {
+            background-color: #388e71;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            background: white;
+            border: 2px solid var(--border);
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        th, td {
+            border-left: 1px solid var(--primary-light);
+            border-bottom: 1px solid #ECDDDA;
+            padding: 12px 8px;
+            text-align: center;
+        }
+        th {
+            background-color: var(--primary);
+            color: white;
+            position: sticky;
+            top: 0;
+        }
+        tr:nth-child(odd) {
+            background-color: var(--bg-odd);
+        }
+        tr:hover {
+            background-color: var(--bg-hover);
+        }
+        .history-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            font-size: 0.9em;
+            text-align: left;
+        }
+        .history-item {
+            margin-bottom: 4px;
+            padding-bottom: 4px;
+            border-bottom: 1px dashed #ccc;
+        }
+        .history-item:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+            font-weight: bold;
+            color: #d9534f;
+        }
+        .time-badge {
+            color: #666;
+            font-size: 0.85em;
+            background: #eee;
+            padding: 2px 4px;
+            border-radius: 3px;
+        }
+        #statusMessage {
+            margin-top: 10px;
+            font-weight: bold;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>即時災情與狀態追蹤系統</h1>
+
+    <div class="controls">
+        <button onclick="loadDefaultView()">載入今天與昨天</button>
+        <div style="border-left: 1px solid #ccc; height: 30px;"></div>
+        <label for="datePicker">歷史查詢：</label>
+        <input type="date" id="datePicker">
+        <button onclick="fetchSpecificDate()">查詢特定日期</button>
+    </div>
+
+    <div id="statusMessage">資料載入中...</div>
+
+    <table id="dataTable">
+        <thead>
+            <tr>
+                <th width="12%">受理時間</th>
+                <th width="8%">案類</th>
+                <th width="8%">案別</th>
+                <th width="22%">發生地點</th>
+                <th width="15%">派遣分隊</th>
+                <th width="10%">當前狀態</th>
+                <th width="25%">狀態更新紀錄 (時間軸)</th>
+            </tr>
+        </thead>
+        <tbody id="eventBody">
+            <!-- 資料將透過 JS 動態生成 -->
+        </tbody>
+    </table>
+
+    <script>
+        const dataFolder = './data/';
+
+        // 將 Date 轉為 YYYY-MM-DD (修正時區問題，確保使用本地時間)
+        function getLocalYYYYMMDD(date) {
+            const y = date.getFullYear();
+            const m = String(date.getMonth() + 1).padStart(2, '0');
+            const d = String(date.getDate()).padStart(2, '0');
+            return `${y}-${m}-${d}`;
+        }
+
+        // 安全地抓取 JSON，如果 404 就回傳空物件
+        async function fetchJsonSafely(dateStr) {
+            try {
+                const response = await fetch(`${dataFolder}${dateStr}.json`);
+                if (!response.ok) throw new Error('Not Found');
+                return await response.json();
+            } catch (error) {
+                console.warn(`找不到 ${dateStr} 的資料`);
+                return {};
+            }
+        }
+
+        // 預設載入今天與昨天
+        async function loadDefaultView() {
+            document.getElementById('statusMessage').innerText = "載入中...";
+            const today = new Date();
+            const yesterday = new Date();
+            yesterday.setDate(today.getDate() - 1);
+
+            const todayStr = getLocalYYYYMMDD(today);
+            const yesterdayStr = getLocalYYYYMMDD(yesterday);
+
+            const [todayData, yesterdayData] = await Promise.all([
+                fetchJsonSafely(todayStr),
+                fetchJsonSafely(yesterdayStr)
+            ]);
+
+            // 合併資料：昨天的作為基底，今天的資料若有相同 ID 會覆蓋昨天的，確保狀態最新
+            const mergedData = { ...yesterdayData, ...todayData };
+            
+            renderTable(mergedData, `顯示區間：${yesterdayStr} ~ ${todayStr}`);
+        }
+
+        // 查詢特定日期
+        async function fetchSpecificDate() {
+            const dateStr = document.getElementById('datePicker').value;
+            if (!dateStr) {
+                alert("請先選擇日期");
+                return;
+            }
+            document.getElementById('statusMessage').innerText = "載入中...";
+            const data = await fetchJsonSafely(dateStr);
+            renderTable(data, `顯示日期：${dateStr}`);
+        }
+
+        // 渲染表格
+        function renderTable(dataObj, statusText) {
+            const tbody = document.getElementById('eventBody');
+            tbody.innerHTML = ''; // 清空現有資料
+
+            // 將 Object 轉為 Array 以便排序
+            const events = Object.values(dataObj);
+
+            if (events.length === 0) {
+                document.getElementById('statusMessage').innerText = `${statusText} (無資料)`;
+                tbody.innerHTML = '<tr><td colspan="7" style="text-align:center;">該日期沒有案件紀錄</td></tr>';
+                return;
+            }
+
+            document.getElementById('statusMessage').innerText = `${statusText} (共 ${events.length} 筆案件)`;
+
+            // 依照「受理時間」排序 (新的在上面)
+            events.sort((a, b) => new Date(b.time) - new Date(a.time));
+
+            events.forEach(event => {
+                const tr = document.createElement('tr');
+
+                // 處理歷史狀態紀錄的 HTML
+                const historyHtml = event.status_history.map(hist => {
+                    // 將 ISO 時間轉為可讀的 HH:MM:SS
+                    const dateObj = new Date(hist.timestamp);
+                    const timeStr = dateObj.toLocaleTimeString('zh-TW', { hour12: false });
+                    return `<li class="history-item">
+                                <span class="time-badge">${timeStr}</span> 
+                                <span>${hist.status}</span>
+                            </li>`;
+                }).join('');
+
+                tr.innerHTML = `
+                    <td>${event.time}</td>
+                    <td>${event.category}</td>
+                    <td>${event.sub_category}</td>
+                    <td>${event.location}</td>
+                    <td>${event.units}</td>
+                    <td style="font-weight: bold; color: #d9534f;">${event.current_status}</td>
+                    <td><ul class="history-list">${historyHtml}</ul></td>
+                `;
+                tbody.appendChild(tr);
+            });
+        }
+
+        // 頁面載入時自動執行預設視圖
+        window.onload = loadDefaultView;
+    </script>
+</body>
+</html>
