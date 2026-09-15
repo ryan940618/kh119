@@ -3527,7 +3527,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區南華路",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3540,6 +3540,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T07:42:33.826426"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T07:53:33.920566"
       }
     ]
   },
@@ -3735,11 +3739,15 @@
     "sub_category": "車禍",
     "location": "高雄市前金區成功一路和長生街",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T07:48:34.024867"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T07:53:33.920566"
       }
     ]
   },
@@ -3749,7 +3757,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區福安二街",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3758,6 +3766,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T07:50:33.716897"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T07:53:33.920566"
       }
     ]
   },
@@ -3799,11 +3811,15 @@
     "sub_category": "車禍",
     "location": "高雄市新興區七賢一路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T07:52:33.764735"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T07:53:33.920566"
       }
     ]
   },
@@ -3818,6 +3834,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T07:52:33.764735"
+      }
+    ]
+  },
+  "14143dcd1db0bd7ce44b4e4a03e1841e": {
+    "time": "2026/09/16 07:52:33",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區正氣街",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T07:53:33.920566"
       }
     ]
   }
