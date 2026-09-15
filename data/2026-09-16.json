@@ -2213,7 +2213,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2222,6 +2222,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T04:09:33.828574"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T04:20:32.898471"
       }
     ]
   },
@@ -2249,11 +2253,15 @@
     "sub_category": "急病",
     "location": "高雄市那瑪夏區",
     "units": "那瑪夏分隊",
-    "current_status": "已出動",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-16T04:18:33.910052"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T04:20:32.898471"
       }
     ]
   },
@@ -2268,6 +2276,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T04:19:33.879684"
+      }
+    ]
+  },
+  "c4cd9eba34f2b6ae41b581cf87fef1b6": {
+    "time": "2026/09/16 04:19:42",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前金區河東路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T04:20:32.898471"
       }
     ]
   }
