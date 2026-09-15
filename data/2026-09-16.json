@@ -3767,11 +3767,15 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區",
     "units": "高桂分隊,鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T07:50:33.716897"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T07:52:33.764735"
       }
     ]
   },
@@ -3786,6 +3790,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T07:50:33.716897"
+      }
+    ]
+  },
+  "8ffceb08dabfedca237304e7de4b3b32": {
+    "time": "2026/09/16 07:51:33",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市新興區七賢一路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T07:52:33.764735"
+      }
+    ]
+  },
+  "b01b07df7ef743da397e5dcf7dfcb486": {
+    "time": "2026/09/16 07:51:11",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T07:52:33.764735"
       }
     ]
   }
