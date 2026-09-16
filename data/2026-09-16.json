@@ -3413,7 +3413,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區鳳屏二路",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3430,6 +3430,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T07:46:33.689263"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T08:02:33.930323"
       }
     ]
   },
@@ -3859,7 +3863,7 @@
     "sub_category": "車禍",
     "location": "高雄市新興區七賢一路",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3872,6 +3876,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T07:55:34.444044"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T08:02:33.930323"
       }
     ]
   },
@@ -4001,7 +4009,7 @@
     "sub_category": "車禍",
     "location": "高雄市旗山區延平一路",
     "units": "旗山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4010,6 +4018,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T07:59:33.941883"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T08:02:33.930323"
       }
     ]
   },
@@ -4019,11 +4031,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區同盟三路和鐵道三街",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T07:58:34.163840"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T08:02:33.930323"
       }
     ]
   },
@@ -4051,11 +4067,29 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區會結二路",
     "units": "和發分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T08:01:33.957251"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T08:02:33.930323"
+      }
+    ]
+  },
+  "636daa30d30026b323030d12e01ccb89": {
+    "time": "2026/09/16 08:01:22",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區重愛路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T08:02:33.930323"
       }
     ]
   }
