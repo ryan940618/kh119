@@ -6785,7 +6785,7 @@
     "sub_category": "急病",
     "location": "高雄市內門區",
     "units": "內門分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -6794,6 +6794,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T13:21:33.693769"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T13:25:33.658163"
       }
     ]
   },
@@ -6825,7 +6829,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區鼎力路",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6834,6 +6838,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T13:22:33.700389"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T13:25:33.658163"
       }
     ]
   },
@@ -6866,6 +6874,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T13:24:33.651417"
+      }
+    ]
+  },
+  "788a93688d8436c1965c0ea893d49efb": {
+    "time": "2026/09/16 13:21:28",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市田寮區",
+    "units": "田寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T13:25:33.658163"
       }
     ]
   }
