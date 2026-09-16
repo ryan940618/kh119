@@ -5339,7 +5339,7 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區獅興街",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5348,6 +5348,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T11:16:37.212953"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T11:22:33.920287"
       }
     ]
   },
@@ -5375,7 +5379,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5388,6 +5392,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T11:18:36.910879"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T11:22:33.920287"
       }
     ]
   },
@@ -5447,11 +5455,15 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T11:21:33.876555"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T11:22:33.920287"
       }
     ]
   }
