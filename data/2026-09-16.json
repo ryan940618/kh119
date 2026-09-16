@@ -9927,7 +9927,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9940,6 +9940,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T17:51:33.153045"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T18:04:33.315848"
       }
     ]
   },
@@ -10138,6 +10142,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T18:03:33.288387"
+      }
+    ]
+  },
+  "d0d8fe566fd58b1977c2cfa89070d447": {
+    "time": "2026/09/16 18:03:07",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區鎮潭路",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T18:04:33.315848"
       }
     ]
   }
