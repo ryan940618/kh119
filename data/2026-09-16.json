@@ -6991,7 +6991,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7004,6 +7004,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T13:39:33.889569"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T13:50:33.797805"
       }
     ]
   },
@@ -7164,6 +7168,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T13:46:33.894509"
+      }
+    ]
+  },
+  "a7cea9dbb21ee7474a609828095053dd": {
+    "time": "2026/09/16 13:49:46",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T13:50:33.797805"
+      }
+    ]
+  },
+  "74de3135c71817d5d3a5ed2951117be0": {
+    "time": "2026/09/16 13:49:37",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T13:50:33.797805"
       }
     ]
   }
