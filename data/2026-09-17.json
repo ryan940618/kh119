@@ -15051,7 +15051,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區鳳林三路",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -15068,6 +15068,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T07:00:33.468960"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T07:25:33.776267"
       }
     ]
   },
@@ -15424,6 +15428,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T07:24:33.837295"
+      }
+    ]
+  },
+  "49089c36e73c89533db8db8b95d1e051": {
+    "time": "2026/09/17 07:24:09",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市美濃區龍山街",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T07:25:33.776267"
       }
     ]
   }
