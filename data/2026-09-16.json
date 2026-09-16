@@ -7965,7 +7965,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -7974,6 +7974,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T15:09:33.215640"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T15:17:33.365548"
       }
     ]
   },
@@ -8045,7 +8049,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8054,6 +8058,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T15:15:33.315410"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T15:17:33.365548"
       }
     ]
   },
@@ -8063,7 +8071,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8072,6 +8080,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T15:15:33.315410"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T15:17:33.365548"
       }
     ]
   },
@@ -8086,6 +8098,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T15:16:33.184727"
+      }
+    ]
+  },
+  "8b1f1c791e96afd04be5a516e41fcf3f": {
+    "time": "2026/09/16 15:15:43",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "瑞隆分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T15:17:33.365548"
       }
     ]
   }
