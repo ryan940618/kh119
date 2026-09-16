@@ -9497,7 +9497,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區五甲三路",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9506,6 +9506,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T17:15:33.156357"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T17:18:33.252384"
       }
     ]
   },
@@ -9542,6 +9546,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T17:17:33.093695"
+      }
+    ]
+  },
+  "0d9b9f57ce23d90d2d6db5d8f7e90bd1": {
+    "time": "2026/09/16 17:17:49",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T17:18:33.252384"
       }
     ]
   }
