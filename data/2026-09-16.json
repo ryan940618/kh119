@@ -5091,7 +5091,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區四維四路",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5104,6 +5104,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T11:01:33.614950"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T11:06:33.661191"
       }
     ]
   },
@@ -5157,7 +5161,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5166,6 +5170,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T11:01:33.614950"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T11:06:33.661191"
       }
     ]
   },
@@ -5193,11 +5201,29 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區文龍東路",
     "units": "鳥松分隊,鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T11:05:33.744411"
+      },
+      {
+        "status": "",
+        "timestamp": "2026-09-16T11:06:33.661191"
+      }
+    ]
+  },
+  "2f676a8a280e5c1ea996a4167d84ed09": {
+    "time": "2026/09/16 11:05:59",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鳳山區青年路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T11:06:33.661191"
       }
     ]
   }
