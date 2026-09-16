@@ -13111,7 +13111,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區永年街",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -13124,6 +13124,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T23:43:33.513154"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T23:56:33.677205"
       }
     ]
   },
@@ -13190,6 +13194,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T23:52:33.618740"
+      }
+    ]
+  },
+  "6810d364f7be8b6c8d53dcdb533a0f20": {
+    "time": "2026/09/16 23:54:59",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市橋頭區橋新五路",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T23:56:33.677205"
       }
     ]
   }
