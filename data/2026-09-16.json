@@ -9403,7 +9403,7 @@
     "sub_category": "路倒",
     "location": "高雄市大社區中山路",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9412,6 +9412,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T17:10:32.994684"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T17:11:32.977304"
       }
     ]
   },
@@ -9430,6 +9434,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T17:10:32.994684"
+      }
+    ]
+  },
+  "d2c0a8dc3dee2c4a57c8fa2c2cf84d85": {
+    "time": "2026/09/16 17:10:21",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區保泰路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T17:11:32.977304"
       }
     ]
   }
