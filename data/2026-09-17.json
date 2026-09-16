@@ -13141,7 +13141,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區建工路",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -13158,6 +13158,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T00:05:33.810939"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T00:10:33.831397"
       }
     ]
   },
@@ -13242,6 +13246,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T00:08:33.731782"
+      }
+    ]
+  },
+  "3ae61a16afeb65bf6c8c8896fcdb55c0": {
+    "time": "2026/09/17 00:09:41",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鼓山區南屏路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T00:10:33.831397"
       }
     ]
   }
