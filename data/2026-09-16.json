@@ -5333,11 +5333,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T11:13:33.632760"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T11:15:34.351435"
       }
     ]
   },
@@ -5347,11 +5351,29 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T11:14:34.071569"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T11:15:34.351435"
+      }
+    ]
+  },
+  "546f5134cec360ad9290577a16768698": {
+    "time": "2026/09/16 11:13:37",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗山區",
+    "units": "大樹分隊,旗山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T11:15:34.351435"
       }
     ]
   }
