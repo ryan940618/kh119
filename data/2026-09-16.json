@@ -10633,7 +10633,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區中華路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10650,6 +10650,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T18:52:33.666161"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T18:55:33.770890"
       }
     ]
   },
@@ -10681,7 +10685,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10694,6 +10698,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T18:52:33.666161"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T18:55:33.770890"
       }
     ]
   },
@@ -10703,7 +10711,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區義華路和義安街",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10712,6 +10720,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T18:48:33.584891"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T18:55:33.770890"
       }
     ]
   },
@@ -10770,6 +10782,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T18:53:33.747721"
+      }
+    ]
+  },
+  "3960db0e2c366a0ed3a8bfd9d92c70ab": {
+    "time": "2026/09/16 18:55:17",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市大寮區鳳林三路",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T18:55:33.770890"
       }
     ]
   }
