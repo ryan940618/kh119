@@ -6659,7 +6659,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區翠屏路",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -6668,6 +6668,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T13:00:33.407208"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T13:11:33.633008"
       }
     ]
   },
@@ -6713,11 +6717,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區五常街",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T13:10:33.413086"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T13:11:33.633008"
       }
     ]
   }
