@@ -5155,7 +5155,7 @@
     "sub_category": "車禍",
     "location": "高雄市梓官區信義路",
     "units": "梓官分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5172,6 +5172,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T11:19:34.030816"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T11:26:33.904874"
       }
     ]
   },
@@ -5501,7 +5505,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5510,6 +5514,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T11:24:33.897426"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T11:26:33.904874"
       }
     ]
   },
@@ -5537,11 +5545,29 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T11:25:33.888957"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T11:26:33.904874"
+      }
+    ]
+  },
+  "5ea454bf645c04495764e6f2653da893": {
+    "time": "2026/09/16 11:25:34",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T11:26:33.904874"
       }
     ]
   }
