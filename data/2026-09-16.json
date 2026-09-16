@@ -4761,7 +4761,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4774,6 +4774,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T10:40:33.732902"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T10:45:34.298871"
       }
     ]
   },
@@ -4903,11 +4907,15 @@
     "sub_category": "車禍",
     "location": "高雄市新興區八德二路",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T10:44:33.561302"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T10:45:34.298871"
       }
     ]
   }
