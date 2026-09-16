@@ -14307,7 +14307,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區博愛一路",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -14324,6 +14324,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T03:55:33.326877"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T03:56:33.166584"
       }
     ]
   },
@@ -14355,7 +14359,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -14364,6 +14368,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T03:50:33.142612"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T03:56:33.166584"
       }
     ]
   },
@@ -14373,11 +14381,43 @@
     "sub_category": "創傷",
     "location": "高雄市左營區菜公路",
     "units": "左營小隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T03:54:33.118742"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T03:56:33.166584"
+      }
+    ]
+  },
+  "b02e14ee21a7f129518e75ed7a26b8cf": {
+    "time": "2026/09/17 03:55:26",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區正忠路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T03:56:33.166584"
+      }
+    ]
+  },
+  "8c4540d2139c96f31f87f2c8e7412ba8": {
+    "time": "2026/09/17 03:54:48",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區昌裕街",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T03:56:33.166584"
       }
     ]
   }
