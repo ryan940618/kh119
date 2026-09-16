@@ -9023,11 +9023,15 @@
     "sub_category": "汽機車",
     "location": "高雄市鳳山區建國路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-16T16:47:33.907002"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T16:59:32.963727"
       }
     ]
   },
@@ -9069,7 +9073,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區十全一路",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9082,6 +9086,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T16:54:33.960531"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T16:59:32.963727"
       }
     ]
   },
@@ -9186,6 +9194,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T16:58:33.037380"
+      }
+    ]
+  },
+  "e5a203a38aba68b8edb4895f09f629dd": {
+    "time": "2026/09/16 16:58:25",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區同盟一路",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T16:59:32.963727"
+      }
+    ]
+  },
+  "79a4e7bfbf9acb30d6edbd89ad697495": {
+    "time": "2026/09/16 16:56:05",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "台中市南屯區",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-16T16:59:32.963727"
       }
     ]
   }
