@@ -10345,7 +10345,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10362,6 +10362,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T18:40:33.442068"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T18:51:33.626608"
       }
     ]
   },
@@ -10719,11 +10723,15 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T18:50:33.555649"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T18:51:33.626608"
       }
     ]
   }
