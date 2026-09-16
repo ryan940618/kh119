@@ -15359,7 +15359,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -15372,6 +15372,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T07:22:33.732949"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T07:31:33.738062"
       }
     ]
   },
@@ -15480,6 +15484,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T07:28:33.767625"
+      }
+    ]
+  },
+  "6d7cfad5fa7856b66e31bc37e1563e8a": {
+    "time": "2026/09/17 07:30:54",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區鼎金後路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T07:31:33.738062"
       }
     ]
   }
