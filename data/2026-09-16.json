@@ -8029,7 +8029,7 @@
     "sub_category": "其他",
     "location": "高雄市桃源區",
     "units": "桃源分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -8054,6 +8054,10 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T15:30:33.319209"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T15:31:33.354863"
       }
     ]
   },
@@ -8089,7 +8093,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8106,6 +8110,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T15:25:33.271161"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T15:31:33.354863"
       }
     ]
   },
@@ -8195,7 +8203,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8204,6 +8212,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T15:27:33.319209"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T15:31:33.354863"
       }
     ]
   },
@@ -8254,6 +8266,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T15:29:33.314925"
+      }
+    ]
+  },
+  "872b90f6378b0dff217e699b184772a6": {
+    "time": "2026/09/16 15:30:58",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前金區中山二路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T15:31:33.354863"
       }
     ]
   }
