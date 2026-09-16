@@ -10241,7 +10241,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10258,6 +10258,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T18:21:33.552520"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T18:33:33.724214"
       }
     ]
   },
@@ -10297,7 +10301,7 @@
     "sub_category": "創傷",
     "location": "高雄市路竹區大智路",
     "units": "阿蓮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10310,6 +10314,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T18:23:33.449534"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T18:33:33.724214"
       }
     ]
   },
@@ -10431,7 +10439,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區崇德路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10440,6 +10448,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T18:27:33.424821"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T18:33:33.724214"
       }
     ]
   },
@@ -10476,6 +10488,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T18:31:33.531643"
+      }
+    ]
+  },
+  "668d61b52603fb6d71698a84f7762253": {
+    "time": "2026/09/16 18:32:04",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T18:33:33.724214"
       }
     ]
   }
