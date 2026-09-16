@@ -15603,7 +15603,7 @@
     "sub_category": "創傷",
     "location": "高雄市旗山區民權一街",
     "units": "旗山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -15616,6 +15616,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T07:46:33.750060"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T07:59:32.828152"
       }
     ]
   },
@@ -15625,7 +15629,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區福誠二街",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -15642,6 +15646,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T07:52:33.871539"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T07:59:32.828152"
       }
     ]
   },
@@ -15709,7 +15717,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -15718,6 +15726,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T07:53:33.832958"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T07:59:32.828152"
       }
     ]
   },
@@ -15727,11 +15739,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區中山東路",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T07:56:32.847580"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T07:59:32.828152"
       }
     ]
   },
@@ -15746,6 +15762,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T07:58:32.972830"
+      }
+    ]
+  },
+  "355c5829efc9b309f7e8818d565cf498": {
+    "time": "2026/09/17 07:58:02",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T07:59:32.828152"
       }
     ]
   }
