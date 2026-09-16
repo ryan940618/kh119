@@ -7787,7 +7787,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -7800,6 +7800,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T15:06:33.415684"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T15:14:33.233649"
       }
     ]
   },
@@ -7831,7 +7835,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區瑞南街",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7844,6 +7848,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T15:02:33.271215"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T15:14:33.233649"
       }
     ]
   },
@@ -8026,6 +8034,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T15:12:33.257288"
+      }
+    ]
+  },
+  "38872472d2a28ed42a17a4770a2d8495": {
+    "time": "2026/09/16 15:13:59",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市湖內區",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T15:14:33.233649"
       }
     ]
   }
