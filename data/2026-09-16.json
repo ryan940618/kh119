@@ -6009,7 +6009,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6022,6 +6022,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T12:11:33.339586"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T12:22:33.277083"
       }
     ]
   },
@@ -6133,11 +6137,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T12:21:33.358000"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T12:22:33.277083"
       }
     ]
   },
@@ -6147,11 +6155,15 @@
     "sub_category": "路倒",
     "location": "高雄市大樹區興田路",
     "units": "大樹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T12:21:33.358000"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T12:22:33.277083"
       }
     ]
   },
