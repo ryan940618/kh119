@@ -15551,7 +15551,7 @@
     "sub_category": "路倒",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -15564,6 +15564,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T07:42:33.843341"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T07:53:33.832958"
       }
     ]
   },
@@ -15697,11 +15701,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T07:50:33.786086"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T07:53:33.832958"
       }
     ]
   }
