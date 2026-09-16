@@ -8561,7 +8561,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8574,6 +8574,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T16:16:33.579026"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T16:24:33.754617"
       }
     ]
   },
@@ -8719,7 +8723,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8728,6 +8732,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T16:18:34.439479"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T16:24:33.754617"
       }
     ]
   },
@@ -8764,6 +8772,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T16:23:33.639626"
+      }
+    ]
+  },
+  "b7e958e602f05ee436b3098e0f63f5db": {
+    "time": "2026/09/16 16:23:19",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區三隆路",
+    "units": "大寮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T16:24:33.754617"
       }
     ]
   }
