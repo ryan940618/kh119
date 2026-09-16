@@ -13491,7 +13491,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -13508,6 +13508,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T01:13:33.182838"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T01:17:33.232355"
       }
     ]
   },
@@ -13535,11 +13539,15 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T01:15:33.170597"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T01:17:33.232355"
       }
     ]
   }
