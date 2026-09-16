@@ -11285,11 +11285,15 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T19:30:33.009735"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T19:31:32.857553"
       }
     ]
   },
@@ -11304,6 +11308,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T19:30:33.009735"
+      }
+    ]
+  },
+  "877271d165aa9448075657a7bbec3a58": {
+    "time": "2026/09/16 19:30:33",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T19:31:32.857553"
+      }
+    ]
+  },
+  "4842a766d78a00c1981c628efbaf7195": {
+    "time": "2026/09/16 19:29:32",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區鳳甲路",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T19:31:32.857553"
       }
     ]
   }
