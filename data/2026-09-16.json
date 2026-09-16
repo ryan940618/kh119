@@ -9591,7 +9591,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9608,6 +9608,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T17:33:33.316396"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T17:38:33.310207"
       }
     ]
   },
@@ -9639,7 +9643,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區同盟一路",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9652,6 +9656,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T17:27:33.244605"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T17:38:33.310207"
       }
     ]
   },
@@ -9745,7 +9753,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "小港分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9754,6 +9762,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T17:32:33.252013"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T17:38:33.310207"
       }
     ]
   },
@@ -9800,6 +9812,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T17:36:33.279132"
+      }
+    ]
+  },
+  "e4174f99b3c8fd2a5856a5664661640d": {
+    "time": "2026/09/16 17:37:38",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區大裕路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T17:38:33.310207"
       }
     ]
   }
