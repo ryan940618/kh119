@@ -15443,7 +15443,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區寶溪北街",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -15456,6 +15456,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T07:28:33.767625"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T07:38:33.838306"
       }
     ]
   },
@@ -15501,7 +15505,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區鼎金後路",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -15510,6 +15514,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T07:33:33.673985"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T07:38:33.838306"
       }
     ]
   },
@@ -15528,6 +15536,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T07:34:33.769227"
+      }
+    ]
+  },
+  "790ad3bc2f409232463530f5446466c4": {
+    "time": "2026/09/17 07:37:12",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區鄭和南路",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T07:38:33.838306"
       }
     ]
   }
