@@ -9155,7 +9155,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9168,6 +9168,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T17:02:33.000658"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T17:19:33.046983"
       }
     ]
   },
@@ -9555,11 +9559,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T17:18:33.252384"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T17:19:33.046983"
       }
     ]
   }
