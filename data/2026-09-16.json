@@ -12157,11 +12157,15 @@
     "sub_category": "其他",
     "location": "高雄市苓雅區澄清路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-16T21:22:33.670036"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T21:34:33.715767"
       }
     ]
   },
@@ -12198,6 +12202,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T21:29:33.902558"
+      }
+    ]
+  },
+  "c2b919e1707770eb3008b01e26dc614a": {
+    "time": "2026/09/16 21:33:33",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T21:34:33.715767"
       }
     ]
   }
