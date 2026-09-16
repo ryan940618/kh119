@@ -10779,7 +10779,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10792,6 +10792,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T18:57:33.678605"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T19:06:33.757382"
       }
     ]
   },
@@ -10885,7 +10889,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10894,6 +10898,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T19:02:33.716996"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T19:06:33.757382"
       }
     ]
   },
@@ -10958,6 +10966,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T19:04:33.764994"
+      }
+    ]
+  },
+  "51673ff74d285d0431373fa1b98ea16a": {
+    "time": "2026/09/16 19:05:27",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T19:06:33.757382"
+      }
+    ]
+  },
+  "e79ec3026e4fb70a8b31002e130c94d0": {
+    "time": "2026/09/16 19:05:17",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區中華二路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T19:06:33.757382"
       }
     ]
   }
