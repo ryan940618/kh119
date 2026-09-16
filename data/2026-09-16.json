@@ -4887,7 +4887,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4904,6 +4904,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T10:51:33.497591"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T10:57:33.722838"
       }
     ]
   },
@@ -5045,11 +5049,15 @@
     "sub_category": "創傷",
     "location": "高雄市左營區榮總路",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T10:55:33.508769"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T10:57:33.722838"
       }
     ]
   },
@@ -5059,11 +5067,15 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區四維四路",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T10:55:33.508769"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T10:57:33.722838"
       }
     ]
   },
@@ -5073,11 +5085,29 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區光華路",
     "units": "和發分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T10:56:33.575226"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T10:57:33.722838"
+      }
+    ]
+  },
+  "58d119f765aedc03d7c2409e6b03aa5d": {
+    "time": "2026/09/16 10:57:24",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市梓官區信義路",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T10:57:33.722838"
       }
     ]
   }
