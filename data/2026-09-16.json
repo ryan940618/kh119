@@ -10811,7 +10811,7 @@
     "sub_category": "路倒",
     "location": "高雄市大寮區鳳林三路",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10820,6 +10820,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T18:57:33.678605"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T19:01:33.758042"
       }
     ]
   },
@@ -10829,11 +10833,57 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區仁愛路",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T18:58:33.848614"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T19:01:33.758042"
+      }
+    ]
+  },
+  "eb70a5842cc0e54d858f226612483efb": {
+    "time": "2026/09/16 19:00:26",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區五甲一路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T19:01:33.758042"
+      }
+    ]
+  },
+  "57c5b0fe0273ddbd742d9e5982a195bf": {
+    "time": "2026/09/16 19:00:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T19:01:33.758042"
+      }
+    ]
+  },
+  "a2217172a91c7664f1737f040f09bdde": {
+    "time": "2026/09/16 18:59:01",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區五甲一路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T19:01:33.758042"
       }
     ]
   }
