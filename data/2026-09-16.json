@@ -6789,7 +6789,7 @@
     "sub_category": "急病",
     "location": "高雄市內門區",
     "units": "內門分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -6802,6 +6802,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T13:25:33.658163"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T13:31:33.804671"
       }
     ]
   },
@@ -6917,11 +6921,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T13:28:33.664337"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T13:31:33.804671"
       }
     ]
   },
