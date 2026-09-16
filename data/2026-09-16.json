@@ -6187,7 +6187,7 @@
     "sub_category": "路倒",
     "location": "高雄市大樹區興田路",
     "units": "大樹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6204,6 +6204,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T12:39:33.240587"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T12:55:33.353578"
       }
     ]
   },
@@ -6571,7 +6575,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區勝利路",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6580,6 +6584,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T12:50:33.327473"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T12:55:33.353578"
       }
     ]
   },
@@ -6594,6 +6602,20 @@
       {
         "status": "已受理",
         "timestamp": "2026-09-16T12:48:33.329697"
+      }
+    ]
+  },
+  "67da811fc112e7a4f2680290848cfe2d": {
+    "time": "2026/09/16 12:54:26",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區翠屏路",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T12:55:33.353578"
       }
     ]
   }
