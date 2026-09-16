@@ -12709,7 +12709,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區二聖路",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12718,6 +12718,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T22:33:33.264345"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T22:48:33.365833"
       }
     ]
   },
@@ -12727,7 +12731,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區深中路",
     "units": "燕巢分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12736,6 +12740,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T22:38:33.323497"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T22:48:33.365833"
       }
     ]
   },
@@ -12789,7 +12797,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12798,6 +12806,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T22:44:33.307108"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T22:48:33.365833"
       }
     ]
   },
@@ -12807,7 +12819,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區五甲三路",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12816,6 +12828,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T22:44:33.307108"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T22:48:33.365833"
       }
     ]
   },
@@ -12825,11 +12841,15 @@
     "sub_category": "創傷",
     "location": "高雄市三民區鼎泰街",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-16T22:43:33.361081"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T22:48:33.365833"
       }
     ]
   },
@@ -12839,11 +12859,15 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T22:45:33.273621"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T22:48:33.365833"
       }
     ]
   },
@@ -12867,11 +12891,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T22:47:33.276061"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T22:48:33.365833"
+      }
+    ]
+  },
+  "c2e86fe13b5c572f1107fe898d9ae024": {
+    "time": "2026/09/16 22:46:52",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T22:48:33.365833"
       }
     ]
   }
