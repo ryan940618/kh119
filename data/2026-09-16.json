@@ -4507,7 +4507,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區高楠十街",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4520,6 +4520,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T10:21:33.400000"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T10:35:33.394557"
       }
     ]
   },
@@ -4781,11 +4785,29 @@
     "sub_category": "車禍",
     "location": "高雄市三民區鼎安路",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T10:34:33.452209"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T10:35:33.394557"
+      }
+    ]
+  },
+  "a9f569ab02e33b83aad21420de78342e": {
+    "time": "2026/09/16 10:34:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T10:35:33.394557"
       }
     ]
   }
