@@ -6903,7 +6903,7 @@
     "sub_category": "急病",
     "location": "高雄市田寮區",
     "units": "田寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6912,6 +6912,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T13:26:33.749265"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T13:32:33.779906"
       }
     ]
   },
@@ -6921,7 +6925,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6930,6 +6934,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T13:31:33.804671"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T13:32:33.779906"
       }
     ]
   },
@@ -6939,11 +6947,15 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T13:30:33.765395"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T13:32:33.779906"
       }
     ]
   }
