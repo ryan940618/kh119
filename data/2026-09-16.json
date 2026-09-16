@@ -11839,7 +11839,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11848,6 +11848,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T20:41:33.699535"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T20:48:33.831885"
       }
     ]
   },
@@ -11870,6 +11874,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T20:45:33.908114"
+      }
+    ]
+  },
+  "0ca01e35ac76e2564ce3b1ccf0ac7cd4": {
+    "time": "2026/09/16 20:47:49",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區義永路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T20:48:33.831885"
       }
     ]
   }
