@@ -12349,7 +12349,7 @@
     "sub_category": "車禍",
     "location": "高雄市大社區翠屏路",
     "units": "大社分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12362,6 +12362,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T21:53:33.019932"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T21:57:32.974336"
       }
     ]
   },
@@ -12411,11 +12415,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T21:56:33.190690"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T21:57:32.974336"
       }
     ]
   }
