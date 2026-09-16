@@ -3881,7 +3881,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -3890,6 +3890,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T07:59:33.941883"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T08:01:33.957251"
       }
     ]
   },
@@ -3939,7 +3943,7 @@
     "sub_category": "車禍",
     "location": "高雄市彌陀區中正東路",
     "units": "彌陀分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3948,6 +3952,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T07:58:34.163840"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T08:01:33.957251"
       }
     ]
   },
@@ -4025,11 +4033,29 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區美庄路",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T08:00:34.042343"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T08:01:33.957251"
+      }
+    ]
+  },
+  "cc838f3b3315c260f2a9092dc3fd1085": {
+    "time": "2026/09/16 08:00:48",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區會結二路",
+    "units": "和發分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T08:01:33.957251"
       }
     ]
   }
