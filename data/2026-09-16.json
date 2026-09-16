@@ -5711,7 +5711,7 @@
     "sub_category": "車禍",
     "location": "高雄市六龜區",
     "units": "寶來分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5724,6 +5724,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T11:43:32.931995"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T11:48:32.975741"
       }
     ]
   },
@@ -5733,7 +5737,7 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區四維三路",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5746,6 +5750,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T11:38:33.110469"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T11:48:32.975741"
       }
     ]
   },
@@ -5822,6 +5830,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T11:46:32.961593"
+      }
+    ]
+  },
+  "646c7df28ed7c2642adf1611f334b452": {
+    "time": "2026/09/16 11:47:58",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區建國二路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T11:48:32.975741"
       }
     ]
   }
