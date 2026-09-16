@@ -8029,7 +8029,7 @@
     "sub_category": "其他",
     "location": "高雄市桃源區",
     "units": "桃源分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8058,6 +8058,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T15:31:33.354863"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T15:42:33.392287"
       }
     ]
   },
@@ -8333,11 +8337,29 @@
     "sub_category": "車禍",
     "location": "高雄市三民區澄清路",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-16T15:36:33.310767"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T15:42:33.392287"
+      }
+    ]
+  },
+  "0f768ee03be5083f8f810afe2ce58200": {
+    "time": "2026/09/16 15:41:29",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市彌陀區",
+    "units": "彌陀分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T15:42:33.392287"
       }
     ]
   }
