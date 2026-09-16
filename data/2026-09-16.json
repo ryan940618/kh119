@@ -10833,7 +10833,7 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區仁愛路",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10842,6 +10842,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T19:01:33.758042"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T19:02:33.716996"
       }
     ]
   },
@@ -10865,11 +10869,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T19:01:33.758042"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T19:02:33.716996"
       }
     ]
   },
@@ -10884,6 +10892,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T19:01:33.758042"
+      }
+    ]
+  },
+  "67dbefdf4ab3dc61a3b34f7a359bfbd1": {
+    "time": "2026/09/16 19:01:25",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市路竹區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T19:02:33.716996"
       }
     ]
   }
