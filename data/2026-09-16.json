@@ -10537,7 +10537,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10554,6 +10554,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T18:48:33.584891"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T18:58:33.848614"
       }
     ]
   },
@@ -10689,7 +10693,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10706,6 +10710,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T18:55:33.770890"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T18:58:33.848614"
       }
     ]
   },
@@ -10812,6 +10820,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T18:57:33.678605"
+      }
+    ]
+  },
+  "2b33a822a7cba5c9812041d41a68349f": {
+    "time": "2026/09/16 18:57:34",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市大寮區仁愛路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T18:58:33.848614"
       }
     ]
   }
