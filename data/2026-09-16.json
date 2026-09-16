@@ -6241,7 +6241,7 @@
     "sub_category": "車禍",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6250,6 +6250,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T12:32:33.553645"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T12:33:33.465690"
       }
     ]
   },
@@ -6273,11 +6277,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T12:30:33.298921"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T12:33:33.465690"
       }
     ]
   },
@@ -6287,11 +6295,15 @@
     "sub_category": "車禍",
     "location": "高雄市彌陀區中正南路",
     "units": "彌陀分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-16T12:30:33.298921"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T12:33:33.465690"
       }
     ]
   },
@@ -6301,11 +6313,15 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區鳳林三路",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T12:31:33.202880"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T12:33:33.465690"
       }
     ]
   },
@@ -6320,6 +6336,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T12:32:33.553645"
+      }
+    ]
+  },
+  "3adff09c377c8789e1d3b80407264504": {
+    "time": "2026/09/16 12:32:59",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T12:33:33.465690"
       }
     ]
   }
