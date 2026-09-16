@@ -9991,7 +9991,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10004,6 +10004,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T17:53:33.215600"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T18:18:33.483138"
       }
     ]
   },
@@ -10143,7 +10147,7 @@
     "sub_category": "創傷",
     "location": "高雄市小港區松美路",
     "units": "高桂分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10160,6 +10164,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T18:12:33.422946"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T18:18:33.483138"
       }
     ]
   },
@@ -10320,6 +10328,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T18:17:33.491426"
+      }
+    ]
+  },
+  "e30949bad5f0abb669030deded7525cd": {
+    "time": "2026/09/16 18:16:39",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市楠梓區廣昌街",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T18:18:33.483138"
       }
     ]
   }
