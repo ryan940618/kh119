@@ -7801,7 +7801,7 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7810,6 +7810,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T15:01:33.436479"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T15:03:33.205836"
       }
     ]
   },
@@ -7873,11 +7877,15 @@
     "sub_category": "車禍",
     "location": "高雄市左營區文慈路",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T15:01:33.436479"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T15:03:33.205836"
       }
     ]
   },
@@ -7887,11 +7895,15 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區華興街",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T15:01:33.436479"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T15:03:33.205836"
       }
     ]
   },
@@ -7906,6 +7918,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T15:01:33.436479"
+      }
+    ]
+  },
+  "6ebd0bb317e03f5cc45603e27da1adb4": {
+    "time": "2026/09/16 15:03:02",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區武營路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T15:03:33.205836"
       }
     ]
   }
