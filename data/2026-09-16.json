@@ -9719,7 +9719,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9728,6 +9728,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T17:31:33.259036"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T17:36:33.279132"
       }
     ]
   },
@@ -9778,6 +9782,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T17:35:33.110848"
+      }
+    ]
+  },
+  "0d896bc7f255d51c950f790a7f5551af": {
+    "time": "2026/09/16 17:35:25",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市大寮區大智街",
+    "units": "和發分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T17:36:33.279132"
       }
     ]
   }
