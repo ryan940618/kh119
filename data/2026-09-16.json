@@ -8205,7 +8205,7 @@
     "sub_category": "路倒",
     "location": "高雄市左營區果峰街",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8214,6 +8214,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T15:25:33.271161"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T16:00:33.443500"
       }
     ]
   },
@@ -8367,7 +8371,7 @@
     "sub_category": "急病",
     "location": "高雄市彌陀區",
     "units": "彌陀分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -8380,6 +8384,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T15:49:33.396132"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T16:00:33.443500"
       }
     ]
   },
@@ -8432,6 +8440,20 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T15:59:33.473358"
+      }
+    ]
+  },
+  "f9e6dc78539741abad10509d27e20ab8": {
+    "time": "2026/09/16 15:59:45",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T16:00:33.443500"
       }
     ]
   }
