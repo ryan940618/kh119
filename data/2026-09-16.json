@@ -7181,7 +7181,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7198,6 +7198,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T14:01:33.980081"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T14:10:33.073427"
       }
     ]
   },
@@ -7389,11 +7393,29 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區龍德路",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T14:09:33.026274"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T14:10:33.073427"
+      }
+    ]
+  },
+  "d3504480869b8f8e244d3cf1eca7d0d9": {
+    "time": "2026/09/16 14:09:47",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市燕巢區",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T14:10:33.073427"
       }
     ]
   }
