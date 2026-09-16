@@ -5913,7 +5913,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5930,6 +5930,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T12:09:33.223364"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T12:21:33.358000"
       }
     ]
   },
@@ -6075,7 +6079,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區經武路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6084,6 +6088,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T12:16:33.322528"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T12:21:33.358000"
       }
     ]
   },
@@ -6093,11 +6101,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區三商街",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T12:20:33.273828"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T12:21:33.358000"
       }
     ]
   },
@@ -6112,6 +6124,48 @@
       {
         "status": "已受理",
         "timestamp": "2026-09-16T12:20:33.273828"
+      }
+    ]
+  },
+  "35184ff948f23db271edda0e6eb7cec8": {
+    "time": "2026/09/16 12:21:03",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T12:21:33.358000"
+      }
+    ]
+  },
+  "66df43bdc2053cf452643992289b2c56": {
+    "time": "2026/09/16 12:20:32",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市大樹區興田路",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T12:21:33.358000"
+      }
+    ]
+  },
+  "44c3b541f33219f82570396e24e0d9f0": {
+    "time": "2026/09/16 12:20:42",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區南華路",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T12:21:33.358000"
       }
     ]
   }
