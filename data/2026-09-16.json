@@ -10061,7 +10061,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區中華五路",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10078,6 +10078,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T18:10:33.441924"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T18:17:33.491426"
       }
     ]
   },
@@ -10302,6 +10306,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T18:16:33.507052"
+      }
+    ]
+  },
+  "3d7a8751bbd5a5eb233dfd63cc0dce80": {
+    "time": "2026/09/16 18:16:39",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T18:17:33.491426"
       }
     ]
   }
