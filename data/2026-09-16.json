@@ -7559,7 +7559,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區國泰路",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7576,6 +7576,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T14:26:33.045676"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T14:30:33.189510"
       }
     ]
   },
@@ -7612,6 +7616,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T14:29:33.083066"
+      }
+    ]
+  },
+  "4a2c20ff1f9a3f5ced42b3ab4be6e3cc": {
+    "time": "2026/09/16 14:29:27",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T14:30:33.189510"
       }
     ]
   }
