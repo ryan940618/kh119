@@ -9969,7 +9969,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9978,6 +9978,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T17:53:33.215600"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T17:55:33.300770"
       }
     ]
   },
@@ -9996,6 +10000,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T17:53:33.215600"
+      }
+    ]
+  },
+  "d8eda6c06cc96891afa7b056c46eb790": {
+    "time": "2026/09/16 17:54:40",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市前鎮區中華五路",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T17:55:33.300770"
       }
     ]
   }
