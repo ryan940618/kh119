@@ -7875,7 +7875,7 @@
     "sub_category": "路倒",
     "location": "高雄市苓雅區自強三路",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7888,6 +7888,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T15:07:33.224832"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T15:15:33.315410"
       }
     ]
   },
@@ -7897,7 +7901,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區文慈路",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7914,6 +7918,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T15:11:33.298905"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T15:15:33.315410"
       }
     ]
   },
@@ -8029,11 +8037,15 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T15:12:33.257288"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T15:15:33.315410"
       }
     ]
   },
@@ -8043,11 +8055,15 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T15:14:33.233649"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T15:15:33.315410"
       }
     ]
   }
