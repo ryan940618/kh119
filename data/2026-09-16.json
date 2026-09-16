@@ -5429,7 +5429,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "大樹分隊,旗山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5446,6 +5446,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T11:36:34.042759"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T11:46:32.961593"
       }
     ]
   },
@@ -5455,7 +5459,7 @@
     "sub_category": "其他",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5472,6 +5476,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T11:38:33.110469"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T11:46:32.961593"
       }
     ]
   },
@@ -5792,6 +5800,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T11:41:32.934544"
+      }
+    ]
+  },
+  "069a409526c641841e50195bdf1d6bb6": {
+    "time": "2026/09/16 11:45:32",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市前金區自強二路",
+    "units": "前金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T11:46:32.961593"
       }
     ]
   }
