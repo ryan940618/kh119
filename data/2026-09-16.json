@@ -5025,7 +5025,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -5034,6 +5034,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T10:54:33.575693"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T11:09:33.620867"
       }
     ]
   },
@@ -5245,11 +5249,29 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T11:08:33.859744"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T11:09:33.620867"
+      }
+    ]
+  },
+  "dffa54e42cade5fc3a73d3285c81f206": {
+    "time": "2026/09/16 11:08:45",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市內門區大學路",
+    "units": "內門分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T11:09:33.620867"
       }
     ]
   }
