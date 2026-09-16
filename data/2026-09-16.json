@@ -6103,7 +6103,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區經武路",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6120,6 +6120,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T12:34:33.249998"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T12:41:33.198777"
       }
     ]
   },
@@ -6430,6 +6434,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T12:40:33.248091"
+      }
+    ]
+  },
+  "78da73b047176e2998b150e42d24535d": {
+    "time": "2026/09/16 12:40:07",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T12:41:33.198777"
       }
     ]
   }
