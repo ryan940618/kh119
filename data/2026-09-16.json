@@ -7331,7 +7331,7 @@
     "sub_category": "急病",
     "location": "高雄市杉林區",
     "units": "杉林分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7340,6 +7340,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T14:04:33.229061"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T14:07:33.123160"
       }
     ]
   },
@@ -7354,6 +7358,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T14:06:32.979058"
+      }
+    ]
+  },
+  "2ec77d16952a1d47292f81de70ab8435": {
+    "time": "2026/09/16 14:06:15",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區大享路",
+    "units": "鼎金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T14:07:33.123160"
       }
     ]
   }
