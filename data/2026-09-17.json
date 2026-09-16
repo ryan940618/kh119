@@ -15043,7 +15043,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區鳳林三路",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -15052,6 +15052,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T06:44:33.221654"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T06:47:33.348070"
       }
     ]
   },
@@ -15061,7 +15065,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區澄清路和澄明街",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -15070,6 +15074,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T06:42:33.267496"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T06:47:33.348070"
+      }
+    ]
+  },
+  "55eee26787fa251ca9a1a25151b7956b": {
+    "time": "2026/09/17 06:47:00",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市六龜區太平路",
+    "units": "六龜分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T06:47:33.348070"
       }
     ]
   }
