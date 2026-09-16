@@ -6771,7 +6771,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6788,6 +6788,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T13:33:34.006991"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T13:34:33.800274"
       }
     ]
   },
@@ -6968,6 +6972,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T13:32:33.779906"
+      }
+    ]
+  },
+  "a89a7afa76ba5c618886996ba9c33771": {
+    "time": "2026/09/16 13:33:21",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區建國一路",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T13:34:33.800274"
       }
     ]
   }
