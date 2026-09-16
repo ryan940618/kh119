@@ -12135,7 +12135,7 @@
     "sub_category": "其他",
     "location": "高雄市六龜區",
     "units": "六龜分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -12144,6 +12144,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T21:26:33.771642"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T21:29:33.902558"
       }
     ]
   },
@@ -12167,11 +12171,29 @@
     "sub_category": "路倒",
     "location": "高雄市左營區富國路",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T21:28:33.712021"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T21:29:33.902558"
+      }
+    ]
+  },
+  "0f3d01cd3f4f31dacf1b83a48c60b436": {
+    "time": "2026/09/16 21:28:46",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前金區",
+    "units": "前金分隊,新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T21:29:33.902558"
       }
     ]
   }
