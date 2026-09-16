@@ -7455,7 +7455,7 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7472,6 +7472,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T14:26:33.045676"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T14:33:33.088343"
       }
     ]
   },
@@ -7481,7 +7485,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區大豐街",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7498,6 +7502,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T14:27:33.085265"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T14:33:33.088343"
       }
     ]
   },
@@ -7619,11 +7627,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T14:29:33.083066"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T14:33:33.088343"
       }
     ]
   },
