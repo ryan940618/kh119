@@ -5701,7 +5701,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -5710,6 +5710,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T11:38:33.110469"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T12:06:33.098459"
       }
     ]
   },
@@ -5805,7 +5809,7 @@
     "sub_category": "車禍",
     "location": "高雄市旗山區",
     "units": "杉林分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5822,6 +5826,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T11:53:33.095090"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T12:06:33.098459"
       }
     ]
   },
@@ -5990,6 +5998,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T12:03:33.045617"
+      }
+    ]
+  },
+  "f52e1d1e1d31ba0120cf3338dd5e8914": {
+    "time": "2026/09/16 12:05:28",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大社區",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T12:06:33.098459"
       }
     ]
   }
