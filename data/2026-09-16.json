@@ -12267,7 +12267,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區海洋一路",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12276,6 +12276,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T21:39:33.870696"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T21:45:33.944091"
       }
     ]
   },
@@ -12285,11 +12289,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T21:43:33.948811"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T21:45:33.944091"
       }
     ]
   },
@@ -12304,6 +12312,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T21:44:33.908923"
+      }
+    ]
+  },
+  "8972fface7d8811e7fadebf4d1472c04": {
+    "time": "2026/09/16 21:43:12",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大社區翠屏路",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T21:45:33.944091"
       }
     ]
   }
