@@ -9535,7 +9535,7 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區內坑路",
     "units": "大寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9548,6 +9548,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T17:22:33.028536"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T17:28:33.228590"
       }
     ]
   },
@@ -9655,11 +9659,43 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T17:26:33.119866"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T17:28:33.228590"
+      }
+    ]
+  },
+  "80b22e0795f51916dfdba744667531ab": {
+    "time": "2026/09/16 17:27:48",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區瑞和街",
+    "units": "瑞隆分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T17:28:33.228590"
+      }
+    ]
+  },
+  "cc1139611537d7bd43facaadeaa5a60a": {
+    "time": "2026/09/16 17:27:41",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T17:28:33.228590"
       }
     ]
   }
