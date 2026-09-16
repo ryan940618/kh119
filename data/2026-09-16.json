@@ -5325,7 +5325,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區五甲一路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5334,6 +5334,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T11:14:34.071569"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T11:24:33.897426"
       }
     ]
   },
@@ -5445,7 +5449,7 @@
     "sub_category": "車禍",
     "location": "高雄市新興區民族路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5454,6 +5458,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T11:21:33.876555"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T11:24:33.897426"
       }
     ]
   },
@@ -5481,11 +5489,29 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T11:23:33.731391"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T11:24:33.897426"
+      }
+    ]
+  },
+  "d5d538b6658419952057b7ea7abf5a2f": {
+    "time": "2026/09/16 11:23:22",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區正興路和建和街",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T11:24:33.897426"
       }
     ]
   }
