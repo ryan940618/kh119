@@ -9113,7 +9113,7 @@
     "sub_category": "其他",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9122,6 +9122,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T16:53:33.895498"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T17:00:33.110661"
       }
     ]
   },
@@ -9222,6 +9226,34 @@
       {
         "status": "已受理",
         "timestamp": "2026-09-16T16:59:32.963727"
+      }
+    ]
+  },
+  "1344d0be8c4b79bc385f1d290aecd8ce": {
+    "time": "2026/09/16 16:59:27",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "阿蓮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T17:00:33.110661"
+      }
+    ]
+  },
+  "8c041a07796f0bde46dd416afa1dfd8b": {
+    "time": "2026/09/16 16:46:29",
+    "category": "火災",
+    "sub_category": "汽機車",
+    "location": "高雄市鳳山區文濱路",
+    "units": "鳳山分隊",
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T17:00:33.110661"
       }
     ]
   }
