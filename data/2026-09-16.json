@@ -8435,7 +8435,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區鳳林三路",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8452,6 +8452,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T15:59:33.473358"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T16:10:33.451843"
       }
     ]
   },
@@ -8497,7 +8501,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8506,6 +8510,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T16:06:33.463964"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T16:10:33.451843"
       }
     ]
   },
@@ -8555,11 +8563,15 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區翁園路",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T16:07:33.489582"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T16:10:33.451843"
       }
     ]
   },
@@ -8574,6 +8586,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T16:07:33.489582"
+      }
+    ]
+  },
+  "cb4c919a480cda30793e6222fba70140": {
+    "time": "2026/09/16 16:09:09",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區三多二路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T16:10:33.451843"
       }
     ]
   }
