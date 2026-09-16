@@ -9461,7 +9461,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區公正路",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9478,6 +9478,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T17:15:33.156357"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T17:21:33.092503"
       }
     ]
   },
@@ -9568,6 +9572,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T17:19:33.046983"
+      }
+    ]
+  },
+  "d9452555235a38810c6147c7d9e0df4e": {
+    "time": "2026/09/16 17:20:47",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T17:21:33.092503"
       }
     ]
   }
