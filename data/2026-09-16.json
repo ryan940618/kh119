@@ -6969,7 +6969,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6986,6 +6986,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T13:53:33.945172"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T13:57:33.917953"
       }
     ]
   },
@@ -7051,7 +7055,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區鼎中路和鼎和街",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7068,6 +7072,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T13:47:33.811894"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T13:57:33.917953"
       }
     ]
   },
@@ -7091,7 +7099,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區自由一路和綏遠一街",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -7104,6 +7112,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T13:53:33.945172"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T13:57:33.917953"
       }
     ]
   },
@@ -7113,7 +7125,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區力行路",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7126,6 +7138,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T13:44:33.721901"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T13:57:33.917953"
       }
     ]
   },
@@ -7238,6 +7254,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T13:54:33.916547"
+      }
+    ]
+  },
+  "751951028a222300bdefa106c0ddc4e4": {
+    "time": "2026/09/16 13:56:01",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T13:57:33.917953"
       }
     ]
   }
