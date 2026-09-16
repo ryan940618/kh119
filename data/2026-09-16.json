@@ -12287,7 +12287,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區海洋一路",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12304,6 +12304,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T21:56:33.190690"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T22:13:33.207868"
       }
     ]
   },
@@ -12474,6 +12478,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T22:06:33.064709"
+      }
+    ]
+  },
+  "e9206878c784f4054ed2803c040e2836": {
+    "time": "2026/09/16 22:12:30",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區河北二路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T22:13:33.207868"
       }
     ]
   }
