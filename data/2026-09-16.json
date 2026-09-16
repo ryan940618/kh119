@@ -4481,7 +4481,7 @@
     "sub_category": "創傷",
     "location": "高雄市路竹區國昌路",
     "units": "路竹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4494,6 +4494,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T10:24:33.355500"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T10:34:33.452209"
       }
     ]
   },
@@ -4547,7 +4551,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -4560,6 +4564,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T10:23:33.486328"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T10:34:33.452209"
       }
     ]
   },
@@ -4764,6 +4772,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T10:31:33.381018"
+      }
+    ]
+  },
+  "3b3e27820fe09fb6b402ffabca14db58": {
+    "time": "2026/09/16 10:33:38",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區鼎安路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T10:34:33.452209"
       }
     ]
   }
