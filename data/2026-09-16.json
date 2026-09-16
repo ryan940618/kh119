@@ -9801,7 +9801,7 @@
     "sub_category": "動物救援",
     "location": "高雄市杉林區山仙路",
     "units": "杉林分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9810,6 +9810,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T17:35:33.110848"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T17:43:33.260766"
       }
     ]
   },
@@ -9846,6 +9850,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T17:42:33.560360"
+      }
+    ]
+  },
+  "b047dbb0b8e678e55c3586928df4413c": {
+    "time": "2026/09/16 17:42:52",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T17:43:33.260766"
       }
     ]
   }
