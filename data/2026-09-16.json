@@ -11761,7 +11761,7 @@
     "sub_category": "創傷",
     "location": "高雄市鼓山區蓮海路",
     "units": "鼓山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11778,6 +11778,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T20:40:33.570775"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T20:49:33.542102"
       }
     ]
   },
@@ -11817,7 +11821,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區本舘路",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11830,6 +11834,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T20:38:33.474437"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T20:49:33.542102"
       }
     ]
   },
@@ -11883,11 +11891,29 @@
     "sub_category": "車禍",
     "location": "高雄市三民區義永路",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T20:48:33.831885"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T20:49:33.542102"
+      }
+    ]
+  },
+  "df746c38b9c467171cd325debcab0add": {
+    "time": "2026/09/16 20:47:55",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T20:49:33.542102"
       }
     ]
   }
