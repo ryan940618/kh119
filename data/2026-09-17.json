@@ -14831,7 +14831,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -14840,6 +14840,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T06:12:33.144113"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T06:25:33.134315"
       }
     ]
   },
@@ -14933,7 +14937,7 @@
     "sub_category": "創傷",
     "location": "高雄市岡山區前峰路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "",
@@ -14946,6 +14950,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T06:22:33.157978"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T06:25:33.134315"
       }
     ]
   },
@@ -14964,6 +14972,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T06:23:33.197721"
+      }
+    ]
+  },
+  "84409908fd2a14e02eef683518492ec6": {
+    "time": "2026/09/17 06:24:26",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T06:25:33.134315"
       }
     ]
   }
