@@ -6395,7 +6395,7 @@
     "sub_category": "其他",
     "location": "高雄市鹽埕區",
     "units": "",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6408,6 +6408,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T12:39:33.240587"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T13:10:33.413086"
       }
     ]
   },
@@ -6507,7 +6511,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -6520,6 +6524,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T13:03:33.401913"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T13:10:33.413086"
       }
     ]
   },
@@ -6683,7 +6691,7 @@
     "sub_category": "創傷",
     "location": "高雄市岡山區岡山北路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6692,6 +6700,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T13:07:33.431619"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T13:10:33.413086"
+      }
+    ]
+  },
+  "9f404f1ed1aeae97cedca1677a0b3669": {
+    "time": "2026/09/16 13:09:54",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區五常街",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T13:10:33.413086"
       }
     ]
   }
