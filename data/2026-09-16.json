@@ -6179,7 +6179,7 @@
     "sub_category": "路倒",
     "location": "高雄市大樹區興田路",
     "units": "大樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6188,6 +6188,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T12:22:33.277083"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T12:31:33.202880"
       }
     ]
   },
@@ -6197,7 +6201,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區南華路",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -6206,6 +6210,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T12:27:33.301628"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T12:31:33.202880"
       }
     ]
   },
@@ -6280,6 +6288,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T12:30:33.298921"
+      }
+    ]
+  },
+  "f45fc28facef171f57c6587b07feabe7": {
+    "time": "2026/09/16 12:30:47",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市大寮區鳳林三路",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T12:31:33.202880"
       }
     ]
   }
