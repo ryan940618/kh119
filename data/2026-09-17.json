@@ -15121,7 +15121,7 @@
     "sub_category": "車禍",
     "location": "高雄市田寮區長山路",
     "units": "崇德駐地",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -15130,6 +15130,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T06:50:33.337643"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T06:55:33.403149"
       }
     ]
   },
@@ -15152,6 +15156,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T06:54:33.449921"
+      }
+    ]
+  },
+  "09e66b39552c54674f9bf4fc471235cb": {
+    "time": "2026/09/17 06:54:47",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T06:55:33.403149"
+      }
+    ]
+  },
+  "6ac8a84c9f6347e5469cd3bb46f78a17": {
+    "time": "2026/09/17 06:54:22",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T06:55:33.403149"
       }
     ]
   }
