@@ -12563,7 +12563,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區明誠三路",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12580,6 +12580,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T22:37:33.467698"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T22:42:33.374646"
       }
     ]
   },
@@ -12737,7 +12741,7 @@
     "sub_category": "車禍",
     "location": "高雄市旗山區延平二路",
     "units": "旗山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12746,6 +12750,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T22:39:33.249221"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T22:42:33.374646"
       }
     ]
   },
@@ -12764,6 +12772,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T22:40:33.250851"
+      }
+    ]
+  },
+  "8f9dc4550f7ef516e63d233764e53180": {
+    "time": "2026/09/16 22:41:46",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T22:42:33.374646"
+      }
+    ]
+  },
+  "67cec862fa0f5104dc2b8cf8bad93129": {
+    "time": "2026/09/16 22:41:54",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區五甲三路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T22:42:33.374646"
       }
     ]
   }
