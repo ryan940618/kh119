@@ -8609,7 +8609,7 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -8622,6 +8622,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T16:19:33.856800"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T16:25:33.763921"
       }
     ]
   },
@@ -8786,6 +8790,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T16:24:33.754617"
+      }
+    ]
+  },
+  "516254d54e0e0e0e9b6a72fedbecf239": {
+    "time": "2026/09/16 16:24:28",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區一心一路",
+    "units": "瑞隆分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T16:25:33.763921"
+      }
+    ]
+  },
+  "e4c2bbf19017cc5d93636b901ff21bd7": {
+    "time": "2026/09/16 16:24:05",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市左營區高鐵路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T16:25:33.763921"
       }
     ]
   }
