@@ -8919,7 +8919,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區橋新六路",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -8932,6 +8932,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T16:40:33.765337"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T16:51:33.947530"
       }
     ]
   },
@@ -9026,6 +9030,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T16:50:33.986993"
+      }
+    ]
+  },
+  "d6e2627def0494d5045e3a4aefa50c18": {
+    "time": "2026/09/16 16:50:00",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區英德街",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-16T16:51:33.947530"
       }
     ]
   }
