@@ -6103,7 +6103,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區經武路",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6116,6 +6116,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T12:21:33.358000"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T12:34:33.249998"
       }
     ]
   },
@@ -6331,11 +6335,15 @@
     "sub_category": "其他",
     "location": "高雄市鹽埕區",
     "units": "",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T12:32:33.553645"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T12:34:33.249998"
       }
     ]
   },
@@ -6350,6 +6358,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T12:33:33.465690"
+      }
+    ]
+  },
+  "7e040ef52bd54d4aec0eabfea5fb1d32": {
+    "time": "2026/09/16 12:33:50",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T12:34:33.249998"
       }
     ]
   }
