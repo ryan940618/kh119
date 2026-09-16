@@ -5195,7 +5195,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5208,6 +5208,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T11:10:33.990916"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T11:16:37.212953"
       }
     ]
   },
@@ -5319,11 +5323,15 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區獅興街",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T11:13:33.632760"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T11:16:37.212953"
       }
     ]
   },
@@ -5369,11 +5377,15 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "大樹分隊,旗山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T11:15:34.351435"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T11:16:37.212953"
       }
     ]
   }
