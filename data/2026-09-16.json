@@ -11569,7 +11569,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區翠屏路",
     "units": "橋頭分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11582,6 +11582,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T19:56:33.426169"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T20:01:33.242021"
       }
     ]
   },
@@ -11591,11 +11595,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營小隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T20:00:33.950926"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T20:01:33.242021"
       }
     ]
   }
