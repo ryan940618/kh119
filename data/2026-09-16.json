@@ -5203,7 +5203,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5220,6 +5220,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T11:16:37.212953"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T11:23:33.731391"
       }
     ]
   },
@@ -5423,11 +5427,15 @@
     "sub_category": "其他",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T11:19:34.030816"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T11:23:33.731391"
       }
     ]
   },
@@ -5464,6 +5472,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T11:22:33.920287"
+      }
+    ]
+  },
+  "f24b5afab03b96c4aa584abb6bdfd4f2": {
+    "time": "2026/09/16 11:22:46",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前金區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T11:23:33.731391"
       }
     ]
   }
