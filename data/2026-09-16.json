@@ -8535,7 +8535,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8548,6 +8548,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T16:08:33.527765"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T16:23:33.639626"
       }
     ]
   },
@@ -8751,11 +8755,15 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "彌陀分隊,橋頭分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T16:21:36.788992"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T16:23:33.639626"
       }
     ]
   }
