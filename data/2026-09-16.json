@@ -10749,7 +10749,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10762,6 +10762,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T18:52:33.666161"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T19:04:33.764994"
       }
     ]
   },
@@ -10909,11 +10913,43 @@
     "sub_category": "其他",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T19:02:33.716996"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T19:04:33.764994"
+      }
+    ]
+  },
+  "b91bfc8a47fa019408e9f777c93adf85": {
+    "time": "2026/09/16 19:03:21",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T19:04:33.764994"
+      }
+    ]
+  },
+  "9d2855cd4a157fd6c645e5f701b2d124": {
+    "time": "2026/09/16 19:02:52",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市美濃區",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T19:04:33.764994"
       }
     ]
   }
