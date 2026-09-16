@@ -11675,7 +11675,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11692,6 +11692,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T20:29:33.665973"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T20:31:33.488822"
       }
     ]
   },
@@ -11701,7 +11705,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11714,6 +11718,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T20:22:33.371885"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T20:31:33.488822"
       }
     ]
   },
@@ -11741,11 +11749,15 @@
     "sub_category": "創傷",
     "location": "高雄市鼓山區蓮海路",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T20:29:33.665973"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T20:31:33.488822"
       }
     ]
   },
@@ -11755,11 +11767,15 @@
     "sub_category": "路倒",
     "location": "高雄市彌陀區樂安路",
     "units": "彌陀分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T20:30:33.379421"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T20:31:33.488822"
       }
     ]
   }
