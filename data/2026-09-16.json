@@ -9395,7 +9395,7 @@
     "sub_category": "車禍",
     "location": "高雄市旗津區旗津二路和瑞竹街",
     "units": "旗津分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9412,6 +9412,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T17:13:33.185926"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T17:26:33.119866"
       }
     ]
   },
@@ -9571,7 +9575,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9580,6 +9584,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T17:19:33.046983"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T17:26:33.119866"
       }
     ]
   },
@@ -9616,6 +9624,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T17:24:33.135320"
+      }
+    ]
+  },
+  "daa4b63a7b26c9c6e255bc2f5142f3c3": {
+    "time": "2026/09/16 17:25:38",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T17:26:33.119866"
+      }
+    ]
+  },
+  "5e26d9515c03812b34d69149dd00e10b": {
+    "time": "2026/09/16 17:24:55",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T17:26:33.119866"
       }
     ]
   }
