@@ -9785,7 +9785,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "小港分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9798,6 +9798,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T17:38:33.310207"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T17:52:33.164078"
       }
     ]
   },
@@ -9944,6 +9948,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T17:47:33.523142"
+      }
+    ]
+  },
+  "adfebbfa4fdb0b0def4a3be5d0ec04c4": {
+    "time": "2026/09/16 17:51:38",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市湖內區",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T17:52:33.164078"
+      }
+    ]
+  },
+  "17dfc1f863dff962be16c143690e7bd7": {
+    "time": "2026/09/16 17:51:52",
+    "category": "其他",
+    "sub_category": "受困",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T17:52:33.164078"
       }
     ]
   }
