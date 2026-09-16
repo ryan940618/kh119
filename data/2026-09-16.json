@@ -3439,7 +3439,7 @@
     "sub_category": "車禍",
     "location": "高雄市大社區中正路",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3456,6 +3456,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-16T07:49:33.968252"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T08:00:34.042343"
       }
     ]
   },
@@ -3653,7 +3657,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3666,6 +3670,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T07:51:33.878618"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T08:00:34.042343"
       }
     ]
   },
@@ -3693,7 +3701,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3706,6 +3714,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T07:50:33.716897"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T08:00:34.042343"
       }
     ]
   },
@@ -3751,7 +3763,7 @@
     "sub_category": "車禍",
     "location": "高雄市前金區成功一路和長生街",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3764,6 +3776,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T07:56:35.220593"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T08:00:34.042343"
       }
     ]
   },
@@ -3795,7 +3811,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區",
     "units": "高桂分隊,鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -3808,6 +3824,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T07:56:35.220593"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T08:00:34.042343"
       }
     ]
   },
@@ -3996,6 +4016,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T07:58:34.163840"
+      }
+    ]
+  },
+  "ce1e9d657e112ca0dc2c1753f8ac46b1": {
+    "time": "2026/09/16 07:59:44",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區美庄路",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T08:00:34.042343"
       }
     ]
   }
