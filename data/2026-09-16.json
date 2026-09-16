@@ -4793,7 +4793,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區鼎安路",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4802,6 +4802,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T10:35:33.394557"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T10:38:33.478317"
       }
     ]
   },
@@ -4838,6 +4842,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T10:37:33.257689"
+      }
+    ]
+  },
+  "18966e92b44cdf3c5d581ead7cb92533": {
+    "time": "2026/09/16 10:37:52",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T10:38:33.478317"
       }
     ]
   }
