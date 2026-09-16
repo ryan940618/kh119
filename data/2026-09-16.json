@@ -12175,7 +12175,7 @@
     "sub_category": "路倒",
     "location": "高雄市左營區富國路",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12188,6 +12188,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-16T21:33:33.749708"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T21:44:33.908923"
       }
     ]
   },
@@ -12286,6 +12290,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T21:43:33.948811"
+      }
+    ]
+  },
+  "27393fd279c0f770b9ec1ba215eb5ee0": {
+    "time": "2026/09/16 21:43:12",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大社區綠野山莊土雞城[高雄市大社區翠屏路",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T21:44:33.908923"
       }
     ]
   }
