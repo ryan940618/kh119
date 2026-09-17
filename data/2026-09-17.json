@@ -23403,7 +23403,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區港平路",
     "units": "小港分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -23420,6 +23420,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T18:10:33.284939"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T18:16:33.265257"
       }
     ]
   },
@@ -23566,6 +23570,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T18:13:33.146070"
+      }
+    ]
+  },
+  "551a9864bfb5f0709f2934069094a3d6": {
+    "time": "2026/09/17 18:15:37",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T18:16:33.265257"
       }
     ]
   }
