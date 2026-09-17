@@ -23671,7 +23671,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區江山路",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -23684,6 +23684,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T18:29:33.591251"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T18:42:33.404871"
       }
     ]
   },
@@ -23787,7 +23791,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -23804,6 +23808,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T18:37:33.366842"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T18:42:33.404871"
       }
     ]
   },
@@ -23813,7 +23821,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區日昌路",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -23822,6 +23830,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T18:32:33.383915"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T18:42:33.404871"
       }
     ]
   },
@@ -23831,7 +23843,7 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區鎮中路",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -23840,6 +23852,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T18:37:33.366842"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T18:42:33.404871"
       }
     ]
   },
@@ -23849,7 +23865,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區德民路",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -23858,6 +23874,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T18:40:33.245935"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T18:42:33.404871"
       }
     ]
   },
@@ -23872,6 +23892,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T18:41:33.348573"
+      }
+    ]
+  },
+  "2d15edf930119277459acc821a775e3f": {
+    "time": "2026/09/17 18:41:19",
+    "category": "火災",
+    "sub_category": "雜草(含廢棄物、墓地)",
+    "location": "高雄市永安區保安路",
+    "units": "永安分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T18:42:33.404871"
+      }
+    ]
+  },
+  "44f40708431a12748cb89c47396d6214": {
+    "time": "2026/09/17 18:41:12",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T18:42:33.404871"
       }
     ]
   }
