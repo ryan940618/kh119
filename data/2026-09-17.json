@@ -18627,7 +18627,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -18644,6 +18644,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T11:51:33.847936"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T11:58:33.704742"
       }
     ]
   },
@@ -18747,11 +18751,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-17T11:54:33.693815"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T11:58:33.704742"
       }
     ]
   },
@@ -18775,11 +18783,29 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T11:57:33.661331"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T11:58:33.704742"
+      }
+    ]
+  },
+  "dbc9e5bdde3b3605b3047c0f78acfc74": {
+    "time": "2026/09/17 11:56:43",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市湖內區",
+    "units": "",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T11:58:33.704742"
       }
     ]
   }
