@@ -18059,7 +18059,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -18072,6 +18072,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T11:10:33.434590"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T11:22:33.491546"
       }
     ]
   },
@@ -18165,11 +18169,15 @@
     "sub_category": "其他",
     "location": "高雄市梓官區",
     "units": "",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-17T11:14:33.408061"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T11:22:33.491546"
       }
     ]
   },
@@ -18223,11 +18231,15 @@
     "sub_category": "車禍",
     "location": "高雄市大社區中華路",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T11:19:33.382559"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T11:22:33.491546"
       }
     ]
   },
@@ -18251,11 +18263,29 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區漁南街",
     "units": "五甲分隊,前鎮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T11:21:33.543702"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T11:22:33.491546"
+      }
+    ]
+  },
+  "c982eabb939ff24cdf3d1d7468467886": {
+    "time": "2026/09/17 11:21:56",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-17T11:22:33.491546"
       }
     ]
   }
