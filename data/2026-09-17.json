@@ -22281,7 +22281,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -22298,6 +22298,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T16:33:33.446911"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T16:55:33.661779"
       }
     ]
   },
@@ -22629,7 +22633,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區建興路",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -22638,6 +22642,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T16:50:33.819393"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T16:55:33.661779"
       }
     ]
   },
@@ -22665,11 +22673,43 @@
     "sub_category": "急病",
     "location": "高雄市彌陀區",
     "units": "彌陀分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T16:54:33.673406"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T16:55:33.661779"
+      }
+    ]
+  },
+  "27fa8801d3d27ef1ba5e2d0cd6ac9f5f": {
+    "time": "2026/09/17 16:54:50",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市前鎮區林森三路",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T16:55:33.661779"
+      }
+    ]
+  },
+  "9feaaa6b68f745cb9c827327f6d4689b": {
+    "time": "2026/09/17 16:54:37",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "阿蓮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T16:55:33.661779"
       }
     ]
   }
