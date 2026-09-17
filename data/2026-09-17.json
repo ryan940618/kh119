@@ -23489,7 +23489,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -23502,6 +23502,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T18:11:33.107131"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T18:23:33.309558"
       }
     ]
   },
@@ -23537,7 +23541,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區後昌路",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -23554,6 +23558,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T18:19:33.546026"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T18:23:33.309558"
       }
     ]
   },
@@ -23630,6 +23638,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T18:22:33.179765"
+      }
+    ]
+  },
+  "70cd2e27802293af11d462ad5f85ccb2": {
+    "time": "2026/09/17 18:22:19",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區江山路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T18:23:33.309558"
       }
     ]
   }
