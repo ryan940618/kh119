@@ -15893,7 +15893,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區中二街",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -15902,6 +15902,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T08:10:33.089494"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T08:14:33.019987"
       }
     ]
   },
@@ -15920,6 +15924,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T08:11:33.026204"
+      }
+    ]
+  },
+  "5c6d5e5502e0cd89bcbc11fd9fc84648": {
+    "time": "2026/09/17 08:14:07",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區中正路",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T08:14:33.019987"
+      }
+    ]
+  },
+  "92e69ffd95669df3f5bc02580efd195f": {
+    "time": "2026/09/17 08:13:57",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T08:14:33.019987"
       }
     ]
   }
