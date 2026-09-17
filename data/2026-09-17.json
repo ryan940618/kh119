@@ -21181,7 +21181,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -21198,6 +21198,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T15:09:33.948004"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T15:20:33.285185"
       }
     ]
   },
@@ -21435,11 +21439,15 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T15:16:32.978870"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T15:20:33.285185"
       }
     ]
   },
@@ -21472,6 +21480,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T15:18:33.040367"
+      }
+    ]
+  },
+  "ea629bbb0fd28178116250ca13dcc810": {
+    "time": "2026/09/17 15:19:55",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市新興區復興一路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T15:20:33.285185"
+      }
+    ]
+  },
+  "3495bf18be253c56e6a1f389c399697a": {
+    "time": "2026/09/17 15:19:48",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區中安路",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T15:20:33.285185"
       }
     ]
   }
