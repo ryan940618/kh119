@@ -22531,7 +22531,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區文清街",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -22548,6 +22548,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T17:01:34.091364"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T17:05:33.816364"
       }
     ]
   },
@@ -22737,11 +22741,15 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "阿蓮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-17T16:55:33.661779"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T17:05:33.816364"
       }
     ]
   },
@@ -22863,7 +22871,7 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區四維路",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -22872,6 +22880,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T17:02:33.823542"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T17:05:33.816364"
       }
     ]
   },
@@ -22890,6 +22902,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T17:02:33.823542"
+      }
+    ]
+  },
+  "c24f918fe60afa9751cc3564f937807d": {
+    "time": "2026/09/17 17:04:35",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區新富路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T17:05:33.816364"
       }
     ]
   }
