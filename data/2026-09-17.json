@@ -26115,7 +26115,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -26124,6 +26124,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T22:42:33.129147"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T22:49:32.979299"
       }
     ]
   },
@@ -26151,7 +26155,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "大林分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -26160,6 +26164,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T22:47:32.859370"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T22:49:32.979299"
+      }
+    ]
+  },
+  "c31a8be9c9ab1b81f5a388f51de67fd3": {
+    "time": "2026/09/17 22:48:56",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區九如二路",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T22:49:32.979299"
       }
     ]
   }
