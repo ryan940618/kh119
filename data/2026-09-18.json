@@ -27649,7 +27649,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -27658,6 +27658,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T05:56:33.553738"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T06:03:33.620185"
       }
     ]
   },
@@ -27667,11 +27671,15 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區鳳仁路",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T06:01:33.666778"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T06:03:33.620185"
       }
     ]
   },
@@ -27681,11 +27689,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T06:02:33.647990"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T06:03:33.620185"
+      }
+    ]
+  },
+  "cb3fa987389d42edb81f0b13de8b0ca4": {
+    "time": "2026/09/18 06:02:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T06:03:33.620185"
       }
     ]
   }
