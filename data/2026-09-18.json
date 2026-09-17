@@ -28199,11 +28199,15 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T07:29:33.117658"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T07:30:33.181757"
       }
     ]
   },
@@ -28227,11 +28231,29 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T07:29:33.117658"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T07:30:33.181757"
+      }
+    ]
+  },
+  "3963eb7361a4a66ee400b9e9ccf3affd": {
+    "time": "2026/09/18 07:29:20",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市彌陀區中正西路",
+    "units": "彌陀分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T07:30:33.181757"
       }
     ]
   }
