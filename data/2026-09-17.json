@@ -20419,7 +20419,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -20436,6 +20436,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T14:12:33.630615"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T14:27:33.733843"
       }
     ]
   },
@@ -20922,6 +20926,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T14:23:33.586908"
+      }
+    ]
+  },
+  "8e5f05cc2e549b062e80405e9391948c": {
+    "time": "2026/09/17 14:25:45",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市三民區博愛一路",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T14:27:33.733843"
       }
     ]
   }
