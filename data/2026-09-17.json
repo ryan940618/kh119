@@ -20159,7 +20159,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區南京路",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -20172,6 +20172,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T13:28:33.108807"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T13:42:33.502259"
       }
     ]
   },
@@ -20452,6 +20456,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T13:41:33.463327"
+      }
+    ]
+  },
+  "bc3da414fdac01cdda825d000346781e": {
+    "time": "2026/09/17 13:42:24",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市彌陀區",
+    "units": "彌陀分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T13:42:33.502259"
       }
     ]
   }
