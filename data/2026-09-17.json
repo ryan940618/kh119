@@ -23627,7 +23627,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -23644,6 +23644,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T18:44:33.352079"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T18:58:33.553951"
       }
     ]
   },
@@ -24081,11 +24085,15 @@
     "sub_category": "創傷",
     "location": "高雄市鼓山區翠華路",
     "units": "左營分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-17T18:53:33.387665"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T18:58:33.553951"
       }
     ]
   },
@@ -24095,7 +24103,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區體育路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -24104,6 +24112,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T18:54:33.354061"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T18:58:33.553951"
       }
     ]
   },
@@ -24145,11 +24157,29 @@
     "sub_category": "車禍",
     "location": "高雄市三民區金鼎路",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T18:57:33.458858"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T18:58:33.553951"
+      }
+    ]
+  },
+  "19fd1291ba4636507c023438924c59a0": {
+    "time": "2026/09/17 18:58:05",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區明華一路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T18:58:33.553951"
       }
     ]
   }
