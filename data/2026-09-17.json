@@ -17739,7 +17739,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -17748,6 +17748,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T10:39:33.146355"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T10:47:33.237318"
       }
     ]
   },
@@ -17757,7 +17761,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -17766,6 +17770,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T10:46:33.231298"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T10:47:33.237318"
       }
     ]
   },
@@ -17806,6 +17814,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T10:45:33.146977"
+      }
+    ]
+  },
+  "8bc2bac6c42c85e8025b0f460e39fd74": {
+    "time": "2026/09/17 10:46:29",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市湖內區",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T10:47:33.237318"
       }
     ]
   }
