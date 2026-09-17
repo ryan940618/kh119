@@ -24505,7 +24505,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區左營大路",
     "units": "左營分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -24514,6 +24514,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T19:37:33.863475"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T19:44:33.826940"
       }
     ]
   },
@@ -24523,11 +24527,29 @@
     "sub_category": "車禍",
     "location": "高雄市左營區民族一路",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T19:42:33.712832"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T19:44:33.826940"
+      }
+    ]
+  },
+  "6c53978fb843aeef890900b63ff8d660": {
+    "time": "2026/09/17 19:43:25",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大社區",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T19:44:33.826940"
       }
     ]
   }
