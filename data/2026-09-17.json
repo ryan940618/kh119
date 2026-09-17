@@ -18811,7 +18811,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -18824,6 +18824,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T12:02:33.823062"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T12:05:33.713452"
       }
     ]
   },
@@ -18944,6 +18948,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T12:04:33.919288"
+      }
+    ]
+  },
+  "1c0bea309ee6b0440188de66eeafbcd9": {
+    "time": "2026/09/17 12:03:55",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市燕巢區中民路",
+    "units": "燕巢分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T12:05:33.713452"
       }
     ]
   }
