@@ -18491,7 +18491,7 @@
     "sub_category": "車禍",
     "location": "高雄市茄萣區信義路",
     "units": "茄萣分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -18504,6 +18504,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T11:43:33.722170"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T12:03:33.836215"
       }
     ]
   },
@@ -18609,7 +18613,7 @@
     "sub_category": "創傷",
     "location": "高雄市林園區鳳林路",
     "units": "大林分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -18622,6 +18626,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T11:51:33.847936"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T12:03:33.836215"
       }
     ]
   },
@@ -18727,7 +18735,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區竹湖陸橋[高雄市路",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -18736,6 +18744,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T11:55:33.618401"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T12:03:33.836215"
       }
     ]
   },
@@ -18882,6 +18894,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T12:02:33.823062"
+      }
+    ]
+  },
+  "57b8c8dd68ed2f1a434c2767cb17732d": {
+    "time": "2026/09/17 12:02:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T12:03:33.836215"
       }
     ]
   }
