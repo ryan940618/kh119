@@ -17333,7 +17333,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -17342,6 +17342,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T10:10:33.913018"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T10:25:33.104050"
       }
     ]
   },
@@ -17351,7 +17355,7 @@
     "sub_category": "車禍",
     "location": "高雄市林園區林內路",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -17364,6 +17368,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T10:17:34.109327"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T10:25:33.104050"
       }
     ]
   },
@@ -17582,6 +17590,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T10:23:33.050899"
+      }
+    ]
+  },
+  "4ad2151d18333fc860d67faeaa0475a8": {
+    "time": "2026/09/17 10:24:36",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗山區",
+    "units": "旗山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T10:25:33.104050"
       }
     ]
   }
