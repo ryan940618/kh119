@@ -17641,7 +17641,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區美術東二路",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -17658,6 +17658,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T10:32:33.279819"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T10:42:37.564801"
       }
     ]
   },
@@ -17689,7 +17693,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -17702,6 +17706,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T10:37:33.080608"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T10:42:37.564801"
       }
     ]
   },
@@ -17734,6 +17742,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T10:40:33.591273"
+      }
+    ]
+  },
+  "404662f88fbffa8f96a3986be0acf513": {
+    "time": "2026/09/17 10:41:29",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T10:42:37.564801"
+      }
+    ]
+  },
+  "58af75a7cca7991fe03e7fbb1415fd5b": {
+    "time": "2026/09/17 10:41:13",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市杉林區",
+    "units": "杉林分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T10:42:37.564801"
       }
     ]
   }
