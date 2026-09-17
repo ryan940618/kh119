@@ -19415,7 +19415,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -19428,6 +19428,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T12:37:33.590888"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T12:46:33.061365"
       }
     ]
   },
@@ -19573,7 +19577,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區國泰路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -19582,6 +19586,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T12:41:32.996575"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T12:46:33.061365"
       }
     ]
   },
@@ -19674,6 +19682,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T12:45:33.177789"
+      }
+    ]
+  },
+  "e854fbbae64d2ac05d707d1acfe697b8": {
+    "time": "2026/09/17 12:45:55",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區朝明路",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T12:46:33.061365"
+      }
+    ]
+  },
+  "490d1a7eaad67ab1456d89d0344f50ab": {
+    "time": "2026/09/17 12:45:29",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T12:46:33.061365"
       }
     ]
   }
