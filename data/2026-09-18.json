@@ -26849,7 +26849,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區大豐二路",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -26866,6 +26866,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T01:11:33.828348"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T01:15:32.781299"
       }
     ]
   },
@@ -26920,6 +26924,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T01:14:32.871162"
+      }
+    ]
+  },
+  "96a50638327c84bcdd5e5aeeeea431c8": {
+    "time": "2026/09/18 01:14:07",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區武慶三路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T01:15:32.781299"
       }
     ]
   }
