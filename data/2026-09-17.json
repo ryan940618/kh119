@@ -19561,7 +19561,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區德民路",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -19570,6 +19570,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T12:37:33.590888"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T12:56:33.033505"
       }
     ]
   },
@@ -19743,7 +19747,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區朝明路",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -19756,6 +19760,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T12:52:33.248226"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T12:56:33.033505"
       }
     ]
   },
@@ -19854,6 +19862,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T12:55:33.252857"
+      }
+    ]
+  },
+  "a107b84ad978685cdf54bb7d308880f3": {
+    "time": "2026/09/17 12:55:30",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區南京路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T12:56:33.033505"
       }
     ]
   }
