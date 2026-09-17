@@ -20995,7 +20995,7 @@
     "sub_category": "其他",
     "location": "高雄市楠梓區",
     "units": "",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -21008,6 +21008,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T14:36:33.602966"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T14:53:33.750148"
       }
     ]
   },
@@ -21043,7 +21047,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區陽明路",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -21052,6 +21056,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T14:48:33.689865"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T14:53:33.750148"
       }
     ]
   },
@@ -21070,6 +21078,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T14:49:33.812024"
+      }
+    ]
+  },
+  "32b11afb1b7e357d078aa1b165ec6a61": {
+    "time": "2026/09/17 14:52:18",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區",
+    "units": "",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T14:53:33.750148"
       }
     ]
   }
