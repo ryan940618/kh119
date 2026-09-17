@@ -17807,7 +17807,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -17820,6 +17820,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T10:50:33.370732"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T11:01:33.561642"
       }
     ]
   },
@@ -17936,6 +17940,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T10:58:33.253133"
+      }
+    ]
+  },
+  "dbeaf7bcaa220b6bf4e8a573e514b8a2": {
+    "time": "2026/09/17 11:00:50",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市梓官區展寶路",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T11:01:33.561642"
+      }
+    ]
+  },
+  "932c4880515a805b10045d6eef6c503f": {
+    "time": "2026/09/17 11:00:43",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T11:01:33.561642"
+      }
+    ]
+  },
+  "ecfc49f1d2f749f2c77fa232ec2f4e26": {
+    "time": "2026/09/17 11:00:25",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區圓山路",
+    "units": "鳥松分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T11:01:33.561642"
       }
     ]
   }
