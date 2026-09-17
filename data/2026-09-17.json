@@ -16907,7 +16907,7 @@
     "sub_category": "異物哽塞",
     "location": "高雄市阿蓮區埤尾路",
     "units": "阿蓮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -16924,6 +16924,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T09:32:33.594389"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T09:58:33.789253"
       }
     ]
   },
@@ -17015,7 +17019,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -17028,6 +17032,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T09:48:33.666819"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T09:58:33.789253"
       }
     ]
   },
@@ -17208,6 +17216,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T09:57:33.756888"
+      }
+    ]
+  },
+  "7554c218bebb8893774fba13748ec638": {
+    "time": "2026/09/17 09:57:25",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市林園區力行路",
+    "units": "大林分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T09:58:33.789253"
       }
     ]
   }
