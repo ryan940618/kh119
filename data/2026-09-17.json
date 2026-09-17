@@ -21139,7 +21139,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -21148,6 +21148,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T15:00:33.843038"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T15:03:33.828494"
       }
     ]
   },
@@ -21230,6 +21234,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T15:02:33.830485"
+      }
+    ]
+  },
+  "1ca8d1669448ff061ad54b38b29404e0": {
+    "time": "2026/09/17 15:02:39",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳥松區",
+    "units": "鳥松分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T15:03:33.828494"
       }
     ]
   }
