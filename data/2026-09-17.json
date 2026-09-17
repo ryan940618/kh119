@@ -15611,7 +15611,7 @@
     "sub_category": "創傷",
     "location": "高雄市旗山區民權一街",
     "units": "旗山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -15628,6 +15628,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T07:59:32.828152"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T08:06:32.892032"
       }
     ]
   },
@@ -15795,7 +15799,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -15804,6 +15808,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T08:01:32.874669"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T08:06:32.892032"
+      }
+    ]
+  },
+  "429b2d47ab6310b057ce5314cdf57881": {
+    "time": "2026/09/17 08:05:11",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T08:06:32.892032"
       }
     ]
   }
