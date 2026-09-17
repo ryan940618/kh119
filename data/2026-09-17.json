@@ -17961,7 +17961,7 @@
     "sub_category": "車禍",
     "location": "高雄市梓官區展寶路",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -17970,6 +17970,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T11:02:33.352368"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T11:07:33.606875"
       }
     ]
   },
@@ -18001,11 +18005,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區圓山路",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-17T11:01:33.561642"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T11:07:33.606875"
       }
     ]
   },
@@ -18015,11 +18023,29 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T11:03:33.665665"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T11:07:33.606875"
+      }
+    ]
+  },
+  "67c348ac774520d708ecf20c1eff8ff9": {
+    "time": "2026/09/17 11:06:38",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市六龜區",
+    "units": "六龜分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T11:07:33.606875"
       }
     ]
   }
