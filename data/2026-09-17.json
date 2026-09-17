@@ -18019,7 +18019,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -18032,6 +18032,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T11:06:33.543961"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T11:27:33.638130"
       }
     ]
   },
@@ -18287,7 +18291,7 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區漁南街",
     "units": "五甲分隊,前鎮分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -18300,6 +18304,10 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T11:24:33.614304"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T11:27:33.638130"
       }
     ]
   },
@@ -18346,6 +18354,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T11:26:33.780745"
+      }
+    ]
+  },
+  "f61bba17431a06f13a53453b4fc9c18d": {
+    "time": "2026/09/17 11:26:30",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市美濃區",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T11:27:33.638130"
       }
     ]
   }
