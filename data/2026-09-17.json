@@ -18683,7 +18683,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區新富路",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -18692,6 +18692,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T11:57:33.661331"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T12:01:33.776180"
       }
     ]
   },
@@ -18832,6 +18836,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T11:59:33.796230"
+      }
+    ]
+  },
+  "04ce7a2d12b6c518d362aa07de03a043": {
+    "time": "2026/09/17 12:00:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "鼎金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T12:01:33.776180"
       }
     ]
   }
