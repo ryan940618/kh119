@@ -18829,7 +18829,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區國泰路",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -18846,6 +18846,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T12:16:33.939553"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T12:22:33.843446"
       }
     ]
   },
@@ -19065,7 +19069,7 @@
     "sub_category": "藥物、食物中毒",
     "location": "高雄市岡山區永樂街",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -19074,6 +19078,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T12:09:33.928702"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T12:22:33.843446"
       }
     ]
   },
@@ -19226,6 +19234,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T12:20:33.900789"
+      }
+    ]
+  },
+  "309d4c3554622a6a61f70aee3d2c30c7": {
+    "time": "2026/09/17 12:21:57",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區高雄市消防局鳥松分隊[高雄市鳥松區公園路",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T12:22:33.843446"
       }
     ]
   }
