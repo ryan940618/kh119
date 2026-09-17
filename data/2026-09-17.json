@@ -16083,7 +16083,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "大樹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -16096,6 +16096,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T08:28:33.122457"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T08:41:33.394132"
       }
     ]
   },
@@ -16373,11 +16377,15 @@
     "sub_category": "其他",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T08:38:33.285879"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T08:41:33.394132"
       }
     ]
   },
@@ -16410,6 +16418,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T08:40:33.177911"
+      }
+    ]
+  },
+  "0fb0ab4584ea4aa68a31e3bf9fed6653": {
+    "time": "2026/09/17 08:39:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區中一路",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T08:41:33.394132"
       }
     ]
   }
