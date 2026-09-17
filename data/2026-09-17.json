@@ -18765,7 +18765,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -18778,6 +18778,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T12:09:33.928702"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T12:13:33.902464"
       }
     ]
   },
@@ -18787,7 +18791,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -18800,6 +18804,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T12:08:33.777574"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T12:13:33.902464"
       }
     ]
   },
@@ -18875,7 +18883,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -18888,6 +18896,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T12:08:33.777574"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T12:13:33.902464"
       }
     ]
   },
@@ -19065,7 +19077,7 @@
     "sub_category": "創傷",
     "location": "高雄市前金區中華三路",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -19074,6 +19086,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T12:10:33.695270"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T12:13:33.902464"
       }
     ]
   },
@@ -19102,6 +19118,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T12:10:33.695270"
+      }
+    ]
+  },
+  "550aaac65b3be48ec52f72432d29ae39": {
+    "time": "2026/09/17 12:12:46",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市旗山區延平二路",
+    "units": "內門分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T12:13:33.902464"
+      }
+    ]
+  },
+  "6cfd442f54401abea82ccff2f19567c0": {
+    "time": "2026/09/17 12:12:20",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區大學十七街",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T12:13:33.902464"
       }
     ]
   }
