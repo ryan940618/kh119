@@ -22881,7 +22881,7 @@
     "sub_category": "急病",
     "location": "高雄市內門區",
     "units": "內門分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -22890,6 +22890,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T17:11:34.057670"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T17:30:34.224550"
       }
     ]
   },
@@ -23189,11 +23193,43 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T17:28:34.031994"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T17:30:34.224550"
+      }
+    ]
+  },
+  "152e9d696401d7a18080f1938918fa3d": {
+    "time": "2026/09/17 17:29:59",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T17:30:34.224550"
+      }
+    ]
+  },
+  "7f17b30f1ad144688739f4f2a13c4dc9": {
+    "time": "2026/09/17 17:29:29",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區鳳屏一路和民貴街",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T17:30:34.224550"
       }
     ]
   }
