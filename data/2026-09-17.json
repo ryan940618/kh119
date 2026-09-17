@@ -17511,7 +17511,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區美術南二路",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -17524,6 +17524,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T10:24:33.286286"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T10:40:33.591273"
       }
     ]
   },
@@ -17716,6 +17720,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T10:39:33.146355"
+      }
+    ]
+  },
+  "6a1a20e5070dcbddee83a193cc72eab9": {
+    "time": "2026/09/17 10:39:37",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前金區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T10:40:33.591273"
       }
     ]
   }
