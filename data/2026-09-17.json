@@ -25523,7 +25523,7 @@
     "sub_category": "創傷",
     "location": "高雄市小港區高坪十五路",
     "units": "高桂分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -25540,6 +25540,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T21:40:33.499010"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T21:48:33.643216"
       }
     ]
   },
@@ -25711,7 +25715,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -25724,6 +25728,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T21:44:33.592251"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T21:48:33.643216"
       }
     ]
   },
@@ -25804,6 +25812,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T21:47:33.616074"
+      }
+    ]
+  },
+  "1cfdb45d1ff34de78a7b5b1d7c8c99c1": {
+    "time": "2026/09/17 21:48:09",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區十全一路和吉林街",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T21:48:33.643216"
       }
     ]
   }
