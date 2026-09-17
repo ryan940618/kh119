@@ -24877,7 +24877,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -24890,6 +24890,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T20:30:33.047757"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T20:36:33.164903"
       }
     ]
   },
@@ -24957,11 +24961,15 @@
     "sub_category": "車禍",
     "location": "高雄市新興區民生一路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-17T20:32:32.921769"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T20:36:33.164903"
       }
     ]
   },
@@ -24971,11 +24979,43 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區大寮路",
     "units": "和發分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T20:33:32.960919"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T20:36:33.164903"
+      }
+    ]
+  },
+  "9c9a58e72bbb4c19cb0c2d02e2975a65": {
+    "time": "2026/09/17 20:35:53",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市新興區林森一路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T20:36:33.164903"
+      }
+    ]
+  },
+  "1bc6946a1f33ee4bcc36693d29e2f06d": {
+    "time": "2026/09/17 20:35:04",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區南屏路",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T20:36:33.164903"
       }
     ]
   }
