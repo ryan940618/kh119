@@ -20457,7 +20457,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -20466,6 +20466,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T13:40:33.396572"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T13:47:33.520231"
       }
     ]
   },
@@ -20506,6 +20510,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T13:46:33.325166"
+      }
+    ]
+  },
+  "982a2814a950fded86308007af35796c": {
+    "time": "2026/09/17 13:46:47",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市橋頭區新南二街",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T13:47:33.520231"
       }
     ]
   }
