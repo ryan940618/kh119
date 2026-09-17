@@ -15857,7 +15857,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -15866,6 +15866,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T08:10:33.089494"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T08:18:33.190345"
       }
     ]
   },
@@ -15937,7 +15941,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區中正路",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -15946,6 +15950,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T08:15:32.987587"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T08:18:33.190345"
       }
     ]
   },
@@ -15955,11 +15963,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T08:14:33.019987"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T08:18:33.190345"
       }
     ]
   },
@@ -15969,11 +15981,15 @@
     "sub_category": "路倒",
     "location": "高雄市茄萣區進學路",
     "units": "茄萣分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-17T08:16:33.150620"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T08:18:33.190345"
       }
     ]
   },
@@ -15983,11 +15999,15 @@
     "sub_category": "路倒",
     "location": "高雄市三民區建德路",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T08:17:33.087908"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T08:18:33.190345"
       }
     ]
   }
