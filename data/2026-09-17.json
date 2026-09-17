@@ -16105,7 +16105,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -16118,6 +16118,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T08:26:32.982811"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T08:35:33.166801"
       }
     ]
   },
@@ -16201,7 +16205,7 @@
     "sub_category": "車禍",
     "location": "高雄市大社區中山路",
     "units": "大社分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -16214,6 +16218,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T08:30:33.190095"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T08:35:33.166801"
       }
     ]
   },
@@ -16268,6 +16276,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T08:34:33.261101"
+      }
+    ]
+  },
+  "11fc81fda1f209534a8578c1e1087ee8": {
+    "time": "2026/09/17 08:34:18",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T08:35:33.166801"
+      }
+    ]
+  },
+  "e05de670453afee307ccac20a70151f5": {
+    "time": "2026/09/17 08:32:46",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市茄萣區濱海路",
+    "units": "茄萣分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T08:35:33.166801"
       }
     ]
   }
