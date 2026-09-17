@@ -15675,7 +15675,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -15688,6 +15688,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T08:08:33.008563"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T08:11:33.026204"
       }
     ]
   },
@@ -15895,11 +15899,15 @@
     "sub_category": "路倒",
     "location": "高雄市小港區鳳北路",
     "units": "大林分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T08:10:33.089494"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T08:11:33.026204"
       }
     ]
   }
