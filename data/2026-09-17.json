@@ -19973,7 +19973,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -19986,6 +19986,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T13:01:33.215769"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T13:13:33.181542"
       }
     ]
   },
@@ -20017,7 +20021,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區青年街",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -20030,6 +20034,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T13:10:33.269625"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T13:13:33.181542"
       }
     ]
   },
@@ -20052,6 +20060,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T13:12:33.175997"
+      }
+    ]
+  },
+  "2aafdcacf100e4ba39f09c5d932b96b8": {
+    "time": "2026/09/17 13:13:09",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區善和街",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T13:13:33.181542"
       }
     ]
   }
