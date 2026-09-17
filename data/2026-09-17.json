@@ -22469,7 +22469,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區左營大路",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -22478,6 +22478,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T16:31:33.451745"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T17:01:34.091364"
       }
     ]
   },
@@ -22527,7 +22531,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區文清街",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -22540,6 +22544,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T16:50:33.819393"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T17:01:34.091364"
       }
     ]
   },
@@ -22840,6 +22848,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T17:00:33.921211"
+      }
+    ]
+  },
+  "6d93c042ef1d8a2971e3d0ae6bfb6e17": {
+    "time": "2026/09/17 17:01:09",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區萬昌街",
+    "units": "後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T17:01:34.091364"
       }
     ]
   }
