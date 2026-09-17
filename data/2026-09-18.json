@@ -27973,7 +27973,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -27982,6 +27982,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T07:03:33.028002"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T07:14:33.131820"
       }
     ]
   },
@@ -28080,6 +28084,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T07:13:32.980677"
+      }
+    ]
+  },
+  "0cd03cee51d44a71775a7da5f70fda3f": {
+    "time": "2026/09/18 07:13:02",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市路竹區路",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T07:14:33.131820"
       }
     ]
   }
