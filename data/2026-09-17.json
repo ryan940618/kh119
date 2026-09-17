@@ -17773,7 +17773,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -17790,6 +17790,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T10:53:33.257903"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T10:58:33.253133"
       }
     ]
   },
@@ -17887,11 +17891,43 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-17T10:51:33.138848"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T10:58:33.253133"
+      }
+    ]
+  },
+  "8a597cb250949859331d6e10aad96737": {
+    "time": "2026/09/17 10:57:37",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區九如一路",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T10:58:33.253133"
+      }
+    ]
+  },
+  "659b62bbfd6bb7b72b062bd33ab3bf86": {
+    "time": "2026/09/17 10:57:10",
+    "category": "火災",
+    "sub_category": "一般(集合)住宅",
+    "location": "高雄市鼓山區鼓山三路",
+    "units": "中華分隊,左營分隊,鼓山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T10:58:33.253133"
       }
     ]
   }
