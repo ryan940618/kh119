@@ -20351,7 +20351,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區南屏路",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -20368,6 +20368,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T13:44:33.459929"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T13:51:33.398463"
       }
     ]
   },
@@ -20536,6 +20540,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T13:48:33.309423"
+      }
+    ]
+  },
+  "6aa7d47fb809fa99252725330356539b": {
+    "time": "2026/09/17 13:50:43",
+    "category": "火災",
+    "sub_category": "一般(集合)住宅",
+    "location": "高雄市路竹區中山路",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T13:51:33.398463"
+      }
+    ]
+  },
+  "bed2cb5b7568dcc9bebd62438fb129b5": {
+    "time": "2026/09/17 13:50:45",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區中山一路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T13:51:33.398463"
       }
     ]
   }
