@@ -25043,7 +25043,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區大寮路",
     "units": "和發分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -25060,6 +25060,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T20:44:33.041352"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T20:54:33.071461"
       }
     ]
   },
@@ -25069,7 +25073,7 @@
     "sub_category": "車禍",
     "location": "高雄市新興區林森一路",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -25082,6 +25086,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T20:43:33.038728"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T20:54:33.071461"
       }
     ]
   },
@@ -25209,7 +25217,7 @@
     "sub_category": "創傷",
     "location": "高雄市桃源區南橫公路",
     "units": "桃源分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -25218,6 +25226,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T20:45:33.072333"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T20:54:33.071461"
       }
     ]
   },
@@ -25291,11 +25303,15 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T20:49:33.151147"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T20:54:33.071461"
       }
     ]
   }
