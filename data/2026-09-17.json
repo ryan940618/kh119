@@ -20785,7 +20785,7 @@
     "sub_category": "其他",
     "location": "高雄市左營區",
     "units": "",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -20798,6 +20798,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T14:13:33.594779"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T14:29:33.847031"
       }
     ]
   },
@@ -20954,6 +20958,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T14:28:33.635210"
+      }
+    ]
+  },
+  "2d0a030cd303fc2855ac290eacbf7b4e": {
+    "time": "2026/09/17 14:27:44",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市楠梓區",
+    "units": "",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T14:29:33.847031"
       }
     ]
   }
