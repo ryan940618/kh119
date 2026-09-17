@@ -19133,11 +19133,15 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區澄觀路",
     "units": "大社分隊,楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-17T12:10:33.695270"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T12:19:33.871312"
       }
     ]
   },
@@ -19161,11 +19165,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區大學十七街",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-17T12:13:33.902464"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T12:19:33.871312"
       }
     ]
   },
@@ -19175,7 +19183,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -19184,6 +19192,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T12:15:33.823698"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T12:19:33.871312"
+      }
+    ]
+  },
+  "784ec93f783ec4f309b1f9d74d44c34e": {
+    "time": "2026/09/17 12:18:23",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大社區",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T12:19:33.871312"
       }
     ]
   }
