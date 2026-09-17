@@ -16567,7 +16567,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區本洲路",
     "units": "永安分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -16584,6 +16584,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T09:11:33.485264"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T09:19:33.549494"
       }
     ]
   },
@@ -16775,11 +16779,15 @@
     "sub_category": "其他",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-17T09:11:33.485264"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T09:19:33.549494"
       }
     ]
   },
@@ -16789,7 +16797,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -16798,6 +16806,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T09:15:33.567513"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T09:19:33.549494"
       }
     ]
   }
