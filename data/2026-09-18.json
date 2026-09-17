@@ -27011,7 +27011,7 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -27024,6 +27024,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T01:31:33.292732"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T01:34:36.002943"
       }
     ]
   },
@@ -27033,11 +27037,15 @@
     "sub_category": "其他",
     "location": "屏東縣屏東市",
     "units": "",
-    "current_status": "已受理",
+    "current_status": "已派遣",
     "status_history": [
       {
         "status": "已受理",
         "timestamp": "2026-09-18T01:33:33.432121"
+      },
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T01:34:36.002943"
       }
     ]
   }
