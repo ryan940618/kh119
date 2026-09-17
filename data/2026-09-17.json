@@ -18669,7 +18669,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "高桂分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -18682,6 +18682,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T11:57:33.661331"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T12:08:33.777574"
       }
     ]
   },
@@ -18775,7 +18779,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -18784,6 +18788,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T11:58:33.704742"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T12:08:33.777574"
       }
     ]
   },
@@ -18855,7 +18863,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -18864,6 +18872,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T12:07:33.965683"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T12:08:33.777574"
       }
     ]
   },
@@ -18969,11 +18981,15 @@
     "sub_category": "路倒",
     "location": "高雄市燕巢區中民路",
     "units": "燕巢分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-17T12:05:33.713452"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T12:08:33.777574"
       }
     ]
   },
@@ -19011,11 +19027,15 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區八德南路",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T12:07:33.965683"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T12:08:33.777574"
       }
     ]
   },
