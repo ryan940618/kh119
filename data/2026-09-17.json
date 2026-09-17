@@ -20953,7 +20953,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -20962,6 +20962,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T14:30:33.742317"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T14:33:33.783018"
       }
     ]
   },
@@ -20971,11 +20975,15 @@
     "sub_category": "其他",
     "location": "高雄市楠梓區",
     "units": "",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T14:29:33.847031"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T14:33:33.783018"
       }
     ]
   }
