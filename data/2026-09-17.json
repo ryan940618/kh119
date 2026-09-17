@@ -23339,7 +23339,7 @@
     "sub_category": "創傷",
     "location": "高雄市梓官區梓官路",
     "units": "梓官分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -23352,6 +23352,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T17:43:33.977726"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T17:55:33.072506"
       }
     ]
   },
@@ -23391,11 +23395,43 @@
     "sub_category": "車禍",
     "location": "高雄市小港區港平路",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T17:52:34.656675"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T17:55:33.072506"
+      }
+    ]
+  },
+  "5e3b7a2c337bcd67c099845a3875a8b8": {
+    "time": "2026/09/17 17:55:00",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T17:55:33.072506"
+      }
+    ]
+  },
+  "df7d3177476a78df883a6a4971c39016": {
+    "time": "2026/09/17 17:53:49",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市美濃區双峰街",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T17:55:33.072506"
       }
     ]
   }
