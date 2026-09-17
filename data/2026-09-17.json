@@ -20785,7 +20785,7 @@
     "sub_category": "其他",
     "location": "高雄市左營區",
     "units": "",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -20802,6 +20802,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T14:29:33.847031"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T14:48:33.689865"
       }
     ]
   },
@@ -21013,7 +21017,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -21026,6 +21030,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T14:42:33.747504"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T14:48:33.689865"
       }
     ]
   },
@@ -21035,11 +21043,29 @@
     "sub_category": "創傷",
     "location": "高雄市三民區陽明路",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T14:47:33.816090"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T14:48:33.689865"
+      }
+    ]
+  },
+  "e196dad2b989b7ef634c86cad92f6600": {
+    "time": "2026/09/17 14:47:18",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市林園區鳳林路",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T14:48:33.689865"
       }
     ]
   }
