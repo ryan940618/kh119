@@ -17907,7 +17907,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -17920,6 +17920,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T11:06:33.543961"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T11:12:33.613851"
       }
     ]
   },
@@ -17959,11 +17963,15 @@
     "sub_category": "一般(集合)住宅",
     "location": "高雄市鼓山區鼓山三路",
     "units": "中華分隊,左營分隊,鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "火已滅",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-17T10:58:33.253133"
+      },
+      {
+        "status": "火已滅",
+        "timestamp": "2026-09-17T11:12:33.613851"
       }
     ]
   },
@@ -18057,7 +18065,7 @@
     "sub_category": "急病",
     "location": "高雄市六龜區",
     "units": "六龜分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -18066,6 +18074,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T11:08:33.487929"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T11:12:33.613851"
       }
     ]
   },
@@ -18089,11 +18101,15 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T11:11:33.291278"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T11:12:33.613851"
       }
     ]
   }
