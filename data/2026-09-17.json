@@ -15965,7 +15965,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區中正路",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -15982,6 +15982,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T08:30:33.190095"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T08:34:33.261101"
       }
     ]
   },
@@ -16123,7 +16127,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區公園北路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -16140,6 +16144,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T08:31:33.202127"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T08:34:33.261101"
       }
     ]
   },
@@ -16246,6 +16254,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T08:31:33.202127"
+      }
+    ]
+  },
+  "583f8e5fa0e41b58a5dec9fe962967ad": {
+    "time": "2026/09/17 08:32:46",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市茄萣區",
+    "units": "茄萣分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T08:34:33.261101"
       }
     ]
   }
