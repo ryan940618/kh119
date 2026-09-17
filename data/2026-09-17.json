@@ -24851,7 +24851,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區民族一路312巷和鼎山街",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -24860,6 +24860,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T20:25:32.934632"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T20:28:33.055181"
       }
     ]
   },
@@ -24878,6 +24882,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T20:25:32.934632"
+      }
+    ]
+  },
+  "5c0134fd5955c4dad21c597c224512c5": {
+    "time": "2026/09/17 20:27:36",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市橋頭區",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T20:28:33.055181"
+      }
+    ]
+  },
+  "b6cd7d1d488565a61ed7d4498b11602c": {
+    "time": "2026/09/17 20:27:08",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T20:28:33.055181"
       }
     ]
   }
