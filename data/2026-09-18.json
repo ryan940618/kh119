@@ -26547,7 +26547,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -26564,6 +26564,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T00:05:33.633717"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T00:18:33.597217"
       }
     ]
   },
@@ -26675,11 +26679,15 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T00:14:33.459469"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T00:18:33.597217"
       }
     ]
   },
@@ -26698,6 +26706,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T00:16:33.521894"
+      }
+    ]
+  },
+  "ea84ac404fff418cc0f7d0a6053a9ee9": {
+    "time": "2026/09/18 00:18:05",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市小港區",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T00:18:33.597217"
       }
     ]
   }
