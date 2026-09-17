@@ -17989,7 +17989,7 @@
     "sub_category": "車禍",
     "location": "高雄市梓官區展寶路",
     "units": "梓官分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -18006,6 +18006,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T11:15:33.428554"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T11:26:33.780745"
       }
     ]
   },
@@ -18319,11 +18323,29 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T11:23:33.375134"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T11:26:33.780745"
+      }
+    ]
+  },
+  "dd8e48da8d1aa8afd1626b189736de15": {
+    "time": "2026/09/17 11:25:28",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區華夏路",
+    "units": "左營分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T11:26:33.780745"
       }
     ]
   }
