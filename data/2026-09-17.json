@@ -16929,7 +16929,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -16942,6 +16942,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T09:38:33.634420"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T09:44:33.740347"
       }
     ]
   },
@@ -16973,11 +16977,15 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T09:39:33.648722"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T09:44:33.740347"
       }
     ]
   },
@@ -17019,7 +17027,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區岡山路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已派遣",
     "status_history": [
       {
         "status": "已派遣",
@@ -17028,6 +17036,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T09:42:33.556012"
+      },
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T09:44:33.740347"
       }
     ]
   },
@@ -17051,11 +17063,15 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區岡山路",
     "units": "橋頭分隊",
-    "current_status": "已派遣",
+    "current_status": "已受理",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T09:43:33.590001"
+      },
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-17T09:44:33.740347"
       }
     ]
   }
