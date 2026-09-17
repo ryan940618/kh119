@@ -20151,7 +20151,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區南京路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -20160,6 +20160,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T13:18:33.168292"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T13:28:33.108807"
       }
     ]
   },
@@ -20223,7 +20227,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區建楠路",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -20232,6 +20236,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T13:25:33.246997"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T13:28:33.108807"
       }
     ]
   },
@@ -20241,11 +20249,15 @@
     "sub_category": "車禍",
     "location": "高雄市新興區民族二路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T13:27:33.246210"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T13:28:33.108807"
       }
     ]
   },
@@ -20255,11 +20267,29 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區明誠四路",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T13:27:33.246210"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T13:28:33.108807"
+      }
+    ]
+  },
+  "36d0ddf1b4c3f367443c8af6e8091f0d": {
+    "time": "2026/09/17 13:27:03",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "瑞隆分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T13:28:33.108807"
       }
     ]
   }
