@@ -17265,7 +17265,7 @@
     "sub_category": "車禍",
     "location": "高雄市林園區力行路",
     "units": "大林分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -17274,6 +17274,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T10:10:33.913018"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T10:12:33.951968"
       }
     ]
   },
@@ -17373,11 +17377,43 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區文龍東路",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T10:11:34.383877"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T10:12:33.951968"
+      }
+    ]
+  },
+  "151644a73610f226e8ef1019733551f7": {
+    "time": "2026/09/17 10:11:19",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區鳳林二路",
+    "units": "高桂分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T10:12:33.951968"
+      }
+    ]
+  },
+  "b1cf6374e516ea9cf161cccf8e5a6af8": {
+    "time": "2026/09/17 10:11:12",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區南光街",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T10:12:33.951968"
       }
     ]
   }
