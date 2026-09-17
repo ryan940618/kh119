@@ -27453,7 +27453,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -27470,6 +27470,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T05:04:33.297445"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T05:09:33.255978"
       }
     ]
   },
@@ -27524,6 +27528,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T05:06:33.272340"
+      }
+    ]
+  },
+  "03b58ab818da522e6f0f8dba45237041": {
+    "time": "2026/09/18 05:08:51",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市楠梓區啟昌街",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T05:09:33.255978"
       }
     ]
   }
