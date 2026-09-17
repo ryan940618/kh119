@@ -24845,7 +24845,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -24862,6 +24862,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T20:39:33.020499"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T20:47:33.890215"
       }
     ]
   },
@@ -25133,7 +25137,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區鳳松路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -25142,6 +25146,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T20:43:33.038728"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T20:47:33.890215"
       }
     ]
   },
@@ -25187,11 +25195,29 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T20:46:33.116565"
+      },
+      {
+        "status": "",
+        "timestamp": "2026-09-17T20:47:33.890215"
+      }
+    ]
+  },
+  "ea22438fdbfbd043f2f369fa81793c0d": {
+    "time": "2026/09/17 20:46:23",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T20:47:33.890215"
       }
     ]
   }
