@@ -17389,7 +17389,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區三隆路",
     "units": "和發分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -17406,6 +17406,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T10:20:33.072314"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T10:34:33.057096"
       }
     ]
   },
@@ -17451,7 +17455,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區鳳林二路",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -17460,6 +17464,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T10:20:33.072314"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T10:34:33.057096"
       }
     ]
   },
@@ -17469,7 +17477,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區南光街",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -17486,6 +17494,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T10:28:33.246075"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T10:34:33.057096"
       }
     ]
   },
@@ -17666,6 +17678,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T10:33:33.111849"
+      }
+    ]
+  },
+  "c32ecb59c705884512ad218fa896d893": {
+    "time": "2026/09/17 10:32:57",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市茄萣區",
+    "units": "茄萣分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T10:34:33.057096"
       }
     ]
   }
