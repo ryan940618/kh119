@@ -21169,7 +21169,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -21182,6 +21182,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T15:04:33.937634"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T15:09:33.948004"
       }
     ]
   },
@@ -21279,11 +21283,15 @@
     "sub_category": "創傷",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-17T15:03:33.828494"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T15:09:33.948004"
       }
     ]
   },
