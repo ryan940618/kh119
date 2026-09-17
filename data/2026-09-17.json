@@ -23877,7 +23877,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區德民路",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -23894,6 +23894,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T18:45:33.433398"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T18:50:33.465801"
       }
     ]
   },
@@ -23903,7 +23907,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區復興路",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -23912,6 +23916,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T18:43:33.225491"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T18:50:33.465801"
       }
     ]
   },
@@ -23987,7 +23995,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區中華一路",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -23996,6 +24004,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T18:48:33.769454"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T18:50:33.465801"
       }
     ]
   },
@@ -24023,11 +24035,15 @@
     "sub_category": "其他",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T18:48:33.769454"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T18:50:33.465801"
       }
     ]
   }
