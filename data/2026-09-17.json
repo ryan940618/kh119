@@ -18401,7 +18401,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -18410,6 +18410,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T11:29:33.517285"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T11:33:33.569765"
       }
     ]
   },
@@ -18433,11 +18437,57 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T11:32:33.622339"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T11:33:33.569765"
+      }
+    ]
+  },
+  "135f5824a3ff9ece4ec44845809286b4": {
+    "time": "2026/09/17 11:33:16",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T11:33:33.569765"
+      }
+    ]
+  },
+  "49073df46709afaeb02da36ce3356f4c": {
+    "time": "2026/09/17 11:33:12",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T11:33:33.569765"
+      }
+    ]
+  },
+  "4317f0ac67f8fd5d9bd2544198a2ef31": {
+    "time": "2026/09/17 11:32:34",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市旗津區旗港路",
+    "units": "旗津分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T11:33:33.569765"
       }
     ]
   }
