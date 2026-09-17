@@ -22245,7 +22245,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -22254,6 +22254,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T16:19:33.366764"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T16:26:33.425433"
       }
     ]
   },
@@ -22336,6 +22340,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T16:24:33.456786"
+      }
+    ]
+  },
+  "8c005de5d3800c2bdb3a4043c5b1140e": {
+    "time": "2026/09/17 16:25:15",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T16:26:33.425433"
+      }
+    ]
+  },
+  "b1495abb2d492d722125e3bdd05a6d95": {
+    "time": "2026/09/17 16:24:41",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區建國二路",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T16:26:33.425433"
       }
     ]
   }
