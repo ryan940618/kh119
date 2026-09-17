@@ -16293,7 +16293,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區仁心路",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -16310,6 +16310,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T08:46:34.390374"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T08:56:33.322355"
       }
     ]
   },
@@ -16373,7 +16377,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區建國路",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -16386,6 +16390,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T08:43:33.353900"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T08:56:33.322355"
       }
     ]
   },
@@ -16607,11 +16615,15 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區新莊路",
     "units": "橋頭分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T08:54:33.343183"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T08:56:33.322355"
       }
     ]
   },
