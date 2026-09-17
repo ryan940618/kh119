@@ -15961,7 +15961,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區中正路",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -15974,6 +15974,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T08:18:33.190345"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T08:30:33.190095"
       }
     ]
   },
@@ -16159,7 +16163,7 @@
     "sub_category": "車禍",
     "location": "高雄市彌陀區鹽埕大路",
     "units": "彌陀分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -16168,6 +16172,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T08:26:32.982811"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T08:30:33.190095"
       }
     ]
   },
@@ -16177,7 +16185,7 @@
     "sub_category": "車禍",
     "location": "高雄市大社區中山路",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -16186,6 +16194,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T08:27:33.010126"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T08:30:33.190095"
       }
     ]
   },
@@ -16204,6 +16216,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T08:29:33.021890"
+      }
+    ]
+  },
+  "0cb4ff0956cccb1e4b4a17b8fe77f649": {
+    "time": "2026/09/17 08:29:32",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區仁心路",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T08:30:33.190095"
       }
     ]
   }
