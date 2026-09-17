@@ -17303,7 +17303,7 @@
     "sub_category": "路倒",
     "location": "高雄市左營區自由二路和新中街",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -17316,6 +17316,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T10:08:33.910210"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T10:22:33.219861"
       }
     ]
   },
@@ -17503,11 +17507,15 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T10:19:33.449656"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T10:22:33.219861"
       }
     ]
   },
@@ -17535,11 +17543,15 @@
     "sub_category": "車禍",
     "location": "高雄市左營區蓮潭路",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T10:21:33.270901"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T10:22:33.219861"
       }
     ]
   }
