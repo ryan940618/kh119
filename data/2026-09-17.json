@@ -21681,7 +21681,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區自由路",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -21694,6 +21694,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T15:53:33.164056"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T15:56:33.186913"
       }
     ]
   },
@@ -21841,11 +21845,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區楠梓新路",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-17T15:52:33.209562"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T15:56:33.186913"
       }
     ]
   },
@@ -21883,11 +21891,15 @@
     "sub_category": "其他",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T15:54:33.495453"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T15:56:33.186913"
       }
     ]
   },
