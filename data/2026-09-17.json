@@ -18761,7 +18761,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -18770,6 +18770,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T11:57:33.661331"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T12:09:33.928702"
       }
     ]
   },
@@ -19013,11 +19017,15 @@
     "sub_category": "藥物、食物中毒",
     "location": "高雄市岡山區永樂街",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-17T12:06:33.914792"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T12:09:33.928702"
       }
     ]
   },
@@ -19050,6 +19058,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T12:07:33.965683"
+      }
+    ]
+  },
+  "6bc9fc59d17b75f1a926ac3dae5e61bf": {
+    "time": "2026/09/17 12:09:13",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區澄觀路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T12:09:33.928702"
       }
     ]
   }
