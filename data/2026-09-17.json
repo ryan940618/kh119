@@ -24561,7 +24561,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -24574,6 +24574,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T19:49:33.733096"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T20:02:33.802092"
       }
     ]
   },
@@ -24676,6 +24680,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T20:01:33.854454"
+      }
+    ]
+  },
+  "46ef714bd297a067b7bcf96aacaf6c3c": {
+    "time": "2026/09/17 20:01:47",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T20:02:33.802092"
       }
     ]
   }
