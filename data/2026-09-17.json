@@ -16105,7 +16105,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -16122,6 +16122,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T08:35:33.166801"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T08:37:33.247996"
       }
     ]
   },
@@ -16231,7 +16235,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -16244,6 +16248,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T08:32:33.367854"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T08:37:33.247996"
       }
     ]
   },
@@ -16308,6 +16316,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T08:35:33.166801"
+      }
+    ]
+  },
+  "01d36cb75871d3c918920eecf217b22d": {
+    "time": "2026/09/17 08:36:32",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區建國路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T08:37:33.247996"
+      }
+    ]
+  },
+  "d8dcebff9f4fc0bbb91b7c3eec51a658": {
+    "time": "2026/09/17 08:35:36",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T08:37:33.247996"
       }
     ]
   }
