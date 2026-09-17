@@ -22027,7 +22027,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -22044,6 +22044,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T16:14:33.294285"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T16:24:33.456786"
       }
     ]
   },
@@ -22269,11 +22273,15 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區成功二路",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T16:23:33.440306"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T16:24:33.456786"
       }
     ]
   },
@@ -22283,11 +22291,43 @@
     "sub_category": "創傷",
     "location": "高雄市梓官區大舍西路",
     "units": "梓官分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T16:23:33.440306"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T16:24:33.456786"
+      }
+    ]
+  },
+  "739282d511c7b2bdde9c160f32d4367b": {
+    "time": "2026/09/17 16:23:37",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市梓官區",
+    "units": "彌陀分隊,梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T16:24:33.456786"
+      }
+    ]
+  },
+  "316d8c10299dfba2b6a9c25d52006aa7": {
+    "time": "2026/09/17 16:21:27",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市前鎮區中華五路",
+    "units": "成功分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T16:24:33.456786"
       }
     ]
   }
