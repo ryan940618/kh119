@@ -27709,7 +27709,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -27726,6 +27726,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T06:15:33.614261"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T06:19:33.605975"
       }
     ]
   },
@@ -27775,11 +27779,15 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區四海街",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T06:18:33.738947"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T06:19:33.605975"
       }
     ]
   }
