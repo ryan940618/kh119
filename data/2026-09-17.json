@@ -24633,7 +24633,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -24650,6 +24650,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T20:10:33.907287"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T20:22:32.824575"
       }
     ]
   },
@@ -24807,11 +24811,15 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區竹楠路",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T20:21:33.060599"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T20:22:32.824575"
       }
     ]
   }
