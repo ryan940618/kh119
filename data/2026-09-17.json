@@ -22251,7 +22251,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "橋頭分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -22268,6 +22268,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T16:41:33.662048"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T16:52:33.818443"
       }
     ]
   },
@@ -22577,7 +22581,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區五甲二路",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -22590,6 +22594,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T16:48:33.710798"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T16:52:33.818443"
       }
     ]
   },
@@ -22630,6 +22638,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T16:50:33.819393"
+      }
+    ]
+  },
+  "b5e71622cc4352387ff049a0b492dfac": {
+    "time": "2026/09/17 16:52:09",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區高鳳路",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T16:52:33.818443"
       }
     ]
   }
