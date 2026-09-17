@@ -25811,7 +25811,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -25824,6 +25824,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T21:50:33.618576"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T21:55:33.738871"
       }
     ]
   },
@@ -25855,11 +25859,15 @@
     "sub_category": "創傷",
     "location": "高雄市三民區義忠街",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-17T21:49:33.608811"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T21:55:33.738871"
       }
     ]
   },
