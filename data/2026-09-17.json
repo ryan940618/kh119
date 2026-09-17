@@ -19371,7 +19371,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -19388,6 +19388,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T12:50:33.259566"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T13:01:33.215769"
       }
     ]
   },
@@ -19643,7 +19647,7 @@
     "sub_category": "創傷",
     "location": "高雄市鼓山區河邊街",
     "units": "鼓山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -19660,6 +19664,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T12:54:33.210359"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T13:01:33.215769"
       }
     ]
   },
@@ -19715,7 +19723,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -19728,6 +19736,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T12:54:33.210359"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T13:01:33.215769"
       }
     ]
   },
@@ -19873,11 +19885,15 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-17T12:55:33.252857"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T13:01:33.215769"
       }
     ]
   },
@@ -19905,7 +19921,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -19914,6 +19930,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T12:59:33.297895"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T13:01:33.215769"
       }
     ]
   }
