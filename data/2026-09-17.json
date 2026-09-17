@@ -25207,7 +25207,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -25224,6 +25224,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T20:53:33.110774"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T21:04:33.340802"
       }
     ]
   },
@@ -25354,6 +25358,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T21:00:33.274366"
+      }
+    ]
+  },
+  "46a87a344227e4eb633aec1bd303a6f8": {
+    "time": "2026/09/17 21:03:37",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T21:04:33.340802"
       }
     ]
   }
