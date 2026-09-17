@@ -19363,7 +19363,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -19372,6 +19372,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T12:30:33.946909"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T12:40:33.145033"
       }
     ]
   },
@@ -19567,11 +19571,29 @@
     "sub_category": "創傷",
     "location": "高雄市鼓山區河邊街",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T12:37:33.590888"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T12:40:33.145033"
+      }
+    ]
+  },
+  "3585347bb410b27fb837a13989409475": {
+    "time": "2026/09/17 12:39:12",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市左營區大中二路",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T12:40:33.145033"
       }
     ]
   }
