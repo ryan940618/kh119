@@ -21603,7 +21603,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區新安街",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -21616,6 +21616,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T15:40:33.072126"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T15:41:33.037618"
       }
     ]
   },
@@ -21662,6 +21666,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T15:39:33.064143"
+      }
+    ]
+  },
+  "9bb111c8325e837f8a0d9ddec4dad26e": {
+    "time": "2026/09/17 15:40:43",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T15:41:33.037618"
       }
     ]
   }
