@@ -23025,7 +23025,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -23034,6 +23034,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T17:10:34.021897"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T17:27:33.951410"
       }
     ]
   },
@@ -23115,7 +23119,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -23124,6 +23128,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T17:23:33.932447"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T17:27:33.951410"
       }
     ]
   },
@@ -23133,7 +23141,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區鳳屏一路",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -23142,6 +23150,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T17:24:34.065344"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T17:27:33.951410"
+      }
+    ]
+  },
+  "df8e050630ab8385a33f1cbbeea1797c": {
+    "time": "2026/09/17 17:26:41",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T17:27:33.951410"
       }
     ]
   }
