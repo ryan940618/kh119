@@ -28297,7 +28297,7 @@
     "sub_category": "車禍",
     "location": "高雄市彌陀區中正西路",
     "units": "彌陀分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -28306,6 +28306,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T07:33:33.288902"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T07:47:33.263331"
       }
     ]
   },
@@ -28359,7 +28363,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區岡山北路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -28376,6 +28380,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T07:42:33.252042"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T07:47:33.263331"
       }
     ]
   },
@@ -28416,6 +28424,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T07:45:33.223619"
+      }
+    ]
+  },
+  "0890885a83d73ce42650986f3e74c297": {
+    "time": "2026/09/18 07:46:47",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區加昌路",
+    "units": "後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T07:47:33.263331"
       }
     ]
   }
