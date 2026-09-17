@@ -22417,7 +22417,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -22430,6 +22430,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T16:37:33.575639"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T16:45:33.667113"
       }
     ]
   },
@@ -22565,11 +22569,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區五甲二路",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-17T16:42:33.587463"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T16:45:33.667113"
       }
     ]
   }
