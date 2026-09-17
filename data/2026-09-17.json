@@ -25035,7 +25035,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區南屏路",
     "units": "左營分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -25044,6 +25044,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T20:37:33.150955"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T20:41:32.995086"
       }
     ]
   },
@@ -25090,6 +25094,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T20:40:33.038957"
+      }
+    ]
+  },
+  "e2b7a7aa04d78afe0869ea0ea6de6c51": {
+    "time": "2026/09/17 20:40:08",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T20:41:32.995086"
       }
     ]
   }
