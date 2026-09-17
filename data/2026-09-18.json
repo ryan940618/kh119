@@ -26953,7 +26953,7 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區武慶三路",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -26962,6 +26962,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T01:23:32.859236"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T01:33:33.432121"
       }
     ]
   },
@@ -27020,6 +27024,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T01:31:33.292732"
+      }
+    ]
+  },
+  "73220b01ddeb83b9354bf73423092845": {
+    "time": "2026/09/18 01:32:12",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "屏東縣屏東市",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-18T01:33:33.432121"
       }
     ]
   }
