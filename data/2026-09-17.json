@@ -21669,11 +21669,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區自由路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-17T15:39:33.064143"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T15:45:33.035912"
       }
     ]
   },
@@ -21710,6 +21714,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T15:43:33.014463"
+      }
+    ]
+  },
+  "374c3733a6d3602b253e2f553a7d1d12": {
+    "time": "2026/09/17 15:44:07",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T15:45:33.035912"
       }
     ]
   }
