@@ -17165,7 +17165,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -17182,6 +17182,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T10:06:34.008349"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T10:19:33.449656"
       }
     ]
   },
@@ -17393,7 +17397,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區文龍東路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -17402,6 +17406,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T10:12:33.951968"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T10:19:33.449656"
       }
     ]
   },
@@ -17474,6 +17482,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T10:18:33.151153"
+      }
+    ]
+  },
+  "970fa4f8f4297cbc7afe959310a3ff11": {
+    "time": "2026/09/17 10:18:30",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前金區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T10:19:33.449656"
       }
     ]
   }
