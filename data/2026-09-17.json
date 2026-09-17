@@ -16581,7 +16581,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -16594,6 +16594,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T08:54:33.343183"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T09:02:33.419240"
       }
     ]
   },
@@ -16671,11 +16675,15 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區本工西二路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-17T08:55:33.369199"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T09:02:33.419240"
       }
     ]
   },
