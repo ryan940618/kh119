@@ -21775,7 +21775,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -21788,6 +21788,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T15:57:33.323267"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T16:07:33.305473"
       }
     ]
   },
@@ -21857,7 +21861,7 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區統嶺路",
     "units": "燕巢分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -21866,6 +21870,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T15:52:33.209562"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T16:07:33.305473"
       }
     ]
   },
@@ -22061,11 +22069,15 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T16:03:33.305808"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T16:07:33.305473"
       }
     ]
   },
@@ -22075,11 +22087,15 @@
     "sub_category": "創傷",
     "location": "高雄市鼓山區蓮海路",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T16:04:33.306932"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T16:07:33.305473"
       }
     ]
   }
