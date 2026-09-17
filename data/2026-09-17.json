@@ -21633,7 +21633,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -21646,6 +21646,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T15:50:33.149004"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T15:58:33.323298"
       }
     ]
   },
@@ -21803,7 +21807,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "大林分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -21816,6 +21820,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T15:51:33.224755"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T15:58:33.323298"
       }
     ]
   },
@@ -21875,11 +21883,15 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T15:53:33.164056"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T15:58:33.323298"
       }
     ]
   },
@@ -21957,11 +21969,15 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區青年一路和民權街",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T15:57:33.323267"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T15:58:33.323298"
       }
     ]
   }
