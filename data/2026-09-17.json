@@ -18717,7 +18717,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -18730,6 +18730,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T12:00:33.835692"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T12:10:33.695270"
       }
     ]
   },
@@ -18939,7 +18943,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -18948,6 +18952,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T12:04:33.919288"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T12:10:33.695270"
       }
     ]
   },
@@ -19053,11 +19061,15 @@
     "sub_category": "創傷",
     "location": "高雄市前金區中華三路",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T12:07:33.965683"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T12:10:33.695270"
       }
     ]
   },
@@ -19072,6 +19084,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T12:09:33.928702"
+      }
+    ]
+  },
+  "b48d71fc5d2582e826847b718a0235ed": {
+    "time": "2026/09/17 12:08:41",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區澄觀路",
+    "units": "大社分隊,楠梓分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T12:10:33.695270"
       }
     ]
   }
