@@ -26875,7 +26875,7 @@
     "sub_category": "路倒",
     "location": "高雄市新興區中山一路",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -26888,6 +26888,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T01:00:33.716297"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T01:14:32.871162"
       }
     ]
   },
@@ -26902,6 +26906,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T01:13:32.892459"
+      }
+    ]
+  },
+  "77d6db58346cba9164457b6b57573c1e": {
+    "time": "2026/09/18 01:14:07",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T01:14:32.871162"
       }
     ]
   }
