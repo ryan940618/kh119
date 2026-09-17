@@ -17885,7 +17885,7 @@
     "sub_category": "其他",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -17898,6 +17898,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-17T10:57:33.311945"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-17T11:18:33.335456"
       }
     ]
   },
@@ -18163,11 +18167,15 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區過勇路",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T11:16:33.624283"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T11:18:33.335456"
       }
     ]
   },
