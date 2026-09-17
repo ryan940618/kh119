@@ -27627,7 +27627,7 @@
     "sub_category": "路倒",
     "location": "高雄市大寮區四維路",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -27644,6 +27644,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T06:08:33.606095"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T06:16:33.705743"
       }
     ]
   },
@@ -27745,11 +27749,15 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區中崙一路",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T06:14:33.737296"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T06:16:33.705743"
       }
     ]
   }
