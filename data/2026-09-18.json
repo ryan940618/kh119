@@ -28275,7 +28275,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -28288,6 +28288,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T07:35:33.342911"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T07:49:33.364276"
       }
     ]
   },
@@ -28393,7 +28397,7 @@
     "sub_category": "車禍",
     "location": "高雄市旗津區中洲三路",
     "units": "旗津分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -28410,6 +28414,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T07:46:33.282746"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T07:49:33.364276"
       }
     ]
   },
@@ -28442,6 +28450,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T07:48:33.224503"
+      }
+    ]
+  },
+  "37bb4cd36d180616f066d69e3bec5ad9": {
+    "time": "2026/09/18 07:48:11",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鳳山區光遠路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T07:49:33.364276"
       }
     ]
   }
