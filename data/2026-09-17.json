@@ -17751,7 +17751,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -17764,6 +17764,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-17T10:47:33.237318"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-17T10:59:33.438670"
       }
     ]
   },
@@ -17909,11 +17913,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區九如一路",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T10:58:33.253133"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T10:59:33.438670"
       }
     ]
   },
