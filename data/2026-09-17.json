@@ -19399,7 +19399,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -19408,6 +19408,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T12:31:33.948514"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T12:37:33.590888"
       }
     ]
   },
@@ -19453,7 +19457,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -19462,6 +19466,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-17T12:34:33.921423"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T12:37:33.590888"
       }
     ]
   },
@@ -19489,11 +19497,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區德民路",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-17T12:33:33.941751"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-17T12:37:33.590888"
       }
     ]
   },
@@ -19508,6 +19520,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T12:35:34.079236"
+      }
+    ]
+  },
+  "1147cae3aa1f733cd02660a3be4c0bb8": {
+    "time": "2026/09/17 12:36:56",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區國泰路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T12:37:33.590888"
+      }
+    ]
+  },
+  "b8484a25e5ade05e8da4d38173c867f1": {
+    "time": "2026/09/17 12:36:46",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鼓山區河邊街",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T12:37:33.590888"
       }
     ]
   }
