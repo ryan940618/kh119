@@ -16947,11 +16947,15 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T09:39:33.648722"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T09:41:33.604288"
       }
     ]
   },
@@ -16975,11 +16979,43 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-17T09:40:33.701132"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T09:41:33.604288"
+      }
+    ]
+  },
+  "bc6f0063abf20e3cc72649ff9ca6ff43": {
+    "time": "2026/09/17 09:40:58",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市茄萣區",
+    "units": "茄萣分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-17T09:41:33.604288"
+      }
+    ]
+  },
+  "d68a3eded4b156bf02f6f09c30298860": {
+    "time": "2026/09/17 09:40:26",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區岡山路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-17T09:41:33.604288"
       }
     ]
   }
