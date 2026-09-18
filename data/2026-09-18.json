@@ -37831,7 +37831,7 @@
     "sub_category": "車禍",
     "location": "高雄市六龜區",
     "units": "六龜分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -37840,6 +37840,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T20:57:33.447917"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T21:02:33.415609"
       }
     ]
   },
@@ -37849,11 +37853,15 @@
     "sub_category": "路倒",
     "location": "高雄市左營區華夏路",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T21:00:33.502111"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T21:02:33.415609"
       }
     ]
   },
@@ -37863,11 +37871,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T21:01:33.181826"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T21:02:33.415609"
       }
     ]
   },
@@ -37882,6 +37894,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T21:01:33.181826"
+      }
+    ]
+  },
+  "f53f834f457ebbde53009c084c4d0fc4": {
+    "time": "2026/09/18 21:01:28",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區本館路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T21:02:33.415609"
       }
     ]
   }
