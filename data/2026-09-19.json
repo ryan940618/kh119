@@ -39927,7 +39927,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -39940,6 +39940,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T01:57:32.974330"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T02:15:33.119928"
       }
     ]
   },
@@ -39958,6 +39962,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T02:12:33.151380"
+      }
+    ]
+  },
+  "07102d7dc193f54187583a2a9080452a": {
+    "time": "2026/09/19 02:14:19",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T02:15:33.119928"
+      }
+    ]
+  },
+  "6f14afadddc0cbd1de95279274eff0d7": {
+    "time": "2026/09/19 02:14:17",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區鳳頂路",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T02:15:33.119928"
       }
     ]
   }
