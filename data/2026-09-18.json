@@ -29591,7 +29591,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -29600,6 +29600,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T09:36:32.950273"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T09:50:33.045364"
       }
     ]
   },
@@ -29663,7 +29667,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -29676,6 +29680,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T09:44:33.266326"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T09:50:33.045364"
       }
     ]
   },
@@ -29760,6 +29768,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T09:44:33.266326"
+      }
+    ]
+  },
+  "819df54f2abcea55b1a10184259ff83a": {
+    "time": "2026/09/18 09:49:27",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T09:50:33.045364"
       }
     ]
   }
