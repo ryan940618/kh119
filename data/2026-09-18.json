@@ -33519,11 +33519,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-18T14:50:32.978758"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T15:01:32.948315"
       }
     ]
   },
@@ -33546,6 +33550,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T15:00:32.957162"
+      }
+    ]
+  },
+  "5d9aeb3efa75f2c129b2db7ac6d8a5b6": {
+    "time": "2026/09/18 15:00:10",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市大社區大社路",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T15:01:32.948315"
       }
     ]
   }
