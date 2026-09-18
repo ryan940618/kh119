@@ -30223,7 +30223,7 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區久堂路",
     "units": "大樹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -30240,6 +30240,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T10:38:33.360107"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T10:54:33.528100"
       }
     ]
   },
@@ -30331,7 +30335,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區岡燕路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -30348,6 +30352,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T10:40:33.477332"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T10:54:33.528100"
       }
     ]
   },
@@ -30449,11 +30457,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-18T10:49:34.569105"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T10:54:33.528100"
       }
     ]
   },
@@ -30495,11 +30507,15 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T10:51:33.644151"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T10:54:33.528100"
       }
     ]
   },
