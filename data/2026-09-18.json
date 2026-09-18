@@ -30923,7 +30923,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區孔鳳路",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已到達",
@@ -30932,6 +30932,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T11:33:33.773459"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T11:47:34.038151"
       }
     ]
   },
@@ -31011,7 +31015,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區鎮中路",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -31024,6 +31028,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T11:42:33.863726"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T11:47:34.038151"
       }
     ]
   },
@@ -31132,6 +31140,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T11:46:33.947909"
+      }
+    ]
+  },
+  "caa4676a4134bd4745e634858e361609": {
+    "time": "2026/09/18 11:45:28",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T11:47:34.038151"
       }
     ]
   }
