@@ -36201,11 +36201,15 @@
     "sub_category": "急病",
     "location": "高雄市六龜區",
     "units": "六龜分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-18T18:59:33.666567"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T19:05:33.749353"
       }
     ]
   },
@@ -36233,11 +36237,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區五甲一路",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T19:02:33.840639"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T19:05:33.749353"
       }
     ]
   },
@@ -36288,6 +36296,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T19:04:33.688155"
+      }
+    ]
+  },
+  "a76f0e8f941ece91f30b19555d94acd5": {
+    "time": "2026/09/18 19:04:38",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市杉林區",
+    "units": "杉林分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T19:05:33.749353"
+      }
+    ]
+  },
+  "d812ae4f0f7d3ea44a476a63b9391f25": {
+    "time": "2026/09/18 19:04:41",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區凱旋一路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T19:05:33.749353"
       }
     ]
   }
