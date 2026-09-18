@@ -31631,7 +31631,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區中安路",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -31640,6 +31640,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T12:21:33.111987"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T12:35:33.572156"
       }
     ]
   },
@@ -31785,7 +31789,7 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區中華街",
     "units": "湖內分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -31798,6 +31802,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T12:30:33.578368"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T12:35:33.572156"
       }
     ]
   },
@@ -31915,11 +31923,15 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T12:32:33.310077"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T12:35:33.572156"
       }
     ]
   },
