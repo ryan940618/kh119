@@ -38943,11 +38943,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-18T23:03:33.978559"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T23:09:33.880108"
       }
     ]
   },
@@ -38975,11 +38979,15 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T23:08:34.023319"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T23:09:33.880108"
       }
     ]
   },
@@ -38994,6 +39002,20 @@
       {
         "status": "已受理",
         "timestamp": "2026-09-18T23:08:34.023319"
+      }
+    ]
+  },
+  "49093259fbb90000dab7d0fc35cce824": {
+    "time": "2026/09/18 23:08:22",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區透過經緯度轉換GIS座標(22.5759,120.3325)翠亨南路",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T23:09:33.880108"
       }
     ]
   }
