@@ -38021,7 +38021,7 @@
     "sub_category": "其他",
     "location": "高雄市岡山區協和路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -38030,6 +38030,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T21:13:33.519980"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T21:24:33.435935"
       }
     ]
   },
@@ -38098,6 +38102,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T21:23:33.419541"
+      }
+    ]
+  },
+  "8b87a47e7c86174aaf837c80c7fc6320": {
+    "time": "2026/09/18 21:23:11",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T21:24:33.435935"
+      }
+    ]
+  },
+  "42a7d76549637536529797105679da64": {
+    "time": "2026/09/18 21:22:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區福德三路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T21:24:33.435935"
       }
     ]
   }
