@@ -35453,7 +35453,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -35466,6 +35466,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T18:08:33.374662"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T18:12:33.374318"
       }
     ]
   },
@@ -35637,7 +35641,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -35646,6 +35650,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T18:08:33.374662"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T18:12:33.374318"
       }
     ]
   },
@@ -35664,6 +35672,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T18:11:33.135816"
+      }
+    ]
+  },
+  "356588a723a86ef81ffb67f2bcdd7472": {
+    "time": "2026/09/18 18:11:00",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市新興區錦田路",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T18:12:33.374318"
       }
     ]
   }
