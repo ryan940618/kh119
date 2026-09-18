@@ -31869,7 +31869,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區橋新三路",
     "units": "楠梓分隊,橋頭分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -31886,6 +31886,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T12:45:33.389539"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T12:52:33.660260"
       }
     ]
   },
@@ -31983,7 +31987,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -32000,6 +32004,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T12:48:33.705927"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T12:52:33.660260"
       }
     ]
   },
@@ -32133,11 +32141,29 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區中正一路",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T12:51:33.635119"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T12:52:33.660260"
+      }
+    ]
+  },
+  "7e1e736e22a1ef8dd7035e2f14500eae": {
+    "time": "2026/09/18 12:51:39",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市梓官區公舘路",
+    "units": "彌陀分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T12:52:33.660260"
       }
     ]
   }
