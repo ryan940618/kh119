@@ -38451,7 +38451,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區嫩江街",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -38464,6 +38464,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T21:55:33.599487"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T22:00:33.639591"
       }
     ]
   },
@@ -38495,7 +38499,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區自強二路",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -38504,6 +38508,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T21:55:33.599487"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T22:00:33.639591"
       }
     ]
   },
@@ -38558,6 +38566,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T21:59:33.611470"
+      }
+    ]
+  },
+  "97e7151bc6db2b66519f7c65f60cc442": {
+    "time": "2026/09/18 21:59:55",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市橋頭區",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T22:00:33.639591"
+      }
+    ]
+  },
+  "19f6dfe6be201072532445ba5c9a3997": {
+    "time": "2026/09/18 21:59:28",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T22:00:33.639591"
       }
     ]
   }
