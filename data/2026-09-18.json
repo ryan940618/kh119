@@ -33399,7 +33399,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -33416,6 +33416,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T14:43:34.100934"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T14:51:33.016901"
       }
     ]
   },
@@ -33477,11 +33481,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T14:50:32.978758"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T14:51:33.016901"
       }
     ]
   },
