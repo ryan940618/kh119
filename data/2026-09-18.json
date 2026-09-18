@@ -31161,7 +31161,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -31178,6 +31178,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T12:05:33.143672"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T12:14:33.104405"
       }
     ]
   },
@@ -31473,7 +31477,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "新興分隊,鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -31482,6 +31486,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T12:03:34.230053"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T12:14:33.104405"
       }
     ]
   },
@@ -31505,7 +31513,7 @@
     "sub_category": "創傷",
     "location": "高雄市鼓山區延平街",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -31518,6 +31526,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T12:11:33.117242"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T12:14:33.104405"
       }
     ]
   },
@@ -31527,11 +31539,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T12:13:33.168234"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T12:14:33.104405"
       }
     ]
   },
@@ -31541,11 +31557,29 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T12:13:33.168234"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T12:14:33.104405"
+      }
+    ]
+  },
+  "9165c4bfb9dcd4648d4fdd6470e6a384": {
+    "time": "2026/09/18 12:13:19",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區中安路",
+    "units": "五甲分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T12:14:33.104405"
       }
     ]
   }
