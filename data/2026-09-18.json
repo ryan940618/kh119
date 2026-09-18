@@ -36221,7 +36221,7 @@
     "sub_category": "急病",
     "location": "高雄市六龜區",
     "units": "六龜分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -36230,6 +36230,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T19:05:33.749353"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T19:10:33.827792"
       }
     ]
   },
@@ -36261,7 +36265,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區五甲一路",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -36270,6 +36274,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T19:05:33.749353"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T19:10:33.827792"
       }
     ]
   },
@@ -36400,6 +36408,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T19:08:33.612180"
+      }
+    ]
+  },
+  "cd39e245da2b83ff3c977897554013e9": {
+    "time": "2026/09/18 19:09:07",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區華榮路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T19:10:33.827792"
       }
     ]
   }
