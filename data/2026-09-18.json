@@ -31799,7 +31799,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -31812,6 +31812,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T12:53:33.508421"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T13:21:33.805168"
       }
     ]
   },
@@ -32401,7 +32405,7 @@
     "sub_category": "創傷",
     "location": "高雄市鼓山區明倫路",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -32414,6 +32418,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T13:08:33.621578"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T13:21:33.805168"
       }
     ]
   },
@@ -32507,7 +32515,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -32516,6 +32524,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T13:15:33.732939"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T13:21:33.805168"
       }
     ]
   },
@@ -32525,7 +32537,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -32534,6 +32546,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T13:16:33.734236"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T13:21:33.805168"
       }
     ]
   },
@@ -32580,6 +32596,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T13:20:33.632216"
+      }
+    ]
+  },
+  "af3706e975828ab4625ccc86a0a83e30": {
+    "time": "2026/09/18 13:20:25",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區大埤路",
+    "units": "鳥松分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T13:21:33.805168"
       }
     ]
   }
