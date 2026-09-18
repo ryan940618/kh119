@@ -35933,7 +35933,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區五甲二路",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -35942,6 +35942,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T18:40:33.523191"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T18:56:33.501331"
       }
     ]
   },
@@ -36021,7 +36025,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區四維二路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -36030,6 +36034,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T18:50:33.390185"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T18:56:33.501331"
       }
     ]
   },
@@ -36079,11 +36087,15 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區瑞興路",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T18:54:33.608681"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T18:56:33.501331"
       }
     ]
   },
@@ -36098,6 +36110,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T18:55:33.466212"
+      }
+    ]
+  },
+  "7b70c1a24ebe9ea78a044405d43b0856": {
+    "time": "2026/09/18 18:55:07",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大社區國道10號9公里[高雄市仁武區仁林路",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T18:56:33.501331"
       }
     ]
   }
