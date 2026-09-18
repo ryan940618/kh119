@@ -37107,7 +37107,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區國泰路",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -37120,6 +37120,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T20:11:34.096491"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T20:21:33.117453"
       }
     ]
   },
@@ -37227,7 +37231,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區凱旋二路",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -37240,6 +37244,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T20:16:34.039535"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T20:21:33.117453"
       }
     ]
   },
@@ -37276,6 +37284,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T20:17:33.945991"
+      }
+    ]
+  },
+  "273a461fb789ba96733c972ca61cd56b": {
+    "time": "2026/09/18 20:20:40",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T20:21:33.117453"
       }
     ]
   }
