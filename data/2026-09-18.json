@@ -31917,7 +31917,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區正修路",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -31930,6 +31930,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T12:37:33.507359"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T12:40:33.581225"
       }
     ]
   },
@@ -31961,7 +31965,7 @@
     "sub_category": "路倒",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -31970,6 +31974,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T12:34:33.583084"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T12:40:33.581225"
       }
     ]
   },
@@ -31979,11 +31987,29 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T12:37:33.507359"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T12:40:33.581225"
+      }
+    ]
+  },
+  "1e8e0f0688fca833b0079518939b85f5": {
+    "time": "2026/09/18 12:40:08",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市新興區林森一路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T12:40:33.581225"
       }
     ]
   }
