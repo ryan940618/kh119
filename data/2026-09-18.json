@@ -31497,7 +31497,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "新興分隊,鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -31510,6 +31510,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T12:14:33.104405"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T12:28:33.288554"
       }
     ]
   },
@@ -31563,7 +31567,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -31580,6 +31584,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T12:23:33.337961"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T12:28:33.288554"
       }
     ]
   },
@@ -31589,7 +31597,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -31602,6 +31610,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T12:21:33.111987"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T12:28:33.288554"
       }
     ]
   },
@@ -31773,11 +31785,15 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區橋新三路",
     "units": "楠梓分隊,橋頭分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T12:27:33.349321"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T12:28:33.288554"
       }
     ]
   }
