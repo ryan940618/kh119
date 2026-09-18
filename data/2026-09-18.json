@@ -36107,7 +36107,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區瑞興路",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -36120,6 +36120,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T19:02:33.840639"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T19:06:33.895081"
       }
     ]
   },
@@ -36305,11 +36309,15 @@
     "sub_category": "急病",
     "location": "高雄市杉林區",
     "units": "杉林分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T19:05:33.749353"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T19:06:33.895081"
       }
     ]
   },
@@ -36324,6 +36332,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T19:05:33.749353"
+      }
+    ]
+  },
+  "a853448a3f6c4c0bd958de1eafa161ac": {
+    "time": "2026/09/18 19:05:58",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區中山西路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T19:06:33.895081"
+      }
+    ]
+  },
+  "9002a3a4db94fd39ca51dd062e7851e4": {
+    "time": "2026/09/18 19:05:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T19:06:33.895081"
       }
     ]
   }
