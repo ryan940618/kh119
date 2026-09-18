@@ -31753,7 +31753,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區神農路",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -31766,6 +31766,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T12:30:33.578368"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T12:41:33.404999"
       }
     ]
   },
@@ -31899,7 +31903,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -31908,6 +31912,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T12:33:33.366938"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T12:41:33.404999"
       }
     ]
   },
@@ -32005,11 +32013,29 @@
     "sub_category": "車禍",
     "location": "高雄市新興區林森一路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T12:40:33.581225"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T12:41:33.404999"
+      }
+    ]
+  },
+  "876086f4f25312bbe0bc7057f4808ba4": {
+    "time": "2026/09/18 12:40:17",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市左營區勝利路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T12:41:33.404999"
       }
     ]
   }
