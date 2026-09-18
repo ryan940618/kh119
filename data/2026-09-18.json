@@ -34395,7 +34395,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區鳳東路",
     "units": "燕巢分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -34408,6 +34408,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T16:28:33.687919"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T16:32:33.662877"
       }
     ]
   },
@@ -34435,7 +34439,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區光遠路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -34444,6 +34448,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T16:28:33.687919"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T16:32:33.662877"
       }
     ]
   },
@@ -34467,11 +34475,29 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T16:31:33.750070"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T16:32:33.662877"
+      }
+    ]
+  },
+  "a99c066d5c0f999304234aa4d475a86d": {
+    "time": "2026/09/18 16:31:53",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區天祥一路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T16:32:33.662877"
       }
     ]
   }
