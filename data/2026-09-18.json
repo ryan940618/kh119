@@ -37881,7 +37881,7 @@
     "sub_category": "路倒",
     "location": "高雄市左營區華夏路",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -37898,6 +37898,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T21:23:33.419541"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T21:47:33.473391"
       }
     ]
   },
@@ -38201,7 +38205,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區福德三路",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -38214,6 +38218,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T21:44:33.328348"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T21:47:33.473391"
       }
     ]
   },
@@ -38368,6 +38376,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T21:46:33.551225"
+      }
+    ]
+  },
+  "54788ff9627183a77d0b7efcad15b3e1": {
+    "time": "2026/09/18 21:46:26",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T21:47:33.473391"
       }
     ]
   }
