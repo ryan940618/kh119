@@ -34741,7 +34741,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -34758,6 +34758,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T17:09:33.967183"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T17:16:38.594047"
       }
     ]
   },
@@ -34967,11 +34971,29 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區東方路",
     "units": "湖內分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T17:15:34.609608"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T17:16:38.594047"
+      }
+    ]
+  },
+  "ff38f31d5a7fc3f7be25b0c9a77b814b": {
+    "time": "2026/09/18 17:15:19",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市小港區中安路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T17:16:38.594047"
       }
     ]
   }
