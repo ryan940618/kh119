@@ -30249,7 +30249,7 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區大學十街",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -30262,6 +30262,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T10:46:33.506128"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T10:48:34.368639"
       }
     ]
   },
@@ -30410,6 +30414,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T10:45:33.486772"
+      }
+    ]
+  },
+  "def1333e81b3b2f9cde2ed98c90fc00b": {
+    "time": "2026/09/18 10:47:12",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區鼎新路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T10:48:34.368639"
       }
     ]
   }
