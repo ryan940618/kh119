@@ -32719,7 +32719,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -32736,6 +32736,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T13:34:33.541573"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T13:41:33.961591"
       }
     ]
   },
@@ -32767,7 +32771,7 @@
     "sub_category": "路倒",
     "location": "高雄市左營區孟子路",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -32780,6 +32784,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T13:36:33.796561"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T13:41:33.961591"
       }
     ]
   },
@@ -32829,11 +32837,15 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T13:38:33.665793"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T13:41:33.961591"
       }
     ]
   },
@@ -32875,11 +32887,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區仁愛路",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T13:39:34.214116"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T13:41:33.961591"
       }
     ]
   }
