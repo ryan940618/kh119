@@ -35609,7 +35609,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -35622,6 +35622,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T18:09:33.246215"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T18:28:33.246789"
       }
     ]
   },
@@ -35820,6 +35824,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T18:27:33.529269"
+      }
+    ]
+  },
+  "55c37b461f998d07d7f1a0be06d95e9f": {
+    "time": "2026/09/18 18:27:22",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T18:28:33.246789"
       }
     ]
   }
