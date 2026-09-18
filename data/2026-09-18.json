@@ -29859,7 +29859,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -29868,6 +29868,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T10:05:33.299901"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T10:12:33.414806"
       }
     ]
   },
@@ -29899,7 +29903,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -29912,6 +29916,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T10:08:33.445999"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T10:12:33.414806"
       }
     ]
   },
@@ -29989,7 +29997,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區中華三路",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -29998,6 +30006,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T10:07:33.293669"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T10:12:33.414806"
       }
     ]
   },
@@ -30021,11 +30033,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T10:08:33.445999"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T10:12:33.414806"
       }
     ]
   }
