@@ -29285,7 +29285,7 @@
     "sub_category": "一般(集合)住宅",
     "location": "高雄市前鎮區草衙中街",
     "units": "前鎮分隊",
-    "current_status": "火已控",
+    "current_status": "火已滅",
     "status_history": [
       {
         "status": "已派遣",
@@ -29306,6 +29306,10 @@
       {
         "status": "火已控",
         "timestamp": "2026-09-18T09:25:33.875137"
+      },
+      {
+        "status": "火已滅",
+        "timestamp": "2026-09-18T09:29:33.963969"
       }
     ]
   },
@@ -29315,7 +29319,7 @@
     "sub_category": "其他",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -29328,6 +29332,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T09:20:33.994224"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T09:29:33.963969"
       }
     ]
   },
@@ -29464,6 +29472,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T09:24:33.979369"
+      }
+    ]
+  },
+  "500f4bb4c650b32ef2155a99c0cc7927": {
+    "time": "2026/09/18 09:28:35",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T09:29:33.963969"
       }
     ]
   }
