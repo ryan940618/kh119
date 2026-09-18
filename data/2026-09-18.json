@@ -33601,7 +33601,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -33618,6 +33618,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T15:17:33.124186"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T15:25:33.270243"
       }
     ]
   },
@@ -33689,7 +33693,7 @@
     "sub_category": "其他",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -33698,6 +33702,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T15:14:33.120046"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T15:25:33.270243"
       }
     ]
   },
@@ -33721,7 +33729,7 @@
     "sub_category": "車禍",
     "location": "高雄市前金區新田路",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -33730,6 +33738,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T15:18:33.108041"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T15:25:33.270243"
       }
     ]
   },
@@ -33739,11 +33751,71 @@
     "sub_category": "車禍",
     "location": "高雄市小港區宏文路",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T15:20:33.236360"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T15:25:33.270243"
+      }
+    ]
+  },
+  "6c2c3a3a906525d96510c32030a6a4c3": {
+    "time": "2026/09/18 15:24:31",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鹽埕區",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T15:25:33.270243"
+      }
+    ]
+  },
+  "1544354bccdc8f185d7e98172d32e2c1": {
+    "time": "2026/09/18 15:23:18",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區五福一路",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T15:25:33.270243"
+      }
+    ]
+  },
+  "e99eda31b03796c1364996b5d0b53cf5": {
+    "time": "2026/09/18 15:21:35",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市湖內區中正路",
+    "units": "湖內分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T15:25:33.270243"
+      }
+    ]
+  },
+  "e71d181ec6d3e427615e3c486ed139f9": {
+    "time": "2026/09/18 15:19:59",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市阿蓮區忠孝路",
+    "units": "阿蓮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T15:25:33.270243"
       }
     ]
   }
