@@ -29855,11 +29855,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-18T09:55:33.247423"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T10:05:33.299901"
       }
     ]
   },
@@ -29947,11 +29951,29 @@
     "sub_category": "車禍",
     "location": "高雄市林園區清水岩路",
     "units": "大林分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T10:04:33.308591"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T10:05:33.299901"
+      }
+    ]
+  },
+  "b64bee57b65dde72609885f692e4dd2b": {
+    "time": "2026/09/18 10:04:37",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區中華三路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T10:05:33.299901"
       }
     ]
   }
