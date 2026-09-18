@@ -36839,7 +36839,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -36852,6 +36852,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T19:44:34.307577"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T20:03:34.064339"
       }
     ]
   },
@@ -37034,6 +37038,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T20:02:34.074339"
+      }
+    ]
+  },
+  "b380e6f9c411984a82b1be5a4fd46b32": {
+    "time": "2026/09/18 20:02:38",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區國泰路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T20:03:34.064339"
       }
     ]
   }
