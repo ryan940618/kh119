@@ -35127,7 +35127,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區仁和街",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -35144,6 +35144,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T17:36:33.173416"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T17:51:33.369818"
       }
     ]
   },
@@ -35241,7 +35245,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營小隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -35254,6 +35258,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T17:43:33.049333"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T17:51:33.369818"
       }
     ]
   },
@@ -35330,6 +35338,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T17:50:33.220567"
+      }
+    ]
+  },
+  "fd15b8ff8b1177ef73bb5cb723d08907": {
+    "time": "2026/09/18 17:50:16",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鹽埕區",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T17:51:33.369818"
+      }
+    ]
+  },
+  "6c7ce44d413ca4da97453d6110503efe": {
+    "time": "2026/09/18 17:50:04",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鳳山區文鳳路",
+    "units": "鳥松分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T17:51:33.369818"
       }
     ]
   }
