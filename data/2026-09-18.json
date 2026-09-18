@@ -33635,7 +33635,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -33648,6 +33648,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T15:28:33.161741"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T15:32:33.327082"
       }
     ]
   },
@@ -33679,7 +33683,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -33692,6 +33696,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T15:16:33.104633"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T15:32:33.327082"
       }
     ]
   },
@@ -33763,7 +33771,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區宏文路",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -33772,6 +33780,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T15:25:33.270243"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T15:32:33.327082"
       }
     ]
   },
@@ -33916,6 +33928,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T15:31:33.342118"
+      }
+    ]
+  },
+  "063c83eff95c6a957b5f9fcc14383289": {
+    "time": "2026/09/18 15:30:45",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區建興路",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T15:32:33.327082"
       }
     ]
   }
