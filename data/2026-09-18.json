@@ -30081,7 +30081,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -30094,6 +30094,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T10:22:33.304951"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T10:30:33.419892"
       }
     ]
   },
@@ -30151,7 +30155,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區新康街",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -30160,6 +30164,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T10:22:33.304951"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T10:30:33.419892"
       }
     ]
   },
@@ -30214,6 +30222,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T10:29:33.324240"
+      }
+    ]
+  },
+  "b5fd1a20e17abe1a8be2f98a5a355030": {
+    "time": "2026/09/18 10:29:43",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T10:30:33.419892"
+      }
+    ]
+  },
+  "8a1e93e7f4efe888624ed86aadfe1dad": {
+    "time": "2026/09/18 10:29:15",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T10:30:33.419892"
       }
     ]
   }
