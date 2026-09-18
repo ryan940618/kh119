@@ -41117,7 +41117,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -41134,6 +41134,38 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T06:29:33.643805"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T06:33:33.652183"
+      }
+    ]
+  },
+  "5a0e799fffbdd02b02ea1382f86f32e6": {
+    "time": "2026/09/19 06:33:15",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T06:33:33.652183"
+      }
+    ]
+  },
+  "53cb98b70e16de8b1a2636b16f62af98": {
+    "time": "2026/09/19 06:31:58",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T06:33:33.652183"
       }
     ]
   }
