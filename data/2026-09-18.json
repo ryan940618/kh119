@@ -35419,7 +35419,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -35432,6 +35432,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T18:00:33.299559"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T18:08:33.374662"
       }
     ]
   },
@@ -35441,7 +35445,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -35450,6 +35454,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T17:58:33.267211"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T18:08:33.374662"
       }
     ]
   },
@@ -35605,11 +35613,15 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T18:06:33.230684"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T18:08:33.374662"
       }
     ]
   }
