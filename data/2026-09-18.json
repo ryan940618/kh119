@@ -39043,7 +39043,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區透過經緯度轉換GIS座標(22.5759,120.3325)翠亨南路",
     "units": "小港分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -39056,6 +39056,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T23:17:32.870847"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T23:25:33.078530"
       }
     ]
   },
@@ -39113,7 +39117,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區博愛一路",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -39122,6 +39126,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T23:23:33.041209"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T23:25:33.078530"
       }
     ]
   },
@@ -39140,6 +39148,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T23:24:33.197768"
+      }
+    ]
+  },
+  "90d97b532594885e65a4500e1041fe7c": {
+    "time": "2026/09/18 23:24:57",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T23:25:33.078530"
       }
     ]
   }
