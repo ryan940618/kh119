@@ -36887,7 +36887,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -36904,6 +36904,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T20:02:34.074339"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T20:06:34.046708"
       }
     ]
   },
@@ -37082,6 +37086,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T20:04:34.293785"
+      }
+    ]
+  },
+  "f3629667ffdd955f79913049c56a9584": {
+    "time": "2026/09/18 20:05:50",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市仁武區名山九街",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T20:06:34.046708"
       }
     ]
   }
