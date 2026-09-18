@@ -36883,7 +36883,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -36896,6 +36896,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T19:51:34.034133"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T20:02:34.074339"
       }
     ]
   },
@@ -37007,11 +37011,29 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T20:01:33.932314"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T20:02:34.074339"
+      }
+    ]
+  },
+  "62a3e33b1ea48acea5de6259523cd5d2": {
+    "time": "2026/09/18 20:01:32",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市前鎮區一心二路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T20:02:34.074339"
       }
     ]
   }
