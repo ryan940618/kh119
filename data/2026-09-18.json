@@ -31323,7 +31323,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -31336,6 +31336,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T12:06:32.999723"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T12:13:33.168234"
       }
     ]
   },
@@ -31345,7 +31349,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -31362,6 +31366,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T12:06:32.999723"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T12:13:33.168234"
       }
     ]
   },
@@ -31510,6 +31518,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T12:11:33.117242"
+      }
+    ]
+  },
+  "183feab3251ccf90e371cd85281a513e": {
+    "time": "2026/09/18 12:12:52",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T12:13:33.168234"
+      }
+    ]
+  },
+  "c696fb5ddd50195e57dcfc02cc7ea101": {
+    "time": "2026/09/18 12:12:13",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市梓官區",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T12:13:33.168234"
       }
     ]
   }
