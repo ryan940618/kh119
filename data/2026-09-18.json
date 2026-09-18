@@ -36303,7 +36303,7 @@
     "sub_category": "急病",
     "location": "高雄市永安區",
     "units": "永安分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -36316,6 +36316,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T19:09:33.674928"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T19:24:34.005127"
       }
     ]
   },
@@ -36417,7 +36421,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區中山西路",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -36430,6 +36434,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T19:09:33.674928"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T19:24:34.005127"
       }
     ]
   },
@@ -36553,7 +36561,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -36562,6 +36570,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T19:22:33.676110"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T19:24:34.005127"
       }
     ]
   },
@@ -36576,6 +36588,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T19:23:34.475770"
+      }
+    ]
+  },
+  "90e9900b01634d7bc08acefef7357264": {
+    "time": "2026/09/18 19:23:04",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市岡山區石潭東一街",
+    "units": "彌陀分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T19:24:34.005127"
       }
     ]
   }
