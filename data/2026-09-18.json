@@ -34775,7 +34775,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區復興路",
     "units": "路竹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -34792,6 +34792,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T17:09:33.967183"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T17:20:33.947510"
       }
     ]
   },
@@ -35033,11 +35037,57 @@
     "sub_category": "燒燙傷",
     "location": "高雄市仁武區永新二街",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T17:18:34.298847"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T17:20:33.947510"
+      }
+    ]
+  },
+  "2ad0a2095d2198e99039c0112465818b": {
+    "time": "2026/09/18 17:19:42",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區仁和街",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T17:20:33.947510"
+      }
+    ]
+  },
+  "66e6668010c4b081706ff1d2f8c3645a": {
+    "time": "2026/09/18 17:20:08",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T17:20:33.947510"
+      }
+    ]
+  },
+  "2a7400dcc7e596520e434175c06b3f6f": {
+    "time": "2026/09/18 17:17:23",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區自由路和復興街",
+    "units": "鳳山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T17:20:33.947510"
       }
     ]
   }
