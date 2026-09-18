@@ -40159,7 +40159,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區建國路",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -40176,6 +40176,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T02:46:33.392873"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T02:50:33.394915"
       }
     ]
   },
@@ -40278,6 +40282,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T02:46:33.392873"
+      }
+    ]
+  },
+  "7996636e72ba372630694dee4813c1f5": {
+    "time": "2026/09/19 02:49:50",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T02:50:33.394915"
       }
     ]
   }
