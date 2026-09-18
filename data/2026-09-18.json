@@ -34377,7 +34377,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區岡燕路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -34394,6 +34394,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T16:27:33.510604"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T16:37:33.678870"
       }
     ]
   },
@@ -34535,11 +34539,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區平等路",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T16:36:33.660498"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T16:37:33.678870"
       }
     ]
   },
@@ -34554,6 +34562,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T16:36:33.660498"
+      }
+    ]
+  },
+  "bbc16261408330df016c5b9fadf4b0cb": {
+    "time": "2026/09/18 16:36:15",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市苓雅區",
+    "units": "",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T16:37:33.678870"
       }
     ]
   }
