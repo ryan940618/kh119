@@ -35981,7 +35981,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -35998,6 +35998,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T18:52:33.452077"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T19:02:33.840639"
       }
     ]
   },
@@ -36095,7 +36099,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區瑞興路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -36104,6 +36108,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T18:56:33.501331"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T19:02:33.840639"
       }
     ]
   },
@@ -36204,6 +36212,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T19:01:33.591082"
+      }
+    ]
+  },
+  "63154fc077de34849fae50b7ea561ca3": {
+    "time": "2026/09/18 19:00:42",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區五甲一路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T19:02:33.840639"
       }
     ]
   }
