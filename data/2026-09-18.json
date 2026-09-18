@@ -30947,7 +30947,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -30956,6 +30956,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T11:35:33.834831"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T11:42:33.863726"
       }
     ]
   },
@@ -30987,7 +30991,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區鎮中路",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -30996,6 +31000,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T11:38:33.889821"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T11:42:33.863726"
       }
     ]
   },
@@ -31041,11 +31049,15 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區中崙二路",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T11:40:33.843844"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T11:42:33.863726"
       }
     ]
   }
