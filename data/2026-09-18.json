@@ -34019,7 +34019,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區大中一路",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -34032,6 +34032,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T15:45:33.443589"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T15:59:33.592229"
       }
     ]
   },
@@ -34117,11 +34121,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區朝仁路",
     "units": "楠梓分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T15:57:33.333724"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T15:59:33.592229"
       }
     ]
   }
