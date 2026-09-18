@@ -33601,7 +33601,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -33614,6 +33614,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T15:12:33.111290"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T15:17:33.124186"
       }
     ]
   },
@@ -33700,6 +33704,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T15:16:33.104633"
+      }
+    ]
+  },
+  "b55a550b3cb483670094bc9479601897": {
+    "time": "2026/09/18 15:15:33",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前金區新田路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T15:17:33.124186"
       }
     ]
   }
