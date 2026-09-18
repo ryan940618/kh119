@@ -35427,7 +35427,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -35444,6 +35444,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T18:08:33.374662"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T18:19:33.389199"
       }
     ]
   },
@@ -35707,7 +35711,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區橋南路",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -35716,6 +35720,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T18:17:33.408208"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T18:19:33.389199"
+      }
+    ]
+  },
+  "11e9c00ff696ba3c9c63e25f2ec76c46": {
+    "time": "2026/09/18 18:18:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市茄萣區",
+    "units": "茄萣分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T18:19:33.389199"
       }
     ]
   }
