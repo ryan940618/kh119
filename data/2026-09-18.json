@@ -30599,7 +30599,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區民族二路",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -30616,6 +30616,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T11:09:33.578836"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T11:12:33.820944"
       }
     ]
   },
@@ -30625,7 +30629,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -30634,6 +30638,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T11:09:33.578836"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T11:12:33.820944"
       }
     ]
   },
@@ -30643,11 +30651,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T11:11:33.828773"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T11:12:33.820944"
       }
     ]
   }
