@@ -29549,7 +29549,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -29558,6 +29558,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T09:39:33.116716"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T09:41:33.024422"
       }
     ]
   },
@@ -29635,11 +29639,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T09:39:33.116716"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T09:41:33.024422"
       }
     ]
   },
@@ -29654,6 +29662,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T09:40:33.149979"
+      }
+    ]
+  },
+  "93e4e28b4bf400d5ae24a02e3f810647": {
+    "time": "2026/09/18 09:40:49",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區五甲三路和福祥街",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T09:41:33.024422"
       }
     ]
   }
