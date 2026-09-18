@@ -32227,7 +32227,7 @@
     "sub_category": "車禍",
     "location": "高雄市梓官區公舘路",
     "units": "彌陀分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -32240,6 +32240,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T13:05:33.679987"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T13:14:33.519989"
       }
     ]
   },
@@ -32494,6 +32498,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T13:07:33.756598"
+      }
+    ]
+  },
+  "5d9abf41c1683431b0ab3048457c0af0": {
+    "time": "2026/09/18 13:13:26",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T13:14:33.519989"
       }
     ]
   }
