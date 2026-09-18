@@ -34785,7 +34785,7 @@
     "sub_category": "車禍",
     "location": "高雄市梓官區同安路",
     "units": "梓官分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -34798,6 +34798,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T17:04:33.799961"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T17:08:33.804259"
       }
     ]
   },
@@ -34843,11 +34847,29 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T17:05:33.865311"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T17:08:33.804259"
+      }
+    ]
+  },
+  "43057620d27e1c7e8ba57f110ed21dd4": {
+    "time": "2026/09/18 17:07:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前金區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T17:08:33.804259"
       }
     ]
   }
