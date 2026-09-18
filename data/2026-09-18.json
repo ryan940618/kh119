@@ -37655,11 +37655,15 @@
     "sub_category": "車禍",
     "location": "高雄市彌陀區舊港路",
     "units": "彌陀分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-18T20:44:33.065984"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T20:47:33.162934"
       }
     ]
   },
@@ -37674,6 +37678,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T20:46:33.222976"
+      }
+    ]
+  },
+  "e2dab495d4b8db7965c07ca38662c4ca": {
+    "time": "2026/09/18 20:46:38",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T20:47:33.162934"
+      }
+    ]
+  },
+  "a2e3ef9e01655c04602ba0698e9c40c2": {
+    "time": "2026/09/18 20:45:36",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區漁港南三路",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T20:47:33.162934"
       }
     ]
   }
