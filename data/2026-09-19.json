@@ -39585,7 +39585,7 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區建國一路",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -39598,6 +39598,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T01:09:33.954427"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T01:10:33.639445"
       }
     ]
   },
@@ -39647,7 +39651,7 @@
     "sub_category": "車禍",
     "location": "高雄市阿蓮區仁愛路",
     "units": "阿蓮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -39656,6 +39660,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T01:06:33.679998"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T01:10:33.639445"
       }
     ]
   },
@@ -39674,6 +39682,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T01:08:33.731823"
+      }
+    ]
+  },
+  "2f53443c4c53733fb75bb12853daac10": {
+    "time": "2026/09/19 01:09:16",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T01:10:33.639445"
       }
     ]
   }
