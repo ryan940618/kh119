@@ -38055,7 +38055,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區九如一路",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -38064,6 +38064,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T21:21:33.310577"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T21:31:33.535600"
       }
     ]
   },
@@ -38143,7 +38147,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -38152,6 +38156,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T21:25:33.350450"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T21:31:33.535600"
       }
     ]
   },
@@ -38220,6 +38228,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T21:30:33.554571"
+      }
+    ]
+  },
+  "9c6b1879d9230656b7633447efe5707f": {
+    "time": "2026/09/18 21:30:45",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區春陽街",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T21:31:33.535600"
       }
     ]
   }
