@@ -38419,7 +38419,7 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區民生街",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -38432,6 +38432,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T21:51:33.460477"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T22:05:33.627507"
       }
     ]
   },
@@ -38555,7 +38559,7 @@
     "sub_category": "創傷",
     "location": "高雄市林園區龔厝路",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -38564,6 +38568,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T21:58:33.778606"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T22:05:33.627507"
       }
     ]
   },
@@ -38623,11 +38631,29 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T22:03:33.712238"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T22:05:33.627507"
+      }
+    ]
+  },
+  "28ac09136102b4f318568ef31b6ccc60": {
+    "time": "2026/09/18 22:04:08",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "和發分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T22:05:33.627507"
       }
     ]
   }
