@@ -30495,7 +30495,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -30512,6 +30512,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T11:01:33.595312"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T11:11:33.828773"
       }
     ]
   },
@@ -30521,7 +30525,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區學專路",
     "units": "後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -30534,6 +30538,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T11:03:33.711399"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T11:11:33.828773"
       }
     ]
   },
@@ -30626,6 +30634,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T11:09:33.578836"
+      }
+    ]
+  },
+  "6937bdd476ed0cde2d918cefffd38e73": {
+    "time": "2026/09/18 11:10:40",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T11:11:33.828773"
       }
     ]
   }
