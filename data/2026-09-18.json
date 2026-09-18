@@ -35315,7 +35315,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -35324,6 +35324,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T17:50:33.220567"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T17:53:33.133330"
       }
     ]
   },
@@ -35370,6 +35374,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T17:51:33.369818"
+      }
+    ]
+  },
+  "b6913aff1eb664a09ecada1be35c4b9c": {
+    "time": "2026/09/18 17:52:41",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T17:53:33.133330"
+      }
+    ]
+  },
+  "7b4d1caebcddb2fc84208d5a62ccbd95": {
+    "time": "2026/09/18 17:52:22",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T17:53:33.133330"
+      }
+    ]
+  },
+  "4a8ba9adcd72e7f7d4b5700f1657aecb": {
+    "time": "2026/09/18 17:51:53",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T17:53:33.133330"
       }
     ]
   }
