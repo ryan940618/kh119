@@ -37855,7 +37855,7 @@
     "sub_category": "車禍",
     "location": "高雄市六龜區",
     "units": "六龜分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -37868,6 +37868,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T21:02:33.415609"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T21:25:33.350450"
       }
     ]
   },
@@ -38111,11 +38115,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T21:24:33.435935"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T21:25:33.350450"
       }
     ]
   },
@@ -38130,6 +38138,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T21:24:33.435935"
+      }
+    ]
+  },
+  "fbcf15135651f6170576ba21bc569e9f": {
+    "time": "2026/09/18 21:25:07",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T21:25:33.350450"
       }
     ]
   }
