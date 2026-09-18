@@ -29401,7 +29401,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -29414,6 +29414,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T09:22:33.812017"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T09:30:33.853060"
       }
     ]
   },
@@ -29486,6 +29490,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T09:29:33.963969"
+      }
+    ]
+  },
+  "7f3a733715a27d6c11757cce56b939c9": {
+    "time": "2026/09/18 09:28:33",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T09:30:33.853060"
       }
     ]
   }
