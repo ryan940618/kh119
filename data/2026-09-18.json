@@ -28609,7 +28609,7 @@
     "sub_category": "急病",
     "location": "高雄市甲仙區",
     "units": "甲仙分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -28622,6 +28622,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T08:21:34.564909"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T08:29:33.479520"
       }
     ]
   },
@@ -28697,7 +28701,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -28710,6 +28714,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T08:20:33.294181"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T08:29:33.479520"
       }
     ]
   },
@@ -28789,7 +28797,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區隆興街",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -28802,6 +28810,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T08:24:33.527294"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T08:29:33.479520"
       }
     ]
   },
@@ -28851,11 +28863,15 @@
     "sub_category": "車禍",
     "location": "高雄市小港區維安街",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T08:26:33.533319"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T08:29:33.479520"
       }
     ]
   }
