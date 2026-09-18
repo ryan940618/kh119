@@ -29405,7 +29405,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -29422,6 +29422,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T09:30:33.853060"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T09:40:33.149979"
       }
     ]
   },
@@ -29636,6 +29640,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T09:39:33.116716"
+      }
+    ]
+  },
+  "19ff593192eff2d08495eeea2502d25c": {
+    "time": "2026/09/18 09:39:39",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鳥松區美山路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T09:40:33.149979"
       }
     ]
   }
