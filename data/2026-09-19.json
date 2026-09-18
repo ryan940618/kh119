@@ -39551,7 +39551,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -39560,6 +39560,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T01:00:33.633292"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T01:03:33.679681"
       }
     ]
   },
@@ -39578,6 +39582,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T01:02:33.687580"
+      }
+    ]
+  },
+  "b5652b7b20722da95a62d21168458be4": {
+    "time": "2026/09/19 01:02:37",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市前鎮區一心一路",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T01:03:33.679681"
       }
     ]
   }
