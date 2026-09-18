@@ -29769,7 +29769,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區建國路",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -29786,6 +29786,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T09:58:33.279533"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T10:01:33.210851"
       }
     ]
   },
@@ -29871,11 +29875,29 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T10:00:33.258897"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T10:01:33.210851"
+      }
+    ]
+  },
+  "dabea106440a88dfd5c8b967c85e2b9a": {
+    "time": "2026/09/18 09:59:49",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T10:01:33.210851"
       }
     ]
   }
