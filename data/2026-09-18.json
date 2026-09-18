@@ -28949,7 +28949,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -28966,6 +28966,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T08:51:33.674425"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T08:57:33.684061"
       }
     ]
   },
@@ -28975,7 +28979,7 @@
     "sub_category": "其他",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -28988,6 +28992,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T08:40:33.720845"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T08:57:33.684061"
       }
     ]
   },
@@ -29100,6 +29108,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T08:55:33.704938"
+      }
+    ]
+  },
+  "9a8030ed3185256795ad1036fa448cd1": {
+    "time": "2026/09/18 08:57:13",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區果峰街",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T08:57:33.684061"
       }
     ]
   }
