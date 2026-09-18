@@ -36913,7 +36913,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -36926,6 +36926,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T19:55:34.014822"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T20:04:34.293785"
       }
     ]
   },
@@ -36997,7 +37001,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區瑞福路和瑞泰街",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -37006,6 +37010,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T20:00:34.031293"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T20:04:34.293785"
       }
     ]
   },
@@ -37047,11 +37055,29 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區國泰路",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T20:03:34.064339"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T20:04:34.293785"
+      }
+    ]
+  },
+  "60721d5a6c0d45b9c558f48e34fe78f1": {
+    "time": "2026/09/18 20:03:45",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T20:04:34.293785"
       }
     ]
   }
