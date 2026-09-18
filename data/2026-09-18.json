@@ -31133,7 +31133,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -31142,6 +31142,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T11:45:33.967070"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T11:51:34.001042"
       }
     ]
   },
@@ -31169,7 +31173,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -31178,6 +31182,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T11:48:33.904225"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T11:51:34.001042"
       }
     ]
   },
@@ -31205,11 +31213,29 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T11:49:33.948501"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T11:51:34.001042"
+      }
+    ]
+  },
+  "684cb4e0a10291bef4d5ca6018ce4bab": {
+    "time": "2026/09/18 11:50:27",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區覺民路",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T11:51:34.001042"
       }
     ]
   }
