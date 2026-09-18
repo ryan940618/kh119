@@ -34741,7 +34741,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -34754,6 +34754,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T17:00:33.917367"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T17:09:33.967183"
       }
     ]
   },
@@ -34763,7 +34767,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區復興路",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -34776,6 +34780,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T17:04:33.799961"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T17:09:33.967183"
       }
     ]
   },
@@ -34870,6 +34878,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T17:08:33.804259"
+      }
+    ]
+  },
+  "ddc51c9c414c1038d83a141301b1845d": {
+    "time": "2026/09/18 17:08:46",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市燕巢區中民路",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T17:09:33.967183"
       }
     ]
   }
