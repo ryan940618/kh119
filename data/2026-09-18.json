@@ -28753,7 +28753,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區建工路",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -28766,6 +28766,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T08:23:33.556940"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T08:30:33.778675"
       }
     ]
   },
@@ -28872,6 +28876,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T08:29:33.479520"
+      }
+    ]
+  },
+  "5b05bb5457202c24df6e594f01ddb284": {
+    "time": "2026/09/18 08:30:06",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市梓官區",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T08:30:33.778675"
       }
     ]
   }
