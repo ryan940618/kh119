@@ -31067,7 +31067,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -31080,6 +31080,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T11:43:33.883405"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T11:53:33.889951"
       }
     ]
   },
@@ -31240,6 +31244,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T11:51:34.001042"
+      }
+    ]
+  },
+  "194c8b959b2cbadf7d42c934b5e60396": {
+    "time": "2026/09/18 11:51:55",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區鼎力路",
+    "units": "鼎金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T11:53:33.889951"
       }
     ]
   }
