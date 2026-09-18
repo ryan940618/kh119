@@ -32885,7 +32885,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -32902,6 +32902,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T13:51:33.907976"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T13:56:33.943660"
       }
     ]
   },
@@ -33113,7 +33117,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -33122,6 +33126,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T13:50:33.932307"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T13:56:33.943660"
       }
     ]
   },
@@ -33140,6 +33148,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T13:55:33.758212"
+      }
+    ]
+  },
+  "4a6429accb90ee735bf81ae05637e2af": {
+    "time": "2026/09/18 13:55:05",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T13:56:33.943660"
       }
     ]
   }
