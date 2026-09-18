@@ -33549,7 +33549,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -33566,6 +33566,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T15:05:32.959010"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T15:16:33.104633"
       }
     ]
   },
@@ -33651,7 +33655,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -33660,6 +33664,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T15:15:33.130006"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T15:16:33.104633"
       }
     ]
   },
@@ -33678,6 +33686,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T15:14:33.120046"
+      }
+    ]
+  },
+  "b72186f1c06d86fcc0e7a1832596a346": {
+    "time": "2026/09/18 15:15:33",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前金區漢神百貨[高雄市前金區成功一路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T15:16:33.104633"
       }
     ]
   }
