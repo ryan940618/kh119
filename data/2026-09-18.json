@@ -28545,7 +28545,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -28558,6 +28558,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T08:04:33.245882"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T08:12:33.434476"
       }
     ]
   },
@@ -28585,11 +28589,15 @@
     "sub_category": "急病",
     "location": "高雄市甲仙區",
     "units": "甲仙分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T08:11:33.548279"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T08:12:33.434476"
       }
     ]
   },
@@ -28599,11 +28607,15 @@
     "sub_category": "創傷",
     "location": "高雄市旗山區旗文路",
     "units": "旗山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T08:11:33.548279"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T08:12:33.434476"
       }
     ]
   }
