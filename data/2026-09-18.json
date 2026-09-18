@@ -38197,7 +38197,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區福德三路",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -38206,6 +38206,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T21:29:33.524882"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T21:44:33.328348"
       }
     ]
   },
@@ -38215,7 +38219,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -38228,6 +38232,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T21:35:33.439738"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T21:44:33.328348"
       }
     ]
   },
@@ -38334,6 +38342,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T21:41:33.479306"
+      }
+    ]
+  },
+  "7a317e45d81ec24c15c864282b1b5a7f": {
+    "time": "2026/09/18 21:43:37",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市湖內區民生街",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T21:44:33.328348"
       }
     ]
   }
