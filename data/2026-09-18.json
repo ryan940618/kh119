@@ -32621,11 +32621,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區大埤路",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-18T13:21:33.805168"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T13:25:33.555732"
       }
     ]
   },
@@ -32658,6 +32662,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T13:23:33.535601"
+      }
+    ]
+  },
+  "a8fbc94ac64b7bd0443cfc1a8a81c9c0": {
+    "time": "2026/09/18 13:24:21",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T13:25:33.555732"
       }
     ]
   }
