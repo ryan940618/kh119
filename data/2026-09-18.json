@@ -31387,7 +31387,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -31400,6 +31400,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T12:02:34.005505"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T12:26:33.291523"
       }
     ]
   },
@@ -31719,11 +31723,43 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-18T12:21:33.111987"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T12:26:33.291523"
+      }
+    ]
+  },
+  "7d7c3738881df742faaed8827331e03a": {
+    "time": "2026/09/18 12:26:01",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市湖內區中華街",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T12:26:33.291523"
+      }
+    ]
+  },
+  "3c67488b744b108edacdd8ac5ceefdd9": {
+    "time": "2026/09/18 12:25:36",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市橋頭區橋新九路",
+    "units": "楠梓分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T12:26:33.291523"
       }
     ]
   }
