@@ -29715,7 +29715,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區五甲三路和福祥街",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -29728,6 +29728,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T09:48:33.022819"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T09:51:33.220535"
       }
     ]
   },
@@ -29777,11 +29781,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T09:50:33.045364"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T09:51:33.220535"
       }
     ]
   }
