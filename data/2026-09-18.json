@@ -28657,7 +28657,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中四路",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -28674,6 +28674,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T08:36:33.611561"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T08:43:33.664248"
       }
     ]
   },
@@ -28683,7 +28687,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -28700,6 +28704,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T08:37:33.552989"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T08:43:33.664248"
       }
     ]
   },
@@ -28881,7 +28889,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區五福一路",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -28894,6 +28902,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T08:32:33.750531"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T08:43:33.664248"
       }
     ]
   },
@@ -28992,6 +29004,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T08:39:33.718570"
+      }
+    ]
+  },
+  "1fe7878c25ab455b0c0479c0c628af77": {
+    "time": "2026/09/18 08:43:00",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區鎮東二街",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T08:43:33.664248"
       }
     ]
   }
