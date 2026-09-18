@@ -30301,7 +30301,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -30318,6 +30318,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T10:46:33.506128"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T10:51:33.644151"
       }
     ]
   },
@@ -30455,11 +30459,43 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T10:50:33.854890"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T10:51:33.644151"
+      }
+    ]
+  },
+  "648f36ab3f4c78b793f91e1a9e177f85": {
+    "time": "2026/09/18 10:50:18",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區學專路",
+    "units": "後勁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T10:51:33.644151"
+      }
+    ]
+  },
+  "a496a5bf6851aa7f398fe8a78f1f4e49": {
+    "time": "2026/09/18 10:49:27",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市燕巢區",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T10:51:33.644151"
       }
     ]
   }
