@@ -39511,7 +39511,7 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區聖雲街",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -39520,6 +39520,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T00:49:33.521413"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T01:04:33.707528"
       }
     ]
   },
@@ -39596,6 +39600,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T01:03:33.679681"
+      }
+    ]
+  },
+  "6e4807a1a2a5229d371e93f92e48d923": {
+    "time": "2026/09/19 01:03:00",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T01:04:33.707528"
       }
     ]
   }
