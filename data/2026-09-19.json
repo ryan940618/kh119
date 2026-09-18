@@ -39389,7 +39389,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區文濱路",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -39406,6 +39406,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T00:41:33.581808"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T00:48:33.511116"
       }
     ]
   },
@@ -39512,6 +39516,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T00:38:33.461451"
+      }
+    ]
+  },
+  "eea215adadb21d910f1db0a95176e15d": {
+    "time": "2026/09/19 00:47:05",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T00:48:33.511116"
       }
     ]
   }
