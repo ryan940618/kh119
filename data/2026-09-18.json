@@ -37553,7 +37553,7 @@
     "sub_category": "車禍",
     "location": "高雄市新興區六合一路和仁愛一街",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -37570,6 +37570,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T20:49:33.198100"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T20:52:33.348591"
       }
     ]
   },
@@ -37722,6 +37726,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T20:48:33.182333"
+      }
+    ]
+  },
+  "519a8a9df0e678513745724dd1a6998b": {
+    "time": "2026/09/18 20:52:06",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大社區",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T20:52:33.348591"
       }
     ]
   }
