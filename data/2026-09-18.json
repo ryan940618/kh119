@@ -35851,7 +35851,7 @@
     "sub_category": "其他",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -35868,6 +35868,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T18:33:33.332522"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T18:49:33.540964"
       }
     ]
   },
@@ -35899,7 +35903,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區金福路",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -35912,6 +35916,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T18:39:33.404994"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T18:49:33.540964"
       }
     ]
   },
@@ -35992,6 +36000,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T18:46:33.355137"
+      }
+    ]
+  },
+  "90bae266f5be7bf39a81c4cf50ab0462": {
+    "time": "2026/09/18 18:48:39",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區四維二路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T18:49:33.540964"
       }
     ]
   }
