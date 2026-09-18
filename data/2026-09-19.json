@@ -39595,11 +39595,15 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區一心一路",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T01:03:33.679681"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T01:05:33.724841"
       }
     ]
   },
@@ -39609,11 +39613,29 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T01:04:33.707528"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T01:05:33.724841"
+      }
+    ]
+  },
+  "74f42b9937628703fd48f418a0bdb811": {
+    "time": "2026/09/19 01:04:25",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市阿蓮區仁愛路",
+    "units": "阿蓮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T01:05:33.724841"
       }
     ]
   }
