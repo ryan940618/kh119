@@ -33857,7 +33857,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營小隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -33866,6 +33866,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T15:28:33.161741"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T15:31:33.342118"
       }
     ]
   },
@@ -33884,6 +33888,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T15:29:33.327649"
+      }
+    ]
+  },
+  "bd84184f39f47f8ab0fc5c7524c83637": {
+    "time": "2026/09/18 15:31:04",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市岡山區柳橋東路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T15:31:33.342118"
+      }
+    ]
+  },
+  "910d4196cea617cdb991e5f8af6edede": {
+    "time": "2026/09/18 15:30:45",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T15:31:33.342118"
       }
     ]
   }
