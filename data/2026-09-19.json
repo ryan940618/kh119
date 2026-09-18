@@ -41169,7 +41169,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -41178,6 +41178,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T06:34:33.596626"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T06:41:33.751605"
       }
     ]
   },
@@ -41205,11 +41209,15 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T06:36:33.642517"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T06:41:33.751605"
       }
     ]
   },
@@ -41219,11 +41227,29 @@
     "sub_category": "創傷",
     "location": "高雄市三民區鼎力路",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T06:40:33.677034"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T06:41:33.751605"
+      }
+    ]
+  },
+  "ff4fb60fec38e286ac4514e72bbeb405": {
+    "time": "2026/09/19 06:40:26",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市小港區",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T06:41:33.751605"
       }
     ]
   }
