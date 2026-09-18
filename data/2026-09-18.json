@@ -29815,7 +29815,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -29832,6 +29832,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T10:03:33.260080"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T10:17:33.212241"
       }
     ]
   },
@@ -29863,7 +29867,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -29876,6 +29880,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T10:12:33.414806"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T10:17:33.212241"
       }
     ]
   },
@@ -29885,7 +29893,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -29898,6 +29906,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T10:06:33.179200"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T10:17:33.212241"
       }
     ]
   },
@@ -30005,7 +30017,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區中華三路",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -30018,6 +30030,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T10:12:33.414806"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T10:17:33.212241"
       }
     ]
   },
@@ -30027,11 +30043,15 @@
     "sub_category": "其他",
     "location": "高雄市岡山區",
     "units": "",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-18T10:08:33.445999"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T10:17:33.212241"
       }
     ]
   },
@@ -30050,6 +30070,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T10:12:33.414806"
+      }
+    ]
+  },
+  "a4b779769ebef532622509b81d233ef4": {
+    "time": "2026/09/18 10:16:30",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區明誠一路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T10:17:33.212241"
+      }
+    ]
+  },
+  "648810fd1c57a6704cdba32a085ea770": {
+    "time": "2026/09/18 10:16:41",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區光明路",
+    "units": "和發分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T10:17:33.212241"
       }
     ]
   }
