@@ -36327,7 +36327,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -36336,6 +36336,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T19:07:33.739822"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T19:11:33.783884"
       }
     ]
   },
@@ -36345,7 +36349,7 @@
     "sub_category": "急病",
     "location": "高雄市杉林區",
     "units": "杉林分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -36354,6 +36358,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T19:06:33.895081"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T19:11:33.783884"
       }
     ]
   },
@@ -36399,7 +36407,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -36408,6 +36416,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T19:08:33.612180"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T19:11:33.783884"
       }
     ]
   },
@@ -36417,11 +36429,29 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區華榮路",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T19:10:33.827792"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T19:11:33.783884"
+      }
+    ]
+  },
+  "9a85b6f8ea0d21877a059633c3545a44": {
+    "time": "2026/09/18 19:11:06",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市茄萣區",
+    "units": "茄萣分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T19:11:33.783884"
       }
     ]
   }
