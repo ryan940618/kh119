@@ -32753,7 +32753,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區角宿路",
     "units": "燕巢分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -32766,6 +32766,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T13:33:33.939825"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T13:45:33.895107"
       }
     ]
   },
@@ -32823,7 +32827,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -32836,6 +32840,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T13:43:33.992507"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T13:45:33.895107"
       }
     ]
   },
@@ -32899,7 +32907,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區仁愛路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -32908,6 +32916,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T13:41:33.961591"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T13:45:33.895107"
       }
     ]
   },
@@ -32931,11 +32943,43 @@
     "sub_category": "創傷",
     "location": "高雄市小港區鋼平街",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T13:43:33.992507"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T13:45:33.895107"
+      }
+    ]
+  },
+  "65b2ffd545c98c715b47841a136f06b8": {
+    "time": "2026/09/18 13:44:59",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T13:45:33.895107"
+      }
+    ]
+  },
+  "e5c25bf14d9ec6ff4ef649176eec7394": {
+    "time": "2026/09/18 13:44:29",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區安吉街",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T13:45:33.895107"
       }
     ]
   }
