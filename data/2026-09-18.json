@@ -28485,7 +28485,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區加昌路",
     "units": "後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -28502,6 +28502,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T08:05:33.251193"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T08:09:33.372923"
       }
     ]
   },
@@ -28554,6 +28558,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T08:04:33.245882"
+      }
+    ]
+  },
+  "9ac9c282c958d735bcde9d4687205155": {
+    "time": "2026/09/18 08:08:43",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T08:09:33.372923"
       }
     ]
   }
