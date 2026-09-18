@@ -32031,7 +32031,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -32044,6 +32044,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T12:49:33.450818"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T12:51:33.635119"
       }
     ]
   },
@@ -32120,6 +32124,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T12:49:33.450818"
+      }
+    ]
+  },
+  "a9f745e7b11c7b8aa874df1debb57a1e": {
+    "time": "2026/09/18 12:50:51",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區中正一路",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T12:51:33.635119"
       }
     ]
   }
