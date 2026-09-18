@@ -30765,7 +30765,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -30774,6 +30774,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T11:28:33.685268"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T11:32:33.780968"
       }
     ]
   },
@@ -30805,7 +30809,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區裕誠路和民康街",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -30814,6 +30818,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T11:29:33.679114"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T11:32:33.780968"
       }
     ]
   },
@@ -30864,6 +30872,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T11:29:33.679114"
+      }
+    ]
+  },
+  "a1f1a355d75b762e4bbc0631450d4d0e": {
+    "time": "2026/09/18 11:31:23",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T11:32:33.780968"
       }
     ]
   }
