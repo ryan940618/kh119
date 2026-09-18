@@ -38033,7 +38033,7 @@
     "sub_category": "其他",
     "location": "高雄市岡山區協和路",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "火已控",
     "status_history": [
       {
         "status": "已派遣",
@@ -38046,6 +38046,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T21:24:33.435935"
+      },
+      {
+        "status": "火已控",
+        "timestamp": "2026-09-18T21:39:33.514182"
       }
     ]
   },
@@ -38077,7 +38081,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區誠義路",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -38090,6 +38094,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T21:28:33.598140"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T21:39:33.514182"
       }
     ]
   },
@@ -38243,7 +38251,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區學堂路",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -38252,6 +38260,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T21:32:33.426829"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T21:39:33.514182"
       }
     ]
   },
@@ -38261,7 +38273,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區春陽街",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -38270,6 +38282,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T21:32:33.426829"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T21:39:33.514182"
       }
     ]
   },
@@ -38288,6 +38304,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T21:37:33.505985"
+      }
+    ]
+  },
+  "2cf7a22d1c32b5db93307f32d954de4f": {
+    "time": "2026/09/18 21:38:54",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T21:39:33.514182"
       }
     ]
   }
