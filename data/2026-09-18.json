@@ -34253,7 +34253,7 @@
     "sub_category": "創傷",
     "location": "高雄市林園區王公路",
     "units": "林園分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -34266,6 +34266,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T16:14:33.469177"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T16:21:33.592633"
       }
     ]
   },
@@ -34350,6 +34354,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T16:20:33.596825"
+      }
+    ]
+  },
+  "dcf5ec3b6aa362dabbf5b76bfa1485b3": {
+    "time": "2026/09/18 16:20:41",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市燕巢區鳳東路",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T16:21:33.592633"
       }
     ]
   }
