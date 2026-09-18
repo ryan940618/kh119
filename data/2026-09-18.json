@@ -38863,7 +38863,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -38880,6 +38880,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T23:10:33.962949"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T23:16:32.937844"
       }
     ]
   },
@@ -39063,11 +39067,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區右昌街",
     "units": "右昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T23:14:32.937006"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T23:16:32.937844"
       }
     ]
   }
