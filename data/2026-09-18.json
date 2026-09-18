@@ -37481,7 +37481,7 @@
     "sub_category": "創傷",
     "location": "高雄市大社區萬金路",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -37498,6 +37498,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T20:38:33.106613"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T20:44:33.065984"
       }
     ]
   },
@@ -37507,7 +37511,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區林森二路",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -37524,6 +37528,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T20:40:33.585738"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T20:44:33.065984"
       }
     ]
   },
@@ -37630,6 +37638,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T20:43:33.326834"
+      }
+    ]
+  },
+  "355f5f8961d527238329155140992961": {
+    "time": "2026/09/18 20:41:43",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市彌陀區舊港路",
+    "units": "彌陀分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T20:44:33.065984"
       }
     ]
   }
