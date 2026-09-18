@@ -31857,7 +31857,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區橋新三路",
     "units": "楠梓分隊,橋頭分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -31870,6 +31870,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T12:33:33.366938"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T12:45:33.389539"
       }
     ]
   },
@@ -32029,7 +32033,7 @@
     "sub_category": "車禍",
     "location": "高雄市新興區林森一路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -32038,6 +32042,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T12:41:33.404999"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T12:45:33.389539"
       }
     ]
   },
@@ -32056,6 +32064,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T12:44:33.388489"
+      }
+    ]
+  },
+  "4b0e518c379f209d8af6f4c4ecee1271": {
+    "time": "2026/09/18 12:45:10",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鳳山區中山東路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T12:45:33.389539"
       }
     ]
   }
