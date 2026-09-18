@@ -28575,7 +28575,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -28588,6 +28588,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T08:14:33.542138"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T08:19:33.500314"
       }
     ]
   },
@@ -28691,7 +28695,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區瑞福路和崗山東街",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -28700,6 +28704,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T08:16:33.547141"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T08:19:33.500314"
       }
     ]
   },
@@ -28727,11 +28735,29 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區三多二路",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T08:18:33.565732"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T08:19:33.500314"
+      }
+    ]
+  },
+  "61c6eb7dcc417b2a96e7dfd5d0e6f063": {
+    "time": "2026/09/18 08:19:01",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區隆興街",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T08:19:33.500314"
       }
     ]
   }
