@@ -28783,7 +28783,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區三多二路",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -28800,6 +28800,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T08:33:33.550123"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T08:35:33.709104"
       }
     ]
   },
@@ -28905,7 +28909,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -28914,6 +28918,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T08:32:33.750531"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T08:35:33.709104"
       }
     ]
   },
@@ -28923,11 +28931,15 @@
     "sub_category": "其他",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T08:32:33.750531"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T08:35:33.709104"
       }
     ]
   },
@@ -28942,6 +28954,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T08:34:33.591256"
+      }
+    ]
+  },
+  "d2445f59c9d82cf09186c46b46d86cca": {
+    "time": "2026/09/18 08:33:38",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市岡山區介壽西路",
+    "units": "岡山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T08:35:33.709104"
       }
     ]
   }
