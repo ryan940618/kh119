@@ -31641,7 +31641,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -31654,6 +31654,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T12:25:33.391890"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T12:29:33.363781"
       }
     ]
   },
@@ -31677,7 +31681,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -31690,6 +31694,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T12:25:33.391890"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T12:29:33.363781"
       }
     ]
   },
@@ -31794,6 +31802,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T12:28:33.288554"
+      }
+    ]
+  },
+  "03261cf7e4caee43b1487aad0207bbc0": {
+    "time": "2026/09/18 12:29:08",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T12:29:33.363781"
+      }
+    ]
+  },
+  "e16f199bd420aa69dc4710e7710dda34": {
+    "time": "2026/09/18 12:28:07",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T12:29:33.363781"
       }
     ]
   }
