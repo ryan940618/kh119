@@ -41541,7 +41541,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -41558,6 +41558,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T07:23:34.070664"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T07:32:33.171651"
       }
     ]
   },
@@ -41656,6 +41660,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T07:30:33.261370"
+      }
+    ]
+  },
+  "1d61ecfc9f1ebed940a2fecc035788f4": {
+    "time": "2026/09/19 07:32:03",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區大仁南路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T07:32:33.171651"
       }
     ]
   }
