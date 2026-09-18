@@ -30107,7 +30107,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區明誠一路",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -30124,6 +30124,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T10:27:33.350348"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T10:31:33.291686"
       }
     ]
   },
@@ -30245,11 +30249,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T10:30:33.419892"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T10:31:33.291686"
+      }
+    ]
+  },
+  "2d3c529c25fc2ec212dacef8953c0d2e": {
+    "time": "2026/09/18 10:30:10",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區岡燕路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T10:31:33.291686"
       }
     ]
   }
