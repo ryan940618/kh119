@@ -39585,7 +39585,7 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區建國一路",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -39602,6 +39602,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T01:10:33.639445"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T01:11:33.793700"
       }
     ]
   },
@@ -39691,11 +39695,29 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T01:10:33.639445"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T01:11:33.793700"
+      }
+    ]
+  },
+  "b571d5a164b09c5493ec0f4c840793a7": {
+    "time": "2026/09/19 01:10:29",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市甲仙區林森路",
+    "units": "甲仙分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T01:11:33.793700"
       }
     ]
   }
