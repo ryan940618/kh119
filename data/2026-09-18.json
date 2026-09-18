@@ -36461,7 +36461,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區華榮路",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -36474,6 +36474,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T19:15:33.765842"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T19:23:34.475770"
       }
     ]
   },
@@ -36558,6 +36562,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T19:22:33.676110"
+      }
+    ]
+  },
+  "c1d64273e36f75996ade8732a930b4bd": {
+    "time": "2026/09/18 19:22:44",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區大埤路",
+    "units": "鳥松分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T19:23:34.475770"
       }
     ]
   }
