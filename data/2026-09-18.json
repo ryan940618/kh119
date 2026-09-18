@@ -28849,7 +28849,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區五福一路",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -28858,6 +28858,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T08:26:33.533319"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T08:32:33.750531"
       }
     ]
   },
@@ -28867,7 +28871,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區維安街",
     "units": "小港分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -28876,6 +28880,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T08:29:33.479520"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T08:32:33.750531"
       }
     ]
   },
@@ -28885,11 +28893,29 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T08:30:33.778675"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T08:32:33.750531"
+      }
+    ]
+  },
+  "52934cbd198b68ef83ba4d3fa6a00543": {
+    "time": "2026/09/18 08:30:55",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T08:32:33.750531"
       }
     ]
   }
