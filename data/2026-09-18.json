@@ -38011,7 +38011,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區新富路",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -38024,6 +38024,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T21:18:33.370788"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-18T21:41:33.479306"
       }
     ]
   },
@@ -38081,7 +38085,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區誠義路",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -38098,6 +38102,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T21:39:33.514182"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T21:41:33.479306"
       }
     ]
   },
@@ -38295,7 +38303,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -38304,6 +38312,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T21:37:33.505985"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T21:41:33.479306"
       }
     ]
   },
@@ -38313,11 +38325,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T21:39:33.514182"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T21:41:33.479306"
       }
     ]
   }
