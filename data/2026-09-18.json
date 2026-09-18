@@ -31419,7 +31419,7 @@
     "sub_category": "創傷",
     "location": "高雄市橋頭區隆豐路",
     "units": "橋頭分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -31432,6 +31432,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T12:11:33.117242"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T12:19:33.209511"
       }
     ]
   },
@@ -31441,7 +31445,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -31458,6 +31462,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-18T12:15:33.119922"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-18T12:19:33.209511"
       }
     ]
   },
@@ -31543,7 +31551,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -31552,6 +31560,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T12:14:33.104405"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T12:19:33.209511"
       }
     ]
   },
@@ -31602,6 +31614,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T12:18:33.085958"
+      }
+    ]
+  },
+  "015ffeb84d9e436e5e88e5b3bc5d8a40": {
+    "time": "2026/09/18 12:18:50",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "前金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T12:19:33.209511"
       }
     ]
   }
