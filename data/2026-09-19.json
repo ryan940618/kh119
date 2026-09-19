@@ -44093,7 +44093,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -44106,6 +44106,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T10:59:33.285908"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T11:04:33.849460"
       }
     ]
   },
@@ -44245,11 +44249,15 @@
     "sub_category": "車禍",
     "location": "高雄市左營區店仔頂路和埤子頭街",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T11:01:33.372183"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T11:04:33.849460"
       }
     ]
   },
@@ -44287,11 +44295,15 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區信義街",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T11:03:33.316408"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T11:04:33.849460"
       }
     ]
   }
