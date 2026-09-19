@@ -48473,7 +48473,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳥松區澄明街",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -48486,6 +48486,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T16:53:33.526140"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T16:59:33.861438"
       }
     ]
   },
@@ -48669,11 +48673,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-19T16:51:33.636778"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T16:59:33.861438"
       }
     ]
   },
@@ -48720,6 +48728,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T16:57:33.605290"
+      }
+    ]
+  },
+  "4cd14b4d38e6f59cde2e8c26cb35f2d5": {
+    "time": "2026/09/19 16:58:33",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區民族一路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T16:59:33.861438"
       }
     ]
   }
