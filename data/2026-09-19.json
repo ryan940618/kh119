@@ -46019,7 +46019,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -46032,6 +46032,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T13:13:33.244894"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T13:31:33.265905"
       }
     ]
   },
@@ -46055,7 +46059,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -46068,6 +46072,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T13:22:33.311505"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T13:31:33.265905"
       }
     ]
   },
@@ -46145,11 +46153,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T13:27:33.125827"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T13:31:33.265905"
       }
     ]
   },
@@ -46186,6 +46198,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T13:28:33.316045"
+      }
+    ]
+  },
+  "67e677fc605c24e3ca0d9d548b35c53b": {
+    "time": "2026/09/19 13:30:49",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市茄萣區尚禮街",
+    "units": "茄萣分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T13:31:33.265905"
       }
     ]
   }
