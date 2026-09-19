@@ -51127,7 +51127,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區平和路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -51140,6 +51140,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T20:44:33.001105"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T20:52:33.246755"
       }
     ]
   },
@@ -51149,7 +51153,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區瑞田街",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -51166,6 +51170,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T20:45:33.076260"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T20:52:33.246755"
       }
     ]
   },
@@ -51201,7 +51209,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區站前北一路",
     "units": "左營小隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -51214,6 +51222,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T20:38:32.962899"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T20:52:33.246755"
       }
     ]
   },
@@ -51303,7 +51315,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -51312,6 +51324,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T20:50:33.162315"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T20:52:33.246755"
       }
     ]
   },
@@ -51321,11 +51337,29 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-19T20:50:33.162315"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T20:52:33.246755"
+      }
+    ]
+  },
+  "70c4981262320dc33ac4c689e4389563": {
+    "time": "2026/09/19 20:51:41",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市新興區新田路和仁愛二街",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T20:52:33.246755"
       }
     ]
   }
