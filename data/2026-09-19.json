@@ -46357,7 +46357,7 @@
     "sub_category": "急病",
     "location": "高雄市杉林區",
     "units": "杉林分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -46370,6 +46370,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T13:51:33.356275"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T13:53:33.348257"
       }
     ]
   },
@@ -46437,11 +46441,29 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T13:51:33.356275"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T13:53:33.348257"
+      }
+    ]
+  },
+  "f9d62af9116372283ff662f609173cf0": {
+    "time": "2026/09/19 13:52:33",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鹽埕區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T13:53:33.348257"
       }
     ]
   }
