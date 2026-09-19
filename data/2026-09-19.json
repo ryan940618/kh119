@@ -49991,11 +49991,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區旗楠路",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-19T18:46:33.147189"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T18:50:33.286330"
       }
     ]
   },
@@ -50010,6 +50014,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T18:49:33.313497"
+      }
+    ]
+  },
+  "a15d7a1325b12b6ccce794ad1593c6a0": {
+    "time": "2026/09/19 18:49:05",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T18:50:33.286330"
       }
     ]
   }
