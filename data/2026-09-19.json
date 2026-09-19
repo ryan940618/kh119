@@ -51431,7 +51431,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -51448,6 +51448,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T21:17:33.257001"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T21:21:33.281702"
       }
     ]
   },
@@ -51538,6 +51542,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T21:16:33.279018"
+      }
+    ]
+  },
+  "05578de59b8f6d8977b0d1b93650322c": {
+    "time": "2026/09/19 21:21:17",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區仁壽南路",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T21:21:33.281702"
+      }
+    ]
+  },
+  "74d92d615e880a424ef3ce7af34c3605": {
+    "time": "2026/09/19 21:20:24",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市湖內區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T21:21:33.281702"
+      }
+    ]
+  },
+  "584732d1a2faa45bff07986fe56dd84d": {
+    "time": "2026/09/19 21:20:20",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T21:21:33.281702"
       }
     ]
   }
