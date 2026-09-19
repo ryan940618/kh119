@@ -43287,7 +43287,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -43304,6 +43304,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T09:46:33.811114"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T10:00:33.978623"
       }
     ]
   },
@@ -43597,11 +43601,29 @@
     "sub_category": "車禍",
     "location": "高雄市三民區十全一路和山東街",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T09:59:34.151013"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T10:00:33.978623"
+      }
+    ]
+  },
+  "3e43bb9d1e4bf74bcffc8bbb6fb4b2c2": {
+    "time": "2026/09/19 10:00:11",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T10:00:33.978623"
       }
     ]
   }
