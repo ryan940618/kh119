@@ -49733,7 +49733,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中平路",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -49746,6 +49746,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T18:33:33.206307"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T18:37:33.198881"
       }
     ]
   },
@@ -49832,6 +49836,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T18:35:33.161150"
+      }
+    ]
+  },
+  "1e59d7fe0144d698b9e48ec64931f25f": {
+    "time": "2026/09/19 18:36:30",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T18:37:33.198881"
       }
     ]
   }
