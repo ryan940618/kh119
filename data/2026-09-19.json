@@ -48355,11 +48355,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-19T16:32:33.381102"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T16:37:33.741097"
       }
     ]
   },
@@ -48420,6 +48424,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T16:36:33.398097"
+      }
+    ]
+  },
+  "0be5153fbb5fb82416e27dd3f5ad425b": {
+    "time": "2026/09/19 16:37:02",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區中正路",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T16:37:33.741097"
+      }
+    ]
+  },
+  "53175948f7fc01abe217c4bb47a5ad5f": {
+    "time": "2026/09/19 16:36:45",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市楠梓區高峰街",
+    "units": "後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T16:37:33.741097"
       }
     ]
   }
