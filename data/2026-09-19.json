@@ -41739,7 +41739,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -41756,6 +41756,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T07:51:33.116828"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T08:03:33.273130"
       }
     ]
   },
@@ -41932,6 +41936,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T08:00:33.206801"
+      }
+    ]
+  },
+  "92684c9760d9230b9028e2b2c2c1947c": {
+    "time": "2026/09/19 08:01:07",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T08:03:33.273130"
       }
     ]
   }
