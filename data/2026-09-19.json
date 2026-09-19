@@ -45115,7 +45115,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區宏毅一路",
     "units": "左營小隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -45132,6 +45132,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T12:22:33.863635"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T12:29:33.909522"
       }
     ]
   },
@@ -45361,7 +45365,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區哈爾濱街",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -45370,6 +45374,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T12:28:34.104556"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T12:29:33.909522"
       }
     ]
   },
@@ -45420,6 +45428,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T12:27:33.977560"
+      }
+    ]
+  },
+  "3ad096433ad0555c7ee6757084ebca76": {
+    "time": "2026/09/19 12:28:43",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T12:29:33.909522"
       }
     ]
   }
