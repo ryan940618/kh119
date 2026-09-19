@@ -49255,7 +49255,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -49268,6 +49268,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T17:41:33.824457"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T17:47:33.975123"
       }
     ]
   },
@@ -49317,11 +49321,15 @@
     "sub_category": "創傷",
     "location": "高雄市左營區榮成一街",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T17:46:34.015718"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T17:47:33.975123"
       }
     ]
   }
