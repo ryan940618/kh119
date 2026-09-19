@@ -51379,7 +51379,7 @@
     "sub_category": "車禍",
     "location": "高雄市新興區新田路和仁愛二街",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -51396,6 +51396,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T21:32:33.398398"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T21:35:33.330196"
       }
     ]
   },
@@ -51519,7 +51523,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -51528,6 +51532,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T21:18:33.361770"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T21:35:33.330196"
       }
     ]
   },
@@ -51589,7 +51597,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -51602,6 +51610,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T21:28:33.721737"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T21:35:33.330196"
       }
     ]
   },
@@ -51656,6 +51668,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T21:34:33.315712"
+      }
+    ]
+  },
+  "a273944ed484ae6458f80f398a1cb338": {
+    "time": "2026/09/19 21:34:29",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市燕巢區",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T21:35:33.330196"
       }
     ]
   }
