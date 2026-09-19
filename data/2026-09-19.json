@@ -45133,7 +45133,7 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區崗山南街",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -45146,6 +45146,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T12:14:33.913073"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T12:20:33.844671"
       }
     ]
   },
@@ -45259,11 +45263,15 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區大德二路",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T12:17:33.921641"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T12:20:33.844671"
       }
     ]
   },
@@ -45273,11 +45281,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T12:18:33.870338"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T12:20:33.844671"
       }
     ]
   }
