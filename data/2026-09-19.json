@@ -49579,7 +49579,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區大寮路",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -49596,6 +49596,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T18:19:33.067001"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T18:30:33.192885"
       }
     ]
   },
@@ -49727,11 +49731,29 @@
     "sub_category": "創傷",
     "location": "高雄市岡山區正言街",
     "units": "梓官分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T18:29:33.058639"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T18:30:33.192885"
+      }
+    ]
+  },
+  "68e376f731a6104c6713f43e47290916": {
+    "time": "2026/09/19 18:29:07",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區中崙一路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T18:30:33.192885"
       }
     ]
   }
