@@ -49399,7 +49399,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -49412,6 +49412,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T18:12:33.043792"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T18:33:33.206307"
       }
     ]
   },
@@ -49725,7 +49729,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中平路",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -49734,6 +49738,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T18:31:33.119301"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T18:33:33.206307"
       }
     ]
   },
@@ -49784,6 +49792,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T18:32:33.058846"
+      }
+    ]
+  },
+  "44f5e3ebc76a1e78748a633957120bd4": {
+    "time": "2026/09/19 18:32:09",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區同盟二路和哈爾濱街",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T18:33:33.206307"
       }
     ]
   }
