@@ -42805,7 +42805,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -42814,6 +42814,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T09:05:33.594404"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T09:13:33.645667"
       }
     ]
   },
@@ -42823,7 +42827,7 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -42836,6 +42840,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T09:12:33.856541"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T09:13:33.645667"
       }
     ]
   },
@@ -42885,7 +42893,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區哈爾濱街",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -42894,6 +42902,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T09:09:33.566851"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T09:13:33.645667"
       }
     ]
   },
@@ -42903,11 +42915,43 @@
     "sub_category": "車禍",
     "location": "高雄市三民區九如一路",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T09:12:33.856541"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T09:13:33.645667"
+      }
+    ]
+  },
+  "9ffbb5779d905646ec0e0484ec75c7d0": {
+    "time": "2026/09/19 09:12:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T09:13:33.645667"
+      }
+    ]
+  },
+  "2c9e4a0b247f5569ff2374db23c7c741": {
+    "time": "2026/09/19 09:12:20",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市仁武區仁心路",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T09:13:33.645667"
       }
     ]
   }
