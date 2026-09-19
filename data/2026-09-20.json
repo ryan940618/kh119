@@ -54359,7 +54359,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -54372,6 +54372,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T05:50:33.389626"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T05:58:33.677698"
       }
     ]
   },
@@ -54443,11 +54447,15 @@
     "sub_category": "路倒",
     "location": "高雄市大寮區內厝路",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T05:54:33.644146"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T05:58:33.677698"
       }
     ]
   },
