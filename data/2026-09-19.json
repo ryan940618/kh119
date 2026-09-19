@@ -47463,7 +47463,7 @@
     "sub_category": "其他",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -47476,6 +47476,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T16:13:33.308004"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T16:24:33.337060"
       }
     ]
   },
@@ -48095,7 +48099,7 @@
     "sub_category": "一般(集合)住宅",
     "location": "高雄市仁武區水管路",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -48108,6 +48112,10 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T16:17:33.344757"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T16:24:33.337060"
       }
     ]
   },
@@ -48170,6 +48178,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T16:22:33.383683"
+      }
+    ]
+  },
+  "3d458d2513919fe53186cd9efcc24b8e": {
+    "time": "2026/09/19 16:24:15",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T16:24:33.337060"
+      }
+    ]
+  },
+  "77666ececa37316df53e346c06ac24fa": {
+    "time": "2026/09/19 16:23:08",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T16:24:33.337060"
       }
     ]
   }
