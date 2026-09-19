@@ -43371,7 +43371,7 @@
     "sub_category": "路倒",
     "location": "高雄市左營區高鐵路",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -43384,6 +43384,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T09:48:33.876503"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T09:56:34.164049"
       }
     ]
   },
@@ -43532,6 +43536,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T09:55:33.958204"
+      }
+    ]
+  },
+  "85ec0fef215003c35d615a0e2fc69f96": {
+    "time": "2026/09/19 09:55:38",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區高楠公路",
+    "units": "後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T09:56:34.164049"
+      }
+    ]
+  },
+  "f8d8fe36dae9a366255212cea836196c": {
+    "time": "2026/09/19 09:55:33",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區文龍東路和北賢街",
+    "units": "鳳山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T09:56:34.164049"
       }
     ]
   }
