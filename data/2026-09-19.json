@@ -42305,7 +42305,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區鳳東路",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -42314,6 +42314,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T08:32:35.606507"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T08:43:33.302349"
       }
     ]
   },
@@ -42399,7 +42403,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -42408,6 +42412,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T08:39:33.293909"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T08:43:33.302349"
       }
     ]
   },
@@ -42440,6 +42448,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T08:42:33.333355"
+      }
+    ]
+  },
+  "947d93b0d8cf6bad6bcfaaaad80626c5": {
+    "time": "2026/09/19 08:42:15",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市新興區中正三路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T08:43:33.302349"
+      }
+    ]
+  },
+  "1e2bac59038ad213575535e2dc09e401": {
+    "time": "2026/09/19 08:41:55",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市岡山區岡燕路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T08:43:33.302349"
       }
     ]
   }
