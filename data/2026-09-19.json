@@ -47681,7 +47681,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區康定路",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -47694,6 +47694,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T15:41:33.197232"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T16:01:33.227276"
       }
     ]
   },
@@ -47878,6 +47882,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T16:00:33.179082"
+      }
+    ]
+  },
+  "c26682e306752c8c156a2a6bd18443b9": {
+    "time": "2026/09/19 16:00:53",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市旗山區延平一路",
+    "units": "旗山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T16:01:33.227276"
+      }
+    ]
+  },
+  "4b7f30f4ba4f178cf585ed4fb3f73824": {
+    "time": "2026/09/19 16:00:17",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T16:01:33.227276"
+      }
+    ]
+  },
+  "2d1469dcab8f4d7c0f206b6645e9a43e": {
+    "time": "2026/09/19 15:59:09",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區十全一路和吉林街",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T16:01:33.227276"
       }
     ]
   }
