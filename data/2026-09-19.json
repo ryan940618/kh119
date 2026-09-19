@@ -46147,7 +46147,7 @@
     "sub_category": "創傷",
     "location": "高雄市鹽埕區七賢三路",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -46160,6 +46160,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T13:34:33.282390"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T13:45:33.548702"
       }
     ]
   },
@@ -46351,11 +46355,15 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T13:41:33.566739"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T13:45:33.548702"
       }
     ]
   }
