@@ -47299,7 +47299,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -47312,6 +47312,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T15:13:34.082655"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T15:25:32.993942"
       }
     ]
   },
@@ -47347,7 +47351,7 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -47360,6 +47364,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T15:15:34.086544"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T15:25:32.993942"
       }
     ]
   },
@@ -47387,7 +47395,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -47396,6 +47404,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T15:17:33.943593"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T15:25:32.993942"
       }
     ]
   },
@@ -47423,11 +47435,43 @@
     "sub_category": "其他",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T15:18:34.014116"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T15:25:32.993942"
+      }
+    ]
+  },
+  "fc951ba9352c02aa7d9ba6b0e27cbd6c": {
+    "time": "2026/09/19 15:22:25",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區勝利路",
+    "units": "新莊分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T15:25:32.993942"
+      }
+    ]
+  },
+  "02fbc887adfedf7b0b02f320c0efcdbc": {
+    "time": "2026/09/19 15:22:02",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市彌陀區進學路",
+    "units": "彌陀分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T15:25:32.993942"
       }
     ]
   }
