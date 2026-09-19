@@ -46473,7 +46473,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -46490,6 +46490,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T14:02:33.495029"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T14:06:33.556901"
       }
     ]
   },
@@ -46499,7 +46503,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -46512,6 +46516,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T14:00:33.401520"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T14:06:33.556901"
       }
     ]
   },
@@ -46562,6 +46570,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T14:03:33.491337"
+      }
+    ]
+  },
+  "1f9c281762e3ed88744149e56c792cf1": {
+    "time": "2026/09/19 14:06:16",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區中華二路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T14:06:33.556901"
+      }
+    ]
+  },
+  "10c307df50300bf9f77977c168a78b2a": {
+    "time": "2026/09/19 14:05:43",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T14:06:33.556901"
       }
     ]
   }
