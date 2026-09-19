@@ -43215,7 +43215,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -43224,6 +43224,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T09:35:33.967631"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T09:42:33.910073"
       }
     ]
   },
@@ -43233,7 +43237,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -43242,6 +43246,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T09:35:33.967631"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T09:42:33.910073"
       }
     ]
   },
@@ -43273,7 +43281,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區太平路",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -43282,6 +43290,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T09:36:33.761190"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T09:42:33.910073"
       }
     ]
   },
@@ -43346,6 +43358,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T09:41:35.527281"
+      }
+    ]
+  },
+  "35fc1f3056cef926af232b333250912e": {
+    "time": "2026/09/19 09:41:15",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市小港區博學路",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T09:42:33.910073"
       }
     ]
   }
