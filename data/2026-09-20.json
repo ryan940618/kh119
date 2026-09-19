@@ -53057,7 +53057,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -53074,6 +53074,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T01:40:33.871536"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T01:42:33.837510"
       }
     ]
   },
@@ -53172,6 +53176,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T01:41:33.710368"
+      }
+    ]
+  },
+  "7119e19b67981a70a7ce6da022be4724": {
+    "time": "2026/09/20 01:41:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鹽埕區",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T01:42:33.837510"
+      }
+    ]
+  },
+  "a09f381e176b698ae32a7aeda58e7e56": {
+    "time": "2026/09/20 01:41:13",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T01:42:33.837510"
       }
     ]
   }
