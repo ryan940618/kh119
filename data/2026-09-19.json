@@ -47165,7 +47165,7 @@
     "sub_category": "車禍",
     "location": "高雄市大社區和平路",
     "units": "大社分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -47178,6 +47178,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T15:03:33.788390"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T15:11:33.865902"
       }
     ]
   },
@@ -47289,11 +47293,29 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區中正路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-19T15:08:33.923874"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T15:11:33.865902"
+      }
+    ]
+  },
+  "0cd11484fd8b11b252c0236580ee6a3e": {
+    "time": "2026/09/19 15:10:28",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗津區",
+    "units": "旗津分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T15:11:33.865902"
       }
     ]
   }
