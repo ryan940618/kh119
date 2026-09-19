@@ -44749,7 +44749,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區新厝路",
     "units": "和發分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -44758,6 +44758,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T11:36:33.538825"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T11:44:33.722291"
       }
     ]
   },
@@ -44785,11 +44789,29 @@
     "sub_category": "急病",
     "location": "高雄市永安區",
     "units": "永安分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-19T11:42:33.670679"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T11:44:33.722291"
+      }
+    ]
+  },
+  "7267e6b8b5c10786c93cbb555e031f9f": {
+    "time": "2026/09/19 11:43:48",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市梓官區梓官路",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T11:44:33.722291"
       }
     ]
   }
