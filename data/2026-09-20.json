@@ -55059,11 +55059,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區大華路",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-20T07:45:33.132010"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T07:53:33.101010"
       }
     ]
   },
@@ -55073,7 +55077,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -55082,6 +55086,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T07:49:32.994089"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T07:53:33.101010"
       }
     ]
   },
@@ -55100,6 +55108,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T07:52:33.117966"
+      }
+    ]
+  },
+  "57105fa6073b53b1841a19a4fd4430e7": {
+    "time": "2026/09/20 07:52:10",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市梓官區",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T07:53:33.101010"
+      }
+    ]
+  },
+  "8c53f07e88e272ebaf9e76a9d62dab14": {
+    "time": "2026/09/20 07:52:07",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市苓雅區",
+    "units": "",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T07:53:33.101010"
       }
     ]
   }
