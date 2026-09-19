@@ -45175,7 +45175,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區瑞福路和瑞安街",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -45188,6 +45188,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T12:18:33.870338"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T12:31:33.925636"
       }
     ]
   },
@@ -45431,7 +45435,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區德中路",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -45440,6 +45444,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T12:27:33.977560"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T12:31:33.925636"
       }
     ]
   },
@@ -45458,6 +45466,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T12:30:33.839956"
+      }
+    ]
+  },
+  "fb921c598175519b14291e9c3c327d22": {
+    "time": "2026/09/19 12:30:37",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T12:31:33.925636"
       }
     ]
   }
