@@ -52431,7 +52431,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -52448,6 +52448,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T23:49:33.166758"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T23:56:33.110989"
       }
     ]
   },
@@ -52549,7 +52553,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -52558,6 +52562,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T23:53:33.228969"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T23:56:33.110989"
       }
     ]
   },
@@ -52567,11 +52575,29 @@
     "sub_category": "急病",
     "location": "高雄市彌陀區",
     "units": "彌陀分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T23:55:33.162271"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T23:56:33.110989"
+      }
+    ]
+  },
+  "263d6d372542b0b460c94e5be7366cc5": {
+    "time": "2026/09/19 23:55:34",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市美濃區",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T23:56:33.110989"
       }
     ]
   }
