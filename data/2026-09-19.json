@@ -50547,7 +50547,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -50560,6 +50560,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T19:30:33.472337"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T19:48:33.600161"
       }
     ]
   },
@@ -50699,7 +50703,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區藍昌路和大學二十八街",
     "units": "橋頭分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -50712,6 +50716,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T19:35:33.558554"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T19:48:33.600161"
       }
     ]
   },
@@ -50810,6 +50818,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T19:43:33.610596"
+      }
+    ]
+  },
+  "cb7cea3dd84f2a7731fd4735a0314f5e": {
+    "time": "2026/09/19 19:30:00",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前金區自強一路",
+    "units": "新興分隊",
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T19:48:33.600161"
       }
     ]
   }
