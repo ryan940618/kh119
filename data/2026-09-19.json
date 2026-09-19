@@ -49181,7 +49181,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -49198,6 +49198,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T17:40:33.876726"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T17:51:34.004781"
       }
     ]
   },
@@ -49311,7 +49315,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區南華路",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -49324,6 +49328,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T17:49:33.961463"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T17:51:34.004781"
       }
     ]
   },
@@ -49369,11 +49377,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T17:50:33.922442"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T17:51:34.004781"
+      }
+    ]
+  },
+  "811873263704ad4d98ceda183bd068a3": {
+    "time": "2026/09/19 17:50:11",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T17:51:34.004781"
       }
     ]
   }
