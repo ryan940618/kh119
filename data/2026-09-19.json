@@ -46727,7 +46727,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -46740,6 +46740,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T14:17:33.557780"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T14:22:33.503577"
       }
     ]
   },
@@ -46749,7 +46753,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區維武路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -46758,6 +46762,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T14:14:33.561864"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T14:22:33.503577"
       }
     ]
   },
@@ -46767,11 +46775,15 @@
     "sub_category": "創傷",
     "location": "高雄市鹽埕區大仁路",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T14:16:33.625216"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T14:22:33.503577"
       }
     ]
   },
@@ -46781,11 +46793,15 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T14:18:33.604006"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T14:22:33.503577"
       }
     ]
   }
