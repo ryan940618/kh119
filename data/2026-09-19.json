@@ -51353,7 +51353,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -51366,6 +51366,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T20:59:33.156171"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T21:15:33.223083"
       }
     ]
   },
@@ -51504,6 +51508,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T21:14:36.213590"
+      }
+    ]
+  },
+  "9921194d5f5428073bfe034327ebe75e": {
+    "time": "2026/09/19 21:14:29",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區青少年極限運動場[高雄市苓雅區體育場路",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T21:15:33.223083"
       }
     ]
   }
