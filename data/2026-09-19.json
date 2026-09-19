@@ -44067,7 +44067,7 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區新鎮路",
     "units": "大樹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -44076,6 +44076,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T10:49:33.443911"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T10:58:33.408067"
       }
     ]
   },
@@ -44103,7 +44107,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -44112,6 +44116,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T10:53:33.307055"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T10:58:33.408067"
       }
     ]
   },
@@ -44121,11 +44129,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T10:54:33.279033"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T10:58:33.408067"
       }
     ]
   },
