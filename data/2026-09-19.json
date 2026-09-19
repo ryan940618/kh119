@@ -49639,7 +49639,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -49656,6 +49656,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T18:28:33.080381"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T18:43:33.250851"
       }
     ]
   },
@@ -49759,7 +49763,7 @@
     "sub_category": "創傷",
     "location": "高雄市岡山區正言街",
     "units": "梓官分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -49772,6 +49776,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T18:39:33.229027"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T18:43:33.250851"
       }
     ]
   },
@@ -49839,7 +49847,7 @@
     "sub_category": "創傷",
     "location": "高雄市岡山區田厝一路",
     "units": "阿蓮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -49848,6 +49856,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T18:35:33.161150"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T18:43:33.250851"
       }
     ]
   },
@@ -49857,7 +49869,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -49866,6 +49878,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T18:38:33.161203"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T18:43:33.250851"
       }
     ]
   },
@@ -49893,7 +49909,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -49902,6 +49918,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T18:41:33.183818"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T18:43:33.250851"
       }
     ]
   },
@@ -49911,11 +49931,29 @@
     "sub_category": "車禍",
     "location": "高雄市林園區王公路",
     "units": "林園分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T18:41:33.183818"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T18:43:33.250851"
+      }
+    ]
+  },
+  "b4a9e25a0787ee1635cea7262dceb293": {
+    "time": "2026/09/19 18:42:53",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T18:43:33.250851"
       }
     ]
   }
