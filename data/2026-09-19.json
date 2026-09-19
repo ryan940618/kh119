@@ -42687,7 +42687,7 @@
     "sub_category": "創傷",
     "location": "高雄市岡山區介壽西路",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -42696,6 +42696,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T09:03:33.500571"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T09:07:33.538976"
       }
     ]
   },
@@ -42796,6 +42800,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T09:06:33.606294"
+      }
+    ]
+  },
+  "46f3bf6ba403f8b74a66ba2a8b26d2b4": {
+    "time": "2026/09/19 09:06:45",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市美濃區",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T09:07:33.538976"
       }
     ]
   }
