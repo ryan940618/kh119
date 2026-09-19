@@ -44751,7 +44751,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -44768,6 +44768,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T11:55:33.757218"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T12:06:33.936584"
       }
     ]
   },
@@ -44837,7 +44841,7 @@
     "sub_category": "急病",
     "location": "高雄市永安區",
     "units": "永安分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -44850,6 +44854,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T12:01:33.794094"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T12:06:33.936584"
       }
     ]
   },
@@ -44955,7 +44963,7 @@
     "sub_category": "路倒",
     "location": "高雄市鼓山區鼓山三路和銀川街",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -44972,6 +44980,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T12:02:33.699063"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T12:06:33.936584"
       }
     ]
   },
@@ -45063,11 +45075,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區宏毅一路",
     "units": "左營小隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T12:05:33.733142"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T12:06:33.936584"
       }
     ]
   },
