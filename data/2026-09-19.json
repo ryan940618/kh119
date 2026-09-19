@@ -42727,7 +42727,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -42736,6 +42736,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T09:03:33.500571"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T09:08:33.550053"
       }
     ]
   },
@@ -42759,7 +42763,7 @@
     "sub_category": "其他",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -42768,6 +42772,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T09:06:33.606294"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T09:08:33.550053"
       }
     ]
   },
@@ -42795,11 +42803,15 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T09:06:33.606294"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T09:08:33.550053"
       }
     ]
   },
@@ -42809,11 +42821,43 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T09:07:33.538976"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T09:08:33.550053"
+      }
+    ]
+  },
+  "b3b9e5df5f92832ed70a8033710f3c15": {
+    "time": "2026/09/19 09:07:56",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T09:08:33.550053"
+      }
+    ]
+  },
+  "a2d4f63a7bb24b3e4821179ca496fc62": {
+    "time": "2026/09/19 09:07:46",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區哈爾濱街",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T09:08:33.550053"
       }
     ]
   }
