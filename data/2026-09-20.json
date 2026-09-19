@@ -54573,7 +54573,7 @@
     "sub_category": "其他",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -54586,6 +54586,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T06:19:33.603980"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T06:45:33.754405"
       }
     ]
   },
@@ -54775,11 +54779,15 @@
     "sub_category": "車禍",
     "location": "高雄市前金區民生二路",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T06:38:33.878814"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T06:45:33.754405"
       }
     ]
   }
