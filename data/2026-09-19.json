@@ -41687,7 +41687,7 @@
     "sub_category": "路倒",
     "location": "高雄市左營區華夏路",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -41704,6 +41704,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T08:06:33.139446"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T08:13:33.266597"
       }
     ]
   },
@@ -41855,7 +41859,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區內坑路",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -41872,6 +41876,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T08:06:33.139446"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T08:13:33.266597"
       }
     ]
   },
@@ -42017,7 +42025,7 @@
     "sub_category": "其他",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -42026,6 +42034,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T08:09:33.267289"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T08:13:33.266597"
       }
     ]
   },
@@ -42035,7 +42047,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區錦田路",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -42044,6 +42056,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T08:10:33.260274"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T08:13:33.266597"
       }
     ]
   },
@@ -42089,11 +42105,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T08:12:33.230511"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T08:13:33.266597"
+      }
+    ]
+  },
+  "135533e7aaeb956fdf26ec0e84daca01": {
+    "time": "2026/09/19 08:12:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "後勁分隊,楠梓分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T08:13:33.266597"
       }
     ]
   }
