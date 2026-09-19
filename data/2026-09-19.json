@@ -51063,7 +51063,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -51076,6 +51076,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T20:29:33.835169"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T20:41:32.915209"
       }
     ]
   },
@@ -51208,6 +51212,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T20:40:32.919174"
+      }
+    ]
+  },
+  "821bbac7067430dc13039a003ca213cf": {
+    "time": "2026/09/19 20:39:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區重愛路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T20:41:32.915209"
       }
     ]
   }
