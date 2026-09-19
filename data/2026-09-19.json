@@ -45723,7 +45723,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -45732,6 +45732,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T12:50:33.101860"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T12:57:33.287366"
       }
     ]
   },
@@ -45822,6 +45826,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T12:56:33.186600"
+      }
+    ]
+  },
+  "3fb80c288ca38311c5af6a73b63649ce": {
+    "time": "2026/09/19 12:57:12",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T12:57:33.287366"
+      }
+    ]
+  },
+  "2640ab13938137c60aa4c8aaae1178f7": {
+    "time": "2026/09/19 12:56:45",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區九如一路",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T12:57:33.287366"
       }
     ]
   }
