@@ -46369,7 +46369,7 @@
     "sub_category": "急病",
     "location": "高雄市杉林區",
     "units": "杉林分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -46386,6 +46386,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T13:53:33.348257"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T14:13:33.581319"
       }
     ]
   },
@@ -46599,7 +46603,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區中華二路",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -46608,6 +46612,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T14:10:33.427300"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T14:13:33.581319"
       }
     ]
   },
@@ -46639,11 +46647,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區大昌二路",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T14:08:33.382929"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T14:13:33.581319"
       }
     ]
   },
@@ -46676,6 +46688,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T14:12:33.731662"
+      }
+    ]
+  },
+  "f2d4c9483bf0eb196b978d0130bcd83a": {
+    "time": "2026/09/19 14:11:39",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區維武路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T14:13:33.581319"
       }
     ]
   }
