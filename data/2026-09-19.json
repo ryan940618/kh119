@@ -42617,7 +42617,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區左營大路",
     "units": "左營小隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -42630,6 +42630,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T08:54:33.472595"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T09:06:33.606294"
       }
     ]
   },
@@ -42751,11 +42755,15 @@
     "sub_category": "其他",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T09:03:33.500571"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T09:06:33.606294"
       }
     ]
   },
@@ -42774,6 +42782,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T09:05:33.594404"
+      }
+    ]
+  },
+  "eef7482d5ffe9754fccdc750cd73d757": {
+    "time": "2026/09/19 09:05:56",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T09:06:33.606294"
       }
     ]
   }
