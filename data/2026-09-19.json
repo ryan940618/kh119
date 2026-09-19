@@ -44747,7 +44747,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -44760,6 +44760,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T11:46:33.647544"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T11:55:33.757218"
       }
     ]
   },
@@ -44769,7 +44773,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區新厝路",
     "units": "和發分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -44786,6 +44790,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T11:47:33.731655"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T11:55:33.757218"
       }
     ]
   },
@@ -44857,7 +44865,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區德民路",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -44866,6 +44874,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T11:49:33.698421"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T11:55:33.757218"
       }
     ]
   },
@@ -44915,11 +44927,29 @@
     "sub_category": "路倒",
     "location": "高雄市鼓山區鼓山三路和銀川街",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T11:51:34.030745"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T11:55:33.757218"
+      }
+    ]
+  },
+  "a44d912c1c0bb01eb78e702d28a8f8ec": {
+    "time": "2026/09/19 11:54:16",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市旗津區中洲三路",
+    "units": "旗津分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T11:55:33.757218"
       }
     ]
   }
