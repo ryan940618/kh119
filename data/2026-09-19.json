@@ -51081,7 +51081,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區馬卡道路",
     "units": "左營分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -51090,6 +51090,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T20:27:33.861848"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T20:30:33.914891"
       }
     ]
   },
@@ -51099,11 +51103,15 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區平和路",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T20:27:33.861848"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T20:30:33.914891"
       }
     ]
   },
@@ -51113,11 +51121,29 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區瑞田街",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T20:29:33.835169"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T20:30:33.914891"
+      }
+    ]
+  },
+  "87e4639fd89e9edf3d7b4f04e902b6fc": {
+    "time": "2026/09/19 20:29:06",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市彌陀區中正西路",
+    "units": "彌陀分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T20:30:33.914891"
       }
     ]
   }
