@@ -51731,7 +51731,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區十全一路",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -51744,6 +51744,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T21:44:33.381994"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T21:54:33.456707"
       }
     ]
   },
@@ -51753,7 +51757,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -51762,6 +51766,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T21:47:33.430584"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T21:54:33.456707"
       }
     ]
   },
@@ -51780,6 +51788,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T21:51:33.426188"
+      }
+    ]
+  },
+  "309aa995b06834a3d878820882219acd": {
+    "time": "2026/09/19 21:53:36",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區大中二路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T21:54:33.456707"
       }
     ]
   }
