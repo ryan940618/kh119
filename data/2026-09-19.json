@@ -48175,7 +48175,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -48192,6 +48192,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T16:30:33.299431"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T16:34:33.631925"
       }
     ]
   },
@@ -48201,7 +48205,7 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區福安路",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -48210,6 +48214,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T16:22:33.383683"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T16:34:33.631925"
       }
     ]
   },
@@ -48219,7 +48227,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -48228,6 +48236,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T16:26:33.472493"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T16:34:33.631925"
       }
     ]
   },
@@ -48281,7 +48293,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -48294,6 +48306,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T16:32:33.381102"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T16:34:33.631925"
       }
     ]
   },
@@ -48303,7 +48319,7 @@
     "sub_category": "創傷",
     "location": "高雄市岡山區河華路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -48312,6 +48328,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T16:33:33.503618"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T16:34:33.631925"
       }
     ]
   },
@@ -48354,6 +48374,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T16:33:33.503618"
+      }
+    ]
+  },
+  "13ca7c1e6ce1a926f4b6973405b7e8ff": {
+    "time": "2026/09/19 16:33:11",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區中崙二路",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T16:34:33.631925"
       }
     ]
   }
