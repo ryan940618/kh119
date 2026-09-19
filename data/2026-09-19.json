@@ -47839,7 +47839,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -47856,6 +47856,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T16:02:33.231626"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T16:08:33.162793"
       }
     ]
   },
@@ -47937,7 +47941,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -47946,6 +47950,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T16:03:33.187980"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T16:08:33.162793"
       }
     ]
   },
@@ -47973,7 +47981,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區新生路",
     "units": "燕巢分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -47982,6 +47990,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T16:05:33.174389"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T16:08:33.162793"
       }
     ]
   },
@@ -47991,11 +48003,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T16:07:33.420000"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T16:08:33.162793"
       }
     ]
   }
