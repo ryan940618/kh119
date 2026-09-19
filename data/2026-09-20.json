@@ -54307,7 +54307,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -54316,6 +54316,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T05:42:33.349016"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T05:45:33.257320"
       }
     ]
   },
@@ -54325,11 +54329,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T05:40:33.212405"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T05:45:33.257320"
       }
     ]
   },
@@ -54366,6 +54374,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T05:43:33.298718"
+      }
+    ]
+  },
+  "c052e2de45ed239a106ca4500f7c9d33": {
+    "time": "2026/09/20 05:44:44",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市新興區錦田路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T05:45:33.257320"
       }
     ]
   }
