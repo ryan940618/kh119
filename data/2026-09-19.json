@@ -43839,7 +43839,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區瑞隆路和瑞達街",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -43852,6 +43852,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T10:27:33.135628"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T10:29:33.147678"
       }
     ]
   },
@@ -43901,7 +43905,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -43910,6 +43914,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T10:25:33.148900"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T10:29:33.147678"
       }
     ]
   },
@@ -43928,6 +43936,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T10:28:33.303410"
+      }
+    ]
+  },
+  "07f83d27147ff8be93ec4e09d61f8304": {
+    "time": "2026/09/19 10:28:16",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市大寮區河堤路",
+    "units": "和發分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T10:29:33.147678"
       }
     ]
   }
