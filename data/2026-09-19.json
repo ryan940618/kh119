@@ -45675,7 +45675,7 @@
     "sub_category": "急病",
     "location": "高雄市彌陀區",
     "units": "彌陀分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -45684,6 +45684,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T12:48:32.980929"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T12:53:33.150320"
       }
     ]
   },
@@ -45747,11 +45751,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區德賢路",
     "units": "右昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T12:52:33.040513"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T12:53:33.150320"
       }
     ]
   }
