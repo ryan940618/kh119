@@ -47165,7 +47165,7 @@
     "sub_category": "車禍",
     "location": "高雄市大社區和平路",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -47182,6 +47182,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T15:11:33.865902"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T15:14:34.094998"
       }
     ]
   },
@@ -47217,7 +47221,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -47234,6 +47238,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T15:10:33.914609"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T15:14:34.094998"
       }
     ]
   },
@@ -47328,6 +47336,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T15:12:33.850480"
+      }
+    ]
+  },
+  "26b4c4765ed61fe34589c0c127f55a42": {
+    "time": "2026/09/19 15:13:50",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T15:14:34.094998"
       }
     ]
   }
