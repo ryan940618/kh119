@@ -53291,7 +53291,7 @@
     "sub_category": "創傷",
     "location": "高雄市仁武區華園街",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -53300,6 +53300,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T02:14:32.866490"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T02:20:33.063404"
       }
     ]
   },
@@ -53309,7 +53313,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -53318,6 +53322,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T02:15:32.941706"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T02:20:33.063404"
       }
     ]
   },
@@ -53340,6 +53348,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T02:19:32.879788"
+      }
+    ]
+  },
+  "af738b1c3cc6f69533e9acf73dd710d4": {
+    "time": "2026/09/20 02:19:59",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳥松區中正路",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T02:20:33.063404"
+      }
+    ]
+  },
+  "00bfa94b238245b9e86daf0990e223f2": {
+    "time": "2026/09/20 02:19:33",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前金區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T02:20:33.063404"
       }
     ]
   }
