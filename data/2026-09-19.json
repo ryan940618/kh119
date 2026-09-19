@@ -45085,7 +45085,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區後勁南路",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -45094,6 +45094,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T12:09:33.869895"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T12:17:33.921641"
       }
     ]
   },
@@ -45216,6 +45220,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T12:16:33.880306"
+      }
+    ]
+  },
+  "7a8cd8fd6c2378ed8a75eebe3bb9a16e": {
+    "time": "2026/09/19 12:17:00",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區大埤路",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T12:17:33.921641"
+      }
+    ]
+  },
+  "21f373973fd32c2122bbe2a18b539a12": {
+    "time": "2026/09/19 12:16:23",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區大德二路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T12:17:33.921641"
       }
     ]
   }
