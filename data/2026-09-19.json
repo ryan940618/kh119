@@ -51957,7 +51957,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -51974,6 +51974,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T22:39:33.777219"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T22:43:33.703797"
       }
     ]
   },
@@ -52093,11 +52097,29 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T22:41:33.608562"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T22:43:33.703797"
+      }
+    ]
+  },
+  "f109ea2c4685385cca607846c6b4ba7e": {
+    "time": "2026/09/19 22:42:20",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市左營區",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T22:43:33.703797"
       }
     ]
   }
