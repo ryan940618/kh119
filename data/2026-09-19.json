@@ -49435,7 +49435,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -49448,6 +49448,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T17:57:34.018332"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T18:03:34.226130"
       }
     ]
   },
@@ -49516,6 +49520,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T17:59:33.994113"
+      }
+    ]
+  },
+  "384d68eb12a362517c8fb74d58cd8b60": {
+    "time": "2026/09/19 18:02:40",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市美濃區中正路",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T18:03:34.226130"
       }
     ]
   }
