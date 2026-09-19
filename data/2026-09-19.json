@@ -46853,7 +46853,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區民有路",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -46866,6 +46866,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T14:33:33.718827"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T14:39:33.613040"
       }
     ]
   },
@@ -46911,11 +46915,43 @@
     "sub_category": "車禍",
     "location": "高雄市茄萣區同興路",
     "units": "茄萣分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T14:38:33.653467"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T14:39:33.613040"
+      }
+    ]
+  },
+  "a4599e9e570a382db1e4e0cc5c3ac7cf": {
+    "time": "2026/09/19 14:38:37",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T14:39:33.613040"
+      }
+    ]
+  },
+  "5c8673c01b96e5c19d1a39d64f78d5c3": {
+    "time": "2026/09/19 14:38:30",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T14:39:33.613040"
       }
     ]
   }
