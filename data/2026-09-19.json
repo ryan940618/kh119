@@ -48191,11 +48191,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T16:24:33.337060"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T16:26:33.472493"
       }
     ]
   },
@@ -48205,11 +48209,29 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T16:24:33.337060"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T16:26:33.472493"
+      }
+    ]
+  },
+  "d9f9189e72336846f46615bc998b6849": {
+    "time": "2026/09/19 16:25:47",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區延慶街",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T16:26:33.472493"
       }
     ]
   }
