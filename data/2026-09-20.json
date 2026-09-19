@@ -53971,11 +53971,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T04:32:33.820844"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T04:34:33.823919"
       }
     ]
   },
@@ -53985,11 +53989,29 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T04:33:33.930244"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T04:34:33.823919"
+      }
+    ]
+  },
+  "97e78d12f66cfcbc34ee2bb4f39034e6": {
+    "time": "2026/09/20 04:33:27",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大社區萬金路",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T04:34:33.823919"
       }
     ]
   }
