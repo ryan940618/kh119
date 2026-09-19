@@ -47381,7 +47381,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -47394,6 +47394,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T15:34:33.201928"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T15:40:33.129503"
       }
     ]
   },
@@ -47509,7 +47513,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -47522,6 +47526,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T15:34:33.201928"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T15:40:33.129503"
       }
     ]
   },
@@ -47553,7 +47561,7 @@
     "sub_category": "路倒",
     "location": "高雄市楠梓區楠梓新路",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -47562,6 +47570,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T15:36:33.191668"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T15:40:33.129503"
       }
     ]
   },
@@ -47571,7 +47583,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區中華一路",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -47580,6 +47592,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T15:35:33.125832"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T15:40:33.129503"
       }
     ]
   },
@@ -47617,11 +47633,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區康定路",
     "units": "前鎮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T15:38:33.070383"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T15:40:33.129503"
       }
     ]
   },
@@ -47636,6 +47656,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T15:39:33.175490"
+      }
+    ]
+  },
+  "90c5eabf7c03b3e8910d726f3e8dedf1": {
+    "time": "2026/09/19 15:39:41",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T15:40:33.129503"
       }
     ]
   }
