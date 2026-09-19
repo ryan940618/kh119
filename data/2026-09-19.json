@@ -45785,7 +45785,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -45802,6 +45802,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T13:11:33.365252"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T13:27:33.125827"
       }
     ]
   },
@@ -46120,6 +46124,48 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T13:26:33.294238"
+      }
+    ]
+  },
+  "74f9ef28043af435497dcb2c0622ad58": {
+    "time": "2026/09/19 13:26:54",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T13:27:33.125827"
+      }
+    ]
+  },
+  "ec04d950447a8149e1fed2cc0b139e8a": {
+    "time": "2026/09/19 13:26:21",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市新興區仁愛二街",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T13:27:33.125827"
+      }
+    ]
+  },
+  "4f133217287f17afc4c1071647a4a213": {
+    "time": "2026/09/19 13:25:24",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區鐵道二街",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T13:27:33.125827"
       }
     ]
   }
