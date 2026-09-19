@@ -42591,7 +42591,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區水管路和安樂東街",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -42604,6 +42604,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T08:53:33.604146"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T09:04:33.605068"
       }
     ]
   },
@@ -42748,6 +42752,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T09:03:33.500571"
+      }
+    ]
+  },
+  "e238d19c2dac06b94f384f6e8e7a8bba": {
+    "time": "2026/09/19 09:03:40",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T09:04:33.605068"
       }
     ]
   }
