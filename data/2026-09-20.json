@@ -53729,7 +53729,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區博愛四路",
     "units": "",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已受理",
@@ -53746,6 +53746,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T04:03:33.525526"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T04:21:33.824025"
       }
     ]
   },
@@ -53876,6 +53880,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T04:20:33.787879"
+      }
+    ]
+  },
+  "1b7bd6390bc1e414827ae0ebd4698913": {
+    "time": "2026/09/20 04:20:56",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市大樹區安和街",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T04:21:33.824025"
       }
     ]
   }
