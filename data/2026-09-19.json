@@ -47199,7 +47199,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區成功北路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -47216,6 +47216,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T15:12:33.850480"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T15:17:33.943593"
       }
     ]
   },
@@ -47313,7 +47317,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區中正路",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -47326,6 +47330,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T15:15:34.086544"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T15:17:33.943593"
       }
     ]
   },
@@ -47371,11 +47379,29 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T15:16:33.906175"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T15:17:33.943593"
+      }
+    ]
+  },
+  "9828c0e10ad156a39b66172c24725cc2": {
+    "time": "2026/09/19 15:16:27",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區博愛二路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T15:17:33.943593"
       }
     ]
   }
