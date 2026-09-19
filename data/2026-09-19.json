@@ -49221,7 +49221,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -49234,6 +49234,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T17:40:33.876726"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T17:44:34.008862"
       }
     ]
   },
@@ -49274,6 +49278,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T17:38:33.986092"
+      }
+    ]
+  },
+  "3bfc9546ee909fb232d94a4f86e81a38": {
+    "time": "2026/09/19 17:43:01",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區南華路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T17:44:34.008862"
       }
     ]
   }
