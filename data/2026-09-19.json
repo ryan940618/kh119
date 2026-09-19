@@ -48249,7 +48249,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -48262,6 +48262,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T16:28:33.554631"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T16:39:33.611270"
       }
     ]
   },
@@ -48391,7 +48395,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區中崙二路",
     "units": "鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -48400,6 +48404,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T16:36:33.398097"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T16:39:33.611270"
       }
     ]
   },
@@ -48459,11 +48467,29 @@
     "sub_category": "路倒",
     "location": "高雄市楠梓區高峰街",
     "units": "後勁分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T16:37:33.741097"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T16:39:33.611270"
+      }
+    ]
+  },
+  "e42850704803ae58bf4e42e5ec42351b": {
+    "time": "2026/09/19 16:39:01",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鼓山區鼓南街",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T16:39:33.611270"
       }
     ]
   }
