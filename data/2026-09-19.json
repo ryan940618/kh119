@@ -47031,7 +47031,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -47044,6 +47044,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T14:56:33.752926"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T15:00:33.768374"
       }
     ]
   },
@@ -47141,11 +47145,15 @@
     "sub_category": "車禍",
     "location": "高雄市大社區和平路",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T14:56:33.752926"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T15:00:33.768374"
       }
     ]
   },
@@ -47169,11 +47177,29 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T14:59:33.771493"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T15:00:33.768374"
+      }
+    ]
+  },
+  "15e056087360ad605e2a20e54c890a31": {
+    "time": "2026/09/19 14:58:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T15:00:33.768374"
       }
     ]
   }
