@@ -43581,7 +43581,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區高楠公路",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -43590,6 +43590,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T09:58:33.967486"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T10:05:32.963035"
       }
     ]
   },
@@ -43639,7 +43643,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -43648,6 +43652,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T10:01:34.042513"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T10:05:32.963035"
+      }
+    ]
+  },
+  "bc82623d1c1f5c0a23810f9dc4e07667": {
+    "time": "2026/09/19 10:04:41",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區高楠公路",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T10:05:32.963035"
       }
     ]
   }
