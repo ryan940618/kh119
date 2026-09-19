@@ -52099,7 +52099,7 @@
     "sub_category": "其他",
     "location": "高雄市橋頭區甲昌路",
     "units": "橋頭分隊",
-    "current_status": "火已控",
+    "current_status": "火已滅",
     "status_history": [
       {
         "status": "已派遣",
@@ -52116,6 +52116,10 @@
       {
         "status": "火已控",
         "timestamp": "2026-09-19T22:54:33.801715"
+      },
+      {
+        "status": "火已滅",
+        "timestamp": "2026-09-19T23:00:33.881965"
       }
     ]
   },
@@ -52225,7 +52229,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -52234,6 +52238,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T22:55:33.796952"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T23:00:33.881965"
       }
     ]
   },
@@ -52243,11 +52251,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區莊敬路",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T22:59:33.768743"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T23:00:33.881965"
       }
     ]
   }
