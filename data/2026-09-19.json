@@ -44089,7 +44089,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -44098,6 +44098,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T10:55:33.253663"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T10:59:33.285908"
       }
     ]
   },
@@ -44193,11 +44197,29 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T10:57:33.300560"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T10:59:33.285908"
+      }
+    ]
+  },
+  "60da5facf64ad8dad4c3c79804d195ee": {
+    "time": "2026/09/19 10:57:44",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市路竹區後鄉路",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T10:59:33.285908"
       }
     ]
   }
