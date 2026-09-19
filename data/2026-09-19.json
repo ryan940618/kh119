@@ -41825,7 +41825,7 @@
     "sub_category": "創傷",
     "location": "高雄市岡山區嘉興路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -41842,6 +41842,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T08:04:34.354305"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T08:12:33.230511"
       }
     ]
   },
@@ -41991,7 +41995,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -42000,6 +42004,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T08:07:33.217831"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T08:12:33.230511"
       }
     ]
   },
@@ -42072,6 +42080,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T08:11:33.416038"
+      }
+    ]
+  },
+  "1653638810211ba630a09b2941607e51": {
+    "time": "2026/09/19 08:12:02",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T08:12:33.230511"
       }
     ]
   }
