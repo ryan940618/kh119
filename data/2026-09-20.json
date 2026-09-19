@@ -52703,7 +52703,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -52720,6 +52720,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T00:22:33.456717"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T00:24:33.368795"
       }
     ]
   },
@@ -52751,7 +52755,7 @@
     "sub_category": "汽機車",
     "location": "高雄市仁武區仁發一路",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "火已控",
     "status_history": [
       {
         "status": "已派遣",
@@ -52764,6 +52768,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T00:19:33.308687"
+      },
+      {
+        "status": "火已控",
+        "timestamp": "2026-09-20T00:24:33.368795"
       }
     ]
   },
