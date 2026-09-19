@@ -50501,7 +50501,7 @@
     "sub_category": "急病",
     "location": "高雄市杉林區",
     "units": "杉林分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -50510,6 +50510,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T19:23:33.450454"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T19:24:33.604298"
       }
     ]
   },
@@ -50555,11 +50559,29 @@
     "sub_category": "車禍",
     "location": "高雄市三民區民族一路",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T19:23:33.450454"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T19:24:33.604298"
+      }
+    ]
+  },
+  "2d74fb06c5dcd1b91e29c906f6e33cf5": {
+    "time": "2026/09/19 19:23:30",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T19:24:33.604298"
       }
     ]
   }
