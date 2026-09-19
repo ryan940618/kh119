@@ -46461,7 +46461,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -46474,6 +46474,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T13:57:33.398414"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T14:02:33.495029"
       }
     ]
   },
@@ -46505,11 +46509,29 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-19T13:56:33.360670"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T14:02:33.495029"
+      }
+    ]
+  },
+  "05e38f643f7e6b41ec55c3bd138e6ee6": {
+    "time": "2026/09/19 14:01:41",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區民族一路",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T14:02:33.495029"
       }
     ]
   }
