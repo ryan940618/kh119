@@ -43151,7 +43151,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -43164,6 +43164,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T09:31:33.788012"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T09:38:34.501972"
       }
     ]
   },
@@ -43227,7 +43231,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -43236,6 +43240,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T09:35:33.967631"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T09:38:34.501972"
       }
     ]
   },
@@ -43263,11 +43271,15 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區中正路",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T09:35:33.967631"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T09:38:34.501972"
       }
     ]
   },
@@ -43282,6 +43294,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T09:37:33.984430"
+      }
+    ]
+  },
+  "9c2a0da856cdffde3e49eea94fd56906": {
+    "time": "2026/09/19 09:36:57",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市左營區高鐵路",
+    "units": "新莊分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T09:38:34.501972"
       }
     ]
   }
