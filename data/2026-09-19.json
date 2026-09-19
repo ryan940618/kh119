@@ -42289,11 +42289,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區鳳東路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-19T08:27:33.317601"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T08:32:35.606507"
       }
     ]
   },
@@ -42312,6 +42316,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T08:30:33.309562"
+      }
+    ]
+  },
+  "561da85f750d23b46b1dcd3e259e6b68": {
+    "time": "2026/09/19 08:31:32",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市大寮區林厝路",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T08:32:35.606507"
       }
     ]
   }
