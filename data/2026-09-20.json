@@ -54327,7 +54327,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -54344,6 +54344,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T06:06:33.507280"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T06:16:33.566053"
       }
     ]
   },
@@ -54535,7 +54539,7 @@
     "sub_category": "創傷",
     "location": "高雄市杉林區",
     "units": "杉林分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -54544,6 +54548,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T06:07:33.669728"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T06:16:33.566053"
       }
     ]
   },
@@ -54562,6 +54570,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T06:11:33.505266"
+      }
+    ]
+  },
+  "132031a1823d8038057cd840411d5327": {
+    "time": "2026/09/20 06:14:37",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T06:16:33.566053"
       }
     ]
   }
