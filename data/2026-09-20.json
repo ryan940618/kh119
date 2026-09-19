@@ -52853,7 +52853,7 @@
     "sub_category": "其他",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -52866,6 +52866,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T00:37:33.444031"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T01:00:33.584802"
       }
     ]
   },
@@ -52919,11 +52923,29 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T00:58:33.511794"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T01:00:33.584802"
+      }
+    ]
+  },
+  "d2a277fa4e9cf7551c09b01b6f2bdd03": {
+    "time": "2026/09/20 00:59:26",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T01:00:33.584802"
       }
     ]
   }
