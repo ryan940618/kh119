@@ -47061,7 +47061,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -47078,6 +47078,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T15:15:34.086544"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T15:18:34.014116"
       }
     ]
   },
@@ -47365,11 +47369,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-19T15:14:34.094998"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T15:18:34.014116"
       }
     ]
   },
@@ -47397,11 +47405,29 @@
     "sub_category": "車禍",
     "location": "高雄市左營區博愛二路",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T15:17:33.943593"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T15:18:34.014116"
+      }
+    ]
+  },
+  "849f2b580f7ae5dba939c25690594ebe": {
+    "time": "2026/09/19 15:18:02",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市前鎮區",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T15:18:34.014116"
       }
     ]
   }
