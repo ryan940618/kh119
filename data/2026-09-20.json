@@ -53583,7 +53583,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -53596,6 +53596,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T03:25:33.300017"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T03:29:33.436248"
       }
     ]
   },
@@ -53614,6 +53618,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T03:25:33.300017"
+      }
+    ]
+  },
+  "2ca68986500a8481ac478d6ea301fc65": {
+    "time": "2026/09/20 03:28:53",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T03:29:33.436248"
       }
     ]
   }
