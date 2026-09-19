@@ -46875,11 +46875,15 @@
     "sub_category": "創傷",
     "location": "高雄市三民區義華路",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T14:36:33.683411"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T14:38:33.653467"
       }
     ]
   },
@@ -46889,11 +46893,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T14:37:33.635406"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T14:38:33.653467"
+      }
+    ]
+  },
+  "ba0caced80b210e0bff765389c331316": {
+    "time": "2026/09/19 14:37:00",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市茄萣區同興路",
+    "units": "茄萣分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T14:38:33.653467"
       }
     ]
   }
