@@ -42585,7 +42585,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區左營大路",
     "units": "左營小隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -42594,6 +42594,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T08:51:33.504290"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T08:54:33.472595"
       }
     ]
   },
@@ -42612,6 +42616,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T08:53:33.604146"
+      }
+    ]
+  },
+  "31983617c4e132af8eaeeeacdd3e7002": {
+    "time": "2026/09/19 08:53:27",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T08:54:33.472595"
       }
     ]
   }
