@@ -45457,7 +45457,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -45474,6 +45474,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T12:43:33.860329"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T12:50:33.101860"
       }
     ]
   },
@@ -45483,7 +45487,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區德中路",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -45500,6 +45504,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T12:44:33.962913"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T12:50:33.101860"
       }
     ]
   },
@@ -45687,11 +45695,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T12:49:33.233750"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T12:50:33.101860"
       }
     ]
   },
@@ -45701,11 +45713,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T12:49:33.233750"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T12:50:33.101860"
       }
     ]
   }
