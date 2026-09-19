@@ -50799,7 +50799,7 @@
     "sub_category": "創傷",
     "location": "高雄市林園區王公路",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -50816,6 +50816,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T19:50:33.586773"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T19:54:33.613447"
       }
     ]
   },
@@ -50874,6 +50878,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T19:52:33.651309"
+      }
+    ]
+  },
+  "5a9c10feb50f0a17be7603480c3f22f6": {
+    "time": "2026/09/19 19:54:03",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T19:54:33.613447"
       }
     ]
   }
