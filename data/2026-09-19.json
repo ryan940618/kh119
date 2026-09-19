@@ -42361,7 +42361,7 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區林厝路",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -42378,6 +42378,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T08:46:33.368152"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T08:50:33.503491"
       }
     ]
   },
@@ -42556,6 +42560,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T08:49:33.470442"
+      }
+    ]
+  },
+  "c84a590cffd6faf71f668ca7af7184b3": {
+    "time": "2026/09/19 08:49:18",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區左營大路",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T08:50:33.503491"
       }
     ]
   }
