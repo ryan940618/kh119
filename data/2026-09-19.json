@@ -48313,7 +48313,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -48330,6 +48330,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T16:34:33.631925"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T16:45:33.645504"
       }
     ]
   },
@@ -48507,7 +48511,7 @@
     "sub_category": "路倒",
     "location": "高雄市楠梓區高峰街",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -48516,6 +48520,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T16:39:33.611270"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T16:45:33.645504"
       }
     ]
   },
@@ -48547,7 +48555,7 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -48556,6 +48564,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T16:43:33.578600"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T16:45:33.645504"
       }
     ]
   },
@@ -48565,11 +48577,15 @@
     "sub_category": "路倒",
     "location": "高雄市鹽埕區五福四路",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T16:42:33.500138"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T16:45:33.645504"
       }
     ]
   }
