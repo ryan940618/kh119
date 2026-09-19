@@ -43359,7 +43359,7 @@
     "sub_category": "路倒",
     "location": "高雄市左營區高鐵路",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -43368,6 +43368,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T09:46:33.811114"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T09:48:33.876503"
       }
     ]
   },
@@ -43408,6 +43412,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T09:46:33.811114"
+      }
+    ]
+  },
+  "9b90facf55a1a030ba3472e3cdacd163": {
+    "time": "2026/09/19 09:47:58",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T09:48:33.876503"
       }
     ]
   }
