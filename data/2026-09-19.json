@@ -42261,7 +42261,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -42274,6 +42274,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T08:28:33.327588"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T08:46:33.368152"
       }
     ]
   },
@@ -42349,7 +42353,7 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區林厝路",
     "units": "大寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -42362,6 +42366,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T08:39:33.293909"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T08:46:33.368152"
       }
     ]
   },
@@ -42479,11 +42487,15 @@
     "sub_category": "路倒",
     "location": "高雄市岡山區岡燕路",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T08:43:33.302349"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T08:46:33.368152"
       }
     ]
   },
