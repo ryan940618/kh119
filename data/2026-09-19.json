@@ -45697,7 +45697,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -45706,6 +45706,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T12:51:32.953957"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T12:54:33.224103"
       }
     ]
   },
@@ -45760,6 +45764,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T12:53:33.150320"
+      }
+    ]
+  },
+  "a97a09455fda6d46d3a5b8469e9921b3": {
+    "time": "2026/09/19 12:53:32",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鳳山區北興街",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T12:54:33.224103"
+      }
+    ]
+  },
+  "acf2032df557ae1e7ede16cc604285c3": {
+    "time": "2026/09/19 12:53:34",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區大順一路",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T12:54:33.224103"
       }
     ]
   }
