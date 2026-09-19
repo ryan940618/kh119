@@ -47791,7 +47791,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -47804,6 +47804,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T15:53:33.237223"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T16:05:33.174389"
       }
     ]
   },
@@ -47907,7 +47911,7 @@
     "sub_category": "車禍",
     "location": "高雄市旗山區延平一路",
     "units": "旗山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -47916,6 +47920,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T16:02:33.231626"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T16:05:33.174389"
       }
     ]
   },
@@ -47961,11 +47969,15 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區新生路",
     "units": "燕巢分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T16:04:33.243087"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T16:05:33.174389"
       }
     ]
   }
