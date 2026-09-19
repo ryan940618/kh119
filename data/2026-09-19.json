@@ -45401,7 +45401,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區哈爾濱街",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -45418,6 +45418,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T12:35:34.146339"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T12:44:33.962913"
       }
     ]
   },
@@ -45475,7 +45479,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區德中路",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -45488,6 +45492,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T12:31:33.925636"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T12:44:33.962913"
       }
     ]
   },
@@ -45626,6 +45634,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T12:43:33.860329"
+      }
+    ]
+  },
+  "baf0d03499bcd1fe7645ba429e356bfb": {
+    "time": "2026/09/19 12:43:26",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市彌陀區",
+    "units": "彌陀分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T12:44:33.962913"
       }
     ]
   }
