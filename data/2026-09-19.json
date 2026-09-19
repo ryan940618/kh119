@@ -41687,7 +41687,7 @@
     "sub_category": "路倒",
     "location": "高雄市左營區華夏路",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -41700,6 +41700,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T07:37:32.981384"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T08:06:33.139446"
       }
     ]
   },
@@ -41847,7 +41851,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區內坑路",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -41860,6 +41864,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T07:56:33.208237"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T08:06:33.139446"
       }
     ]
   },
@@ -41958,6 +41966,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T08:04:34.354305"
+      }
+    ]
+  },
+  "7053a33198967375628de0851993e0c6": {
+    "time": "2026/09/19 08:05:51",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T08:06:33.139446"
       }
     ]
   }
