@@ -51349,7 +51349,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -51358,6 +51358,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T20:52:33.246755"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T20:59:33.156171"
       }
     ]
   },
@@ -51389,11 +51393,15 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T20:57:33.335492"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T20:59:33.156171"
       }
     ]
   }
