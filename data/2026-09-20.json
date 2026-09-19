@@ -53847,7 +53847,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -53856,6 +53856,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T04:18:33.729490"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T04:23:33.870437"
       }
     ]
   },
@@ -53902,6 +53906,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T04:22:33.782175"
+      }
+    ]
+  },
+  "259a689bf90dbc7324873d52800a7883": {
+    "time": "2026/09/20 04:22:42",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區熱河一街",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T04:23:33.870437"
       }
     ]
   }
