@@ -48947,7 +48947,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區上寮路",
     "units": "和發分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -48960,6 +48960,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T17:16:33.748289"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T17:27:33.929811"
       }
     ]
   },
@@ -49107,11 +49111,29 @@
     "sub_category": "車禍",
     "location": "高雄市阿蓮區民生路",
     "units": "阿蓮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T17:26:33.921022"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T17:27:33.929811"
+      }
+    ]
+  },
+  "1738dd441af18079f89e655bb5405bab": {
+    "time": "2026/09/19 17:26:39",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市梓官區",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T17:27:33.929811"
       }
     ]
   }
