@@ -52479,7 +52479,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -52492,6 +52492,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T23:47:33.285059"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T23:52:33.223314"
       }
     ]
   },
@@ -52536,6 +52540,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T23:50:33.151792"
+      }
+    ]
+  },
+  "6668e577279b5968615b8fad473153b7": {
+    "time": "2026/09/19 23:51:16",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前金區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T23:52:33.223314"
       }
     ]
   }
