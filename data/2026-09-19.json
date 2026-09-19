@@ -48713,11 +48713,15 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-19T16:55:33.666525"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T17:01:33.691710"
       }
     ]
   },
@@ -48745,11 +48749,29 @@
     "sub_category": "車禍",
     "location": "高雄市左營區民族一路",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T16:59:33.861438"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T17:01:33.691710"
+      }
+    ]
+  },
+  "c8393e937d9d55aa53e7f470a97d30a4": {
+    "time": "2026/09/19 17:00:37",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市湖內區",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T17:01:33.691710"
       }
     ]
   }
