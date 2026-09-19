@@ -51067,7 +51067,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -51084,6 +51084,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T20:41:32.915209"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T20:50:33.162315"
       }
     ]
   },
@@ -51281,11 +51285,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T20:48:33.122299"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T20:50:33.162315"
       }
     ]
   },
@@ -51295,11 +51303,29 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T20:48:33.122299"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T20:50:33.162315"
+      }
+    ]
+  },
+  "01d2d1189ae9bb548c52968bb64bed89": {
+    "time": "2026/09/19 20:49:17",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市阿蓮區",
+    "units": "阿蓮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T20:50:33.162315"
       }
     ]
   }
