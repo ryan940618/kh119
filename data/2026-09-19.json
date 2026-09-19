@@ -42093,7 +42093,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -42110,6 +42110,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T08:19:33.361141"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T08:26:33.357728"
       }
     ]
   },
@@ -42177,7 +42181,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -42186,6 +42190,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T08:18:33.280829"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T08:26:33.357728"
       }
     ]
   },
@@ -42226,6 +42234,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T08:21:33.316043"
+      }
+    ]
+  },
+  "21a96d0e0b105ea14ab04e1659425a9a": {
+    "time": "2026/09/19 08:25:57",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T08:26:33.357728"
       }
     ]
   }
