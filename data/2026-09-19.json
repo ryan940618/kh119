@@ -45841,7 +45841,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區北興街",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -45858,6 +45858,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T13:16:33.228693"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T13:22:33.311505"
       }
     ]
   },
@@ -45929,7 +45933,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區九如一路",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -45946,6 +45950,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T13:15:33.299185"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T13:22:33.311505"
       }
     ]
   },
@@ -46035,7 +46043,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -46044,6 +46052,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T13:14:33.145432"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T13:22:33.311505"
+      }
+    ]
+  },
+  "3f88f28dc7ec6939a80068d6daa2549c": {
+    "time": "2026/09/19 13:21:40",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區民興街",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T13:22:33.311505"
       }
     ]
   }
