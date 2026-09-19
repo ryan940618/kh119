@@ -43169,11 +43169,15 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T09:32:33.733786"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T09:34:33.889801"
       }
     ]
   },
@@ -43188,6 +43192,48 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T09:33:33.827658"
+      }
+    ]
+  },
+  "f687ac2585e52891674b5084bfe11489": {
+    "time": "2026/09/19 09:34:03",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T09:34:33.889801"
+      }
+    ]
+  },
+  "ccc1990ed8ae49b52415ec7412a461a7": {
+    "time": "2026/09/19 09:33:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市阿蓮區",
+    "units": "阿蓮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T09:34:33.889801"
+      }
+    ]
+  },
+  "354560b0d247f3f9e3ea99869abd17b8": {
+    "time": "2026/09/19 09:33:04",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市路竹區太平路",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T09:34:33.889801"
       }
     ]
   }
