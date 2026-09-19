@@ -49237,7 +49237,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -49254,6 +49254,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T17:44:34.008862"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T17:52:33.877605"
       }
     ]
   },
@@ -49395,11 +49399,29 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T17:51:34.004781"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T17:52:33.877605"
+      }
+    ]
+  },
+  "fe946b39fe14b787cb74da60979fc0ae": {
+    "time": "2026/09/19 17:51:34",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊,後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T17:52:33.877605"
       }
     ]
   }
