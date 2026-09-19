@@ -52043,7 +52043,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -52056,6 +52056,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T22:49:33.716043"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T22:54:33.801715"
       }
     ]
   },
@@ -52087,7 +52091,7 @@
     "sub_category": "其他",
     "location": "高雄市橋頭區甲昌路",
     "units": "橋頭分隊",
-    "current_status": "已到達",
+    "current_status": "火已控",
     "status_history": [
       {
         "status": "已派遣",
@@ -52100,6 +52104,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T22:42:33.572377"
+      },
+      {
+        "status": "火已控",
+        "timestamp": "2026-09-19T22:54:33.801715"
       }
     ]
   },
@@ -52188,6 +52196,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T22:50:33.789712"
+      }
+    ]
+  },
+  "1d9fc971ee287f24814d871139bf1501": {
+    "time": "2026/09/19 22:52:59",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T22:54:33.801715"
       }
     ]
   }
