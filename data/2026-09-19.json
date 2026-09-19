@@ -47531,7 +47531,7 @@
     "sub_category": "其他",
     "location": "高雄市苓雅區",
     "units": "",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -47540,6 +47540,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T15:32:33.183611"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T15:38:33.070383"
       }
     ]
   },
@@ -47590,6 +47594,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T15:37:33.127694"
+      }
+    ]
+  },
+  "87fa46d5cfaae8afab758c226f304289": {
+    "time": "2026/09/19 15:37:32",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區翠華路",
+    "units": "左營小隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T15:38:33.070383"
+      }
+    ]
+  },
+  "7db2f7f5e44388a89da9fa0a3d6a6c6c": {
+    "time": "2026/09/19 15:37:09",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區康定路",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T15:38:33.070383"
       }
     ]
   }
