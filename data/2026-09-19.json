@@ -50473,7 +50473,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -50486,6 +50486,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T19:21:33.485169"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T19:31:33.494909"
       }
     ]
   },
@@ -50495,7 +50499,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -50508,6 +50512,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T19:26:33.642469"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T19:31:33.494909"
       }
     ]
   },
@@ -50681,11 +50689,29 @@
     "sub_category": "車禍",
     "location": "高雄市前金區自立一路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T19:30:33.472337"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T19:31:33.494909"
+      }
+    ]
+  },
+  "dba459094dbff473e50ffb1ba971123a": {
+    "time": "2026/09/19 19:30:35",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區興楠路",
+    "units": "楠梓分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T19:31:33.494909"
       }
     ]
   }
