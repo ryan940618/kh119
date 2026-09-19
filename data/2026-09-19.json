@@ -42313,7 +42313,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區鳳東路",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -42326,6 +42326,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T08:43:33.302349"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T08:49:33.470442"
       }
     ]
   },
@@ -42383,7 +42387,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -42392,6 +42396,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T08:40:33.340945"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T08:49:33.470442"
       }
     ]
   },
@@ -42521,7 +42529,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -42530,6 +42538,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T08:45:33.582509"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T08:49:33.470442"
+      }
+    ]
+  },
+  "e6eececb24e8e7c2e2e1d6972a278061": {
+    "time": "2026/09/19 08:47:35",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區水管路和安樂東街",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T08:49:33.470442"
       }
     ]
   }
