@@ -44995,7 +44995,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "左營分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -45004,6 +45004,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T11:58:33.562602"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T12:05:33.733142"
       }
     ]
   },
@@ -45027,11 +45031,15 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T12:04:33.706740"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T12:05:33.733142"
       }
     ]
   },
@@ -45046,6 +45054,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T12:04:33.706740"
+      }
+    ]
+  },
+  "d0d83f269c2712a7b853b6c49251f299": {
+    "time": "2026/09/19 12:05:01",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區宏毅一路",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T12:05:33.733142"
+      }
+    ]
+  },
+  "23114225b1333b443f0f371f7ec1582b": {
+    "time": "2026/09/19 12:04:52",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市前鎮區崗山南街",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T12:05:33.733142"
       }
     ]
   }
