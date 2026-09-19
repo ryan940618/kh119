@@ -49417,7 +49417,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -49434,6 +49434,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T18:10:33.063576"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T18:11:33.106757"
       }
     ]
   },
@@ -49558,6 +49562,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T18:07:33.164856"
+      }
+    ]
+  },
+  "5d51609607a48168c5c7d71c3e3e564d": {
+    "time": "2026/09/19 18:09:06",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區大寮路",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T18:11:33.106757"
       }
     ]
   }
