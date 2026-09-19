@@ -49335,7 +49335,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區南華路",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -49352,6 +49352,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T17:51:34.004781"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T17:57:34.018332"
       }
     ]
   },
@@ -49423,7 +49427,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -49432,6 +49436,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T17:52:33.877605"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T17:57:34.018332"
       }
     ]
   },
@@ -49450,6 +49458,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T17:53:33.863680"
+      }
+    ]
+  },
+  "f8a0fcc3fe97a2e47510c43bc8b5c70d": {
+    "time": "2026/09/19 17:56:23",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市前鎮區新光路",
+    "units": "成功分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T17:57:34.018332"
+      }
+    ]
+  },
+  "ef6bea9b58e433773c5c10b1762d1a7a": {
+    "time": "2026/09/19 17:55:57",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市橋頭區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T17:57:34.018332"
       }
     ]
   }
