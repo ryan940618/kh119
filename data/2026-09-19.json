@@ -45151,7 +45151,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區瑞福路和瑞安街",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -45160,6 +45160,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T12:11:33.899969"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T12:18:33.870338"
       }
     ]
   },
@@ -45187,11 +45191,15 @@
     "sub_category": "急病",
     "location": "高雄市彌陀區",
     "units": "彌陀分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-19T12:14:33.913073"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T12:18:33.870338"
       }
     ]
   },
@@ -45229,11 +45237,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區大埤路",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T12:17:33.921641"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T12:18:33.870338"
       }
     ]
   },
@@ -45248,6 +45260,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T12:17:33.921641"
+      }
+    ]
+  },
+  "fb8e2ad52a77a05d87c6fc522ae9d34f": {
+    "time": "2026/09/19 12:16:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T12:18:33.870338"
       }
     ]
   }
