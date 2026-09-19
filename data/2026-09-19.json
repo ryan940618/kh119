@@ -44807,7 +44807,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -44824,6 +44824,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T11:56:33.698550"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T12:02:33.699063"
       }
     ]
   },
@@ -44947,7 +44951,7 @@
     "sub_category": "路倒",
     "location": "高雄市鼓山區鼓山三路和銀川街",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -44960,6 +44964,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T11:58:33.562602"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T12:02:33.699063"
       }
     ]
   },
@@ -44992,6 +45000,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T11:58:33.562602"
+      }
+    ]
+  },
+  "4b24bbe2224409751f6a383dc031a9e0": {
+    "time": "2026/09/19 12:01:12",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市田寮區",
+    "units": "田寮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T12:02:33.699063"
       }
     ]
   }
