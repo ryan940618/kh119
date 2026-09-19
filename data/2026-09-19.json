@@ -50283,7 +50283,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -50300,6 +50300,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T19:22:33.494961"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T19:27:33.530932"
       }
     ]
   },
@@ -50567,7 +50571,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區民族一路",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -50576,6 +50580,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T19:24:33.604298"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T19:27:33.530932"
       }
     ]
   },
@@ -50594,6 +50602,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T19:26:33.642469"
+      }
+    ]
+  },
+  "378b4eae7d39482a5c581e460edf1512": {
+    "time": "2026/09/19 19:26:49",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前金區光明街",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T19:27:33.530932"
+      }
+    ]
+  },
+  "694ec8b44845f7a4611489da61c79765": {
+    "time": "2026/09/19 19:26:15",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前金區五福三路",
+    "units": "前金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T19:27:33.530932"
       }
     ]
   }
