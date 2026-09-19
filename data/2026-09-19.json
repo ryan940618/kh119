@@ -51817,7 +51817,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區大中二路",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -51830,6 +51830,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T22:03:33.510017"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T22:12:33.524278"
       }
     ]
   },
@@ -51870,6 +51874,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T22:07:33.388125"
+      }
+    ]
+  },
+  "f6e9cf2fee2fe76c2fea3831c9f82647": {
+    "time": "2026/09/19 22:11:31",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市新興區六合一路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T22:12:33.524278"
+      }
+    ]
+  },
+  "214124e22f399337923eb256fe301a93": {
+    "time": "2026/09/19 22:11:15",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市彌陀區彌陀寺[高雄市彌陀區中正路",
+    "units": "彌陀分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T22:12:33.524278"
       }
     ]
   }
