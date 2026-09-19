@@ -41899,7 +41899,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -41912,6 +41912,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T08:07:33.217831"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T08:11:33.416038"
       }
     ]
   },
@@ -42059,11 +42063,15 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區塩埔路",
     "units": "梓官分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T08:10:33.260274"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T08:11:33.416038"
       }
     ]
   }
