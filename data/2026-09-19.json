@@ -51987,7 +51987,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區大學二十六街",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -52000,6 +52000,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T22:37:33.653427"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T22:44:33.683934"
       }
     ]
   },
@@ -52115,11 +52119,29 @@
     "sub_category": "其他",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T22:43:33.703797"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T22:44:33.683934"
+      }
+    ]
+  },
+  "ec4afceb25fadfad3f682d4e02eec53f": {
+    "time": "2026/09/19 22:43:19",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鹽埕區七賢三路",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T22:44:33.683934"
       }
     ]
   }
