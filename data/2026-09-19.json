@@ -41899,7 +41899,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -41908,6 +41908,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T08:01:33.163337"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T08:07:33.217831"
       }
     ]
   },
@@ -41939,7 +41943,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區滾水路",
     "units": "燕巢分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -41948,6 +41952,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T08:00:33.206801"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T08:07:33.217831"
       }
     ]
   },
@@ -41975,11 +41983,29 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T08:06:33.139446"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T08:07:33.217831"
+      }
+    ]
+  },
+  "69bd4b07cc42d153acc3022a09a98c24": {
+    "time": "2026/09/19 08:07:00",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市大寮區",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T08:07:33.217831"
       }
     ]
   }
