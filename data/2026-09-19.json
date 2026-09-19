@@ -45575,7 +45575,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區玄中路",
     "units": "阿蓮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -45588,6 +45588,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T12:42:34.040486"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T12:49:33.233750"
       }
     ]
   },
@@ -45674,6 +45678,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T12:48:32.980929"
+      }
+    ]
+  },
+  "a47acbadc90cb6c04ad604f288d1c4a0": {
+    "time": "2026/09/19 12:48:25",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T12:49:33.233750"
+      }
+    ]
+  },
+  "77b0a55c38ca0fae74f69bcdf24e343a": {
+    "time": "2026/09/19 12:47:59",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T12:49:33.233750"
       }
     ]
   }
