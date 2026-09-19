@@ -44257,7 +44257,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -44270,6 +44270,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T11:06:37.100204"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T11:42:33.670679"
       }
     ]
   },
@@ -44759,11 +44763,29 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T11:41:33.781092"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T11:42:33.670679"
+      }
+    ]
+  },
+  "80a37b020356560fb65e73720f57de5f": {
+    "time": "2026/09/19 11:41:50",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市永安區",
+    "units": "永安分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T11:42:33.670679"
       }
     ]
   }
