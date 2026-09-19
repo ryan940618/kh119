@@ -43539,7 +43539,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區明誠二路",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -43552,6 +43552,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T10:11:33.037638"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T10:15:33.202578"
       }
     ]
   },
@@ -43760,6 +43764,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T10:13:33.086543"
+      }
+    ]
+  },
+  "18fecb86dbd01780274d8d057dbda6c9": {
+    "time": "2026/09/19 10:14:21",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T10:15:33.202578"
+      }
+    ]
+  },
+  "a77a9868fecd4321462cd3004f41cb5d": {
+    "time": "2026/09/19 10:14:00",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區瑞隆路和瑞達街",
+    "units": "瑞隆分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T10:15:33.202578"
       }
     ]
   }
