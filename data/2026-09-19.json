@@ -52251,7 +52251,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區莊敬路",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -52260,6 +52260,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T23:00:33.881965"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T23:04:33.833787"
       }
     ]
   },
@@ -52269,11 +52273,29 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T23:02:33.872232"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T23:04:33.833787"
+      }
+    ]
+  },
+  "acfbb5da64ae3a0d260b31235b99e577": {
+    "time": "2026/09/19 23:03:24",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前金區中山二路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T23:04:33.833787"
       }
     ]
   }
