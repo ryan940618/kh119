@@ -48739,7 +48739,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區外環西路",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -48752,6 +48752,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T17:11:33.658516"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T17:23:33.882136"
       }
     ]
   },
@@ -49005,11 +49009,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區松藝路",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-19T17:14:34.050671"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T17:23:33.882136"
       }
     ]
   },
@@ -49037,11 +49045,15 @@
     "sub_category": "其他",
     "location": "高雄市左營區",
     "units": "",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T17:21:34.107425"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T17:23:33.882136"
       }
     ]
   },
@@ -49056,6 +49068,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T17:22:33.731668"
+      }
+    ]
+  },
+  "64810ba45f64d63928ceb0f6a115deb5": {
+    "time": "2026/09/19 17:22:39",
+    "category": "緊急救護",
+    "sub_category": "藥物、食物中毒",
+    "location": "高雄市大樹區學城路",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T17:23:33.882136"
       }
     ]
   }
