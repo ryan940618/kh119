@@ -51523,7 +51523,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -51536,6 +51536,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-19T21:35:33.330196"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-19T21:36:33.331988"
       }
     ]
   },
@@ -51677,11 +51681,15 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T21:35:33.330196"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T21:36:33.331988"
       }
     ]
   }
