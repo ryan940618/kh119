@@ -46269,7 +46269,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -46282,6 +46282,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T13:41:33.566739"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-19T13:46:33.392801"
       }
     ]
   },
@@ -46319,7 +46323,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區楠梓新路",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -46328,6 +46332,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T13:40:33.500904"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T13:46:33.392801"
       }
     ]
   },
@@ -46364,6 +46372,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T13:45:33.548702"
+      }
+    ]
+  },
+  "63b0a5a991dbaf35cba1fdb2b69eceeb": {
+    "time": "2026/09/19 13:45:50",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T13:46:33.392801"
       }
     ]
   }
