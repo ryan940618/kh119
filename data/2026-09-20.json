@@ -52797,7 +52797,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -52806,6 +52806,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T00:26:33.279834"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T00:31:33.533020"
       }
     ]
   },
@@ -52815,11 +52819,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T00:29:33.363149"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T00:31:33.533020"
       }
     ]
   },
@@ -52838,6 +52846,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T00:30:33.423638"
+      }
+    ]
+  },
+  "ba2cd54914aee8c5133b23917dec5a99": {
+    "time": "2026/09/20 00:30:42",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區延慶街",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T00:31:33.533020"
       }
     ]
   }
