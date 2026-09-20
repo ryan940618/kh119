@@ -59777,7 +59777,7 @@
     "sub_category": "車禍",
     "location": "高雄市林園區工業一路",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -59790,6 +59790,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T15:32:33.837465"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T15:37:34.103626"
       }
     ]
   },
@@ -59857,11 +59861,15 @@
     "sub_category": "急病",
     "location": "高雄市內門區",
     "units": "內門分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T15:36:33.963102"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T15:37:34.103626"
       }
     ]
   }
