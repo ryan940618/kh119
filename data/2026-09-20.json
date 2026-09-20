@@ -58187,7 +58187,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -58204,6 +58204,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T13:13:33.874210"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T13:19:32.976282"
       }
     ]
   },
@@ -58337,7 +58341,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區中正一路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -58346,6 +58350,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T13:15:33.194362"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T13:19:32.976282"
       }
     ]
   },
@@ -58355,11 +58363,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T13:18:33.070929"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T13:19:32.976282"
       }
     ]
   }
