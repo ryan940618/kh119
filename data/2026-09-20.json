@@ -58405,7 +58405,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區察哈爾二街",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -58414,6 +58414,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T13:22:33.017096"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T13:25:33.070762"
       }
     ]
   },
@@ -58442,6 +58446,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T13:24:33.104026"
+      }
+    ]
+  },
+  "6b5af18646567c88604a77e3f4e7a670": {
+    "time": "2026/09/20 13:24:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T13:25:33.070762"
       }
     ]
   }
