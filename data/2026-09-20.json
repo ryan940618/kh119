@@ -57201,7 +57201,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -57214,6 +57214,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T11:39:33.406557"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T11:45:33.559114"
       }
     ]
   },
@@ -57315,7 +57319,7 @@
     "sub_category": "其他",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -57324,6 +57328,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T11:39:33.406557"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T11:45:33.559114"
       }
     ]
   },
@@ -57347,11 +57355,15 @@
     "sub_category": "車禍",
     "location": "高雄市梓官區展寶路",
     "units": "梓官分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T11:44:33.798879"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T11:45:33.559114"
       }
     ]
   },
@@ -57361,11 +57373,29 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T11:44:33.798879"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T11:45:33.559114"
+      }
+    ]
+  },
+  "da9d813f0ef16725fd21d863ab50a1ad": {
+    "time": "2026/09/20 11:44:28",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市橋頭區捷運R22A橋頭糖廠站[高雄市橋頭區興糖路",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T11:45:33.559114"
       }
     ]
   }
