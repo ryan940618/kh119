@@ -57955,7 +57955,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區大勇街",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -57964,6 +57964,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T12:48:34.052070"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T12:51:33.896038"
       }
     ]
   },
@@ -58014,6 +58018,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T12:49:33.818050"
+      }
+    ]
+  },
+  "a61161d98a561f6466b4556e5abaf45e": {
+    "time": "2026/09/20 12:50:31",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T12:51:33.896038"
+      }
+    ]
+  },
+  "592ccd6b51f28163509e8ba6e876b497": {
+    "time": "2026/09/20 12:49:59",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "左營小隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T12:51:33.896038"
       }
     ]
   }
