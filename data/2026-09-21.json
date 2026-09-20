@@ -65723,7 +65723,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -65736,6 +65736,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T06:43:33.679258"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T07:11:33.698625"
       }
     ]
   },
@@ -65870,6 +65874,62 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T07:09:33.653887"
+      }
+    ]
+  },
+  "263e8634289d65e3d1c7729c197c2d27": {
+    "time": "2026/09/21 07:10:56",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大樹區瓦厝街",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T07:11:33.698625"
+      }
+    ]
+  },
+  "18f88b5b62bebeb0c697f7cdc26906af": {
+    "time": "2026/09/21 07:10:37",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區華北街",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T07:11:33.698625"
+      }
+    ]
+  },
+  "5b985f7695efc85de671a7bb79bfdf98": {
+    "time": "2026/09/21 07:10:38",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區高鳳路",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T07:11:33.698625"
+      }
+    ]
+  },
+  "ba0e85f42772e94bcc5a370cbdd52bf9": {
+    "time": "2026/09/21 07:08:08",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市茄萣區健康路",
+    "units": "茄萣分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T07:11:33.698625"
       }
     ]
   }
