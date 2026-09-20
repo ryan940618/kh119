@@ -61379,7 +61379,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區裕興路",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -61396,6 +61396,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T18:13:33.880525"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T18:15:33.916196"
       }
     ]
   },
@@ -61453,7 +61457,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區中正一路",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -61466,6 +61470,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T18:11:33.844600"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T18:15:33.916196"
       }
     ]
   },
@@ -61493,11 +61501,15 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T18:14:33.877232"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T18:15:33.916196"
       }
     ]
   },
