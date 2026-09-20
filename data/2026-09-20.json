@@ -61859,7 +61859,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -61868,6 +61868,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T18:43:33.301331"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T18:49:32.988756"
       }
     ]
   },
@@ -61914,6 +61918,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T18:47:33.227117"
+      }
+    ]
+  },
+  "7670f0ac10f60f322e76b29fc6a7395b": {
+    "time": "2026/09/20 18:48:38",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大社區中山路",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T18:49:32.988756"
       }
     ]
   }
