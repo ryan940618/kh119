@@ -60169,7 +60169,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -60186,6 +60186,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T16:07:33.071326"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T16:17:33.184551"
       }
     ]
   },
@@ -60305,11 +60309,15 @@
     "sub_category": "車禍",
     "location": "高雄市旗山區和正街",
     "units": "旗山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-20T16:07:33.071326"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T16:17:33.184551"
       }
     ]
   },
