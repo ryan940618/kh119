@@ -55433,7 +55433,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區學源街",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -55442,6 +55442,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T08:24:33.333826"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T08:29:33.393077"
       }
     ]
   },
@@ -55469,11 +55473,29 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T08:27:33.410502"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T08:29:33.393077"
+      }
+    ]
+  },
+  "f8a201bfb17851cd3d166f6534959a04": {
+    "time": "2026/09/20 08:28:33",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T08:29:33.393077"
       }
     ]
   }
