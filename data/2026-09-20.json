@@ -55965,7 +55965,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -55982,6 +55982,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T09:25:33.696797"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T09:35:33.921992"
       }
     ]
   },
@@ -56111,7 +56115,7 @@
     "sub_category": "創傷",
     "location": "高雄市小港區店仔後街",
     "units": "小港分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -56120,6 +56124,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T09:31:33.887857"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T09:35:33.921992"
       }
     ]
   },
@@ -56170,6 +56178,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T09:34:33.800673"
+      }
+    ]
+  },
+  "b9105b8a72caa67699f051bb2c5454e2": {
+    "time": "2026/09/20 09:34:18",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T09:35:33.921992"
       }
     ]
   }
