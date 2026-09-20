@@ -56843,7 +56843,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -56856,6 +56856,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T10:56:33.235005"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T11:09:33.416505"
       }
     ]
   },
@@ -56865,7 +56869,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區自由二路",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -56882,6 +56886,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T11:01:33.251450"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T11:09:33.416505"
       }
     ]
   },
@@ -56957,7 +56965,7 @@
     "sub_category": "雜草(含廢棄物、墓地)",
     "location": "高雄市甲仙區新興路",
     "units": "甲仙分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -56966,6 +56974,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T11:03:33.284284"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T11:09:33.416505"
       }
     ]
   },
@@ -56998,6 +57010,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T11:07:33.340816"
+      }
+    ]
+  },
+  "c238f365e9f48127e89f6d015e146354": {
+    "time": "2026/09/20 11:09:11",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區周廣街",
+    "units": "和發分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T11:09:33.416505"
       }
     ]
   }
