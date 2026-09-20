@@ -58529,7 +58529,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -58546,6 +58546,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T13:41:33.309822"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T13:56:33.261037"
       }
     ]
   },
@@ -58751,11 +58755,15 @@
     "sub_category": "車禍",
     "location": "高雄市鹽埕區新樂街",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T13:53:33.117428"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T13:56:33.261037"
       }
     ]
   },
@@ -58783,11 +58791,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區瑞隆路和瑞和街",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T13:55:33.329325"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T13:56:33.261037"
       }
     ]
   }
