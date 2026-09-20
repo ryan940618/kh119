@@ -65973,7 +65973,7 @@
     "sub_category": "路倒",
     "location": "高雄市茄萣區健康路",
     "units": "茄萣分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -65982,6 +65982,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T07:14:33.699108"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T07:26:33.822847"
       }
     ]
   },
@@ -66063,11 +66067,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區神農路",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T07:25:33.864029"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T07:26:33.822847"
       }
     ]
   }
