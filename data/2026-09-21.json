@@ -66145,7 +66145,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -66154,6 +66154,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T07:35:32.879076"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T07:52:33.076089"
       }
     ]
   },
@@ -66225,7 +66229,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區德勝街",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -66238,6 +66242,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T07:43:32.929970"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T07:52:33.076089"
       }
     ]
   },
@@ -66345,11 +66353,29 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T07:51:32.997716"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T07:52:33.076089"
+      }
+    ]
+  },
+  "e4d5f92a1c0e8776fbf9df5d985c438d": {
+    "time": "2026/09/21 07:51:27",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市林園區中門路",
+    "units": "林園分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T07:52:33.076089"
       }
     ]
   }
