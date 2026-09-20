@@ -57765,7 +57765,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -57778,6 +57778,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T12:39:33.746324"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T12:58:34.001972"
       }
     ]
   },
@@ -58047,7 +58051,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -58056,6 +58060,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T12:52:33.937681"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T12:58:34.001972"
       }
     ]
   },
@@ -58065,11 +58073,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營小隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-20T12:51:33.896038"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T12:58:34.001972"
       }
     ]
   },
@@ -58097,11 +58109,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T12:57:34.091071"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T12:58:34.001972"
+      }
+    ]
+  },
+  "925e631c832248c7ca7b2b2e4e27d55f": {
+    "time": "2026/09/20 12:58:17",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T12:58:34.001972"
       }
     ]
   }
