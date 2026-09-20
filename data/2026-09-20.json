@@ -59485,7 +59485,7 @@
     "sub_category": "其他",
     "location": "高雄市林園區溪州一路",
     "units": "林園分隊",
-    "current_status": "已到達",
+    "current_status": "火已控",
     "status_history": [
       {
         "status": "已派遣",
@@ -59498,6 +59498,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T14:58:33.694887"
+      },
+      {
+        "status": "火已控",
+        "timestamp": "2026-09-20T15:06:33.707208"
       }
     ]
   },
@@ -59529,7 +59533,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -59538,6 +59542,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T15:00:33.578524"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T15:06:33.707208"
       }
     ]
   },
@@ -59561,11 +59569,15 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區輜汽路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-20T15:01:33.622136"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T15:06:33.707208"
       }
     ]
   },
@@ -59598,6 +59610,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T15:04:33.583921"
+      }
+    ]
+  },
+  "5095347c083510b1b8a9773b07612424": {
+    "time": "2026/09/20 15:05:13",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市楠梓區加仁路",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T15:06:33.707208"
       }
     ]
   }
