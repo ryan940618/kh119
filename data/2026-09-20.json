@@ -59251,7 +59251,7 @@
     "sub_category": "其他",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -59268,6 +59268,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T14:53:33.581072"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T15:02:33.700940"
       }
     ]
   },
@@ -59558,6 +59562,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T15:01:33.622136"
+      }
+    ]
+  },
+  "35e09385ea902b08bdc2a2a1f0ab50a3": {
+    "time": "2026/09/20 15:01:04",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區遼寧二街",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T15:02:33.700940"
       }
     ]
   }
