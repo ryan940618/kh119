@@ -65375,7 +65375,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -65388,6 +65388,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T05:16:33.072568"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T05:27:33.072262"
       }
     ]
   },
@@ -65459,7 +65463,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -65472,6 +65476,24 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T05:20:33.117146"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T05:27:33.072262"
+      }
+    ]
+  },
+  "71adcda7fdfc6f09913ff8ae94be51e6": {
+    "time": "2026/09/21 05:27:05",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T05:27:33.072262"
       }
     ]
   }
