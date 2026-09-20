@@ -58139,7 +58139,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -58156,6 +58156,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T13:24:33.104026"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T13:26:33.109215"
       }
     ]
   },
@@ -58239,7 +58243,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -58252,6 +58256,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T13:13:33.874210"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T13:26:33.109215"
       }
     ]
   },
@@ -58291,7 +58299,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -58308,6 +58316,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T13:13:33.874210"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T13:26:33.109215"
       }
     ]
   },
@@ -58441,11 +58453,15 @@
     "sub_category": "車禍",
     "location": "高雄市鹽埕區新興街",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T13:24:33.104026"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T13:26:33.109215"
       }
     ]
   },
@@ -58460,6 +58476,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T13:25:33.070762"
+      }
+    ]
+  },
+  "5d7ac831e52d775d49d768286c57182b": {
+    "time": "2026/09/20 13:26:16",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T13:26:33.109215"
       }
     ]
   }
