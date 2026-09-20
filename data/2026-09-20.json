@@ -58925,7 +58925,7 @@
     "sub_category": "創傷",
     "location": "高雄市路竹區中正路",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -58934,6 +58934,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T14:17:33.438602"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T14:20:33.610271"
       }
     ]
   },
@@ -58943,11 +58947,15 @@
     "sub_category": "其他",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T14:17:33.438602"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T14:20:33.610271"
       }
     ]
   },
@@ -58989,11 +58997,57 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T14:19:33.599851"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T14:20:33.610271"
+      }
+    ]
+  },
+  "846a7c57c69a6148f766bb660872c776": {
+    "time": "2026/09/20 14:19:36",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T14:20:33.610271"
+      }
+    ]
+  },
+  "fc71a49019b419340986b71470432121": {
+    "time": "2026/09/20 14:19:34",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T14:20:33.610271"
+      }
+    ]
+  },
+  "7e2d7d4fda6cfdfd24b68c363b5184ed": {
+    "time": "2026/09/20 14:19:10",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T14:20:33.610271"
       }
     ]
   }
