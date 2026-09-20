@@ -55067,7 +55067,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區大華路",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -55080,6 +55080,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T08:05:33.202667"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T08:11:33.302705"
       }
     ]
   },
@@ -55111,7 +55115,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區吉林街",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -55124,6 +55128,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T07:56:33.057847"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T08:11:33.302705"
       }
     ]
   },
@@ -55280,6 +55288,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T08:10:33.238806"
+      }
+    ]
+  },
+  "9e99a4f73c5c43c416545fefc6cc0315": {
+    "time": "2026/09/20 08:10:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區環潭路",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T08:11:33.302705"
       }
     ]
   }
