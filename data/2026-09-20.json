@@ -58139,7 +58139,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -58152,6 +58152,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T13:02:34.130449"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T13:24:33.104026"
       }
     ]
   },
@@ -58353,7 +58357,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區中正一路",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -58366,6 +58370,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T13:19:32.976282"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T13:24:33.104026"
       }
     ]
   },
@@ -58375,7 +58383,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -58384,6 +58392,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T13:19:32.976282"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T13:24:33.104026"
       }
     ]
   },
@@ -58416,6 +58428,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T13:23:33.059710"
+      }
+    ]
+  },
+  "bff01c61f97f536855d52fadeed05262": {
+    "time": "2026/09/20 13:23:52",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鹽埕區新興街",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T13:24:33.104026"
       }
     ]
   }
