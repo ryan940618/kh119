@@ -63309,7 +63309,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -63322,6 +63322,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T21:39:33.306425"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T21:54:33.391267"
       }
     ]
   },
@@ -63349,7 +63353,7 @@
     "sub_category": "其他",
     "location": "高雄市左營區重安路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -63358,6 +63362,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T21:42:33.399665"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T21:54:33.391267"
       }
     ]
   },
@@ -63380,6 +63388,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T21:44:33.422230"
+      }
+    ]
+  },
+  "0e4d53294ee7d593617f0e937e92a611": {
+    "time": "2026/09/20 21:54:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T21:54:33.391267"
       }
     ]
   }
