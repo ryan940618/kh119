@@ -62777,7 +62777,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -62790,6 +62790,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T20:36:33.797441"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T20:38:33.855024"
       }
     ]
   },
@@ -62827,11 +62831,29 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區八德東路",
     "units": "仁武分隊,新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T20:36:33.797441"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T20:38:33.855024"
+      }
+    ]
+  },
+  "8a3e90ba0c40af86201a25d11ad97c37": {
+    "time": "2026/09/20 20:37:15",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市新興區六合二路",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T20:38:33.855024"
       }
     ]
   }
