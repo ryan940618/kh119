@@ -63193,11 +63193,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T21:31:33.321712"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T21:32:33.400601"
       }
     ]
   },
@@ -63207,11 +63211,29 @@
     "sub_category": "車禍",
     "location": "高雄市美濃區南中街",
     "units": "美濃分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T21:31:33.321712"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T21:32:33.400601"
+      }
+    ]
+  },
+  "65c159d1faa929f35eff7573bd823217": {
+    "time": "2026/09/20 21:31:14",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鼓山區明倫路",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T21:32:33.400601"
       }
     ]
   }
