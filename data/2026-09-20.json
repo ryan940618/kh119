@@ -61487,7 +61487,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -61500,6 +61500,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T18:21:33.979173"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T18:25:34.046361"
       }
     ]
   },
@@ -61509,7 +61513,7 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -61522,6 +61526,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T18:19:33.860929"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T18:25:34.046361"
       }
     ]
   },
@@ -61571,7 +61579,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區九如四路",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -61580,6 +61588,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T18:21:33.979173"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T18:25:34.046361"
       }
     ]
   },
@@ -61607,11 +61619,15 @@
     "sub_category": "路倒",
     "location": "高雄市苓雅區成功一路",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T18:23:33.932104"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T18:25:34.046361"
       }
     ]
   },
@@ -61644,6 +61660,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T18:24:34.064983"
+      }
+    ]
+  },
+  "adae7bbd288a45c081ff5e1aea1ec629": {
+    "time": "2026/09/20 18:25:10",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區濱海一路",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T18:25:34.046361"
       }
     ]
   }
