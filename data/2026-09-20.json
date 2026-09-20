@@ -59983,7 +59983,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -60000,6 +60000,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T16:07:33.071326"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T16:10:33.251179"
       }
     ]
   },
@@ -60105,7 +60109,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -60122,6 +60126,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T16:04:33.089733"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T16:10:33.251179"
       }
     ]
   },
@@ -60278,6 +60286,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T16:07:33.071326"
+      }
+    ]
+  },
+  "fd12d69d6ff211c4d9c4a6721242ca7a": {
+    "time": "2026/09/20 16:09:49",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T16:10:33.251179"
       }
     ]
   }
