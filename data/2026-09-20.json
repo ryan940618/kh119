@@ -60577,7 +60577,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區金山路",
     "units": "燕巢分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -60594,6 +60594,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T16:53:33.381210"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T17:02:33.343585"
       }
     ]
   },
@@ -60603,7 +60607,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -60612,6 +60616,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T16:49:33.194140"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T17:02:33.343585"
       }
     ]
   },
@@ -60749,7 +60757,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -60758,6 +60766,38 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T16:59:33.358373"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T17:02:33.343585"
+      }
+    ]
+  },
+  "b592682e0c545dcc9136ed961a47d34e": {
+    "time": "2026/09/20 17:01:54",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區中華二路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T17:02:33.343585"
+      }
+    ]
+  },
+  "1e3b408a5dd9cf2e9a511cd9f4929533": {
+    "time": "2026/09/20 17:00:57",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T17:02:33.343585"
       }
     ]
   }
