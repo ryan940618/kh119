@@ -59703,7 +59703,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -59720,6 +59720,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T15:18:33.842988"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T15:33:33.853138"
       }
     ]
   },
@@ -59813,11 +59817,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T15:31:33.766164"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T15:33:33.853138"
       }
     ]
   },
