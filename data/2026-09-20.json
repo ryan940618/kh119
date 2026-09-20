@@ -60483,7 +60483,7 @@
     "sub_category": "創傷",
     "location": "高雄市小港區大潭路",
     "units": "高桂分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -60500,6 +60500,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T16:36:33.273446"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T16:41:33.360562"
       }
     ]
   },
@@ -60570,6 +60574,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T16:40:33.271428"
+      }
+    ]
+  },
+  "8d06b71116a0545265c41fc51dc53ec2": {
+    "time": "2026/09/20 16:39:26",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市茄萣區",
+    "units": "茄萣分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T16:41:33.360562"
       }
     ]
   }
