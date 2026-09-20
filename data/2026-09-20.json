@@ -59977,7 +59977,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -59986,6 +59986,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T15:45:33.874539"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T15:50:33.995332"
       }
     ]
   },
@@ -60018,6 +60022,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T15:48:33.934562"
+      }
+    ]
+  },
+  "a6d89f71a2fea971d393424594186202": {
+    "time": "2026/09/20 15:49:24",
+    "category": "火災",
+    "sub_category": "雜草(含廢棄物、墓地)",
+    "location": "高雄市湖內區福安路",
+    "units": "湖內分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T15:50:33.995332"
+      }
+    ]
+  },
+  "67ab00c2b5ef4c38ec19e05a55c217f0": {
+    "time": "2026/09/20 15:48:58",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T15:50:33.995332"
       }
     ]
   }
