@@ -58113,7 +58113,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營小隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -58126,6 +58126,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T13:12:34.030706"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T13:21:33.275699"
       }
     ]
   },
@@ -58253,7 +58257,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -58266,6 +58270,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T13:07:34.080522"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T13:21:33.275699"
       }
     ]
   },
@@ -58372,6 +58380,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T13:19:32.976282"
+      }
+    ]
+  },
+  "8c9a0231236c83068aab7aec1444b6e7": {
+    "time": "2026/09/20 13:20:20",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區察哈爾二街",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T13:21:33.275699"
       }
     ]
   }
