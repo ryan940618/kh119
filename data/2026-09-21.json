@@ -66103,7 +66103,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區神農路",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -66116,6 +66116,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T07:32:33.838431"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T07:43:32.929970"
       }
     ]
   },
@@ -66143,7 +66147,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -66156,6 +66160,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T07:37:32.884644"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T07:43:32.929970"
       }
     ]
   },
@@ -66197,7 +66205,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區德勝街",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -66206,6 +66214,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T07:40:32.864141"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T07:43:32.929970"
+      }
+    ]
+  },
+  "9f086b45ec062d0144fd0bc54062db99": {
+    "time": "2026/09/21 07:42:47",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市燕巢區新生路",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T07:43:32.929970"
       }
     ]
   }
