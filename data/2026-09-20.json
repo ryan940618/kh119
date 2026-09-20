@@ -57827,7 +57827,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區三多一路",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -57836,6 +57836,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T12:41:33.800523"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T12:47:33.802907"
       }
     ]
   },
@@ -57944,6 +57948,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T12:44:33.813458"
+      }
+    ]
+  },
+  "e18f2ba8a48c6d5a5eb245412b88d9c8": {
+    "time": "2026/09/20 12:46:43",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區正興路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T12:47:33.802907"
       }
     ]
   }
