@@ -61747,7 +61747,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -61760,6 +61760,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T18:39:33.066947"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T19:02:33.111884"
       }
     ]
   },
@@ -61891,7 +61895,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -61908,6 +61912,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T18:55:33.119660"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T19:02:33.111884"
       }
     ]
   },
@@ -62053,11 +62061,15 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區壽民路",
     "units": "右昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T19:01:33.332736"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T19:02:33.111884"
       }
     ]
   },
