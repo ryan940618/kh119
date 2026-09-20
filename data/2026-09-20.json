@@ -62717,7 +62717,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -62726,6 +62726,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T20:21:33.759109"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T20:26:33.721346"
       }
     ]
   },
@@ -62735,11 +62739,29 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-20T20:22:33.825697"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T20:26:33.721346"
+      }
+    ]
+  },
+  "0aca03b94893fc1f687443303bb710aa": {
+    "time": "2026/09/20 20:25:01",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T20:26:33.721346"
       }
     ]
   }
