@@ -57569,7 +57569,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -57578,6 +57578,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T12:18:33.579300"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T12:20:33.656892"
       }
     ]
   },
@@ -57596,6 +57600,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T12:19:33.565804"
+      }
+    ]
+  },
+  "45927fa08206958a84ee48690905cc0e": {
+    "time": "2026/09/20 12:18:17",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市左營區",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-20T12:20:33.656892"
       }
     ]
   }
