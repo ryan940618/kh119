@@ -60937,7 +60937,7 @@
     "sub_category": "創傷",
     "location": "高雄市鼓山區篤敬路",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -60954,6 +60954,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T17:42:33.621811"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T17:48:33.742061"
       }
     ]
   },
@@ -61236,6 +61240,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T17:47:33.655477"
+      }
+    ]
+  },
+  "ec3deee141293e564e00ec49296a9853": {
+    "time": "2026/09/20 17:47:25",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市旗山區旗南一路",
+    "units": "旗山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T17:48:33.742061"
       }
     ]
   }
