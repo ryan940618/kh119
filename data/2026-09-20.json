@@ -63719,7 +63719,7 @@
     "sub_category": "車禍",
     "location": "屏東縣屏東市",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -63736,6 +63736,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T22:44:33.741709"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T22:53:33.786272"
       }
     ]
   },
@@ -63745,7 +63749,7 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區三和路",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -63762,6 +63766,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T22:40:33.671919"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T22:53:33.786272"
       }
     ]
   },
@@ -63837,7 +63845,7 @@
     "sub_category": "路倒",
     "location": "高雄市左營區左營大路",
     "units": "左營小隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -63846,6 +63854,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T22:50:33.878567"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T22:53:33.786272"
       }
     ]
   },
@@ -63892,6 +63904,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T22:52:33.726624"
+      }
+    ]
+  },
+  "79f9c7bc1b2687116c36114b322dc0e2": {
+    "time": "2026/09/20 22:52:28",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市旗津區",
+    "units": "旗津分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T22:53:33.786272"
       }
     ]
   }
