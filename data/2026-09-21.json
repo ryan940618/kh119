@@ -66413,7 +66413,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -66422,6 +66422,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T07:56:33.119413"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T07:57:33.216432"
       }
     ]
   },
@@ -66500,6 +66504,20 @@
       {
         "status": "已受理",
         "timestamp": "2026-09-21T07:56:33.119413"
+      }
+    ]
+  },
+  "f13e44551e629d2a818d414637769c1e": {
+    "time": "2026/09/21 07:55:55",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市大寮區仁勇路",
+    "units": "和發分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T07:57:33.216432"
       }
     ]
   }
