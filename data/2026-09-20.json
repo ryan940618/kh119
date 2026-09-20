@@ -55305,7 +55305,7 @@
     "sub_category": "車禍",
     "location": "高雄市梓官區通安路",
     "units": "梓官分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -55322,6 +55322,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T08:26:33.396411"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T08:37:33.416295"
       }
     ]
   },
@@ -55544,6 +55548,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T08:31:33.472724"
+      }
+    ]
+  },
+  "76c6a0ae492eaf2a4b6b536fc0c46423": {
+    "time": "2026/09/20 08:36:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T08:37:33.416295"
       }
     ]
   }
