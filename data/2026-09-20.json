@@ -61281,7 +61281,7 @@
     "sub_category": "車禍",
     "location": "高雄市旗山區旗南一路",
     "units": "旗山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -61298,6 +61298,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T18:03:34.028914"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T18:10:33.804592"
       }
     ]
   },
@@ -61447,11 +61451,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-20T18:04:33.812034"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T18:10:33.804592"
       }
     ]
   }
