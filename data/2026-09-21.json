@@ -66307,7 +66307,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區中安路",
     "units": "鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -66316,6 +66316,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T07:50:33.042101"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T07:55:33.117385"
       }
     ]
   },
@@ -66325,7 +66329,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -66334,6 +66338,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T07:51:32.997716"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T07:55:33.117385"
       }
     ]
   },
@@ -66407,11 +66415,43 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "湖內分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T07:54:33.103030"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T07:55:33.117385"
+      }
+    ]
+  },
+  "ad39e891efc99dafc3e694f8884826f1": {
+    "time": "2026/09/21 07:55:00",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T07:55:33.117385"
+      }
+    ]
+  },
+  "899b0a8e8983bfb225f4c44ee2561ba8": {
+    "time": "2026/09/21 07:54:58",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市林園區沿海路",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T07:55:33.117385"
       }
     ]
   }
