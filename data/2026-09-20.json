@@ -62751,7 +62751,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -62760,6 +62760,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T20:26:33.721346"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T20:36:33.797441"
       }
     ]
   },
@@ -62769,7 +62773,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -62778,6 +62782,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T20:27:33.859485"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T20:36:33.797441"
       }
     ]
   },
@@ -62792,6 +62800,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T20:34:33.851342"
+      }
+    ]
+  },
+  "85bf57241210b429669a7664ddfcfb4f": {
+    "time": "2026/09/20 20:35:56",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T20:36:33.797441"
+      }
+    ]
+  },
+  "89d2ff27241eb1671664b79d17a223e8": {
+    "time": "2026/09/20 20:33:38",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區八德東路",
+    "units": "仁武分隊,新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T20:36:33.797441"
       }
     ]
   }
