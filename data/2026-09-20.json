@@ -59291,7 +59291,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -59304,6 +59304,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T14:46:33.655236"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T14:54:33.538248"
       }
     ]
   },
@@ -59369,7 +59373,7 @@
     "sub_category": "路倒",
     "location": "高雄市林園區溪州二路",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -59386,6 +59390,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T14:51:33.678436"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T14:54:33.538248"
       }
     ]
   },
@@ -59463,11 +59471,15 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T14:52:33.575585"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T14:54:33.538248"
       }
     ]
   }
