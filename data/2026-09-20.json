@@ -59071,7 +59071,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -59088,6 +59088,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T14:35:33.519415"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T14:49:33.577161"
       }
     ]
   },
@@ -59301,7 +59305,7 @@
     "sub_category": "創傷",
     "location": "高雄市大社區萬金路",
     "units": "大社分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -59314,6 +59318,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T14:46:33.655236"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T14:49:33.577161"
       }
     ]
   },
@@ -59390,6 +59398,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T14:48:33.979278"
+      }
+    ]
+  },
+  "a4562dc63cd512f248f406aa9b780819": {
+    "time": "2026/09/20 14:47:52",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市大寮區鳳林三路",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T14:49:33.577161"
       }
     ]
   }
