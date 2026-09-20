@@ -60761,7 +60761,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -60774,6 +60774,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T17:02:33.343585"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T17:05:33.540772"
       }
     ]
   },
@@ -60783,7 +60787,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區中華二路",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -60792,6 +60796,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T17:04:33.393972"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T17:05:33.540772"
       }
     ]
   },
@@ -60810,6 +60818,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T17:04:33.393972"
+      }
+    ]
+  },
+  "d2cef87b85843ec9ddee244fe5cd9451": {
+    "time": "2026/09/20 17:04:30",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳥松區",
+    "units": "鳥松分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T17:05:33.540772"
       }
     ]
   }
