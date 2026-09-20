@@ -61687,7 +61687,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -61700,6 +61700,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T18:28:33.032239"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T18:38:33.032729"
       }
     ]
   },
@@ -61781,11 +61785,15 @@
     "sub_category": "車禍",
     "location": "高雄市美濃區永安路",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-20T18:34:33.134896"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T18:38:33.032729"
       }
     ]
   }
