@@ -62195,7 +62195,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區文衡路",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -62208,6 +62208,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T19:18:33.346916"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T19:24:33.384778"
       }
     ]
   },
@@ -62338,6 +62342,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T19:23:33.423196"
+      }
+    ]
+  },
+  "7cfab9324de288bb0aab156ecd3ec035": {
+    "time": "2026/09/20 19:23:36",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T19:24:33.384778"
       }
     ]
   }
