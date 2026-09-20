@@ -61923,7 +61923,7 @@
     "sub_category": "路倒",
     "location": "高雄市林園區溪州三路",
     "units": "林園分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -61936,6 +61936,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T18:53:33.178222"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T18:58:33.129430"
       }
     ]
   },
@@ -62011,11 +62015,15 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區鎮中路",
     "units": "前鎮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T18:57:33.216698"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T18:58:33.129430"
       }
     ]
   }
