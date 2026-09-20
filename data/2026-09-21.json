@@ -66007,7 +66007,7 @@
     "sub_category": "急病",
     "location": "高雄市杉林區",
     "units": "杉林分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -66024,6 +66024,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T07:22:33.925080"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T07:40:32.864141"
       }
     ]
   },
@@ -66189,11 +66193,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區德勝街",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T07:39:33.033194"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T07:40:32.864141"
       }
     ]
   }
