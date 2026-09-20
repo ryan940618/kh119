@@ -55177,7 +55177,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營小隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -55186,6 +55186,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T08:01:33.150012"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T08:06:33.196875"
       }
     ]
   },
@@ -55232,6 +55236,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T08:05:33.202667"
+      }
+    ]
+  },
+  "a96f820ce742680a65c24b6dffef5e0e": {
+    "time": "2026/09/20 08:05:45",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市梓官區通安路",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T08:06:33.196875"
       }
     ]
   }
