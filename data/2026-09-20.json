@@ -59911,7 +59911,7 @@
     "sub_category": "急病",
     "location": "高雄市杉林區",
     "units": "杉林分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -59924,6 +59924,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T15:45:33.874539"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T15:52:33.016733"
       }
     ]
   },
@@ -60017,11 +60021,15 @@
     "sub_category": "創傷",
     "location": "高雄市左營區曾子路",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T15:48:33.934562"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T15:52:33.016733"
       }
     ]
   },
