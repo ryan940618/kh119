@@ -61815,7 +61815,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -61824,6 +61824,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T18:41:33.079173"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T18:46:33.151310"
       }
     ]
   },
@@ -61864,6 +61868,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T18:43:33.301331"
+      }
+    ]
+  },
+  "65c66ac75574b6a3edbd740676b2a2de": {
+    "time": "2026/09/20 18:45:39",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T18:46:33.151310"
+      }
+    ]
+  },
+  "ae3460c65383b8d9107597e1d373be00": {
+    "time": "2026/09/20 18:44:50",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市林園區溪州三路",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T18:46:33.151310"
       }
     ]
   }
