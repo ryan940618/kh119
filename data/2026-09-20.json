@@ -63555,11 +63555,15 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-20T22:08:33.501458"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T22:21:33.664275"
       }
     ]
   },
@@ -63569,7 +63573,7 @@
     "sub_category": "車禍",
     "location": "高雄市大社區中山路",
     "units": "大社分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -63582,6 +63586,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T22:17:33.606469"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T22:21:33.664275"
       }
     ]
   },
@@ -63627,11 +63635,43 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T22:20:33.651903"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T22:21:33.664275"
+      }
+    ]
+  },
+  "86d98ff7c4aa4eb4242dd5a6c241f2a2": {
+    "time": "2026/09/20 22:20:31",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市鳥松區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T22:21:33.664275"
+      }
+    ]
+  },
+  "28c00484bff28aa162df46bcd1b6dfcb": {
+    "time": "2026/09/20 22:20:25",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "屏東縣屏東市",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T22:21:33.664275"
       }
     ]
   }
