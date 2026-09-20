@@ -62133,7 +62133,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -62150,6 +62150,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T19:26:33.317544"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T19:27:33.670719"
       }
     ]
   },
@@ -62203,7 +62207,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區文衡路",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -62220,6 +62224,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T19:24:33.384778"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T19:27:33.670719"
       }
     ]
   },
@@ -62376,6 +62384,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T19:25:33.393562"
+      }
+    ]
+  },
+  "ed0c26cc2caf15d5b24a19d1e0c01678": {
+    "time": "2026/09/20 19:26:43",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T19:27:33.670719"
+      }
+    ]
+  },
+  "b034393eb1fd782b5aae6f7e1512a705": {
+    "time": "2026/09/20 19:26:26",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "前金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T19:27:33.670719"
       }
     ]
   }
