@@ -61613,7 +61613,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區建工路",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -61626,6 +61626,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T18:34:33.134896"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T18:41:33.079173"
       }
     ]
   },
@@ -61789,7 +61793,7 @@
     "sub_category": "車禍",
     "location": "高雄市美濃區永安路",
     "units": "美濃分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -61798,6 +61802,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T18:38:33.032729"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T18:41:33.079173"
       }
     ]
   },
@@ -61807,11 +61815,15 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T18:39:33.066947"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T18:41:33.079173"
       }
     ]
   },
@@ -61821,11 +61833,15 @@
     "sub_category": "創傷",
     "location": "高雄市三民區金山路",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T18:40:33.097043"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T18:41:33.079173"
       }
     ]
   }
