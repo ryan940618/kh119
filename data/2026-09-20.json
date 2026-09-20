@@ -58101,7 +58101,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營小隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -58110,6 +58110,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T12:58:34.001972"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T13:12:34.030706"
       }
     ]
   },
@@ -58287,11 +58291,15 @@
     "sub_category": "其他",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-20T13:11:34.195257"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T13:12:34.030706"
       }
     ]
   }
