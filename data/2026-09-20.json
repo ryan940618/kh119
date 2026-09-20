@@ -60393,7 +60393,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區德民路",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -60410,6 +60410,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T16:32:33.323470"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T16:39:33.334065"
       }
     ]
   },
@@ -60540,6 +60544,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T16:31:33.270450"
+      }
+    ]
+  },
+  "fc7983d7f63f9cff4e3625530b3f8ace": {
+    "time": "2026/09/20 16:38:23",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市燕巢區金山路",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T16:39:33.334065"
       }
     ]
   }
