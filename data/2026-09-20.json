@@ -55483,7 +55483,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -55500,6 +55500,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T08:39:33.522025"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T08:58:33.665531"
       }
     ]
   },
@@ -55593,7 +55597,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -55610,6 +55614,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T08:51:33.515546"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T08:58:33.665531"
       }
     ]
   },
@@ -55735,11 +55743,15 @@
     "sub_category": "車禍",
     "location": "高雄市前金區中正四路",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-20T08:56:33.594638"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T08:58:33.665531"
       }
     ]
   }
