@@ -61029,7 +61029,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區大昌二路",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -61042,6 +61042,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T17:29:33.548237"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T17:39:33.827970"
       }
     ]
   },
@@ -61149,11 +61153,29 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T17:36:33.599647"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T17:39:33.827970"
+      }
+    ]
+  },
+  "122b9f0661a43df8696a8a1575051ec4": {
+    "time": "2026/09/20 17:38:40",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區後昌路",
+    "units": "後勁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T17:39:33.827970"
       }
     ]
   }
