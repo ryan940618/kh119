@@ -61721,7 +61721,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區濱海一路",
     "units": "鼓山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -61738,6 +61738,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T18:54:33.162568"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T19:05:33.252881"
       }
     ]
   },
@@ -62097,11 +62101,15 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T19:04:33.214507"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T19:05:33.252881"
       }
     ]
   }
