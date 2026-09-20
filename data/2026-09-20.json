@@ -57111,7 +57111,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區臨海二路和長安街",
     "units": "鼓山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -57128,6 +57128,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T11:25:33.350584"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T11:33:33.469486"
       }
     ]
   },
@@ -57217,11 +57221,29 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T11:32:33.513415"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T11:33:33.469486"
+      }
+    ]
+  },
+  "df71084b1e707e37894e3f5fc19d362f": {
+    "time": "2026/09/20 11:32:26",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區大同一街",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T11:33:33.469486"
       }
     ]
   }
