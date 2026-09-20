@@ -63175,7 +63175,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -63188,6 +63188,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T21:30:33.244813"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T21:36:33.281399"
       }
     ]
   },
@@ -63197,7 +63201,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -63206,6 +63210,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T21:32:33.400601"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T21:36:33.281399"
       }
     ]
   },
@@ -63274,6 +63282,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T21:34:33.203562"
+      }
+    ]
+  },
+  "a54b87eb33b8a88c239969262a4e1af0": {
+    "time": "2026/09/20 21:35:29",
+    "category": "火災",
+    "sub_category": "一般(集合)住宅",
+    "location": "高雄市苓雅區建軍路",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T21:36:33.281399"
       }
     ]
   }
