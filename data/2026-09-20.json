@@ -58369,7 +58369,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區中正一路",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -58386,6 +58386,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T13:24:33.104026"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T13:27:33.205241"
       }
     ]
   },
@@ -58485,11 +58489,15 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T13:26:33.109215"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T13:27:33.205241"
       }
     ]
   }
