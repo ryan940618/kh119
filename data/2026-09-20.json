@@ -58505,7 +58505,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -58518,6 +58518,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T13:38:33.314288"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T13:41:33.309822"
       }
     ]
   },
@@ -58648,6 +58652,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T13:40:33.116371"
+      }
+    ]
+  },
+  "85802b9f65960d2b38ff5ce1d12edcdd": {
+    "time": "2026/09/20 13:40:24",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區明學路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T13:41:33.309822"
       }
     ]
   }
