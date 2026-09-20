@@ -60353,7 +60353,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區德民路",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -60362,6 +60362,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T16:13:33.208213"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T16:19:33.206771"
       }
     ]
   },
@@ -60371,11 +60375,29 @@
     "sub_category": "創傷",
     "location": "高雄市鼓山區西藏街",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T16:18:33.192243"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T16:19:33.206771"
+      }
+    ]
+  },
+  "55c206e55f47aa59edd80ac24f709cc6": {
+    "time": "2026/09/20 16:18:44",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市林園區潭頭路",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T16:19:33.206771"
       }
     ]
   }
