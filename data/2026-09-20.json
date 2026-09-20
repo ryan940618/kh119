@@ -57611,7 +57611,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區中興路",
     "units": "大寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -57624,6 +57624,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T12:23:33.642033"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T12:30:33.729905"
       }
     ]
   },
@@ -57697,11 +57701,29 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "永安分隊,路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T12:29:33.732793"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T12:30:33.729905"
+      }
+    ]
+  },
+  "da534971d1d7350dacac07611559a907": {
+    "time": "2026/09/20 12:29:31",
+    "category": "火災",
+    "sub_category": "雜草(含廢棄物、墓地)",
+    "location": "高雄市楠梓區德賢路",
+    "units": "後勁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T12:30:33.729905"
       }
     ]
   }
