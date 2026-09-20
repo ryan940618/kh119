@@ -58049,7 +58049,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區壽民路",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -58066,6 +58066,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T13:04:34.041270"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T13:11:34.195257"
       }
     ]
   },
@@ -58261,7 +58265,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -58270,6 +58274,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T13:08:33.920310"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T13:11:34.195257"
+      }
+    ]
+  },
+  "f2eb1c337b279e8e25bac73f526f90b2": {
+    "time": "2026/09/20 13:10:38",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市湖內區",
+    "units": "湖內分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T13:11:34.195257"
       }
     ]
   }
