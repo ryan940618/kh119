@@ -59655,7 +59655,7 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區加仁路",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -59664,6 +59664,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T15:12:33.657188"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T15:18:33.842988"
       }
     ]
   },
@@ -59687,7 +59691,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -59700,6 +59704,24 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T15:15:33.811855"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T15:18:33.842988"
+      }
+    ]
+  },
+  "0de650537eb29e335354e5373ba3ff47": {
+    "time": "2026/09/20 15:18:03",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T15:18:33.842988"
       }
     ]
   }
