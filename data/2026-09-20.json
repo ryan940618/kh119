@@ -60621,7 +60621,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -60634,6 +60634,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T16:50:33.285163"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T16:55:33.353947"
       }
     ]
   },
@@ -60684,6 +60688,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T16:53:33.381210"
+      }
+    ]
+  },
+  "0423c50fecda3bbf126ca1a4279f49ba": {
+    "time": "2026/09/20 16:53:51",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區永年街",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T16:55:33.353947"
       }
     ]
   }
