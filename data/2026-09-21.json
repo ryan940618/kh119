@@ -66363,7 +66363,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區友情路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -66372,6 +66372,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T07:54:33.103030"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T07:59:33.104896"
       }
     ]
   },
@@ -66443,7 +66447,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "湖內分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -66452,6 +66456,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T07:55:33.117385"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T07:59:33.104896"
       }
     ]
   },
@@ -66530,6 +66538,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T07:58:33.239144"
+      }
+    ]
+  },
+  "77bdf3a84b5506cfc2315d697e36cc60": {
+    "time": "2026/09/21 07:58:52",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T07:59:33.104896"
+      }
+    ]
+  },
+  "f82527050c6aefa05b522b36e4900a44": {
+    "time": "2026/09/21 07:58:51",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T07:59:33.104896"
       }
     ]
   }
