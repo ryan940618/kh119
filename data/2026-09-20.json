@@ -63223,7 +63223,7 @@
     "sub_category": "車禍",
     "location": "高雄市美濃區南中街",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -63232,6 +63232,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T21:32:33.400601"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T21:41:33.317175"
       }
     ]
   },
@@ -63312,6 +63316,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T21:38:33.390986"
+      }
+    ]
+  },
+  "52cfb02b3edc1da2c1c950bc783267a5": {
+    "time": "2026/09/20 21:41:12",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市左營區重安路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T21:41:33.317175"
+      }
+    ]
+  },
+  "3086ebcd2476b3b9a9bb7f70ebbda3aa": {
+    "time": "2026/09/20 21:40:12",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市湖內區",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T21:41:33.317175"
       }
     ]
   }
