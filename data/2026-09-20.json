@@ -57819,11 +57819,15 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區三多一路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-20T12:37:33.714352"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T12:41:33.800523"
       }
     ]
   },
@@ -57870,6 +57874,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T12:40:33.768352"
+      }
+    ]
+  },
+  "a21d9e981d765718fc64d593aeef02f0": {
+    "time": "2026/09/20 12:40:12",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T12:41:33.800523"
+      }
+    ]
+  },
+  "2474b04e588b267dc2730dd69d01ab10": {
+    "time": "2026/09/20 12:38:46",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市小港區青山街",
+    "units": "高桂分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T12:41:33.800523"
       }
     ]
   }
