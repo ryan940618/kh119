@@ -65311,11 +65311,15 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T05:01:32.835071"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T05:05:32.848476"
       }
     ]
   },
@@ -65325,11 +65329,29 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T05:02:32.989663"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T05:05:32.848476"
+      }
+    ]
+  },
+  "57ab6488553ec6109b861413e86d87ea": {
+    "time": "2026/09/21 05:04:49",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳥松區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T05:05:32.848476"
       }
     ]
   }
