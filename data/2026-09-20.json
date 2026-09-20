@@ -59041,7 +59041,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -59058,6 +59058,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T14:42:33.575274"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T14:48:33.979278"
       }
     ]
   },
@@ -59319,7 +59323,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -59332,6 +59336,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T14:42:33.575274"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T14:48:33.979278"
       }
     ]
   },
@@ -59368,6 +59376,20 @@
       {
         "status": "已受理",
         "timestamp": "2026-09-20T14:39:33.513996"
+      }
+    ]
+  },
+  "be87c4693033f18bbc6e440c5f575f4c": {
+    "time": "2026/09/20 14:47:52",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T14:48:33.979278"
       }
     ]
   }
