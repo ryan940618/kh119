@@ -65903,7 +65903,7 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區瓦厝街",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -65912,6 +65912,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T07:16:33.902098"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T07:25:33.864029"
       }
     ]
   },
@@ -65943,7 +65947,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區高鳳路",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -65956,6 +65960,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T07:18:33.764779"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T07:25:33.864029"
       }
     ]
   },
@@ -66046,6 +66054,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T07:23:33.843752"
+      }
+    ]
+  },
+  "6e3d5b9729f8f45cd4833c46a57cece3": {
+    "time": "2026/09/21 07:25:01",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區神農路",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T07:25:33.864029"
       }
     ]
   }
