@@ -64915,7 +64915,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -64932,6 +64932,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T03:22:33.277855"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T03:30:33.386537"
       }
     ]
   },
@@ -64985,7 +64989,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -64994,6 +64998,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T03:26:33.422226"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T03:30:33.386537"
       }
     ]
   },
@@ -65021,11 +65029,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T03:26:33.422226"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T03:30:33.386537"
       }
     ]
   }
