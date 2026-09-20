@@ -55097,7 +55097,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -55114,6 +55114,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T08:18:33.238947"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T08:39:33.522025"
       }
     ]
   },
@@ -55375,7 +55379,7 @@
     "sub_category": "其他",
     "location": "高雄市彌陀區",
     "units": "彌陀分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -55388,6 +55392,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T08:21:33.359672"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T08:39:33.522025"
       }
     ]
   },
@@ -55467,7 +55475,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -55480,6 +55488,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T08:30:33.492716"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T08:39:33.522025"
       }
     ]
   },
@@ -55565,11 +55577,29 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T08:37:33.416295"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T08:39:33.522025"
+      }
+    ]
+  },
+  "24ffb04475438ba9105746b91f3552b5": {
+    "time": "2026/09/20 08:38:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T08:39:33.522025"
       }
     ]
   }
