@@ -57559,7 +57559,7 @@
     "sub_category": "車禍",
     "location": "高雄市茄萣區民治路",
     "units": "湖內分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -57572,6 +57572,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T12:28:33.725082"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T12:40:33.768352"
       }
     ]
   },
@@ -57775,7 +57779,7 @@
     "sub_category": "燒燙傷",
     "location": "高雄市鼓山區大順一路",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -57784,6 +57788,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T12:38:33.909724"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T12:40:33.768352"
       }
     ]
   },
@@ -57848,6 +57856,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T12:39:33.746324"
+      }
+    ]
+  },
+  "714529cb36c4481a5ff12a5ba09881a1": {
+    "time": "2026/09/20 12:39:13",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區中崙二路",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T12:40:33.768352"
       }
     ]
   }
