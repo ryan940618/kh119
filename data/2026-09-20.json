@@ -56709,7 +56709,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -56718,6 +56718,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T10:23:33.056677"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T10:34:33.108149"
       }
     ]
   },
@@ -56740,6 +56744,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T10:27:33.066284"
+      }
+    ]
+  },
+  "f9692dd382631d7eb9b90db091fff87f": {
+    "time": "2026/09/20 10:33:56",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T10:34:33.108149"
       }
     ]
   }
