@@ -57053,7 +57053,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區鳳南一路",
     "units": "鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -57062,6 +57062,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T11:11:33.655983"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T11:14:33.441912"
       }
     ]
   },
@@ -57071,11 +57075,29 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區臨海二路和長安街",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T11:11:33.655983"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T11:14:33.441912"
+      }
+    ]
+  },
+  "9bc38173211461b2ca1b2baac96bb00f": {
+    "time": "2026/09/20 11:12:38",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市苓雅區苓中路",
+    "units": "前金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T11:14:33.441912"
       }
     ]
   }
