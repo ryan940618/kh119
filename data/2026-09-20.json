@@ -59199,7 +59199,7 @@
     "sub_category": "其他",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -59208,6 +59208,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T14:34:33.445571"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T14:39:33.513996"
       }
     ]
   },
@@ -59253,11 +59257,15 @@
     "sub_category": "創傷",
     "location": "高雄市大社區萬金路",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T14:36:33.624111"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T14:39:33.513996"
       }
     ]
   },
@@ -59276,6 +59284,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T14:38:33.599225"
+      }
+    ]
+  },
+  "8363e7bc9930a6467206a5742cd9c491": {
+    "time": "2026/09/20 14:39:15",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市林園區溪州二路",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T14:39:33.513996"
+      }
+    ]
+  },
+  "c4fbe8daa4647232b74d0dac73d06d16": {
+    "time": "2026/09/20 14:38:19",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市林園區溪州二路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-20T14:39:33.513996"
       }
     ]
   }
