@@ -56517,7 +56517,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區復華路",
     "units": "高桂分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -56526,6 +56526,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T10:11:32.966864"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T10:18:33.064329"
       }
     ]
   },
@@ -56535,11 +56539,15 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T10:14:32.952504"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T10:18:33.064329"
       }
     ]
   },
@@ -56576,6 +56584,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T10:17:33.222610"
+      }
+    ]
+  },
+  "28bb1c85396be804df4bf06e00b03c49": {
+    "time": "2026/09/20 10:17:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T10:18:33.064329"
       }
     ]
   }
