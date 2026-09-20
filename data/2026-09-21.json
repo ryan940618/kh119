@@ -65921,7 +65921,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區華北街",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -65930,6 +65930,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T07:14:33.699108"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T07:22:33.925080"
       }
     ]
   },
@@ -65979,7 +65983,7 @@
     "sub_category": "急病",
     "location": "高雄市杉林區",
     "units": "杉林分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -65992,6 +65996,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T07:19:33.808093"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T07:22:33.925080"
       }
     ]
   },
@@ -66020,6 +66028,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T07:20:33.859347"
+      }
+    ]
+  },
+  "968f9bd18ab3c95c9304add121010845": {
+    "time": "2026/09/21 07:21:09",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市路竹區大仁路",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T07:22:33.925080"
       }
     ]
   }
