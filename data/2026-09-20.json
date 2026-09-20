@@ -59913,7 +59913,7 @@
     "sub_category": "急病",
     "location": "高雄市橋頭區",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -59922,6 +59922,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T15:40:33.921703"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T15:44:33.865521"
       }
     ]
   },
@@ -59940,6 +59944,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T15:41:33.856676"
+      }
+    ]
+  },
+  "bdc5adf3e42e9a4f910f3c8f672b1d5d": {
+    "time": "2026/09/20 15:43:21",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T15:44:33.865521"
+      }
+    ]
+  },
+  "5d594a6a15f5acf0d1a4725edce47563": {
+    "time": "2026/09/20 15:42:59",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市美濃區",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T15:44:33.865521"
       }
     ]
   }
