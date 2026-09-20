@@ -62969,11 +62969,15 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T20:56:32.963977"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T20:59:33.150911"
       }
     ]
   },
@@ -63001,11 +63005,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T20:58:33.103593"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T20:59:33.150911"
+      }
+    ]
+  },
+  "3732b44c4ed964fbb0cadc141975326d": {
+    "time": "2026/09/20 20:59:21",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市燕巢區中民路",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T20:59:33.150911"
       }
     ]
   }
