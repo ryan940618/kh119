@@ -56963,7 +56963,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -56976,6 +56976,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T11:13:33.422223"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T11:35:33.426635"
       }
     ]
   },
@@ -57145,7 +57149,7 @@
     "sub_category": "路倒",
     "location": "高雄市苓雅區苓中路",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -57158,6 +57162,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T11:29:33.356217"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T11:35:33.426635"
       }
     ]
   },
@@ -57167,7 +57175,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -57176,6 +57184,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T11:23:33.466884"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T11:35:33.426635"
       }
     ]
   },
@@ -57252,6 +57264,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T11:34:33.423471"
+      }
+    ]
+  },
+  "dc5bed90b1e34a8aa8130e068d8993e2": {
+    "time": "2026/09/20 11:34:50",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區正忠路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T11:35:33.426635"
       }
     ]
   }
