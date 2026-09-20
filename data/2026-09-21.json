@@ -65985,7 +65985,7 @@
     "sub_category": "路倒",
     "location": "高雄市茄萣區健康路",
     "units": "茄萣分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -65998,6 +65998,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T07:26:33.822847"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T07:44:33.000051"
       }
     ]
   },
@@ -66037,7 +66041,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區",
     "units": "和發分隊,大寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -66046,6 +66050,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T07:38:32.860346"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T07:44:33.000051"
       }
     ]
   },
@@ -66081,7 +66089,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區大仁路",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -66094,6 +66102,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T07:33:33.938721"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T07:44:33.000051"
       }
     ]
   },
@@ -66227,11 +66239,29 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區新生路",
     "units": "燕巢分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T07:43:32.929970"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T07:44:33.000051"
+      }
+    ]
+  },
+  "26a43d5d1c16487ffd707086b0d81a8b": {
+    "time": "2026/09/21 07:43:38",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T07:44:33.000051"
       }
     ]
   }
