@@ -59923,7 +59923,7 @@
     "sub_category": "急病",
     "location": "高雄市杉林區",
     "units": "杉林分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -59940,6 +59940,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T15:52:33.016733"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T16:05:33.516391"
       }
     ]
   },
@@ -60151,11 +60155,15 @@
     "sub_category": "其他",
     "location": "高雄市彌陀區",
     "units": "彌陀分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T16:03:33.078790"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T16:05:33.516391"
       }
     ]
   },
@@ -60170,6 +60178,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T16:04:33.089733"
+      }
+    ]
+  },
+  "916754c8fe173cf8b9cf93cac6db007b": {
+    "time": "2026/09/20 16:04:36",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區大埔一街",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T16:05:33.516391"
       }
     ]
   }
