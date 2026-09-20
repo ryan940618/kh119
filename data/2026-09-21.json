@@ -65803,7 +65803,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區平和南路",
     "units": "小港分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -65820,6 +65820,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T07:04:33.700860"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T07:12:33.793904"
       }
     ]
   },
@@ -65911,11 +65915,15 @@
     "sub_category": "車禍",
     "location": "高雄市小港區高鳳路",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T07:11:33.698625"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T07:12:33.793904"
       }
     ]
   },
