@@ -65671,7 +65671,7 @@
     "sub_category": "急病",
     "location": "高雄市田寮區",
     "units": "崇德駐地",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -65688,6 +65688,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T06:39:33.532121"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T06:53:33.585428"
       }
     ]
   },
@@ -65773,11 +65777,15 @@
     "sub_category": "雜草(含廢棄物、墓地)",
     "location": "高雄市岡山區大仁北路",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T06:51:33.575821"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T06:53:33.585428"
       }
     ]
   },
@@ -65787,11 +65795,15 @@
     "sub_category": "車禍",
     "location": "高雄市小港區平和南路",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T06:51:33.575821"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T06:53:33.585428"
       }
     ]
   }
