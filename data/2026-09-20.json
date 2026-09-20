@@ -57025,7 +57025,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區山田路",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -57034,6 +57034,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T11:12:33.254609"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-20T11:19:36.946502"
       }
     ]
   },
@@ -57114,6 +57118,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T11:14:33.441912"
+      }
+    ]
+  },
+  "4db52d08b7cfb12c7f176321811c003d": {
+    "time": "2026/09/20 11:18:15",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T11:19:36.946502"
       }
     ]
   }
