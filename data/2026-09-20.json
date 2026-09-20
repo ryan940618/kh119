@@ -61141,7 +61141,7 @@
     "sub_category": "創傷",
     "location": "高雄市茄萣區和平路",
     "units": "湖內分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -61158,6 +61158,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T17:51:33.853539"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T18:14:33.877232"
       }
     ]
   },
@@ -61480,6 +61484,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T18:10:33.804592"
+      }
+    ]
+  },
+  "426898ca055954080b5041deea410138": {
+    "time": "2026/09/20 18:13:50",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗津區",
+    "units": "旗津分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T18:14:33.877232"
+      }
+    ]
+  },
+  "f979b57a78f429aa37f9cf66f5e42f17": {
+    "time": "2026/09/20 18:13:36",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區建楠路",
+    "units": "楠梓分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T18:14:33.877232"
       }
     ]
   }
