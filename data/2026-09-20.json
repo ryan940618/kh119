@@ -58867,7 +58867,7 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區正義路",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -58880,6 +58880,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-20T14:17:33.438602"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-20T14:25:33.610985"
       }
     ]
   },
@@ -58947,7 +58951,7 @@
     "sub_category": "其他",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -58956,6 +58960,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T14:20:33.610271"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T14:25:33.610985"
       }
     ]
   },
@@ -59103,11 +59111,29 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T14:23:33.536794"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T14:25:33.610985"
+      }
+    ]
+  },
+  "bcc5f54f96cef7e286b47e6c0abe92db": {
+    "time": "2026/09/20 14:24:40",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T14:25:33.610985"
       }
     ]
   }
