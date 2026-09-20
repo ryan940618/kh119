@@ -64521,7 +64521,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -64530,6 +64530,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T01:42:33.638746"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T01:47:33.733770"
       }
     ]
   },
@@ -64544,6 +64548,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T01:46:33.659868"
+      }
+    ]
+  },
+  "475cc62284219ff590f88b72bdd32961": {
+    "time": "2026/09/21 01:46:13",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市阿蓮區玄中路",
+    "units": "阿蓮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T01:47:33.733770"
       }
     ]
   }
