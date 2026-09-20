@@ -60245,7 +60245,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -60254,6 +60254,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T16:09:33.238125"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T16:12:33.304330"
       }
     ]
   },
@@ -60304,6 +60308,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T16:11:33.161859"
+      }
+    ]
+  },
+  "4d5356976adb421d193ec1e237265bb5": {
+    "time": "2026/09/20 16:12:04",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區德民路",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T16:12:33.304330"
       }
     ]
   }
