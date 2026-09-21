@@ -75911,7 +75911,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -75928,6 +75928,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T20:43:33.785295"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T20:54:33.899566"
       }
     ]
   },
@@ -75937,7 +75941,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "中華分隊,新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -75954,6 +75958,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T20:46:33.850996"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T20:54:33.899566"
       }
     ]
   },
@@ -76065,7 +76073,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -76074,6 +76082,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T20:48:33.887445"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T20:54:33.899566"
       }
     ]
   },
@@ -76105,7 +76117,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -76114,6 +76126,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T20:50:33.796029"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T20:54:33.899566"
       }
     ]
   },
@@ -76123,7 +76139,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -76136,6 +76152,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T20:51:34.027966"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T20:54:33.899566"
       }
     ]
   },
@@ -76195,11 +76215,29 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T20:53:33.906063"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T20:54:33.899566"
+      }
+    ]
+  },
+  "f09ae1f6cdba992949ff42ad0fabf88f": {
+    "time": "2026/09/21 20:41:23",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市內門區",
+    "units": "內門分隊",
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T20:54:33.899566"
       }
     ]
   }
