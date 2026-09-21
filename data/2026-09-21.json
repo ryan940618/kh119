@@ -68625,7 +68625,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -68642,6 +68642,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T10:32:33.134921"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T10:40:33.125129"
       }
     ]
   },
@@ -68841,11 +68845,29 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T10:39:33.202536"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T10:40:33.125129"
+      }
+    ]
+  },
+  "7610b4d1ec03bc089d8d2f3925164c3b": {
+    "time": "2026/09/21 10:39:21",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T10:40:33.125129"
       }
     ]
   }
