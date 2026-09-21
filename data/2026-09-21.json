@@ -70783,7 +70783,7 @@
     "sub_category": "創傷",
     "location": "高雄市茂林區",
     "units": "茂林分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -70800,6 +70800,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T14:00:33.217785"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T14:30:33.471299"
       }
     ]
   },
@@ -71039,7 +71043,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -71052,6 +71056,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T14:15:33.430696"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T14:30:33.471299"
       }
     ]
   },
@@ -71236,6 +71244,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T14:29:33.450090"
+      }
+    ]
+  },
+  "6bae3017e1feaafb709ada58396ce822": {
+    "time": "2026/09/21 14:29:25",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區民泰街",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T14:30:33.471299"
       }
     ]
   }
