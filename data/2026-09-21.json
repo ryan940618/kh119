@@ -69769,7 +69769,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區鳳東六街",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -69786,6 +69786,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T12:30:33.703109"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T12:42:33.779819"
       }
     ]
   },
@@ -69899,7 +69903,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區深興路",
     "units": "燕巢分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -69912,6 +69916,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T12:27:33.699742"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T12:42:33.779819"
       }
     ]
   },
@@ -69921,7 +69929,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -69934,6 +69942,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T12:30:33.703109"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T12:42:33.779819"
       }
     ]
   },
@@ -70112,6 +70124,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T12:40:33.810062"
+      }
+    ]
+  },
+  "c2b6ef79f7e7ea2151e05cd881a4c6af": {
+    "time": "2026/09/21 12:41:04",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區三民路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T12:42:33.779819"
       }
     ]
   }
