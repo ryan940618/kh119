@@ -78191,7 +78191,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -78208,6 +78208,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T03:08:33.146822"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T03:11:33.166965"
       }
     ]
   },
@@ -78336,6 +78340,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T03:08:33.146822"
+      }
+    ]
+  },
+  "c9d4534e9be4215c88356edd23380fa5": {
+    "time": "2026/09/22 03:09:27",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市橋頭區仕豐路",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T03:11:33.166965"
       }
     ]
   }
