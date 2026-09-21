@@ -66859,7 +66859,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區過埤路",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -66876,6 +66876,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T08:17:33.232973"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T08:25:33.291308"
       }
     ]
   },
@@ -67033,11 +67037,29 @@
     "sub_category": "其他",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T08:22:33.341487"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T08:25:33.291308"
+      }
+    ]
+  },
+  "4f53cfca2bab4931f8cdeb85819b568b": {
+    "time": "2026/09/21 08:23:58",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區重信路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T08:25:33.291308"
       }
     ]
   }
