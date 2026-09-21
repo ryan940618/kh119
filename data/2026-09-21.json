@@ -67939,7 +67939,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區三多路",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -67948,6 +67948,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T09:36:33.688892"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T09:40:33.657770"
       }
     ]
   },
@@ -67971,7 +67975,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區曹公路",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -67980,6 +67984,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T09:35:33.677938"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T09:40:33.657770"
       }
     ]
   },
@@ -68025,11 +68033,29 @@
     "sub_category": "車禍",
     "location": "高雄市田寮區西德路",
     "units": "崇德駐地",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T09:39:33.734201"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T09:40:33.657770"
+      }
+    ]
+  },
+  "b634443cb94ba37d725f48324c3d7fe8": {
+    "time": "2026/09/21 09:39:55",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區新富路",
+    "units": "五甲分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T09:40:33.657770"
       }
     ]
   }
