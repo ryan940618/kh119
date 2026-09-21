@@ -70155,7 +70155,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -70172,6 +70172,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T12:49:33.760281"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T12:54:33.810708"
       }
     ]
   },
@@ -70301,11 +70305,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區一心一路",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T12:51:33.878513"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T12:54:33.810708"
       }
     ]
   },
@@ -70315,11 +70323,15 @@
     "sub_category": "路倒",
     "location": "高雄市三民區有光路",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T12:53:33.783680"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T12:54:33.810708"
       }
     ]
   }
