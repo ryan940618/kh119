@@ -75609,7 +75609,7 @@
     "sub_category": "路倒",
     "location": "高雄市苓雅區昇平街",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -75622,6 +75622,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T20:15:33.801683"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T20:21:33.670349"
       }
     ]
   },
@@ -75738,6 +75742,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T20:19:33.578680"
+      }
+    ]
+  },
+  "e4f0019f7451ef1a6faddf4e74ac5382": {
+    "time": "2026/09/21 20:20:55",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T20:21:33.670349"
       }
     ]
   }
