@@ -71483,7 +71483,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -71496,6 +71496,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T14:51:33.678602"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T15:07:33.616965"
       }
     ]
   },
@@ -71607,11 +71611,43 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T15:04:33.738890"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T15:07:33.616965"
+      }
+    ]
+  },
+  "e2328c7696b39650e8760e2f518e1595": {
+    "time": "2026/09/21 15:06:18",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區本洲路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T15:07:33.616965"
+      }
+    ]
+  },
+  "5819447bfd1697164fb4ffdad0218320": {
+    "time": "2026/09/21 15:05:04",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區金和街",
+    "units": "後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T15:07:33.616965"
       }
     ]
   }
