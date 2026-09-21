@@ -72147,7 +72147,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -72156,6 +72156,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T15:53:34.461587"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T16:01:33.140938"
       }
     ]
   },
@@ -72201,11 +72205,29 @@
     "sub_category": "急病",
     "location": "高雄市橋頭區",
     "units": "橋頭分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T16:00:33.129475"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T16:01:33.140938"
+      }
+    ]
+  },
+  "4ae655a84a15d6b01340f6f85511de87": {
+    "time": "2026/09/21 16:00:27",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區國富路",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T16:01:33.140938"
       }
     ]
   }
