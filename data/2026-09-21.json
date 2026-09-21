@@ -76263,7 +76263,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -76280,6 +76280,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T21:11:34.319257"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T21:19:33.049356"
       }
     ]
   },
@@ -76448,6 +76452,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T21:18:32.973993"
+      }
+    ]
+  },
+  "440bcfec79e65e587732acac9c556a8c": {
+    "time": "2026/09/21 21:18:20",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區光華路",
+    "units": "和發分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T21:19:33.049356"
       }
     ]
   }
