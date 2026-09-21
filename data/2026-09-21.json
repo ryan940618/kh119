@@ -69677,7 +69677,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區金府路",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -69690,6 +69690,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T12:11:33.680229"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T12:16:33.606199"
       }
     ]
   },
@@ -69771,11 +69775,15 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區裕誠路",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T12:15:33.718421"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T12:16:33.606199"
       }
     ]
   },
@@ -69785,11 +69793,29 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "內門分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T12:15:33.718421"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T12:16:33.606199"
+      }
+    ]
+  },
+  "10eea961df36cf0ef0eed33b5f613731": {
+    "time": "2026/09/21 12:13:49",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市燕巢區深興路",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T12:16:33.606199"
       }
     ]
   }
