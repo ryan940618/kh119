@@ -72105,11 +72105,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T15:51:33.994137"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T15:53:34.461587"
       }
     ]
   },
@@ -72119,11 +72123,29 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T15:52:33.156350"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T15:53:34.461587"
+      }
+    ]
+  },
+  "3357dcae7d1977c9f8f3e45d25673582": {
+    "time": "2026/09/21 15:52:21",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區崗山南街",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T15:53:34.461587"
       }
     ]
   }
