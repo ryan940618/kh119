@@ -79375,7 +79375,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區中華路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -79392,6 +79392,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T07:23:33.677371"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T07:26:33.801609"
       }
     ]
   },
@@ -79550,6 +79554,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T07:25:33.749916"
+      }
+    ]
+  },
+  "7d025d1d577b1410f0c8f126fb7adb7c": {
+    "time": "2026/09/22 07:24:56",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市旗津區旗津二路",
+    "units": "旗津分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T07:26:33.801609"
       }
     ]
   }
