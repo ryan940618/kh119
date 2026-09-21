@@ -74623,7 +74623,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -74636,6 +74636,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T18:37:33.120126"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T18:52:33.257204"
       }
     ]
   },
@@ -74744,6 +74748,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T18:51:33.120023"
+      }
+    ]
+  },
+  "dd3a7e23d9c943ddeb7beb5b905ea7d8": {
+    "time": "2026/09/21 18:51:58",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T18:52:33.257204"
       }
     ]
   }
