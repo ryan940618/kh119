@@ -68205,7 +68205,7 @@
     "sub_category": "車禍",
     "location": "高雄市永安區永工二路",
     "units": "永安分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -68214,6 +68214,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T09:58:33.847982"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T10:03:34.081721"
       }
     ]
   },
@@ -68255,11 +68259,15 @@
     "sub_category": "車禍",
     "location": "高雄市左營區翠華路",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T10:00:33.999076"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T10:03:34.081721"
       }
     ]
   },
@@ -68269,11 +68277,29 @@
     "sub_category": "車禍",
     "location": "高雄市三民區正興路和建和街",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T10:02:33.788277"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T10:03:34.081721"
+      }
+    ]
+  },
+  "0e9c428a103229438a12011011ea2138": {
+    "time": "2026/09/21 10:02:19",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T10:03:34.081721"
       }
     ]
   }
