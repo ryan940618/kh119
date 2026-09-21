@@ -79025,7 +79025,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -79038,6 +79038,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T06:30:33.626977"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T06:38:33.423973"
       }
     ]
   },
@@ -79101,11 +79105,43 @@
     "sub_category": "車禍",
     "location": "高雄市梓官區信義路",
     "units": "梓官分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T06:37:33.325951"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T06:38:33.423973"
+      }
+    ]
+  },
+  "773f7fba0541d22db6a9856a7efcb04f": {
+    "time": "2026/09/22 06:37:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T06:38:33.423973"
+      }
+    ]
+  },
+  "70fd23b57d564730c55a88068d9993ec": {
+    "time": "2026/09/22 06:37:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T06:38:33.423973"
       }
     ]
   }
