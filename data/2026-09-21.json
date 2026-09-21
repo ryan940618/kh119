@@ -68091,7 +68091,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區新富路",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -68100,6 +68100,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T09:44:33.920135"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T09:50:33.751602"
       }
     ]
   },
@@ -68118,6 +68122,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T09:49:33.765908"
+      }
+    ]
+  },
+  "3ca430588ae80cf8257794d2c65a35e4": {
+    "time": "2026/09/21 09:49:23",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區後昌路",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T09:50:33.751602"
       }
     ]
   }
