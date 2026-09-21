@@ -67233,7 +67233,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -67246,6 +67246,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T08:42:33.525484"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T08:50:33.481345"
       }
     ]
   },
@@ -67397,11 +67401,29 @@
     "sub_category": "其他",
     "location": "高雄市橋頭區里林西路",
     "units": "橋頭分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T08:48:33.610172"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T08:50:33.481345"
+      }
+    ]
+  },
+  "77c20d9b2d6c020349899cb673f8df53": {
+    "time": "2026/09/21 08:49:10",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市梓官區梓官路",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T08:50:33.481345"
       }
     ]
   }
