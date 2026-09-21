@@ -77201,7 +77201,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -77214,6 +77214,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T23:06:33.661147"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T23:17:33.773365"
       }
     ]
   },
@@ -77223,7 +77227,7 @@
     "sub_category": "其他",
     "location": "高雄市鹽埕區",
     "units": "",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -77236,6 +77240,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T23:13:33.691137"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T23:17:33.773365"
       }
     ]
   },
@@ -77307,11 +77315,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T23:15:33.676384"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T23:17:33.773365"
+      }
+    ]
+  },
+  "ba4a1833a858444b765cc2be9f5ff609": {
+    "time": "2026/09/21 23:17:03",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "大林分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T23:17:33.773365"
       }
     ]
   }
