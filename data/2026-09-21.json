@@ -70113,7 +70113,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區復興三路",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -70126,6 +70126,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T12:41:33.818069"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T12:48:33.837623"
       }
     ]
   },
@@ -70175,7 +70179,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區神農路",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -70184,6 +70188,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T12:45:33.814904"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T12:48:33.837623"
       }
     ]
   },
@@ -70216,6 +70224,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T12:46:33.845648"
+      }
+    ]
+  },
+  "f302f5723258afef0e75db0ac456421a": {
+    "time": "2026/09/21 12:47:49",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T12:48:33.837623"
       }
     ]
   }
