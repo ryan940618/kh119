@@ -73039,7 +73039,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區大公路",
     "units": "路竹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -73056,6 +73056,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T17:03:33.625406"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T17:19:33.739890"
       }
     ]
   },
@@ -73488,6 +73492,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T17:18:33.674240"
+      }
+    ]
+  },
+  "39c43224310b99de40cf0d35c471de85": {
+    "time": "2026/09/21 17:18:24",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T17:19:33.739890"
+      }
+    ]
+  },
+  "1018bd588c68acba40b61a742a39ef23": {
+    "time": "2026/09/21 17:18:15",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區九如一路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T17:19:33.739890"
+      }
+    ]
+  },
+  "ea69de16682eb74c997fae8b26119fe9": {
+    "time": "2026/09/21 17:16:43",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市前鎮區",
+    "units": "",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T17:19:33.739890"
       }
     ]
   }
