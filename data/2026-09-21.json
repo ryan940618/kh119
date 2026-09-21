@@ -74711,7 +74711,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -74720,6 +74720,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T18:48:33.206270"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T18:53:33.255274"
       }
     ]
   },
@@ -74743,11 +74747,15 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區仁心路",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T18:51:33.120023"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T18:53:33.255274"
       }
     ]
   },
@@ -74762,6 +74770,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T18:52:33.257204"
+      }
+    ]
+  },
+  "1230cfb631b0be070e2777635cfeddcc": {
+    "time": "2026/09/21 18:52:35",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區河華路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T18:53:33.255274"
       }
     ]
   }
