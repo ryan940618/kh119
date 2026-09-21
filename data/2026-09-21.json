@@ -77109,7 +77109,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -77126,6 +77126,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T22:57:33.528557"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T23:11:33.700692"
       }
     ]
   },
@@ -77179,11 +77183,15 @@
     "sub_category": "其他",
     "location": "高雄市三民區九如一路",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T23:02:33.616162"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T23:11:33.700692"
       }
     ]
   },
@@ -77233,7 +77241,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -77242,6 +77250,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T23:07:33.656826"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T23:11:33.700692"
+      }
+    ]
+  },
+  "c2547450731111cf8588d0c175b58a80": {
+    "time": "2026/09/21 23:10:37",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗山區",
+    "units": "旗山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T23:11:33.700692"
       }
     ]
   }
