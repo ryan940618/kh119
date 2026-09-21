@@ -75517,7 +75517,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區左楠路",
     "units": "後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -75530,6 +75530,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T20:10:33.660502"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T20:22:33.628915"
       }
     ]
   },
@@ -75539,7 +75543,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -75556,6 +75560,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T20:10:33.660502"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T20:22:33.628915"
       }
     ]
   },
@@ -75565,7 +75573,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區瑞南街",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -75582,6 +75590,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T20:12:33.622595"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T20:22:33.628915"
       }
     ]
   },
@@ -75733,7 +75745,7 @@
     "sub_category": "車禍",
     "location": "高雄市新興區文橫一路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -75742,6 +75754,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T20:19:33.578680"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T20:22:33.628915"
       }
     ]
   },
@@ -75751,11 +75767,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T20:21:33.670349"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T20:22:33.628915"
+      }
+    ]
+  },
+  "f70f9dfd1c3509f1f12359e947a3ad58": {
+    "time": "2026/09/21 20:21:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T20:22:33.628915"
       }
     ]
   }
