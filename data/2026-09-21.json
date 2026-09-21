@@ -71079,7 +71079,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -71092,6 +71092,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T14:18:33.414781"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T14:23:33.434760"
       }
     ]
   },
@@ -71164,6 +71168,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T14:22:33.481554"
+      }
+    ]
+  },
+  "4277dd7868cfbfddadb00d076fe0c635": {
+    "time": "2026/09/21 14:22:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T14:23:33.434760"
       }
     ]
   }
