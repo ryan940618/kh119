@@ -67503,7 +67503,7 @@
     "sub_category": "創傷",
     "location": "高雄市梓官區梓官路",
     "units": "梓官分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -67520,6 +67520,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T08:59:33.590509"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T09:07:34.390674"
       }
     ]
   },
@@ -67565,7 +67569,7 @@
     "sub_category": "其他",
     "location": "高雄市岡山區",
     "units": "",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -67578,6 +67582,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T09:03:33.502384"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T09:07:34.390674"
       }
     ]
   },
@@ -67587,7 +67595,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -67596,6 +67604,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T09:00:33.580770"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T09:07:34.390674"
       }
     ]
   },
@@ -67663,11 +67675,29 @@
     "sub_category": "車禍",
     "location": "高雄市左營區民族一路",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T09:06:33.675938"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T09:07:34.390674"
+      }
+    ]
+  },
+  "a31e6b33a55da0db2c0b487215bc631d": {
+    "time": "2026/09/21 09:06:42",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-21T09:07:34.390674"
       }
     ]
   }
