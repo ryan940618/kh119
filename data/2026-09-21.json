@@ -74485,7 +74485,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區加昌路",
     "units": "後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -74502,6 +74502,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T18:36:33.026672"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T18:44:33.045304"
       }
     ]
   },
@@ -74639,11 +74643,29 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區華興街",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T18:42:33.245338"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T18:44:33.045304"
+      }
+    ]
+  },
+  "e9bdd2dcdb6eb93499fffba956fc906c": {
+    "time": "2026/09/21 18:43:06",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區朝新路",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T18:44:33.045304"
       }
     ]
   }
