@@ -76185,7 +76185,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區中林路",
     "units": "大林分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -76202,6 +76202,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T21:03:34.078395"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T21:09:34.068571"
       }
     ]
   },
@@ -76318,6 +76322,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T21:08:34.052936"
+      }
+    ]
+  },
+  "08976be51d342b32abf0722a1dbebab8": {
+    "time": "2026/09/21 21:08:39",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市湖內區",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T21:09:34.068571"
       }
     ]
   }
