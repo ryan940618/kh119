@@ -71005,7 +71005,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區博愛三路",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -71018,6 +71018,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T14:16:33.387109"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T14:19:33.459604"
       }
     ]
   },
@@ -71106,6 +71110,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T14:18:33.414781"
+      }
+    ]
+  },
+  "50c5646ae5527b5006e047f67ebe8b1c": {
+    "time": "2026/09/21 14:19:07",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T14:19:33.459604"
+      }
+    ]
+  },
+  "a3e1926050ebcc86823a4fe467a6fa5b": {
+    "time": "2026/09/21 14:18:03",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區青年一路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T14:19:33.459604"
       }
     ]
   }
