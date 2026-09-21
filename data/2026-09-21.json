@@ -69547,7 +69547,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區南京路",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -69556,6 +69556,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T12:00:33.511858"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T12:03:34.311528"
       }
     ]
   },
@@ -69593,11 +69597,43 @@
     "sub_category": "車禍",
     "location": "高雄市旗山區旗南三路",
     "units": "旗山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T12:02:33.819785"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T12:03:34.311528"
+      }
+    ]
+  },
+  "063f477d79821e13ee4723e66a8c677e": {
+    "time": "2026/09/21 12:02:37",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區昌裕街",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T12:03:34.311528"
+      }
+    ]
+  },
+  "d0723ae0a113037274db6bb15d9f1a90": {
+    "time": "2026/09/21 12:02:09",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區金府路",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T12:03:34.311528"
       }
     ]
   }
