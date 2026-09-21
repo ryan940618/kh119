@@ -80249,7 +80249,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區楠泰街",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -80258,6 +80258,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T07:54:33.126521"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T07:58:33.322913"
       }
     ]
   },
@@ -80267,11 +80271,15 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區成功一路",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T07:54:33.126521"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T07:58:33.322913"
       }
     ]
   },
@@ -80286,6 +80294,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T07:57:33.228677"
+      }
+    ]
+  },
+  "eb473a7386cd6084c23769e05fcb92ee": {
+    "time": "2026/09/22 07:57:23",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區德民路",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T07:58:33.322913"
       }
     ]
   }
