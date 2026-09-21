@@ -73597,7 +73597,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -73610,6 +73610,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T17:32:33.618001"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T17:42:34.260833"
       }
     ]
   },
@@ -73743,7 +73747,7 @@
     "sub_category": "車禍",
     "location": "高雄市彌陀區鹽埕大路",
     "units": "彌陀分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -73756,6 +73760,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T17:37:33.712878"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T17:42:34.260833"
       }
     ]
   },
@@ -73783,7 +73791,7 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區中山路一段和民族街",
     "units": "湖內分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -73792,6 +73800,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T17:36:33.728111"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T17:42:34.260833"
       }
     ]
   },
@@ -73846,6 +73858,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T17:41:33.898706"
+      }
+    ]
+  },
+  "1855710574c227f815da4a6558b0a7ad": {
+    "time": "2026/09/21 17:41:38",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區新庄仔路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T17:42:34.260833"
       }
     ]
   }
