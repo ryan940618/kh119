@@ -66841,7 +66841,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區北賢街",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -66858,6 +66858,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T08:26:33.317828"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T08:30:33.437854"
       }
     ]
   },
@@ -67106,6 +67110,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T08:29:33.623055"
+      }
+    ]
+  },
+  "efd81ffd20d54f25d3c62a27c8636310": {
+    "time": "2026/09/21 08:28:51",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市三民區建國三路",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T08:30:33.437854"
+      }
+    ]
+  },
+  "78320fefe3b2e8aa1130d28c4adfe16d": {
+    "time": "2026/09/21 08:30:01",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區銀杉街",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T08:30:33.437854"
       }
     ]
   }
