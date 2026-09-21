@@ -67203,7 +67203,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -67212,6 +67212,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T08:38:33.553233"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T08:44:33.462461"
       }
     ]
   },
@@ -67279,7 +67283,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區新東二街",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -67288,6 +67292,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T08:41:33.388175"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T08:44:33.462461"
+      }
+    ]
+  },
+  "71711ccff94cb51555188db600879e81": {
+    "time": "2026/09/21 08:43:16",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區中山東路",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T08:44:33.462461"
       }
     ]
   }
