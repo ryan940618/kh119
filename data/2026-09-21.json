@@ -70139,7 +70139,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -70152,6 +70152,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T12:47:33.905688"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T12:49:33.760281"
       }
     ]
   },
@@ -70161,7 +70165,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區三民路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -70170,6 +70174,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T12:44:33.704628"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T12:49:33.760281"
       }
     ]
   },
@@ -70233,11 +70241,29 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T12:48:33.837623"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T12:49:33.760281"
+      }
+    ]
+  },
+  "a081ae1e56a782b26a35b1525d75ea89": {
+    "time": "2026/09/21 12:49:02",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區鼓山二路",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T12:49:33.760281"
       }
     ]
   }
