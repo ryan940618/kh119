@@ -75815,7 +75815,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -75832,6 +75832,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T20:34:33.856872"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T20:42:33.831843"
       }
     ]
   },
@@ -75969,11 +75973,29 @@
     "sub_category": "其他",
     "location": "高雄市旗津區廟前路",
     "units": "旗津分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T20:33:33.809228"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T20:42:33.831843"
+      }
+    ]
+  },
+  "13451710442421f744adf9acadb1de83": {
+    "time": "2026/09/21 20:41:23",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市內門區南屏路",
+    "units": "內門分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T20:42:33.831843"
       }
     ]
   }
