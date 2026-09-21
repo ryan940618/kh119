@@ -73941,7 +73941,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -73954,6 +73954,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T17:53:33.801963"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T18:04:34.010697"
       }
     ]
   },
@@ -74059,7 +74063,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區博愛一路",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -74068,6 +74072,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T18:01:34.260075"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T18:04:34.010697"
       }
     ]
   },
@@ -74104,6 +74112,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T18:03:33.879989"
+      }
+    ]
+  },
+  "60811607779d9ae1b92049db6408f9fc": {
+    "time": "2026/09/21 18:03:19",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T18:04:34.010697"
       }
     ]
   }
