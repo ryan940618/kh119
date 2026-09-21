@@ -73727,7 +73727,7 @@
     "sub_category": "車禍",
     "location": "高雄市彌陀區鹽埕大路",
     "units": "彌陀分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -73736,6 +73736,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T17:34:33.758942"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T17:37:33.712878"
       }
     ]
   },
@@ -73777,11 +73781,29 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T17:36:33.728111"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T17:37:33.712878"
+      }
+    ]
+  },
+  "b5fd223cb917de00e49923f930356a3a": {
+    "time": "2026/09/21 17:36:02",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T17:37:33.712878"
       }
     ]
   }
