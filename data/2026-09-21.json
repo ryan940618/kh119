@@ -75065,7 +75065,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區和平一路",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -75082,6 +75082,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T19:29:33.285299"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T19:33:33.446980"
       }
     ]
   },
@@ -75190,6 +75194,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T19:32:33.280865"
+      }
+    ]
+  },
+  "8f06337aae625d50151e210267501b0c": {
+    "time": "2026/09/21 19:33:04",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區大德街",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T19:33:33.446980"
+      }
+    ]
+  },
+  "29d5ceaefd9e36a71dc84e6a562e9c37": {
+    "time": "2026/09/21 19:32:44",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市旗山區旗南三路",
+    "units": "旗山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T19:33:33.446980"
       }
     ]
   }
