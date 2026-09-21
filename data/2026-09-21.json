@@ -72083,7 +72083,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -72092,6 +72092,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T15:49:33.038455"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T15:52:33.156350"
       }
     ]
   },
@@ -72106,6 +72110,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T15:51:33.994137"
+      }
+    ]
+  },
+  "ed2326ece2f347c87c4787299e8a4c50": {
+    "time": "2026/09/21 15:51:21",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T15:52:33.156350"
       }
     ]
   }
