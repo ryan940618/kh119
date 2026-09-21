@@ -72327,7 +72327,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -72340,6 +72340,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T16:22:33.371458"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T16:27:33.277821"
       }
     ]
   },
@@ -72459,7 +72463,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區莊敬路",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -72468,6 +72472,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T16:23:33.182255"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T16:27:33.277821"
       }
     ]
   },
@@ -72482,6 +72490,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T16:23:33.182255"
+      }
+    ]
+  },
+  "eb58b39791b077bda33ea80c9cdd4924": {
+    "time": "2026/09/21 16:26:02",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市燕巢區",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T16:27:33.277821"
+      }
+    ]
+  },
+  "f86075af9b763a8d6dc35f170f8305c6": {
+    "time": "2026/09/21 16:25:56",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前金區中華三路",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T16:27:33.277821"
       }
     ]
   }
