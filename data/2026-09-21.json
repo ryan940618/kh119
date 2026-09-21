@@ -69337,7 +69337,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -69354,6 +69354,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T12:02:33.819785"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T12:52:34.015420"
       }
     ]
   },
@@ -70051,7 +70055,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區中崙路",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -70064,6 +70068,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T12:41:33.818069"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T12:52:34.015420"
       }
     ]
   },
@@ -70117,7 +70125,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區復興三路",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -70134,6 +70142,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T12:48:33.837623"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T12:52:34.015420"
       }
     ]
   },
@@ -70169,7 +70181,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區三民路",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -70182,6 +70194,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T12:49:33.760281"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T12:52:34.015420"
       }
     ]
   },
@@ -70213,7 +70229,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區三商街",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -70222,6 +70238,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T12:47:33.905688"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T12:52:34.015420"
       }
     ]
   },
@@ -70263,11 +70283,15 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區鼓山二路",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T12:49:33.760281"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T12:52:34.015420"
       }
     ]
   },
