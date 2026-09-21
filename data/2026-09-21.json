@@ -75319,7 +75319,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -75336,6 +75336,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T19:52:33.474673"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T20:10:33.660502"
       }
     ]
   },
@@ -75505,7 +75509,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區左楠路",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -75514,6 +75518,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T20:01:33.665895"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T20:10:33.660502"
       }
     ]
   },
@@ -75523,7 +75531,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -75536,6 +75544,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T20:04:33.558571"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T20:10:33.660502"
       }
     ]
   },
@@ -75585,11 +75597,15 @@
     "sub_category": "路倒",
     "location": "高雄市苓雅區昇平街",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T20:06:33.540925"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T20:10:33.660502"
       }
     ]
   },
@@ -75608,6 +75624,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T20:07:33.481805"
+      }
+    ]
+  },
+  "f96b624e6a54bf06f079f4c465a344c3": {
+    "time": "2026/09/21 20:10:01",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T20:10:33.660502"
+      }
+    ]
+  },
+  "1065894acf41793253139bd30efbcac7": {
+    "time": "2026/09/21 20:09:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鹽埕區七賢三路",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T20:10:33.660502"
       }
     ]
   }
