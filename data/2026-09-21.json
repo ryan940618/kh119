@@ -70823,7 +70823,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區大順一路",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -70840,6 +70840,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T13:51:33.284832"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T13:58:33.288170"
       }
     ]
   },
@@ -70849,7 +70853,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -70862,6 +70866,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T13:51:33.284832"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T13:58:33.288170"
       }
     ]
   },
@@ -70898,6 +70906,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T13:54:33.343685"
+      }
+    ]
+  },
+  "4278a5c6dca2a7776d5862a1c38a02b2": {
+    "time": "2026/09/21 13:57:20",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市梓官區",
+    "units": "梓官分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T13:58:33.288170"
       }
     ]
   }
