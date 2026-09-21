@@ -73009,7 +73009,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區孔鳳路",
     "units": "高桂分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -73026,6 +73026,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T17:05:33.530755"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T17:16:33.771829"
       }
     ]
   },
@@ -73083,7 +73087,7 @@
     "sub_category": "創傷",
     "location": "高雄市大社區保舍甲路",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -73100,6 +73104,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T17:09:33.618230"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T17:16:33.771829"
       }
     ]
   },
@@ -73191,7 +73199,7 @@
     "sub_category": "車禍",
     "location": "高雄市彌陀區過港路",
     "units": "彌陀分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -73208,6 +73216,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T17:05:33.530755"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T17:16:33.771829"
       }
     ]
   },
@@ -73377,11 +73389,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "左營分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T17:13:33.561086"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T17:16:33.771829"
       }
     ]
   },
@@ -73400,6 +73416,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T17:15:33.671765"
+      }
+    ]
+  },
+  "4e9e36d164b775b95e65c24021660f18": {
+    "time": "2026/09/21 17:15:44",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鳳山區南福街",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T17:16:33.771829"
+      }
+    ]
+  },
+  "90e6a0cb2994afdea7dbc3e5bbcc3d10": {
+    "time": "2026/09/21 17:15:26",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市梓官區",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T17:16:33.771829"
       }
     ]
   }
