@@ -75191,7 +75191,7 @@
     "sub_category": "創傷",
     "location": "高雄市湖內區湖中路",
     "units": "湖內分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -75204,6 +75204,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T19:36:33.330890"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T19:50:34.432276"
       }
     ]
   },
@@ -75382,6 +75386,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T19:48:33.516938"
+      }
+    ]
+  },
+  "d9f9ccd82ddeee6263c07f2fe95df030": {
+    "time": "2026/09/21 19:49:30",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區正興路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T19:50:34.432276"
       }
     ]
   }
