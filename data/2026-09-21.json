@@ -73423,7 +73423,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -73436,6 +73436,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T17:25:33.734391"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T17:36:33.728111"
       }
     ]
   },
@@ -73755,11 +73759,29 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區中山路一段和民族街",
     "units": "湖內分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T17:35:33.975201"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T17:36:33.728111"
+      }
+    ]
+  },
+  "f00b7ceaa113b433c3cf6fd3efca1507": {
+    "time": "2026/09/21 17:34:47",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市美濃區",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T17:36:33.728111"
       }
     ]
   }
