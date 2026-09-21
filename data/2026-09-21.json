@@ -69529,7 +69529,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區潭底路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -69538,6 +69538,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T11:57:33.659911"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T12:04:34.429886"
       }
     ]
   },
@@ -69615,11 +69619,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區昌裕街",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T12:03:34.311528"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T12:04:34.429886"
       }
     ]
   },
@@ -69634,6 +69642,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T12:03:34.311528"
+      }
+    ]
+  },
+  "089353330c3dfc1305ef5adc47fbc080": {
+    "time": "2026/09/21 12:03:51",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T12:04:34.429886"
       }
     ]
   }
