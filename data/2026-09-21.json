@@ -70327,7 +70327,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區鼓山二路",
     "units": "鼓山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -70344,6 +70344,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T13:00:33.861421"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T13:07:34.081518"
       }
     ]
   },
@@ -70353,7 +70357,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區一心一路",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -70366,6 +70370,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T12:58:33.901808"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T13:07:34.081518"
       }
     ]
   },
@@ -70442,6 +70450,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T13:06:34.090330"
+      }
+    ]
+  },
+  "0bf0b6431747ca6d86868a7e43a52046": {
+    "time": "2026/09/21 13:06:40",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區博愛一路",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T13:07:34.081518"
       }
     ]
   }
