@@ -76079,7 +76079,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -76088,6 +76088,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T20:51:34.027966"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T20:52:33.950947"
       }
     ]
   },
@@ -76169,11 +76173,15 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T20:51:34.027966"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T20:52:33.950947"
       }
     ]
   }
