@@ -76177,7 +76177,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區中林路",
     "units": "大林分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -76186,6 +76186,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T20:50:33.796029"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T20:58:33.944339"
       }
     ]
   },
@@ -76209,7 +76213,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -76222,6 +76226,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T20:55:33.937236"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T20:58:33.944339"
       }
     ]
   },
@@ -76254,6 +76262,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T20:54:33.899566"
+      }
+    ]
+  },
+  "9beab0fa9b94413d0532f9cfde4bd771": {
+    "time": "2026/09/21 20:56:58",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鼓山區美術東七街",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T20:58:33.944339"
       }
     ]
   }
