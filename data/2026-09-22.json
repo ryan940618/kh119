@@ -79481,7 +79481,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區和成路",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -79494,6 +79494,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T07:24:33.750722"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T07:28:33.749279"
       }
     ]
   },
@@ -79503,7 +79507,7 @@
     "sub_category": "其他",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -79512,6 +79516,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T07:24:33.750722"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T07:28:33.749279"
       }
     ]
   },
@@ -79571,11 +79579,29 @@
     "sub_category": "創傷",
     "location": "高雄市旗津區旗津二路",
     "units": "旗津分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T07:26:33.801609"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T07:28:33.749279"
+      }
+    ]
+  },
+  "8257e68bac0839d120a4f66c85d08e0a": {
+    "time": "2026/09/22 07:28:09",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區山明路",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T07:28:33.749279"
       }
     ]
   }
