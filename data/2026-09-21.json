@@ -72089,7 +72089,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -72102,6 +72102,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T15:56:33.136690"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T16:19:33.263549"
       }
     ]
   },
@@ -72271,7 +72275,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區國富路",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -72284,6 +72288,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T16:11:33.257354"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T16:19:33.263549"
       }
     ]
   },
@@ -72379,11 +72387,15 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區",
     "units": "燕巢分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T16:18:33.302469"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T16:19:33.263549"
       }
     ]
   }
