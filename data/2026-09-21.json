@@ -66937,7 +66937,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -66946,6 +66946,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T08:19:33.447470"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T08:29:33.623055"
       }
     ]
   },
@@ -67053,7 +67057,7 @@
     "sub_category": "其他",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -67062,6 +67066,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T08:25:33.291308"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T08:29:33.623055"
       }
     ]
   },
@@ -67089,11 +67097,15 @@
     "sub_category": "車禍",
     "location": "高雄市左營區左營大路",
     "units": "左營小隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T08:27:33.310099"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T08:29:33.623055"
       }
     ]
   }
