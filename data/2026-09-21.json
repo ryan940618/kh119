@@ -73139,7 +73139,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -73152,6 +73152,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T17:10:33.640309"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T17:13:33.561086"
       }
     ]
   },
@@ -73311,11 +73315,15 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區中華一路",
     "units": "左營小隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T17:12:33.642867"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T17:13:33.561086"
       }
     ]
   },
@@ -73330,6 +73338,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T17:12:33.642867"
+      }
+    ]
+  },
+  "20a259867a436423cf46aab09c1f975a": {
+    "time": "2026/09/21 17:12:15",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T17:13:33.561086"
+      }
+    ]
+  },
+  "2dafbfc5481d0ccc3a7d40a3f74d81f3": {
+    "time": "2026/09/21 17:11:35",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "左營分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T17:13:33.561086"
       }
     ]
   }
