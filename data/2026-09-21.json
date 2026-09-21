@@ -69135,7 +69135,7 @@
     "sub_category": "其他",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -69148,6 +69148,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T11:28:33.229237"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T11:43:33.351683"
       }
     ]
   },
@@ -69227,7 +69231,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -69240,6 +69244,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T11:38:33.376700"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T11:43:33.351683"
       }
     ]
   },
@@ -69258,6 +69266,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T11:40:33.403297"
+      }
+    ]
+  },
+  "fc447e8f92e4058633531aa6cdb6a48d": {
+    "time": "2026/09/21 11:42:23",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區青年路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T11:43:33.351683"
+      }
+    ]
+  },
+  "86ead4c62fc43212340b33c7bfebd5d5": {
+    "time": "2026/09/21 11:41:03",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗山區",
+    "units": "旗山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T11:43:33.351683"
       }
     ]
   }
