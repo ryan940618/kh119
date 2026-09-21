@@ -71605,11 +71605,15 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "大樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T15:01:33.702676"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T15:12:33.659749"
       }
     ]
   },
@@ -71673,11 +71677,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T15:11:33.722888"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T15:12:33.659749"
+      }
+    ]
+  },
+  "c7752f1bcb0977131c64addfe17ce1c6": {
+    "time": "2026/09/21 15:10:21",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T15:12:33.659749"
       }
     ]
   }
