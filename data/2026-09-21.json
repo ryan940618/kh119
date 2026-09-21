@@ -66923,7 +66923,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "小港分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -66932,6 +66932,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T08:15:33.407496"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T08:21:33.390749"
       }
     ]
   },
@@ -66964,6 +66968,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T08:19:33.447470"
+      }
+    ]
+  },
+  "3abbfe5728a1ca895de677db3d38ba46": {
+    "time": "2026/09/21 08:20:30",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市路竹區東安路",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T08:21:33.390749"
+      }
+    ]
+  },
+  "18ae6cb861c1ae80cbb6caf679a5d12a": {
+    "time": "2026/09/21 08:20:25",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T08:21:33.390749"
       }
     ]
   }
