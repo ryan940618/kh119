@@ -74731,7 +74731,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -74748,6 +74748,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T19:02:33.305971"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T19:08:33.444297"
       }
     ]
   },
@@ -74757,7 +74761,7 @@
     "sub_category": "車禍",
     "location": "高雄市大社區旗楠路",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -74770,6 +74774,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T18:59:33.213505"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T19:08:33.444297"
       }
     ]
   },
@@ -74877,7 +74885,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區鎮南街",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -74886,6 +74894,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T19:05:33.386737"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T19:08:33.444297"
       }
     ]
   },
@@ -74909,11 +74921,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區德民路",
     "units": "右昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T19:07:33.478757"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T19:08:33.444297"
       }
     ]
   }
