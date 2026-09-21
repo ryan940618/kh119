@@ -79285,7 +79285,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -79298,6 +79298,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T07:02:33.516064"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T07:15:33.752978"
       }
     ]
   },
@@ -79347,7 +79351,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區中華路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -79356,6 +79360,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T07:12:33.726151"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T07:15:33.752978"
       }
     ]
   },
@@ -79416,6 +79424,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T07:12:33.726151"
+      }
+    ]
+  },
+  "f9dbf78494686f34b78498088976f3ac": {
+    "time": "2026/09/22 07:13:58",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區和成路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T07:15:33.752978"
       }
     ]
   }
