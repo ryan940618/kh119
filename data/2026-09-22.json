@@ -79743,7 +79743,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -79752,6 +79752,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T07:33:33.781241"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T07:38:33.903747"
       }
     ]
   },
@@ -79779,7 +79783,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區一心一路",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -79788,6 +79792,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T07:34:33.899263"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T07:38:33.903747"
       }
     ]
   },
@@ -79797,7 +79805,7 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區新衙路",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -79806,6 +79814,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T07:36:34.216746"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T07:38:33.903747"
       }
     ]
   },
@@ -79865,11 +79877,43 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T07:37:33.925154"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T07:38:33.903747"
+      }
+    ]
+  },
+  "5cce0b617a5659b01d827ead38ab8ea1": {
+    "time": "2026/09/22 07:37:57",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市橋頭區社邊路",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T07:38:33.903747"
+      }
+    ]
+  },
+  "5de69be52cd1500a188479e40e031ad4": {
+    "time": "2026/09/22 07:37:17",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區民族一路",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T07:38:33.903747"
       }
     ]
   }
