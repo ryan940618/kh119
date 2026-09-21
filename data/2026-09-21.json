@@ -69699,7 +69699,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -69708,6 +69708,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T12:13:33.576896"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T12:15:33.718421"
       }
     ]
   },
@@ -69749,11 +69753,43 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T12:13:33.576896"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T12:15:33.718421"
+      }
+    ]
+  },
+  "e3beb92f4bd953f16b79e588844e8aec": {
+    "time": "2026/09/21 12:15:11",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區裕誠路",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T12:15:33.718421"
+      }
+    ]
+  },
+  "167684a66a75c18802a471367b3f1c9d": {
+    "time": "2026/09/21 12:14:26",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗山區",
+    "units": "內門分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T12:15:33.718421"
       }
     ]
   }
