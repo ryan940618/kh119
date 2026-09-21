@@ -70457,7 +70457,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區立中路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -70466,6 +70466,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T13:06:34.090330"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T13:13:34.012040"
       }
     ]
   },
@@ -70475,7 +70479,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區博愛一路",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -70484,6 +70488,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T13:08:34.047149"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T13:13:34.012040"
       }
     ]
   },
@@ -70516,6 +70524,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T13:12:34.014053"
+      }
+    ]
+  },
+  "b2bba437ac07f6c05fd63180a6c683cf": {
+    "time": "2026/09/21 13:12:57",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T13:13:34.012040"
+      }
+    ]
+  },
+  "904654985c557bee16ad4ca6bceaedcb": {
+    "time": "2026/09/21 13:12:14",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市鳳山區",
+    "units": "",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T13:13:34.012040"
       }
     ]
   }
