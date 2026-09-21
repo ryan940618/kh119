@@ -75845,7 +75845,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -75862,6 +75862,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T20:36:33.751763"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T20:49:33.903125"
       }
     ]
   },
@@ -76090,6 +76094,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T20:48:33.887445"
+      }
+    ]
+  },
+  "057042e0c16f142bf47c3b0a45161a21": {
+    "time": "2026/09/21 20:49:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市阿蓮區",
+    "units": "阿蓮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T20:49:33.903125"
+      }
+    ]
+  },
+  "f81cf39212d4effab24bc8dcfff84d92": {
+    "time": "2026/09/21 20:48:33",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區中林路",
+    "units": "大林分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T20:49:33.903125"
       }
     ]
   }
