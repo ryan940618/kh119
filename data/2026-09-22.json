@@ -79489,7 +79489,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區和成路",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -79506,6 +79506,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T07:28:33.749279"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T07:33:33.781241"
       }
     ]
   },
@@ -79645,11 +79649,15 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區溪寮路",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T07:30:33.928911"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T07:33:33.781241"
       }
     ]
   },
@@ -79691,11 +79699,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T07:32:33.776810"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T07:33:33.781241"
       }
     ]
   },
@@ -79710,6 +79722,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T07:32:33.776810"
+      }
+    ]
+  },
+  "a48e69ac2512c439a2ff459c7977fbec": {
+    "time": "2026/09/22 07:32:26",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市前鎮區一心一路",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T07:33:33.781241"
       }
     ]
   }
