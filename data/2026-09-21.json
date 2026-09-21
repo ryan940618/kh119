@@ -67575,7 +67575,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區鳳林二路",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -67592,6 +67592,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T09:09:34.213157"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T09:19:33.832375"
       }
     ]
   },
@@ -67835,11 +67839,15 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "阿蓮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T09:18:33.636371"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T09:19:33.832375"
       }
     ]
   }
