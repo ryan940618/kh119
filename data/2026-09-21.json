@@ -71001,7 +71001,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區博愛三路",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -71010,6 +71010,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T14:07:33.461435"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T14:16:33.387109"
       }
     ]
   },
@@ -71081,11 +71085,15 @@
     "sub_category": "急病",
     "location": "高雄市彌陀區",
     "units": "彌陀分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T14:15:33.430696"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T14:16:33.387109"
       }
     ]
   }
