@@ -67775,7 +67775,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -67788,6 +67788,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T09:22:33.611693"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T09:28:33.764816"
       }
     ]
   },
@@ -67867,7 +67871,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "阿蓮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -67876,6 +67880,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T09:19:33.832375"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T09:28:33.764816"
       }
     ]
   },
@@ -67926,6 +67934,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T09:27:33.624177"
+      }
+    ]
+  },
+  "061c815856219192bb1a73e613d442b6": {
+    "time": "2026/09/21 09:25:57",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區曹公路",
+    "units": "鳥松分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T09:28:33.764816"
       }
     ]
   }
