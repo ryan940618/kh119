@@ -76159,7 +76159,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -76176,6 +76176,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T20:54:33.899566"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T21:10:34.320455"
       }
     ]
   },
@@ -76331,11 +76335,29 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T21:09:34.068571"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T21:10:34.320455"
+      }
+    ]
+  },
+  "42d4dd068d031f02655a2ec6b248a19d": {
+    "time": "2026/09/21 21:09:02",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T21:10:34.320455"
       }
     ]
   }
