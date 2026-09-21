@@ -72063,7 +72063,7 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區鳳林一路",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -72076,6 +72076,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T15:55:34.437001"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T16:06:33.261109"
       }
     ]
   },
@@ -72252,6 +72256,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T16:04:33.187263"
+      }
+    ]
+  },
+  "1e7d67e8e6a65320d7b74d830818a68d": {
+    "time": "2026/09/21 16:05:29",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "前金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T16:06:33.261109"
       }
     ]
   }
