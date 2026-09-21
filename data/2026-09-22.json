@@ -79649,7 +79649,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區山明路",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -79662,6 +79662,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T07:35:33.918188"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T07:45:34.143862"
       }
     ]
   },
@@ -79759,7 +79763,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -79772,6 +79776,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T07:38:33.903747"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T07:45:34.143862"
       }
     ]
   },
@@ -79905,7 +79913,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -79914,6 +79922,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T07:38:33.903747"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T07:45:34.143862"
       }
     ]
   },
@@ -79923,7 +79935,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區社邊路",
     "units": "橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -79932,6 +79944,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T07:42:34.323621"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T07:45:34.143862"
       }
     ]
   },
@@ -79994,6 +80010,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T07:42:34.323621"
+      }
+    ]
+  },
+  "1cc54d711c3d1f0f60b2d3d4df4cb75e": {
+    "time": "2026/09/22 07:44:32",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區民族一路",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T07:45:34.143862"
+      }
+    ]
+  },
+  "9e4f308650dc0cb97cf554c4bc1e4b77": {
+    "time": "2026/09/22 07:44:06",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區中正路",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T07:45:34.143862"
       }
     ]
   }
