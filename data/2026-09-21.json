@@ -76129,7 +76129,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -76146,6 +76146,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T20:59:33.932228"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T21:05:33.911229"
       }
     ]
   },
@@ -76283,7 +76287,7 @@
     "sub_category": "創傷",
     "location": "高雄市鼓山區美術東七街",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -76292,6 +76296,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T21:00:33.970597"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T21:05:33.911229"
+      }
+    ]
+  },
+  "d73039531993e0e5a0a69d42868b3beb": {
+    "time": "2026/09/21 21:05:12",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區美山路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T21:05:33.911229"
       }
     ]
   }
