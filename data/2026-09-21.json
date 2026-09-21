@@ -71859,11 +71859,15 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區建軍路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T15:25:33.866869"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T15:38:34.037166"
       }
     ]
   },
@@ -71891,7 +71895,7 @@
     "sub_category": "其他",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -71900,6 +71904,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T15:36:33.948035"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T15:38:34.037166"
       }
     ]
   },
@@ -71946,6 +71954,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T15:37:33.881001"
+      }
+    ]
+  },
+  "8f79729518ae7d5b8c8317dc17f731e8": {
+    "time": "2026/09/21 15:37:35",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前金區七賢二路",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T15:38:34.037166"
+      }
+    ]
+  },
+  "77479afc4272b7ddadbd10fd71c8702c": {
+    "time": "2026/09/21 15:37:00",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市前金區大同二路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T15:38:34.037166"
       }
     ]
   }
