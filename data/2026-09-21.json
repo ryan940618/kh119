@@ -66387,7 +66387,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區友情路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -66404,6 +66404,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T08:03:33.166310"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T08:10:33.358904"
       }
     ]
   },
@@ -66413,7 +66417,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -66430,6 +66434,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T08:06:33.311995"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T08:10:33.358904"
       }
     ]
   },
@@ -66823,11 +66831,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T08:09:33.546834"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T08:10:33.358904"
+      }
+    ]
+  },
+  "65a8d88c68a856a614da0bcd3455cc06": {
+    "time": "2026/09/21 08:09:35",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T08:10:33.358904"
       }
     ]
   }
