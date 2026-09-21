@@ -76565,7 +76565,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區福安二街",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -76578,6 +76578,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T21:31:32.973960"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T21:33:33.185173"
       }
     ]
   },
@@ -76587,7 +76591,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -76596,6 +76600,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T21:30:33.261952"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T21:33:33.185173"
+      }
+    ]
+  },
+  "eb9b6edfdeb7550fe17a39595aece015": {
+    "time": "2026/09/21 21:32:39",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區遼寧二街",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T21:33:33.185173"
       }
     ]
   }
