@@ -69907,7 +69907,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區深興路",
     "units": "燕巢分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -69924,6 +69924,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T12:42:33.779819"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T12:55:33.923739"
       }
     ]
   },
@@ -70103,7 +70107,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區過昌街",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -70116,6 +70120,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T12:44:33.704628"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T12:55:33.923739"
       }
     ]
   },
@@ -70185,7 +70193,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區三民路",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -70202,6 +70210,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T12:52:34.015420"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T12:55:33.923739"
       }
     ]
   },
@@ -70255,11 +70267,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區高楠公路",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T12:46:33.845648"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T12:55:33.923739"
       }
     ]
   },
@@ -70269,7 +70285,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -70278,6 +70294,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T12:49:33.760281"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T12:55:33.923739"
       }
     ]
   },
@@ -70332,6 +70352,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T12:54:33.810708"
+      }
+    ]
+  },
+  "62cf2d4e90b51b34fd8b484f589451a3": {
+    "time": "2026/09/21 12:54:48",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區漢民路",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T12:55:33.923739"
+      }
+    ]
+  },
+  "12145f131f87409c46534fec6bc9a83e": {
+    "time": "2026/09/21 12:54:32",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T12:55:33.923739"
       }
     ]
   }
