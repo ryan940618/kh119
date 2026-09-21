@@ -75621,7 +75621,7 @@
     "sub_category": "路倒",
     "location": "高雄市苓雅區昇平街",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -75638,6 +75638,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T20:21:33.670349"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T20:24:33.747202"
       }
     ]
   },
@@ -75789,11 +75793,15 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T20:22:33.628915"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T20:24:33.747202"
       }
     ]
   },
@@ -75808,6 +75816,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T20:23:33.670674"
+      }
+    ]
+  },
+  "146195f5e3b85b319bcf371206b8a6a4": {
+    "time": "2026/09/21 20:21:19",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區廈莊一街",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T20:24:33.747202"
       }
     ]
   }
