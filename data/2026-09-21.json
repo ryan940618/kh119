@@ -74671,7 +74671,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區華興街",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -74684,6 +74684,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T18:48:33.206270"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T19:00:33.314621"
       }
     ]
   },
@@ -74820,6 +74824,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T18:57:33.252338"
+      }
+    ]
+  },
+  "c21445de2ac1fad6750c5f4b482a4026": {
+    "time": "2026/09/21 18:58:55",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T19:00:33.314621"
       }
     ]
   }
