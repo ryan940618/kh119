@@ -78625,7 +78625,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -78642,6 +78642,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T04:55:33.892094"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T04:58:33.859889"
       }
     ]
   },
@@ -78651,11 +78655,29 @@
     "sub_category": "急病",
     "location": "高雄市內門區",
     "units": "內門分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-22T04:50:33.821071"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T04:58:33.859889"
+      }
+    ]
+  },
+  "2614b3c86859597eedbcfab9a548f682": {
+    "time": "2026/09/22 04:56:47",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T04:58:33.859889"
       }
     ]
   }
