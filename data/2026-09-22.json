@@ -79713,7 +79713,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區溪寮路",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -79730,6 +79730,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T07:49:32.978528"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T07:57:33.228677"
       }
     ]
   },
@@ -79821,7 +79825,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區復興路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -79838,6 +79842,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T07:51:33.067645"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T07:57:33.228677"
       }
     ]
   },
@@ -80264,6 +80272,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T07:54:33.126521"
+      }
+    ]
+  },
+  "37a416ef7d1b211a57c8cf2eb5c9bf8a": {
+    "time": "2026/09/22 07:57:05",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區南京路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T07:57:33.228677"
       }
     ]
   }
