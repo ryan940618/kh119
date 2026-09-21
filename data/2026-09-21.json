@@ -72799,7 +72799,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -72812,6 +72812,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T16:51:33.579284"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T16:54:33.687477"
       }
     ]
   },
@@ -72963,7 +72967,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區大公路",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -72972,6 +72976,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T16:48:33.512941"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T16:54:33.687477"
       }
     ]
   },
@@ -73008,6 +73016,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T16:53:33.577464"
+      }
+    ]
+  },
+  "4c3d6781fe259bda96fcb7c8134aa907": {
+    "time": "2026/09/21 16:53:38",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T16:54:33.687477"
+      }
+    ]
+  },
+  "4debdbc20f8a0d4ac878dd19ea63276a": {
+    "time": "2026/09/21 16:53:15",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "後勁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T16:54:33.687477"
       }
     ]
   }
