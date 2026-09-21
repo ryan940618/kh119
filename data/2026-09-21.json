@@ -74217,7 +74217,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -74226,6 +74226,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T18:13:33.871181"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T18:26:33.908884"
       }
     ]
   },
@@ -74377,11 +74381,15 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區中山南路",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T18:24:34.107439"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T18:26:33.908884"
       }
     ]
   },
@@ -74418,6 +74426,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T18:25:33.978895"
+      }
+    ]
+  },
+  "9330bb8c99881a4ad8348a9e3b4070f5": {
+    "time": "2026/09/21 18:26:21",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區正言路",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T18:26:33.908884"
+      }
+    ]
+  },
+  "72b8050221224d3ee852a26cd7a727c4": {
+    "time": "2026/09/21 18:26:08",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T18:26:33.908884"
+      }
+    ]
+  },
+  "2bc7f29834c7b62bd09260b628f23fa5": {
+    "time": "2026/09/21 18:24:46",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市岡山區鵬程東路",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T18:26:33.908884"
       }
     ]
   }
