@@ -69295,7 +69295,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區青年路",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -69308,6 +69308,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T11:49:33.478333"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T11:57:33.659911"
       }
     ]
   },
@@ -69339,7 +69343,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -69352,6 +69356,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T11:52:33.414339"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T11:57:33.659911"
       }
     ]
   },
@@ -69485,11 +69493,15 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區潭底路",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T11:55:33.386214"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T11:57:33.659911"
       }
     ]
   }
