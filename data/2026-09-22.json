@@ -79445,7 +79445,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -79454,6 +79454,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T07:19:33.720215"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T07:29:33.845859"
       }
     ]
   },
@@ -79597,11 +79601,29 @@
     "sub_category": "車禍",
     "location": "高雄市小港區山明路",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T07:28:33.749279"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T07:29:33.845859"
+      }
+    ]
+  },
+  "7787a1a2b4dfe2fdd55e6c2a13f1bb4e": {
+    "time": "2026/09/22 07:28:56",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市茄萣區",
+    "units": "茄萣分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T07:29:33.845859"
       }
     ]
   }
