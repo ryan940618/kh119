@@ -66215,7 +66215,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區楠梓加工區中央路和楠梓加工區中二街",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -66232,6 +66232,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T07:58:33.239144"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T08:05:33.232591"
       }
     ]
   },
@@ -66549,7 +66553,7 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區仁勇路",
     "units": "和發分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -66558,6 +66562,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T07:58:33.239144"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T08:05:33.232591"
       }
     ]
   },
@@ -66643,11 +66651,15 @@
     "sub_category": "創傷",
     "location": "高雄市仁武區鳳仁路",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T08:00:33.378241"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T08:05:33.232591"
       }
     ]
   },
@@ -66725,11 +66737,15 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區北賢街",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T08:04:33.167729"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T08:05:33.232591"
       }
     ]
   },
@@ -66739,11 +66755,29 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區過埤路",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T08:04:33.167729"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T08:05:33.232591"
+      }
+    ]
+  },
+  "f76f420a53962b965081b01b4d9e3c63": {
+    "time": "2026/09/21 08:04:42",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T08:05:33.232591"
       }
     ]
   }
