@@ -72543,7 +72543,7 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -72552,6 +72552,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T16:30:33.492519"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T16:39:33.491939"
       }
     ]
   },
@@ -72663,7 +72667,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區桂仁街",
     "units": "鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -72672,6 +72676,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T16:35:33.419729"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T16:39:33.491939"
       }
     ]
   },
@@ -72726,6 +72734,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T16:38:33.640898"
+      }
+    ]
+  },
+  "e311bd2dc3d2f1ff1d260351b6e3bd36": {
+    "time": "2026/09/21 16:38:36",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T16:39:33.491939"
+      }
+    ]
+  },
+  "da20fa5c9015af712868c27c4899c298": {
+    "time": "2026/09/21 16:35:55",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區陽明路和澄明街",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T16:39:33.491939"
       }
     ]
   }
