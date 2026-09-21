@@ -71793,7 +71793,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -71810,6 +71810,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T15:35:33.915949"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T15:37:33.881001"
       }
     ]
   },
@@ -71928,6 +71932,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T15:36:33.948035"
+      }
+    ]
+  },
+  "735cd6bc372be2057ce1ec68175b26f5": {
+    "time": "2026/09/21 15:37:00",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前金區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T15:37:33.881001"
       }
     ]
   }
