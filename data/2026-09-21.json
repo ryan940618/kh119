@@ -68185,7 +68185,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -68198,6 +68198,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T10:02:33.788277"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T10:13:33.906436"
       }
     ]
   },
@@ -68506,6 +68510,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T10:12:33.939926"
+      }
+    ]
+  },
+  "b27b8cbe980e655aa6356002ae294341": {
+    "time": "2026/09/21 10:12:41",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市左營區大中二路",
+    "units": "新莊分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T10:13:33.906436"
       }
     ]
   }
