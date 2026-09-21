@@ -76351,7 +76351,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -76364,6 +76364,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T21:14:33.994173"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T21:17:33.995038"
       }
     ]
   },
@@ -76409,7 +76413,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營小隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -76418,6 +76422,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T21:14:33.994173"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T21:17:33.995038"
+      }
+    ]
+  },
+  "e9273a67ed5af21bcc0695fba6c2ef78": {
+    "time": "2026/09/21 21:16:54",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市三民區",
+    "units": "",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T21:17:33.995038"
       }
     ]
   }
