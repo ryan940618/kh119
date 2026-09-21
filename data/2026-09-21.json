@@ -67739,11 +67739,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T09:11:33.780889"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T09:13:33.643598"
       }
     ]
   },
@@ -67753,11 +67757,43 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區三多一路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T09:12:33.672226"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T09:13:33.643598"
+      }
+    ]
+  },
+  "2e808cf61fbfc8ffdf474e9659c63a8b": {
+    "time": "2026/09/21 09:13:05",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T09:13:33.643598"
+      }
+    ]
+  },
+  "e8014514f2175f78ea07b114cba78119": {
+    "time": "2026/09/21 09:13:04",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區國軒路",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T09:13:33.643598"
       }
     ]
   }
