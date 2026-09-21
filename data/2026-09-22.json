@@ -79003,7 +79003,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區鳳松路",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -79016,6 +79016,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T06:29:33.371615"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T06:43:33.436953"
       }
     ]
   },
@@ -79113,7 +79117,7 @@
     "sub_category": "車禍",
     "location": "高雄市梓官區信義路",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -79122,6 +79126,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T06:38:33.423973"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T06:43:33.436953"
       }
     ]
   },
@@ -79172,6 +79180,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T06:40:33.499911"
+      }
+    ]
+  },
+  "1ebfbb3f495f1f5d161ecdf74940ca1e": {
+    "time": "2026/09/22 06:41:51",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區明誠一路和鼎山街",
+    "units": "鼎金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T06:43:33.436953"
       }
     ]
   }
