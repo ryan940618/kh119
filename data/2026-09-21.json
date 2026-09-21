@@ -67305,7 +67305,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區新厝路",
     "units": "和發分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -67322,6 +67322,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T08:52:33.571346"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T09:04:33.527571"
       }
     ]
   },
@@ -67435,7 +67439,7 @@
     "sub_category": "急病",
     "location": "高雄市橋頭區",
     "units": "橋頭分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -67448,6 +67452,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T08:55:33.563211"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T09:04:33.527571"
       }
     ]
   },
@@ -67457,7 +67465,7 @@
     "sub_category": "其他",
     "location": "高雄市橋頭區里林西路",
     "units": "橋頭分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -67478,6 +67486,10 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T09:03:33.502384"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T09:04:33.527571"
       }
     ]
   },
@@ -67616,6 +67628,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T09:02:33.544225"
+      }
+    ]
+  },
+  "8cb070e6debf1e2fe61ab22ff88312d9": {
+    "time": "2026/09/21 09:03:04",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T09:04:33.527571"
       }
     ]
   }
