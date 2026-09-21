@@ -72611,7 +72611,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -72628,6 +72628,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T16:49:33.459034"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T16:59:33.526550"
       }
     ]
   },
@@ -73067,11 +73071,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T16:54:33.687477"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T16:59:33.526550"
       }
     ]
   },
@@ -73139,11 +73147,15 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區中山路",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T16:58:33.598382"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T16:59:33.526550"
       }
     ]
   }
