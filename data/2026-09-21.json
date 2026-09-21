@@ -69979,7 +69979,7 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區林泉街",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -69988,6 +69988,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T12:28:33.729533"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T12:40:33.810062"
       }
     ]
   },
@@ -70082,6 +70086,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T12:37:33.687244"
+      }
+    ]
+  },
+  "5e045b35d963056d1db95b3c9ffd2436": {
+    "time": "2026/09/21 12:39:54",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T12:40:33.810062"
       }
     ]
   }
