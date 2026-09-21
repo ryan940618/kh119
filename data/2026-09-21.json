@@ -68635,7 +68635,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區鎮東一街",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -68644,6 +68644,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T10:26:34.489478"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T10:29:33.197804"
       }
     ]
   },
@@ -68703,11 +68707,29 @@
     "sub_category": "車禍",
     "location": "高雄市三民區大順二路",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T10:28:33.183593"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T10:29:33.197804"
+      }
+    ]
+  },
+  "b05487534f4aef339b26fa08ab05b899": {
+    "time": "2026/09/21 10:28:55",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T10:29:33.197804"
       }
     ]
   }
