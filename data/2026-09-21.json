@@ -74245,7 +74245,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區大豐二路",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -74254,6 +74254,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T18:16:33.978873"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T18:21:33.882420"
       }
     ]
   },
@@ -74285,7 +74289,7 @@
     "sub_category": "車禍",
     "location": "高雄市前金區自強二路和光復三街",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -74294,6 +74298,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T18:19:33.882131"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T18:21:33.882420"
       }
     ]
   },
@@ -74303,11 +74311,29 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T18:19:33.882131"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T18:21:33.882420"
+      }
+    ]
+  },
+  "05c82046afacbe9b9bc63fed2fd8bb6d": {
+    "time": "2026/09/21 18:20:27",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區南華路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T18:21:33.882420"
       }
     ]
   }
