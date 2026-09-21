@@ -67255,7 +67255,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -67264,6 +67264,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T08:39:33.710703"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T08:48:33.610172"
       }
     ]
   },
@@ -67295,7 +67299,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區新東二街",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -67308,6 +67312,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T08:44:33.462461"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T08:48:33.610172"
       }
     ]
   },
@@ -67335,11 +67343,15 @@
     "sub_category": "創傷",
     "location": "高雄市林園區仁愛路",
     "units": "林園分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T08:47:33.521979"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T08:48:33.610172"
       }
     ]
   },
@@ -67349,11 +67361,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區澄清路",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T08:47:33.521979"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T08:48:33.610172"
       }
     ]
   },
@@ -67363,11 +67379,29 @@
     "sub_category": "急病",
     "location": "高雄市橋頭區",
     "units": "橋頭分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T08:47:33.521979"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T08:48:33.610172"
+      }
+    ]
+  },
+  "2e30ffe05542a6156638e113970a56af": {
+    "time": "2026/09/21 08:47:46",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市橋頭區里林西路",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T08:48:33.610172"
       }
     ]
   }
