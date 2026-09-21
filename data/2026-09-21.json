@@ -68551,7 +68551,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區神農路",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -68568,6 +68568,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T10:31:33.051677"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T10:41:33.260184"
       }
     ]
   },
@@ -68868,6 +68872,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T10:40:33.125129"
+      }
+    ]
+  },
+  "1385be35613eabb2c1c8d181609182a9": {
+    "time": "2026/09/21 10:40:39",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區大豐二路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T10:41:33.260184"
       }
     ]
   }
