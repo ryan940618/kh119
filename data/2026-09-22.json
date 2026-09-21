@@ -78277,7 +78277,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -78290,6 +78290,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T03:07:33.125498"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T03:19:33.219799"
       }
     ]
   },
@@ -78369,7 +78373,7 @@
     "sub_category": "路倒",
     "location": "高雄市橋頭區仕豐路",
     "units": "橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -78378,6 +78382,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T03:15:33.218920"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T03:19:33.219799"
+      }
+    ]
+  },
+  "2f086c7964dfd3e48cd0fa43b4e4f414": {
+    "time": "2026/09/22 03:19:01",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T03:19:33.219799"
       }
     ]
   }
