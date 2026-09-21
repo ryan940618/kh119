@@ -73521,7 +73521,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -73538,6 +73538,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T17:26:33.898737"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T17:28:33.692843"
       }
     ]
   },
@@ -73605,11 +73609,15 @@
     "sub_category": "其他",
     "location": "高雄市前鎮區",
     "units": "",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T17:19:33.739890"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T17:28:33.692843"
       }
     ]
   },
@@ -73619,7 +73627,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區河堤路",
     "units": "和發分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -73628,6 +73636,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T17:23:33.615957"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T17:28:33.692843"
       }
     ]
   },
@@ -73642,6 +73654,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T17:21:34.104472"
+      }
+    ]
+  },
+  "24270ad586f4af94a72357995c86edfd": {
+    "time": "2026/09/21 17:26:59",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大社區",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T17:28:33.692843"
       }
     ]
   }
