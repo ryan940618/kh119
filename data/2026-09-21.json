@@ -70905,7 +70905,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -70914,6 +70914,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T13:54:33.343685"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T14:04:48.452739"
       }
     ]
   },
@@ -70923,11 +70927,71 @@
     "sub_category": "其他",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T13:58:33.288170"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T14:04:48.452739"
+      }
+    ]
+  },
+  "6d5a9cf0b1763559ea27feef28266b1a": {
+    "time": "2026/09/21 14:02:48",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市小港區安美街",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T14:04:48.452739"
+      }
+    ]
+  },
+  "74d5fefcf2a36ad6268a67e6caa80d5b": {
+    "time": "2026/09/21 14:01:52",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市左營區高鐵路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T14:04:48.452739"
+      }
+    ]
+  },
+  "3ef254f05b872521bce3283c3c1b52b7": {
+    "time": "2026/09/21 14:00:37",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區博愛三路",
+    "units": "新莊分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T14:04:48.452739"
+      }
+    ]
+  },
+  "7572a3c162cfe0121077900dbced6a9b": {
+    "time": "2026/09/21 14:00:27",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T14:04:48.452739"
       }
     ]
   }
