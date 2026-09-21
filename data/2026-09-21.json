@@ -70065,7 +70065,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -70074,6 +70074,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T12:39:33.675983"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T12:44:33.704628"
       }
     ]
   },
@@ -70083,7 +70087,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區過昌街",
     "units": "高桂分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -70092,6 +70096,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T12:37:33.687244"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T12:44:33.704628"
       }
     ]
   },
@@ -70141,11 +70149,29 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區三民路",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T12:42:33.779819"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T12:44:33.704628"
+      }
+    ]
+  },
+  "cf82562bc4d67b5f0ab525e0f55c5b13": {
+    "time": "2026/09/21 12:43:53",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區神農路",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T12:44:33.704628"
       }
     ]
   }
