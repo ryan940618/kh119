@@ -74321,7 +74321,7 @@
     "sub_category": "車禍",
     "location": "高雄市前金區自強二路和光復三街",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -74338,6 +74338,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T18:33:33.972406"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T18:42:33.245338"
       }
     ]
   },
@@ -74429,7 +74433,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區中山南路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -74446,6 +74450,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T18:36:33.026672"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T18:42:33.245338"
       }
     ]
   },
@@ -74604,6 +74612,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T18:37:33.120126"
+      }
+    ]
+  },
+  "afec18a182d86caaad0942a422cd26e3": {
+    "time": "2026/09/21 18:41:15",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市梓官區赤崁西路",
+    "units": "梓官分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T18:42:33.245338"
+      }
+    ]
+  },
+  "d594c0657e3d5eabd92b3735d75c8ae3": {
+    "time": "2026/09/21 18:40:54",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鳳山區華興街",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T18:42:33.245338"
       }
     ]
   }
