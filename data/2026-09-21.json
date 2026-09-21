@@ -74817,7 +74817,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -74834,6 +74834,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T19:14:33.258618"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T19:22:33.327228"
       }
     ]
   },
@@ -75050,6 +75054,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T19:18:33.363275"
+      }
+    ]
+  },
+  "1b5a2367f5e9f7c6f5200a706e73986a": {
+    "time": "2026/09/21 19:21:30",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區澄清路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T19:22:33.327228"
+      }
+    ]
+  },
+  "525a7a784953953525f997ea9a34833a": {
+    "time": "2026/09/21 19:21:26",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區九如二路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T19:22:33.327228"
       }
     ]
   }
