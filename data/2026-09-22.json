@@ -78743,7 +78743,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -78752,6 +78752,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T05:10:33.843116"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T05:16:33.856246"
       }
     ]
   },
@@ -78766,6 +78770,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T05:11:33.791852"
+      }
+    ]
+  },
+  "299db7fe16efe8339e63436e35d5988a": {
+    "time": "2026/09/22 05:16:02",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市美濃區",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T05:16:33.856246"
       }
     ]
   }
