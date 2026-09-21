@@ -77493,7 +77493,7 @@
     "sub_category": "其他",
     "location": "高雄市三民區",
     "units": "",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -77510,6 +77510,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T00:03:32.853022"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T00:06:32.984468"
       }
     ]
   },
@@ -77558,6 +77562,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T23:59:32.883500"
+      }
+    ]
+  },
+  "04788a75ced3948435dcc34f75ab2791": {
+    "time": "2026/09/22 00:05:45",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T00:06:32.984468"
       }
     ]
   }
