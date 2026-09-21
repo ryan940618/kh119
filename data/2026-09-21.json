@@ -75001,7 +75001,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區博愛一路",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -75014,6 +75014,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T19:16:33.426577"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T19:23:33.285537"
       }
     ]
   },
@@ -75077,11 +75081,29 @@
     "sub_category": "路倒",
     "location": "高雄市三民區九如二路",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T19:22:33.327228"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T19:23:33.285537"
+      }
+    ]
+  },
+  "a35781252b33b188fc3e05049f4816b9": {
+    "time": "2026/09/21 19:22:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T19:23:33.285537"
       }
     ]
   }
