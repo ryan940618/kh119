@@ -74087,7 +74087,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區博愛一路",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -74100,6 +74100,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T18:04:34.010697"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T18:24:34.107439"
       }
     ]
   },
@@ -74183,7 +74187,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區鼎中路",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -74196,6 +74200,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T18:15:33.872251"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T18:24:34.107439"
       }
     ]
   },
@@ -74311,7 +74319,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -74320,6 +74328,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T18:21:33.882420"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T18:24:34.107439"
       }
     ]
   },
@@ -74352,6 +74364,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T18:23:33.873752"
+      }
+    ]
+  },
+  "c3292f80d5ac5b0419aabea8de734ad2": {
+    "time": "2026/09/21 18:23:45",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區中山南路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T18:24:34.107439"
+      }
+    ]
+  },
+  "fd45fc7ff4d02ab7d106c9fdc96b49d9": {
+    "time": "2026/09/21 18:23:37",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區水秀路",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T18:24:34.107439"
+      }
+    ]
+  },
+  "f2aebda692ec02c66df1621944eb59a6": {
+    "time": "2026/09/21 18:23:37",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區加昌路",
+    "units": "後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T18:24:34.107439"
       }
     ]
   }
