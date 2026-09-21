@@ -73657,7 +73657,7 @@
     "sub_category": "其他",
     "location": "高雄市前鎮區",
     "units": "",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -73666,6 +73666,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T17:28:33.692843"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T17:58:34.197702"
       }
     ]
   },
@@ -74034,6 +74038,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T17:56:33.941522"
+      }
+    ]
+  },
+  "3f88606853e669deacb70840e5b8a151": {
+    "time": "2026/09/21 17:57:42",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區博愛一路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T17:58:34.197702"
       }
     ]
   }
