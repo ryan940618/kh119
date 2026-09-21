@@ -68069,7 +68069,7 @@
     "sub_category": "車禍",
     "location": "高雄市田寮區西德路",
     "units": "崇德駐地",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -68086,6 +68086,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T09:47:33.812836"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T10:07:34.143836"
       }
     ]
   },
@@ -68297,7 +68301,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區正興路和建和街",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -68306,6 +68310,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T10:03:34.081721"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T10:07:34.143836"
       }
     ]
   },
@@ -68370,6 +68378,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T10:06:34.155676"
+      }
+    ]
+  },
+  "1c0d7a65c77a8e00d1626bdd30ae8bd3": {
+    "time": "2026/09/21 10:06:02",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市林園區沿海路",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T10:07:34.143836"
       }
     ]
   }
