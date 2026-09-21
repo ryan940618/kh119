@@ -79675,7 +79675,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -79688,6 +79688,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T07:34:33.899263"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T07:46:34.093548"
       }
     ]
   },
@@ -80019,11 +80023,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區民族一路",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T07:45:34.143862"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T07:46:34.093548"
       }
     ]
   },
@@ -80033,11 +80041,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區中正路",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T07:45:34.143862"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T07:46:34.093548"
       }
     ]
   }
