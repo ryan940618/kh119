@@ -79467,7 +79467,7 @@
     "sub_category": "創傷",
     "location": "高雄市仁武區澄合街",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -79476,6 +79476,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T07:20:33.726598"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T07:31:33.749930"
       }
     ]
   },
@@ -79646,6 +79650,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T07:30:33.928911"
+      }
+    ]
+  },
+  "f99866af488c2adc4cea5c7273d9024b": {
+    "time": "2026/09/22 07:30:13",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市燕巢區中民路",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T07:31:33.749930"
       }
     ]
   }
