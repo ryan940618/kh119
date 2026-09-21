@@ -70973,7 +70973,7 @@
     "sub_category": "創傷",
     "location": "高雄市小港區安美街",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -70990,6 +70990,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T14:35:33.558197"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T14:36:33.555020"
       }
     ]
   },
@@ -71304,6 +71308,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T14:34:33.602134"
+      }
+    ]
+  },
+  "4eb8a96748ae15e9b1a6d0d1ad330688": {
+    "time": "2026/09/21 14:35:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T14:36:33.555020"
+      }
+    ]
+  },
+  "2c162414ec2e8c5d27b185ca538418f7": {
+    "time": "2026/09/21 14:35:17",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T14:36:33.555020"
       }
     ]
   }
