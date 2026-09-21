@@ -68621,7 +68621,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -68634,6 +68634,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T10:26:34.489478"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T10:32:33.134921"
       }
     ]
   },
@@ -68759,11 +68763,29 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T10:31:33.051677"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T10:32:33.134921"
+      }
+    ]
+  },
+  "7f82fd6ca8e3734b292fb00114b55797": {
+    "time": "2026/09/21 10:31:43",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區大埤路",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T10:32:33.134921"
       }
     ]
   }
