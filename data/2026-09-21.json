@@ -72163,7 +72163,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -72180,6 +72180,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T16:09:33.234673"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T16:14:33.187785"
       }
     ]
   },
@@ -72281,11 +72285,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T16:06:33.261109"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T16:14:33.187785"
       }
     ]
   },
@@ -72295,11 +72303,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T16:12:33.239677"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T16:14:33.187785"
       }
     ]
   }
