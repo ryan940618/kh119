@@ -72197,7 +72197,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區崗山南街",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -72214,6 +72214,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T16:16:33.228544"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T16:23:33.182255"
       }
     ]
   },
@@ -72363,7 +72367,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -72372,6 +72376,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T16:20:33.277229"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T16:23:33.182255"
       }
     ]
   },
@@ -72421,7 +72429,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -72430,6 +72438,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T16:21:33.390536"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T16:23:33.182255"
       }
     ]
   },
@@ -72439,11 +72451,29 @@
     "sub_category": "車禍",
     "location": "高雄市三民區莊敬路",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T16:22:33.371458"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T16:23:33.182255"
+      }
+    ]
+  },
+  "a5114b53f91c7626a77a32a40a877e7e": {
+    "time": "2026/09/21 16:21:45",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區復華街",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T16:23:33.182255"
       }
     ]
   }
