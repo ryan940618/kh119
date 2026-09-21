@@ -78191,7 +78191,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -78204,6 +78204,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T03:01:33.052848"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T03:08:33.146822"
       }
     ]
   },
@@ -78279,7 +78283,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -78288,6 +78292,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T03:02:33.099478"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T03:08:33.146822"
       }
     ]
   },
@@ -78310,6 +78318,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T03:05:33.104688"
+      }
+    ]
+  },
+  "0faf74a0497696cc5ff33f91538dc45d": {
+    "time": "2026/09/22 03:07:01",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市橋頭區",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T03:08:33.146822"
       }
     ]
   }
