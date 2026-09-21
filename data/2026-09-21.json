@@ -72287,7 +72287,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區國富路",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -72304,6 +72304,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T16:19:33.263549"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T16:36:33.438417"
       }
     ]
   },
@@ -72421,7 +72425,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -72438,6 +72442,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T16:25:33.280370"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T16:36:33.438417"
       }
     ]
   },
@@ -72652,6 +72660,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T16:35:33.419729"
+      }
+    ]
+  },
+  "c181e0588b07f53b1dc449a1f0845769": {
+    "time": "2026/09/21 16:35:18",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T16:36:33.438417"
       }
     ]
   }
