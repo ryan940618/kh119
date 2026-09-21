@@ -75367,7 +75367,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -75380,6 +75380,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T19:49:33.573353"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T20:04:33.558571"
       }
     ]
   },
@@ -75511,7 +75515,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -75520,6 +75524,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T20:03:33.521996"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T20:04:33.558571"
       }
     ]
   },
@@ -75538,6 +75546,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T20:02:33.614689"
+      }
+    ]
+  },
+  "09a8a170208f2038a587d8c65c5b1cd0": {
+    "time": "2026/09/21 20:02:57",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市楠梓區",
+    "units": "後勁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T20:04:33.558571"
       }
     ]
   }
