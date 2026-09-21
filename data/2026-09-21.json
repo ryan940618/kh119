@@ -74881,7 +74881,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -74898,6 +74898,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T19:15:33.386883"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T19:28:33.304816"
       }
     ]
   },
@@ -75075,11 +75079,15 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區澄清路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T19:22:33.327228"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T19:28:33.304816"
       }
     ]
   },
