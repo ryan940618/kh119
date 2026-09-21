@@ -68599,7 +68599,7 @@
     "sub_category": "路倒",
     "location": "高雄市左營區大中二路",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -68612,6 +68612,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T10:27:34.068398"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T10:33:33.031516"
       }
     ]
   },
@@ -68727,7 +68731,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區大順二路",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -68736,6 +68740,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T10:29:33.197804"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T10:33:33.031516"
       }
     ]
   },
@@ -68786,6 +68794,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T10:32:33.134921"
+      }
+    ]
+  },
+  "e20c73c86a0e1467bb9b9acebb7be5c3": {
+    "time": "2026/09/21 10:31:43",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區長庚路",
+    "units": "鳥松分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T10:33:33.031516"
       }
     ]
   }
