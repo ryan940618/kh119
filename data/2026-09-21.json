@@ -77499,7 +77499,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -77508,6 +77508,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T23:54:34.075900"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T23:56:34.041847"
       }
     ]
   },
@@ -77517,11 +77521,15 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區新光路",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T23:52:33.889572"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T23:56:34.041847"
       }
     ]
   }
