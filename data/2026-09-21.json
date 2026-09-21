@@ -67035,7 +67035,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區宮平街",
     "units": "小港分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -67052,6 +67052,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T08:34:33.464991"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T08:40:33.531927"
       }
     ]
   },
@@ -67258,6 +67262,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T08:39:33.710703"
+      }
+    ]
+  },
+  "82c6c91e0df0d2abc0a12f792ffa024c": {
+    "time": "2026/09/21 08:39:43",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市橋頭區新東二街",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T08:40:33.531927"
       }
     ]
   }
