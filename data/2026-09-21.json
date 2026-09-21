@@ -66663,7 +66663,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區中山東路",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -66676,6 +66676,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T08:06:33.311995"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-21T08:16:33.347154"
       }
     ]
   },
@@ -66908,6 +66912,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T08:15:33.407496"
+      }
+    ]
+  },
+  "47b4459c3e2194f1254954aad48c0a62": {
+    "time": "2026/09/21 08:16:02",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T08:16:33.347154"
       }
     ]
   }
