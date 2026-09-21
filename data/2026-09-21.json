@@ -74295,7 +74295,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區海平路",
     "units": "左營小隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -74312,6 +74312,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T18:38:33.150414"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T18:46:33.230909"
       }
     ]
   },
@@ -74670,6 +74674,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T18:45:33.304766"
+      }
+    ]
+  },
+  "0c285327a2f95f3d49158133719a4b8c": {
+    "time": "2026/09/21 18:45:47",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T18:46:33.230909"
       }
     ]
   }
