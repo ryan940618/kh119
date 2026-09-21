@@ -68185,7 +68185,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -68202,6 +68202,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T10:13:33.906436"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T10:26:34.489478"
       }
     ]
   },
@@ -68437,7 +68441,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -68454,6 +68458,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T10:23:34.088108"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T10:26:34.489478"
       }
     ]
   },
@@ -68597,7 +68605,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -68606,6 +68614,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T10:24:34.110147"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T10:26:34.489478"
       }
     ]
   },
@@ -68615,11 +68627,43 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區鎮東一街",
     "units": "前鎮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T10:24:34.110147"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T10:26:34.489478"
+      }
+    ]
+  },
+  "7d169a2a1c736385a9d3809d851217e2": {
+    "time": "2026/09/21 10:25:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T10:26:34.489478"
+      }
+    ]
+  },
+  "02099d4712e0beebe4b0d684babe0578": {
+    "time": "2026/09/21 10:25:22",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T10:26:34.489478"
       }
     ]
   }
