@@ -71323,7 +71323,7 @@
     "sub_category": "車禍",
     "location": "高雄市林園區溪州一路",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -71340,6 +71340,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T14:44:33.545498"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T14:51:33.678602"
       }
     ]
   },
@@ -71363,7 +71367,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -71380,6 +71384,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-21T14:50:33.578066"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-21T14:51:33.678602"
       }
     ]
   },
@@ -71451,7 +71459,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -71460,6 +71468,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T14:49:33.509919"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T14:51:33.678602"
       }
     ]
   },
@@ -71478,6 +71490,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T14:49:33.509919"
+      }
+    ]
+  },
+  "19ef37c46d2b403ab93064f88d41198a": {
+    "time": "2026/09/21 14:50:19",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T14:51:33.678602"
       }
     ]
   }
