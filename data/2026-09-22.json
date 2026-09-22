@@ -89839,7 +89839,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -89852,6 +89852,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T21:03:34.035563"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T21:17:33.217103"
       }
     ]
   },
@@ -89883,11 +89887,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區永豐路",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T21:16:33.144670"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T21:17:33.217103"
       }
     ]
   }
