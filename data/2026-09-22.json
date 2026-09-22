@@ -89315,7 +89315,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -89328,6 +89328,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T20:05:33.395280"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T20:18:33.605135"
       }
     ]
   },
@@ -89461,11 +89465,43 @@
     "sub_category": "急病",
     "location": "高雄市甲仙區",
     "units": "甲仙分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T20:17:33.436522"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T20:18:33.605135"
+      }
+    ]
+  },
+  "c6199f5a4958432821e688e1dc3e33a2": {
+    "time": "2026/09/22 20:17:47",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區福德三路",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T20:18:33.605135"
+      }
+    ]
+  },
+  "1a1b52a265cc2ab85eef9253601b2e13": {
+    "time": "2026/09/22 20:17:38",
+    "category": "火災",
+    "sub_category": "一般(集合)住宅",
+    "location": "高雄市湖內區和平路",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T20:18:33.605135"
       }
     ]
   }
