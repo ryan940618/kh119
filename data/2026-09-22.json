@@ -85097,7 +85097,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區澄清路",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -85114,6 +85114,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T14:41:33.518769"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T14:49:33.749905"
       }
     ]
   },
@@ -85340,6 +85344,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T14:47:33.677399"
+      }
+    ]
+  },
+  "2afbea16c3a2ccb0462e1779beaed76c": {
+    "time": "2026/09/22 14:47:31",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市美濃區",
+    "units": "旗山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T14:49:33.749905"
       }
     ]
   }
