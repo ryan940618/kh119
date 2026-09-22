@@ -92223,7 +92223,7 @@
     "sub_category": "其他",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -92240,6 +92240,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T06:32:33.228825"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T06:48:33.319766"
       }
     ]
   },
@@ -92249,7 +92253,7 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區廣東二街",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -92258,6 +92262,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T06:33:33.060746"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T06:48:33.319766"
       }
     ]
   },
@@ -92374,6 +92382,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T06:47:33.340417"
+      }
+    ]
+  },
+  "0054638f58a64e419b0433e12c98a21b": {
+    "time": "2026/09/23 06:46:48",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區本舘路",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T06:48:33.319766"
       }
     ]
   }
