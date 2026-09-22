@@ -86561,7 +86561,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -86570,6 +86570,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T16:25:33.830071"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T16:32:33.327912"
       }
     ]
   },
@@ -86807,11 +86811,29 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區和平路",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T16:31:33.227084"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T16:32:33.327912"
+      }
+    ]
+  },
+  "ca9da2343d0cc7ece98ad1b39bb582cf": {
+    "time": "2026/09/22 16:31:49",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區後昌路",
+    "units": "後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T16:32:33.327912"
       }
     ]
   }
