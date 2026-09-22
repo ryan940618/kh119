@@ -87379,7 +87379,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區大春街",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -87392,6 +87392,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T17:22:33.544171"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T17:28:33.536055"
       }
     ]
   },
@@ -87506,6 +87510,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T17:27:33.473493"
+      }
+    ]
+  },
+  "07a79f95f09ac121b2c24841a9ae48ab": {
+    "time": "2026/09/22 17:27:10",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區新民街",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T17:28:33.536055"
+      }
+    ]
+  },
+  "bca323d87f1b5c379e52bcb83d7c9673": {
+    "time": "2026/09/22 17:25:14",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區民新街",
+    "units": "中庄分隊,大寮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T17:28:33.536055"
       }
     ]
   }
