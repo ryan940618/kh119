@@ -82537,7 +82537,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "左營小隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -82546,6 +82546,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T10:22:33.797055"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T10:36:33.231695"
       }
     ]
   },
@@ -82658,6 +82662,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T10:35:33.038656"
+      }
+    ]
+  },
+  "5bc7a335fc9dd7b53d484974cc0f40d0": {
+    "time": "2026/09/22 10:35:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T10:36:33.231695"
+      }
+    ]
+  },
+  "39dead2265263478e95c741bea88f32a": {
+    "time": "2026/09/22 10:35:04",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T10:36:33.231695"
       }
     ]
   }
