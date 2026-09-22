@@ -88589,7 +88589,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -88602,6 +88602,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T18:52:33.928262"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T19:02:34.173184"
       }
     ]
   },
@@ -88633,7 +88637,7 @@
     "sub_category": "創傷",
     "location": "高雄市大社區和平路",
     "units": "大社分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -88646,6 +88650,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T18:57:34.080241"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T19:02:34.173184"
       }
     ]
   },
@@ -88727,11 +88735,15 @@
     "sub_category": "其他",
     "location": "高雄市鼓山區",
     "units": "",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T18:59:34.119958"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T19:02:34.173184"
       }
     ]
   },
