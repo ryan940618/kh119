@@ -87177,7 +87177,7 @@
     "sub_category": "車禍",
     "location": "高雄市林園區溪州一路",
     "units": "林園分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -87190,6 +87190,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T17:12:33.560584"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T17:19:33.558724"
       }
     ]
   },
@@ -87303,11 +87307,15 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T17:17:33.555160"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T17:19:33.558724"
       }
     ]
   },
@@ -87317,11 +87325,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T17:17:33.555160"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T17:19:33.558724"
       }
     ]
   },
@@ -87340,6 +87352,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T17:18:33.506894"
+      }
+    ]
+  },
+  "853fd61c3248b5e157539df015da13e3": {
+    "time": "2026/09/22 17:18:46",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區九如二路和哈爾濱街",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T17:19:33.558724"
       }
     ]
   }
