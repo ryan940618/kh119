@@ -82827,7 +82827,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區二聖一路",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -82836,6 +82836,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T10:52:33.311273"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T10:59:33.285326"
       }
     ]
   },
@@ -82940,6 +82944,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T10:56:33.247223"
+      }
+    ]
+  },
+  "d3ea918636405afc4e6468d6b17a3eb6": {
+    "time": "2026/09/22 10:58:32",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳥松區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T10:59:33.285326"
       }
     ]
   }
