@@ -81795,7 +81795,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -81812,6 +81812,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T09:57:34.104326"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T09:59:34.571602"
       }
     ]
   },
@@ -82059,11 +82063,15 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區鳳加路",
     "units": "燕巢分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T09:56:34.054517"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T09:59:34.571602"
       }
     ]
   },
@@ -82073,11 +82081,15 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T09:58:34.057530"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T09:59:34.571602"
       }
     ]
   },
@@ -82092,6 +82104,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T09:58:34.057530"
+      }
+    ]
+  },
+  "4fd0705eb6b3e508e4ccd1d0a27f872c": {
+    "time": "2026/09/22 09:58:28",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市三民區",
+    "units": "",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T09:59:34.571602"
       }
     ]
   }
