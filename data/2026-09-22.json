@@ -84669,7 +84669,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -84686,6 +84686,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T14:16:33.322456"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T14:26:33.486557"
       }
     ]
   },
@@ -84937,7 +84941,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -84946,6 +84950,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T14:19:33.410818"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T14:26:33.486557"
       }
     ]
   },
@@ -84995,11 +85003,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區三誠路",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T14:23:33.524226"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T14:26:33.486557"
       }
     ]
   },
@@ -85009,11 +85021,29 @@
     "sub_category": "車禍",
     "location": "高雄市三民區澄清路",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T14:25:33.561329"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T14:26:33.486557"
+      }
+    ]
+  },
+  "1542b542d08a847a28463ed02a2679ed": {
+    "time": "2026/09/22 14:25:22",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市美濃區",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T14:26:33.486557"
       }
     ]
   }
