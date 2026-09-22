@@ -84415,7 +84415,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -84432,6 +84432,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T13:32:33.229405"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T13:42:33.335240"
       }
     ]
   },
@@ -84489,7 +84493,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區天興街",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -84502,6 +84506,24 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T13:38:33.113529"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T13:42:33.335240"
+      }
+    ]
+  },
+  "6f50e540e9d4a1f0e1311c1fa101baf1": {
+    "time": "2026/09/22 13:42:12",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T13:42:33.335240"
       }
     ]
   }
