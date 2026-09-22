@@ -82431,7 +82431,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區南寧街",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -82444,6 +82444,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T10:22:33.797055"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T10:34:33.145570"
       }
     ]
   },
@@ -82467,7 +82471,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -82476,6 +82480,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T10:24:33.311953"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T10:34:33.145570"
       }
     ]
   },
@@ -82485,7 +82493,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區成功二路",
     "units": "小港分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -82498,6 +82506,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T10:30:33.308363"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T10:34:33.145570"
       }
     ]
   },
@@ -82589,7 +82601,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -82602,6 +82614,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T10:30:33.308363"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T10:34:33.145570"
       }
     ]
   },
@@ -82611,11 +82627,29 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T10:33:33.165544"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T10:34:33.145570"
+      }
+    ]
+  },
+  "5529a01b6caae2acd7756834781c7fc9": {
+    "time": "2026/09/22 10:33:37",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區桂平街",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T10:34:33.145570"
       }
     ]
   }
