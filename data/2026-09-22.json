@@ -82483,7 +82483,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -82500,6 +82500,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T10:49:33.233068"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T10:58:33.200200"
       }
     ]
   },
@@ -82805,11 +82809,15 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區海邊路",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T10:43:33.075286"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T10:58:33.200200"
       }
     ]
   },
