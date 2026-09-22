@@ -85809,7 +85809,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -85822,6 +85822,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T15:42:34.019693"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T15:47:33.935173"
       }
     ]
   },
@@ -85923,7 +85927,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -85936,6 +85940,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T15:42:34.019693"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T15:47:33.935173"
       }
     ]
   },
@@ -86011,7 +86019,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區孟子路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -86020,6 +86028,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T15:42:34.019693"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T15:47:33.935173"
       }
     ]
   },
@@ -86070,6 +86082,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T15:46:34.005410"
+      }
+    ]
+  },
+  "7d87e59e69b71ac9eb58dc5eaad407a9": {
+    "time": "2026/09/22 15:44:57",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區正忠路",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T15:47:33.935173"
       }
     ]
   }
