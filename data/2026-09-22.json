@@ -82895,7 +82895,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -82904,6 +82904,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T11:00:33.313507"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T11:07:33.290984"
       }
     ]
   },
@@ -83038,6 +83042,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T11:05:33.278786"
+      }
+    ]
+  },
+  "56dee36e7e97855a5c53cc95d3f0f8b0": {
+    "time": "2026/09/22 11:06:12",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鳳山區凱旋路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T11:07:33.290984"
       }
     ]
   }
