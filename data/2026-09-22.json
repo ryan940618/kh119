@@ -81631,7 +81631,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -81640,6 +81640,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T09:37:33.854270"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T09:47:33.993906"
       }
     ]
   },
@@ -81793,7 +81797,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -81806,6 +81810,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T09:45:34.031152"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T09:47:33.993906"
       }
     ]
   },
@@ -81856,6 +81864,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T09:42:33.780199"
+      }
+    ]
+  },
+  "c9a6eca7167776c71e5471553d84d8e7": {
+    "time": "2026/09/22 09:46:38",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區民族一路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T09:47:33.993906"
       }
     ]
   }
