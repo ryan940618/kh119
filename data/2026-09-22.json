@@ -85683,7 +85683,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -85700,6 +85700,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T15:29:33.799760"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T15:35:33.937202"
       }
     ]
   },
@@ -85830,6 +85834,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T15:34:33.857842"
+      }
+    ]
+  },
+  "cbbe16512e3e4cc3741beee1dcb6a17b": {
+    "time": "2026/09/22 15:34:58",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區瑞興路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T15:35:33.937202"
       }
     ]
   }
