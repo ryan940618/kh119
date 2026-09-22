@@ -86569,7 +86569,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -86582,6 +86582,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T16:32:33.327912"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T16:44:33.290133"
       }
     ]
   },
@@ -86934,6 +86938,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T16:43:33.243646"
+      }
+    ]
+  },
+  "e3d7511f19acfc50ad87ce9c99d42e67": {
+    "time": "2026/09/22 16:41:43",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市前鎮區凱興街",
+    "units": "瑞隆分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T16:44:33.290133"
       }
     ]
   }
