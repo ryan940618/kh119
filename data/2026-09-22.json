@@ -84665,7 +84665,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -84678,6 +84678,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T14:08:33.467969"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T14:16:33.322456"
       }
     ]
   },
@@ -84811,11 +84815,15 @@
     "sub_category": "其他",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T14:12:33.386383"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T14:16:33.322456"
       }
     ]
   },
@@ -84852,6 +84860,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T14:15:33.603212"
+      }
+    ]
+  },
+  "051da07a331683ca47dba5c915b00bab": {
+    "time": "2026/09/22 14:15:52",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗山區",
+    "units": "旗山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T14:16:33.322456"
       }
     ]
   }
