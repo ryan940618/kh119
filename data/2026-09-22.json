@@ -81853,7 +81853,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區文龍東路",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -81862,6 +81862,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T09:43:33.947811"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T09:52:34.150916"
       }
     ]
   },
@@ -81889,7 +81893,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區民族一路",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -81898,6 +81902,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T09:48:33.994216"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T09:52:34.150916"
       }
     ]
   },
@@ -81907,11 +81915,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T09:49:33.938951"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T09:52:34.150916"
       }
     ]
   },
@@ -81921,11 +81933,29 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T09:50:34.496491"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T09:52:34.150916"
+      }
+    ]
+  },
+  "69513c9c666349de018e8926c7865ccd": {
+    "time": "2026/09/22 09:51:54",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市湖內區",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T09:52:34.150916"
       }
     ]
   }
