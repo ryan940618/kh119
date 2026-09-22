@@ -86617,7 +86617,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區天祥一路",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -86630,6 +86630,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T16:33:33.194151"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T16:43:33.243646"
       }
     ]
   },
@@ -86723,7 +86727,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -86740,6 +86744,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T16:39:33.444129"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T16:43:33.243646"
       }
     ]
   },
@@ -86912,6 +86920,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T16:41:33.410828"
+      }
+    ]
+  },
+  "c07974cafbe1bd6ae48416ae48f9a7da": {
+    "time": "2026/09/22 16:41:43",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市前鎮區瑞南街",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T16:43:33.243646"
       }
     ]
   }
