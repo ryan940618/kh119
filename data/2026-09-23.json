@@ -90699,7 +90699,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -90712,6 +90712,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T00:19:33.213428"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T00:26:33.325886"
       }
     ]
   },
@@ -90721,11 +90725,15 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區鳳東路",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T00:24:33.375994"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T00:26:33.325886"
       }
     ]
   }
