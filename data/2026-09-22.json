@@ -85581,7 +85581,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -85590,6 +85590,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T15:06:33.740336"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T15:14:33.970000"
       }
     ]
   },
@@ -85622,6 +85626,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T15:13:33.830700"
+      }
+    ]
+  },
+  "68553ca8124d9be5119171a4d434f652": {
+    "time": "2026/09/22 15:13:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T15:14:33.970000"
+      }
+    ]
+  },
+  "fd72731eafd39c3273b42bd3b831f69b": {
+    "time": "2026/09/22 15:13:02",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市阿蓮區崗山一街",
+    "units": "阿蓮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T15:14:33.970000"
       }
     ]
   }
