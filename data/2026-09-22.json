@@ -85595,7 +85595,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -85608,6 +85608,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T15:25:33.850448"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T15:37:33.954661"
       }
     ]
   },
@@ -85870,6 +85874,48 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T15:36:33.927167"
+      }
+    ]
+  },
+  "b51bd35621ac7072b8464ed4c0f1d191": {
+    "time": "2026/09/22 15:37:00",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T15:37:33.954661"
+      }
+    ]
+  },
+  "618db5acd8107cf14164cbc2b82fbe15": {
+    "time": "2026/09/22 15:36:45",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鹽埕區五福四路",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T15:37:33.954661"
+      }
+    ]
+  },
+  "c0c6cb4e486c7d27887e1247a87b5f39": {
+    "time": "2026/09/22 15:36:12",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鹽埕區五福四路",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T15:37:33.954661"
       }
     ]
   }
