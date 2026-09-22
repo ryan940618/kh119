@@ -88333,7 +88333,7 @@
     "sub_category": "急病",
     "location": "高雄市杉林區",
     "units": "杉林分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -88350,6 +88350,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T18:40:33.836638"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T19:00:33.894444"
       }
     ]
   },
@@ -88559,7 +88563,7 @@
     "sub_category": "車禍",
     "location": "高雄市新興區青年一路",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -88572,6 +88576,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T18:55:33.889903"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T19:00:33.894444"
       }
     ]
   },
@@ -88701,11 +88709,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T18:59:34.119958"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T19:00:33.894444"
       }
     ]
   },
@@ -88720,6 +88732,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T18:59:34.119958"
+      }
+    ]
+  },
+  "bc50d95a3e781856cc50505f5caaedab": {
+    "time": "2026/09/22 18:59:53",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T19:00:33.894444"
       }
     ]
   }
