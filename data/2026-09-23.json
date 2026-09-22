@@ -92655,7 +92655,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區宏平路",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -92668,6 +92668,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T07:24:33.599694"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T07:38:33.787393"
       }
     ]
   },
@@ -92802,6 +92806,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T07:37:33.726713"
+      }
+    ]
+  },
+  "ba3cd7d67a683bf4c6d564256741838e": {
+    "time": "2026/09/23 07:37:48",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區北賢街",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T07:38:33.787393"
+      }
+    ]
+  },
+  "ef0d5ad948cc1764614fd09088877182": {
+    "time": "2026/09/23 07:37:34",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T07:38:33.787393"
       }
     ]
   }
