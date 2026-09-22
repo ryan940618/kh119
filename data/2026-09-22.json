@@ -82589,7 +82589,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -82602,6 +82602,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T10:39:33.153458"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T10:56:33.247223"
       }
     ]
   },
@@ -82771,7 +82775,7 @@
     "sub_category": "創傷",
     "location": "高雄市大社區文明路",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -82788,6 +82792,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T10:48:33.217174"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T10:56:33.247223"
       }
     ]
   },
@@ -82865,11 +82873,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T10:53:33.206527"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T10:56:33.247223"
       }
     ]
   },
@@ -82902,6 +82914,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T10:55:33.210038"
+      }
+    ]
+  },
+  "d50998b2a22a2dd38e7773987d6d335f": {
+    "time": "2026/09/22 10:55:26",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市甲仙區",
+    "units": "甲仙分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T10:56:33.247223"
       }
     ]
   }
