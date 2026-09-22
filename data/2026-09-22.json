@@ -84531,7 +84531,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -84544,6 +84544,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T14:00:33.372785"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T14:04:33.244956"
       }
     ]
   },
@@ -84663,11 +84667,15 @@
     "sub_category": "路倒",
     "location": "高雄市三民區莊敬路",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T14:03:33.276200"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T14:04:33.244956"
       }
     ]
   }
