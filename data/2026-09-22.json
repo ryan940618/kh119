@@ -88033,7 +88033,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區大昌一路",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -88046,6 +88046,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T18:02:33.860007"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T18:12:33.874519"
       }
     ]
   },
@@ -88133,11 +88137,57 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T18:09:33.764887"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T18:12:33.874519"
+      }
+    ]
+  },
+  "8d6ce6fafddcdfdc21d629fb3d817444": {
+    "time": "2026/09/22 18:11:58",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市橋頭區甲樹路",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T18:12:33.874519"
+      }
+    ]
+  },
+  "6bd7403349a175caf3e62eeafca0ffe0": {
+    "time": "2026/09/22 18:11:41",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區鼓山一路",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T18:12:33.874519"
+      }
+    ]
+  },
+  "4331e61b2266f18eaa6de700d46d8871": {
+    "time": "2026/09/22 18:11:26",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T18:12:33.874519"
       }
     ]
   }
