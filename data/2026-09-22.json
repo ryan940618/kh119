@@ -85671,7 +85671,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -85684,6 +85684,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T15:20:33.812402"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T15:29:33.799760"
       }
     ]
   },
@@ -85783,11 +85787,15 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T15:27:33.890832"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T15:29:33.799760"
       }
     ]
   }
