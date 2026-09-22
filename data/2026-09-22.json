@@ -83111,7 +83111,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區凱旋路",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -83124,6 +83124,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T11:17:33.314485"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T11:22:33.439665"
       }
     ]
   },
@@ -83291,11 +83295,29 @@
     "sub_category": "急病",
     "location": "高雄市橋頭區",
     "units": "橋頭分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T11:20:33.378584"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T11:22:33.439665"
+      }
+    ]
+  },
+  "0375ec77be538fcb4e11278579a3e980": {
+    "time": "2026/09/22 11:21:55",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市三民區九如一路",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T11:22:33.439665"
       }
     ]
   }
