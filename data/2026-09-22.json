@@ -86299,7 +86299,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -86312,6 +86312,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T16:05:32.973566"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T16:23:33.323895"
       }
     ]
   },
@@ -86365,7 +86369,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區高坪二十七街",
     "units": "高桂分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -86382,6 +86386,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T16:15:33.186917"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T16:23:33.323895"
       }
     ]
   },
@@ -86391,7 +86399,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -86404,6 +86412,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T16:18:33.199152"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T16:23:33.323895"
       }
     ]
   },
@@ -86467,7 +86479,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -86476,6 +86488,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T16:12:33.188384"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T16:23:33.323895"
       }
     ]
   },
@@ -86565,11 +86581,15 @@
     "sub_category": "路倒",
     "location": "高雄市三民區天祥一路",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T16:21:33.224603"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T16:23:33.323895"
       }
     ]
   },
@@ -86579,11 +86599,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區綏遠一街",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T16:22:33.303276"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T16:23:33.323895"
       }
     ]
   },
