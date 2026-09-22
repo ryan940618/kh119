@@ -82829,7 +82829,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區文萊路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -82838,6 +82838,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T10:51:33.138337"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T10:55:33.210038"
       }
     ]
   },
@@ -82875,11 +82879,29 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T10:54:33.332453"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T10:55:33.210038"
+      }
+    ]
+  },
+  "7c46acb43faccc2caedab32b1924ed33": {
+    "time": "2026/09/22 10:54:21",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T10:55:33.210038"
       }
     ]
   }
