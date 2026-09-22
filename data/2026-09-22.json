@@ -84549,7 +84549,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -84558,6 +84558,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T13:50:33.227200"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T13:57:33.301356"
       }
     ]
   },
@@ -84589,11 +84593,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T13:55:33.300696"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T13:57:33.301356"
       }
     ]
   },
