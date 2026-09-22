@@ -82343,7 +82343,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -82352,6 +82352,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T10:25:33.316083"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T10:35:33.038656"
       }
     ]
   },
@@ -82645,11 +82649,15 @@
     "sub_category": "車禍",
     "location": "高雄市小港區桂平街",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T10:34:33.145570"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T10:35:33.038656"
       }
     ]
   }
