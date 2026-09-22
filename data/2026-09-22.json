@@ -79687,7 +79687,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -79704,6 +79704,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T07:46:34.093548"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T08:02:33.244842"
       }
     ]
   },
@@ -79937,7 +79941,7 @@
     "sub_category": "其他",
     "location": "高雄市岡山區",
     "units": "",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -79950,6 +79954,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T07:48:34.228643"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T08:02:33.244842"
       }
     ]
   },
@@ -80391,11 +80399,15 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T08:00:33.327025"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T08:02:33.244842"
       }
     ]
   },
@@ -80410,6 +80422,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T08:01:33.283164"
+      }
+    ]
+  },
+  "9061d5c8675a108988006b6454e5367e": {
+    "time": "2026/09/22 08:01:19",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市杉林區",
+    "units": "杉林分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T08:02:33.244842"
+      }
+    ]
+  },
+  "c81ff5eb5589270688b45613774089e1": {
+    "time": "2026/09/22 08:01:17",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區大順一路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T08:02:33.244842"
       }
     ]
   }
