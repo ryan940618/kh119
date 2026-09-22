@@ -82655,7 +82655,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -82668,6 +82668,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T10:39:33.153458"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T10:50:33.112535"
       }
     ]
   },
@@ -82677,7 +82681,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區桂平街",
     "units": "小港分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -82690,6 +82694,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T10:42:33.216667"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T10:50:33.112535"
       }
     ]
   },
@@ -82792,6 +82800,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T10:45:33.278361"
+      }
+    ]
+  },
+  "d3d0f68a398bb2ecd86c71ca82b8e27c": {
+    "time": "2026/09/22 10:48:47",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市左營區文萊路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T10:50:33.112535"
       }
     ]
   }
