@@ -80081,7 +80081,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區文館路和文學三街",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -80098,6 +80098,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T07:52:33.103902"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T08:01:33.283164"
       }
     ]
   },
@@ -80392,6 +80396,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T08:00:33.327025"
+      }
+    ]
+  },
+  "e93c2fa0e0d08b1a5ad29b3f1ad3b0d2": {
+    "time": "2026/09/22 07:59:59",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "瑞隆分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T08:01:33.283164"
       }
     ]
   }
