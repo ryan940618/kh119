@@ -87195,7 +87195,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -87204,6 +87204,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T17:11:33.432164"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T17:15:33.507088"
       }
     ]
   },
@@ -87227,11 +87231,15 @@
     "sub_category": "創傷",
     "location": "高雄市小港區大鵬路",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T17:13:33.651628"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T17:15:33.507088"
       }
     ]
   },
@@ -87241,11 +87249,29 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-22T17:13:33.651628"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T17:15:33.507088"
+      }
+    ]
+  },
+  "bf59729af510f1ee32ebb648219d4b67": {
+    "time": "2026/09/22 17:13:39",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市阿蓮區",
+    "units": "阿蓮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T17:15:33.507088"
       }
     ]
   }
