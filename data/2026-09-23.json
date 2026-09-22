@@ -90927,7 +90927,7 @@
     "sub_category": "急病",
     "location": "高雄市彌陀區",
     "units": "彌陀分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -90936,6 +90936,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T01:21:33.767070"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T01:30:33.924300"
       }
     ]
   },
@@ -90958,6 +90962,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T01:20:33.741198"
+      }
+    ]
+  },
+  "ae1298fba02a482ae0db5caa41e8ee58": {
+    "time": "2026/09/23 01:29:22",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T01:30:33.924300"
+      }
+    ]
+  },
+  "335bc5543990014a7b49a573cb313d33": {
+    "time": "2026/09/23 01:29:12",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市前金區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T01:30:33.924300"
       }
     ]
   }
