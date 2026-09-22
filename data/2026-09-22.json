@@ -89091,7 +89091,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區建國路",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -89104,6 +89104,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T19:45:33.400393"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T19:52:33.615878"
       }
     ]
   },
@@ -89157,7 +89161,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -89170,6 +89174,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T19:48:33.238698"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T19:52:33.615878"
       }
     ]
   },
@@ -89206,6 +89214,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T19:50:33.323886"
+      }
+    ]
+  },
+  "403ae46785e597e26a0e5b0d9a7a44d2": {
+    "time": "2026/09/22 19:51:53",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區大昌二路",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T19:52:33.615878"
       }
     ]
   }
