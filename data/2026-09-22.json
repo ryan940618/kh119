@@ -88647,7 +88647,7 @@
     "sub_category": "車禍",
     "location": "高雄市林園區中門路",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -88656,6 +88656,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T18:53:33.812358"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T18:59:34.119958"
       }
     ]
   },
@@ -88688,6 +88692,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T18:58:34.026432"
+      }
+    ]
+  },
+  "2ecaf7f8689f2a58bfb360ef805481e7": {
+    "time": "2026/09/22 18:58:53",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T18:59:34.119958"
+      }
+    ]
+  },
+  "090cf1a8efbcff8dae715e65a9cce344": {
+    "time": "2026/09/22 18:58:46",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市鼓山區",
+    "units": "",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T18:59:34.119958"
       }
     ]
   }
