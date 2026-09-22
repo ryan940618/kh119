@@ -80335,7 +80335,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區德民路",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -80344,6 +80344,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T08:00:33.327025"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T08:04:33.372130"
       }
     ]
   },
@@ -80353,7 +80357,7 @@
     "sub_category": "車禍",
     "location": "高雄市林園區東林西路",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -80362,6 +80366,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T08:00:33.327025"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T08:04:33.372130"
       }
     ]
   },
@@ -80407,7 +80415,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -80416,6 +80424,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T08:02:33.244842"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T08:04:33.372130"
       }
     ]
   },
@@ -80457,11 +80469,15 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區大順一路",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T08:02:33.244842"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T08:04:33.372130"
       }
     ]
   },
@@ -80471,11 +80487,57 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T08:03:33.417204"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T08:04:33.372130"
+      }
+    ]
+  },
+  "05c28eef9f9a4ac35230d2595ee3afa4": {
+    "time": "2026/09/22 08:03:32",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市美濃區",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T08:04:33.372130"
+      }
+    ]
+  },
+  "8e4385d0513593747f3b89ee8e4bfe2e": {
+    "time": "2026/09/22 08:03:17",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "前鎮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T08:04:33.372130"
+      }
+    ]
+  },
+  "e9fa21c25689fea3c8dbdd0845b9f01f": {
+    "time": "2026/09/22 08:03:10",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區北平路",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T08:04:33.372130"
       }
     ]
   }
