@@ -84819,7 +84819,7 @@
     "sub_category": "其他",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -84828,6 +84828,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T14:16:33.322456"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T14:21:33.620099"
       }
     ]
   },
@@ -84837,7 +84841,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -84846,6 +84850,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T14:14:33.397082"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T14:21:33.620099"
       }
     ]
   },
@@ -84931,11 +84939,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T14:20:33.467417"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T14:21:33.620099"
+      }
+    ]
+  },
+  "a25b25f1fb360dcfd486b37da7f7ded7": {
+    "time": "2026/09/22 14:20:47",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市路竹區中正路",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T14:21:33.620099"
       }
     ]
   }
