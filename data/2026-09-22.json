@@ -87853,7 +87853,7 @@
     "sub_category": "急病",
     "location": "高雄市彌陀區",
     "units": "彌陀分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -87866,6 +87866,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T17:50:33.931619"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T17:59:33.827437"
       }
     ]
   },
@@ -87978,6 +87982,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T17:57:33.882487"
+      }
+    ]
+  },
+  "9cd5d480cb41a01fcf3ffe78c72f6da0": {
+    "time": "2026/09/22 17:58:28",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區新莊一路",
+    "units": "左營分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T17:59:33.827437"
       }
     ]
   }
