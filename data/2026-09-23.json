@@ -91385,7 +91385,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -91398,6 +91398,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T03:11:33.749198"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T03:39:34.053520"
       }
     ]
   },
@@ -91521,11 +91525,15 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區溪寮路",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T03:34:33.892045"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T03:39:34.053520"
       }
     ]
   }
