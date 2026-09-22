@@ -88183,7 +88183,7 @@
     "sub_category": "路倒",
     "location": "高雄市橋頭區甲樹路",
     "units": "橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -88192,6 +88192,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T18:13:33.866140"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T18:20:33.846649"
       }
     ]
   },
@@ -88258,6 +88262,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T18:19:33.901808"
+      }
+    ]
+  },
+  "df92814ddab7b1fbaf071bd6b163062f": {
+    "time": "2026/09/22 18:19:52",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T18:20:33.846649"
       }
     ]
   }
