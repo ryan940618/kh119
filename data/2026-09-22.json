@@ -83383,7 +83383,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區南和一路",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -83396,6 +83396,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T11:33:33.473994"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T11:34:33.386420"
       }
     ]
   },
@@ -83414,6 +83418,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T11:30:33.573192"
+      }
+    ]
+  },
+  "dcd01af917526be648637005119ced80": {
+    "time": "2026/09/22 11:33:10",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區漢民路",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T11:34:33.386420"
       }
     ]
   }
