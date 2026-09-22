@@ -86425,7 +86425,7 @@
     "sub_category": "車禍",
     "location": "高雄市永安區保安路",
     "units": "永安分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已到達",
@@ -86434,6 +86434,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T16:22:33.303276"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T16:25:33.830071"
       }
     ]
   },
@@ -86549,11 +86553,15 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-22T16:17:33.361321"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T16:25:33.830071"
       }
     ]
   },
@@ -86631,11 +86639,29 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T16:24:33.283032"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T16:25:33.830071"
+      }
+    ]
+  },
+  "19f1d2e13e65603c5656f192e79dae0c": {
+    "time": "2026/09/22 16:24:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T16:25:33.830071"
       }
     ]
   }
