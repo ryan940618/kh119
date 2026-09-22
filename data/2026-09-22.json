@@ -84583,7 +84583,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -84600,6 +84600,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T14:00:33.372785"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T14:06:33.924646"
       }
     ]
   },
@@ -84689,11 +84693,29 @@
     "sub_category": "創傷",
     "location": "高雄市三民區站東路",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T14:05:33.406406"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T14:06:33.924646"
+      }
+    ]
+  },
+  "a8e9bcb208f8f9abb31a3eda47f63d87": {
+    "time": "2026/09/22 14:05:28",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T14:06:33.924646"
       }
     ]
   }
