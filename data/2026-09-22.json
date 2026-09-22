@@ -90255,7 +90255,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -90272,6 +90272,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T22:26:33.615455"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T22:33:33.601344"
       }
     ]
   },
@@ -90312,6 +90316,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T22:29:33.663947"
+      }
+    ]
+  },
+  "1819c1498170dee41da3267a1afae424": {
+    "time": "2026/09/22 22:32:46",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區忠孝二路",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T22:33:33.601344"
       }
     ]
   }
