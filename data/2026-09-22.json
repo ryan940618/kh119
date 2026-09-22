@@ -88281,7 +88281,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -88294,6 +88294,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T18:19:33.901808"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T19:13:33.323891"
       }
     ]
   },
@@ -88862,6 +88866,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T19:07:34.059403"
+      }
+    ]
+  },
+  "a87a8bd4d747289e6bf2c53f4ec3348d": {
+    "time": "2026/09/22 19:12:43",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區翠華路",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T19:13:33.323891"
+      }
+    ]
+  },
+  "3a73fa0ec50cc713016ea704cc0abfac": {
+    "time": "2026/09/22 19:12:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T19:13:33.323891"
       }
     ]
   }
