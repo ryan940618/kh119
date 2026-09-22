@@ -86999,7 +86999,7 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區凱興街",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -87008,6 +87008,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T16:48:33.418876"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T17:00:33.636529"
       }
     ]
   },
@@ -87052,6 +87056,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T16:57:33.324578"
+      }
+    ]
+  },
+  "dbaa8fcb04b23e5f1aa719a503515331": {
+    "time": "2026/09/22 16:59:55",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區凱旋三路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T17:00:33.636529"
       }
     ]
   }
