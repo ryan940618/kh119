@@ -89631,7 +89631,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區德民路",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -89640,6 +89640,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T20:25:33.642450"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T20:40:33.493044"
       }
     ]
   },
@@ -89663,7 +89667,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -89680,6 +89684,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T20:32:33.696971"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T20:40:33.493044"
       }
     ]
   },
@@ -89724,6 +89732,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T20:31:33.529024"
+      }
+    ]
+  },
+  "ab0d193d00a4e2538a86171326d72326": {
+    "time": "2026/09/22 20:39:57",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T20:40:33.493044"
+      }
+    ]
+  },
+  "8f57b2461193e64fd341dded9e4b2df3": {
+    "time": "2026/09/22 20:38:00",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "永安分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T20:40:33.493044"
       }
     ]
   }
