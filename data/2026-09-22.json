@@ -90047,7 +90047,7 @@
     "sub_category": "其他",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -90064,6 +90064,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T22:01:33.524395"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T22:09:33.711431"
       }
     ]
   },
@@ -90113,7 +90117,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -90122,6 +90126,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T22:03:33.358459"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T22:09:33.711431"
       }
     ]
   },
@@ -90162,6 +90170,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T22:06:33.503222"
+      }
+    ]
+  },
+  "5384c6123320511db2cf15b200014b71": {
+    "time": "2026/09/22 22:07:51",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區翠亨北路",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T22:09:33.711431"
       }
     ]
   }
