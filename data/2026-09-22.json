@@ -80837,7 +80837,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -80850,6 +80850,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T08:30:33.812143"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T08:36:33.595281"
       }
     ]
   },
@@ -81070,6 +81074,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T08:35:33.749860"
+      }
+    ]
+  },
+  "21fd4c5fdecee2180cbf284708fdd8f3": {
+    "time": "2026/09/22 08:35:52",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市苓雅區中正一路",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T08:36:33.595281"
       }
     ]
   }
