@@ -92961,7 +92961,7 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -92970,6 +92970,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T07:51:33.826568"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T07:54:34.410249"
       }
     ]
   },
@@ -92979,11 +92983,43 @@
     "sub_category": "車禍",
     "location": "高雄市三民區澄照街",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T07:52:34.401109"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T07:54:34.410249"
+      }
+    ]
+  },
+  "e07d7ed55f63ff9fc25204872fa2990b": {
+    "time": "2026/09/23 07:53:51",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T07:54:34.410249"
+      }
+    ]
+  },
+  "a5ff49adf5c5080e7a9dc77b3aea9551": {
+    "time": "2026/09/23 07:53:45",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大社區旗楠路",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T07:54:34.410249"
       }
     ]
   }
