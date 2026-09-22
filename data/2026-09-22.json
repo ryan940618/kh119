@@ -82083,7 +82083,7 @@
     "sub_category": "車禍",
     "location": "高雄市新興區七賢一路",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -82100,6 +82100,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T10:17:34.386391"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T10:23:33.579290"
       }
     ]
   },
@@ -82239,7 +82243,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區民族一路",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -82252,6 +82256,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T10:13:34.353099"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T10:23:33.579290"
       }
     ]
   },
@@ -82504,6 +82512,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T10:22:33.797055"
+      }
+    ]
+  },
+  "474211c519c6b13e21ff47471874c706": {
+    "time": "2026/09/22 10:22:40",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T10:23:33.579290"
+      }
+    ]
+  },
+  "73185f6d446abb447da83a7e5e018520": {
+    "time": "2026/09/22 10:20:12",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "苓雅區海邊路",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T10:23:33.579290"
       }
     ]
   }
