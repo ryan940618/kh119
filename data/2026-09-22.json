@@ -81937,7 +81937,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區民族一路",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -81954,6 +81954,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T10:03:34.231770"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T10:12:34.222048"
       }
     ]
   },
@@ -82292,6 +82296,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T10:10:34.201091"
+      }
+    ]
+  },
+  "52841aba8a9be249d3075e45c933e3fa": {
+    "time": "2026/09/22 10:11:22",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T10:12:34.222048"
       }
     ]
   }
