@@ -92565,7 +92565,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -92578,6 +92578,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T07:09:33.422776"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T07:23:33.592739"
       }
     ]
   },
@@ -92587,7 +92591,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -92596,6 +92600,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T07:11:33.693584"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T07:23:33.592739"
       }
     ]
   },
@@ -92645,11 +92653,15 @@
     "sub_category": "創傷",
     "location": "高雄市三民區建工路",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T07:22:33.630900"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T07:23:33.592739"
       }
     ]
   }
