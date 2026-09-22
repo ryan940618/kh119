@@ -86137,7 +86137,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區國泰路",
     "units": "鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -86146,6 +86146,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T15:49:34.126256"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T15:53:33.985610"
       }
     ]
   },
@@ -86173,11 +86177,15 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T15:51:34.060924"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T15:53:33.985610"
       }
     ]
   },
@@ -86187,11 +86195,29 @@
     "sub_category": "其他",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T15:52:33.994446"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T15:53:33.985610"
+      }
+    ]
+  },
+  "f1df3f5bcba7fc9c753858d8cf63b69b": {
+    "time": "2026/09/22 15:52:55",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市美濃區",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T15:53:33.985610"
       }
     ]
   }
