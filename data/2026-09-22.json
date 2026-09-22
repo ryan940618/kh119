@@ -81441,7 +81441,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -81454,6 +81454,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T09:14:33.761850"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T09:40:34.009833"
       }
     ]
   },
@@ -81755,7 +81759,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -81764,6 +81768,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T09:38:33.769487"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T09:40:34.009833"
       }
     ]
   },
@@ -81773,11 +81781,15 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T09:39:33.962998"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T09:40:34.009833"
       }
     ]
   },
@@ -81787,11 +81799,29 @@
     "sub_category": "急病",
     "location": "高雄市橋頭區",
     "units": "右昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T09:39:33.962998"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T09:40:34.009833"
+      }
+    ]
+  },
+  "85848d0f25a225e4e3f6bc99d955cad9": {
+    "time": "2026/09/22 09:39:19",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區文龍東路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T09:40:34.009833"
       }
     ]
   }
