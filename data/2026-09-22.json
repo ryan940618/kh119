@@ -83721,7 +83721,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區中山二路",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -83738,6 +83738,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T12:20:33.785478"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T12:22:33.691551"
       }
     ]
   },
@@ -83810,6 +83814,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T12:19:33.753131"
+      }
+    ]
+  },
+  "69b74e650f80462c88c17a49749b4914": {
+    "time": "2026/09/22 12:20:50",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T12:22:33.691551"
       }
     ]
   }
