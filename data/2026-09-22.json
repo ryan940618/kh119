@@ -81575,7 +81575,7 @@
     "sub_category": "其他",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -81592,6 +81592,10 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T09:29:33.723750"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T09:31:34.010048"
       }
     ]
   },
@@ -81662,6 +81666,34 @@
       {
         "status": "已受理",
         "timestamp": "2026-09-22T09:30:33.876158"
+      }
+    ]
+  },
+  "54f6df965e204b8a0ce3ea4b42437fd4": {
+    "time": "2026/09/22 09:30:35",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊,鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T09:31:34.010048"
+      }
+    ]
+  },
+  "b33146ff1c144f267f946cc8e3db8f1c": {
+    "time": "2026/09/22 09:29:40",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區南屏路",
+    "units": "左營分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T09:31:34.010048"
       }
     ]
   }
