@@ -92417,7 +92417,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -92426,6 +92426,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T06:50:33.336494"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T06:54:33.412976"
       }
     ]
   },
@@ -92435,7 +92439,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -92444,6 +92448,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T06:51:33.307743"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T06:54:33.412976"
+      }
+    ]
+  },
+  "29d55e5a3f931d5edf3d7c567236cc72": {
+    "time": "2026/09/23 06:53:03",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市林園區忠孝西路",
+    "units": "林園分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T06:54:33.412976"
       }
     ]
   }
