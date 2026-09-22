@@ -82053,7 +82053,7 @@
     "sub_category": "路倒",
     "location": "高雄市苓雅區廣州一街",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -82066,6 +82066,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T10:13:34.353099"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T10:20:34.368685"
       }
     ]
   },
@@ -82123,7 +82127,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區鳳加路",
     "units": "燕巢分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -82140,6 +82144,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T10:15:34.507348"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T10:20:34.368685"
       }
     ]
   },
@@ -82179,7 +82187,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -82192,6 +82200,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T10:07:34.080500"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T10:20:34.368685"
       }
     ]
   },
@@ -82263,7 +82275,7 @@
     "sub_category": "車禍",
     "location": "高雄市新興區六合一路",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -82272,6 +82284,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T10:14:34.448945"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T10:20:34.368685"
       }
     ]
   },
@@ -82394,6 +82410,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T10:18:34.552679"
+      }
+    ]
+  },
+  "7cf95a62ef1cec49ca8aed3d3af14b87": {
+    "time": "2026/09/22 10:19:30",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T10:20:34.368685"
       }
     ]
   }
