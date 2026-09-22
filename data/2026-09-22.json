@@ -80585,7 +80585,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -80598,6 +80598,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T08:12:33.882749"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T08:18:33.552295"
       }
     ]
   },
@@ -80753,11 +80757,29 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-22T08:12:33.882749"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T08:18:33.552295"
+      }
+    ]
+  },
+  "a6b940fa524ca895a4a5020d2c9da61e": {
+    "time": "2026/09/22 08:17:49",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T08:18:33.552295"
       }
     ]
   }
