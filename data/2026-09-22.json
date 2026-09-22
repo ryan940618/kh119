@@ -82965,7 +82965,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -82978,6 +82978,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T11:04:33.355134"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T11:11:33.402425"
       }
     ]
   },
@@ -83005,7 +83009,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -83018,6 +83022,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T11:06:33.244357"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T11:11:33.402425"
       }
     ]
   },
@@ -83041,7 +83049,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -83050,6 +83058,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T11:05:33.278786"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T11:11:33.402425"
       }
     ]
   },
@@ -83100,6 +83112,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T11:09:33.368379"
+      }
+    ]
+  },
+  "bb674d40f648179f1bf8f9c0862f9d82": {
+    "time": "2026/09/22 11:09:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "前金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T11:11:33.402425"
       }
     ]
   }
