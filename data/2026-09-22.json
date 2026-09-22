@@ -80321,7 +80321,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區南京路",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -80330,6 +80330,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T07:59:33.150281"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T08:06:33.437404"
       }
     ]
   },
@@ -80477,7 +80481,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區大順一路",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -80486,6 +80490,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T08:04:33.372130"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T08:06:33.437404"
       }
     ]
   },
@@ -80563,11 +80571,29 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區正勤路",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T08:05:33.263269"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T08:06:33.437404"
+      }
+    ]
+  },
+  "f1544e872c87b4a04cbdbb1c80879df9": {
+    "time": "2026/09/22 08:05:13",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市旗山區永福街",
+    "units": "旗山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T08:06:33.437404"
       }
     ]
   }
