@@ -87089,7 +87089,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區凱旋三路",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -87106,6 +87106,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T17:12:33.560584"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T17:22:33.544171"
       }
     ]
   },
@@ -87347,7 +87351,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區大春街",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -87356,6 +87360,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T17:18:33.506894"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T17:22:33.544171"
       }
     ]
   },
@@ -87370,6 +87378,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T17:19:33.558724"
+      }
+    ]
+  },
+  "89d954e01b55831c819892edd9da2a1d": {
+    "time": "2026/09/22 17:18:46",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區九如二路",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T17:22:33.544171"
       }
     ]
   }
