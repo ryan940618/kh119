@@ -92707,7 +92707,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -92724,6 +92724,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T07:45:33.734509"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T07:48:33.736456"
       }
     ]
   },
@@ -92918,6 +92922,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T07:46:33.742707"
+      }
+    ]
+  },
+  "6d07255961b27a24cbe22469af2d2285": {
+    "time": "2026/09/23 07:46:41",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區鼓山區翠華路",
+    "units": "左營分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T07:48:33.736456"
       }
     ]
   }
