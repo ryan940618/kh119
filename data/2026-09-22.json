@@ -82707,7 +82707,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -82724,6 +82724,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T10:48:33.217174"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T10:52:33.311273"
       }
     ]
   },
@@ -82795,11 +82799,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區二聖一路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-22T10:45:33.278361"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T10:52:33.311273"
       }
     ]
   },
