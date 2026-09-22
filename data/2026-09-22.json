@@ -82345,7 +82345,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -82354,6 +82354,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T10:14:34.448945"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T10:18:34.552679"
       }
     ]
   },
@@ -82372,6 +82376,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T10:16:34.479000"
+      }
+    ]
+  },
+  "8ce808f06fe4341998711c12ee31d38b": {
+    "time": "2026/09/22 10:17:48",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區建國三路",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T10:18:34.552679"
       }
     ]
   }
