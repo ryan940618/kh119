@@ -84825,7 +84825,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區南江街",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -84842,6 +84842,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T14:27:33.585262"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T14:42:33.569838"
       }
     ]
   },
@@ -85115,7 +85119,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -85132,6 +85136,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T14:33:33.571302"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T14:42:33.569838"
       }
     ]
   },
@@ -85163,7 +85171,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -85172,6 +85180,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T14:37:33.646388"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T14:42:33.569838"
       }
     ]
   },
@@ -85204,6 +85216,48 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T14:41:33.518769"
+      }
+    ]
+  },
+  "642be632e38d91009e0bf363ddc57fa7": {
+    "time": "2026/09/22 14:41:42",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大社區",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T14:42:33.569838"
+      }
+    ]
+  },
+  "d1fc4da6ad3ebb21166a2fa3608f6c50": {
+    "time": "2026/09/22 14:41:25",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市大寮區河堤路",
+    "units": "和發分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T14:42:33.569838"
+      }
+    ]
+  },
+  "8790cdaf35914542ebc50266b1ca4d9d": {
+    "time": "2026/09/22 14:41:17",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市大寮區河堤路",
+    "units": "和發分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T14:42:33.569838"
       }
     ]
   }
