@@ -86465,7 +86465,7 @@
     "sub_category": "雜草(含廢棄物、墓地)",
     "location": "高雄市湖內區中華街",
     "units": "湖內分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -86474,6 +86474,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T16:12:33.188384"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T16:17:33.361321"
       }
     ]
   },
@@ -86483,7 +86487,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -86492,6 +86496,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T16:14:33.246629"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T16:17:33.361321"
+      }
+    ]
+  },
+  "37cf02496574efedac99d45b83a57650": {
+    "time": "2026/09/22 16:16:03",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳥松區",
+    "units": "鳥松分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T16:17:33.361321"
       }
     ]
   }
