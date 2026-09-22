@@ -81437,7 +81437,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -81446,6 +81446,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T09:04:33.784407"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T09:14:33.761850"
       }
     ]
   },
@@ -81500,6 +81504,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T09:13:33.688616"
+      }
+    ]
+  },
+  "46390c21610d5a43c91fd1798d6bfa23": {
+    "time": "2026/09/22 09:13:41",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區五福一路",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T09:14:33.761850"
       }
     ]
   }
