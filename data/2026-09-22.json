@@ -85157,7 +85157,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -85170,6 +85170,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T14:38:33.605428"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T14:50:33.624087"
       }
     ]
   },
@@ -85223,7 +85227,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -85232,6 +85236,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T14:44:33.738680"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T14:50:33.624087"
       }
     ]
   },
@@ -85241,7 +85249,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -85254,6 +85262,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T14:47:33.677399"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T14:50:33.624087"
       }
     ]
   },
@@ -85353,11 +85365,15 @@
     "sub_category": "車禍",
     "location": "高雄市美濃區",
     "units": "旗山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T14:49:33.749905"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T14:50:33.624087"
       }
     ]
   }
