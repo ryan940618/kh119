@@ -91649,7 +91649,7 @@
     "sub_category": "路倒",
     "location": "高雄市六龜區光復路",
     "units": "六龜分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -91662,6 +91662,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T04:18:33.185923"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T05:02:33.429388"
       }
     ]
   },
@@ -91753,7 +91757,7 @@
     "sub_category": "一般(集合)住宅",
     "location": "高雄市梓官區漁港一路",
     "units": "梓官分隊",
-    "current_status": "火已控",
+    "current_status": "火已滅",
     "status_history": [
       {
         "status": "已派遣",
@@ -91782,6 +91786,10 @@
       {
         "status": "火已控",
         "timestamp": "2026-09-23T04:57:33.546353"
+      },
+      {
+        "status": "火已滅",
+        "timestamp": "2026-09-23T05:02:33.429388"
       }
     ]
   },
@@ -91866,6 +91874,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T04:58:33.563130"
+      }
+    ]
+  },
+  "86226ae507e175bd487fb615fc0c691f": {
+    "time": "2026/09/23 05:01:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T05:02:33.429388"
       }
     ]
   }
