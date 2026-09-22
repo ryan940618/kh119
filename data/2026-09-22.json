@@ -84359,7 +84359,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -84376,6 +84376,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T13:31:33.151663"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T13:50:33.227200"
       }
     ]
   },
@@ -84537,11 +84541,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-22T13:45:33.166215"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T13:50:33.227200"
       }
     ]
   },
