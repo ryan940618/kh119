@@ -85365,7 +85365,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -85382,6 +85382,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T15:15:33.723661"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T15:25:33.850448"
       }
     ]
   },
@@ -85443,7 +85447,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -85456,6 +85460,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T15:03:33.720783"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T15:25:33.850448"
       }
     ]
   },
@@ -85579,7 +85587,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -85588,6 +85596,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T15:07:33.736952"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T15:25:33.850448"
       }
     ]
   },
@@ -85597,7 +85609,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -85610,6 +85622,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T15:14:33.970000"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T15:25:33.850448"
       }
     ]
   },
@@ -85736,6 +85752,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T15:20:33.812402"
+      }
+    ]
+  },
+  "e6e5d625c38d0e40954193e732b51020": {
+    "time": "2026/09/22 15:23:00",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前金區",
+    "units": "前金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T15:25:33.850448"
       }
     ]
   }
