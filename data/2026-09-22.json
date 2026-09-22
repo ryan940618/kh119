@@ -87769,7 +87769,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -87786,6 +87786,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T18:00:33.782984"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T18:06:33.825200"
       }
     ]
   },
@@ -88064,6 +88068,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T18:04:33.872517"
+      }
+    ]
+  },
+  "d55de459b8473f55f692537b257b6f79": {
+    "time": "2026/09/22 18:05:24",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市楠梓區興楠路",
+    "units": "楠梓分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T18:06:33.825200"
       }
     ]
   }
