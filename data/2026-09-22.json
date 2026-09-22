@@ -81875,7 +81875,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -81884,6 +81884,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T09:48:33.994216"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T09:53:33.978785"
       }
     ]
   },
@@ -81951,11 +81955,29 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T09:52:34.150916"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T09:53:33.978785"
+      }
+    ]
+  },
+  "873523877ec7d8a21a066a99c71a610e": {
+    "time": "2026/09/22 09:52:28",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市苓雅區廣州一街",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T09:53:33.978785"
       }
     ]
   }
