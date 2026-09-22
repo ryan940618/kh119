@@ -81959,7 +81959,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -81968,6 +81968,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T09:53:33.978785"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T09:55:34.059297"
       }
     ]
   },
@@ -81996,6 +82000,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T09:54:34.032596"
+      }
+    ]
+  },
+  "f430d0b62714ac89d11400da4900f88d": {
+    "time": "2026/09/22 09:54:01",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T09:55:34.059297"
       }
     ]
   }
