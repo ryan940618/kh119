@@ -87151,7 +87151,7 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區和平一路",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -87164,6 +87164,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T17:06:33.504476"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T17:17:33.555160"
       }
     ]
   },
@@ -87290,6 +87294,48 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T17:16:33.525903"
+      }
+    ]
+  },
+  "d2a74c1de5372e204d1879530cc06ba8": {
+    "time": "2026/09/22 17:16:49",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T17:17:33.555160"
+      }
+    ]
+  },
+  "872bf4bead3e4af6211d9f0a05475489": {
+    "time": "2026/09/22 17:16:12",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T17:17:33.555160"
+      }
+    ]
+  },
+  "e661d6cf065dc38382471bf50558b445": {
+    "time": "2026/09/22 17:15:57",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區大春街",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T17:17:33.555160"
       }
     ]
   }
