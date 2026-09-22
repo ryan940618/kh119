@@ -89155,7 +89155,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區同盟二路",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -89168,6 +89168,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T19:44:33.593787"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T20:01:33.329413"
       }
     ]
   },
@@ -89203,7 +89207,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -89216,6 +89220,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T19:56:33.387340"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T20:01:33.329413"
       }
     ]
   },
@@ -89265,11 +89273,29 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T20:00:33.359602"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T20:01:33.329413"
+      }
+    ]
+  },
+  "00b827db7024b738a6546c5ac531095b": {
+    "time": "2026/09/22 20:00:18",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T20:01:33.329413"
       }
     ]
   }
