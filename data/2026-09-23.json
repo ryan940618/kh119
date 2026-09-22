@@ -92725,7 +92725,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區樂利路和永順街",
     "units": "高桂分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -92734,6 +92734,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T07:30:33.576601"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T07:40:33.854372"
       }
     ]
   },
@@ -92837,11 +92841,29 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T07:38:33.787393"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T07:40:33.854372"
+      }
+    ]
+  },
+  "ca0f5172989c9ff4ad6c85a009b12996": {
+    "time": "2026/09/23 07:40:12",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市杉林區",
+    "units": "杉林分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T07:40:33.854372"
       }
     ]
   }
