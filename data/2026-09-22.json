@@ -85419,7 +85419,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -85428,6 +85428,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T14:56:33.733966"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T15:03:33.720783"
       }
     ]
   },
@@ -85496,6 +85500,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T14:59:33.715623"
+      }
+    ]
+  },
+  "f5f490ab1d7cb7cecdadf153528626ed": {
+    "time": "2026/09/22 15:02:43",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區青田街",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T15:03:33.720783"
+      }
+    ]
+  },
+  "64d7a536ca39a9e89cffeced7b8bd409": {
+    "time": "2026/09/22 15:02:13",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市阿蓮區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T15:03:33.720783"
       }
     ]
   }
