@@ -89421,7 +89421,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -89430,6 +89430,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T20:13:33.458190"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T20:17:33.436522"
       }
     ]
   },
@@ -89448,6 +89452,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T20:16:33.440230"
+      }
+    ]
+  },
+  "921828898b4d3afda2fcd67a0150f56f": {
+    "time": "2026/09/22 20:17:10",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市甲仙區",
+    "units": "甲仙分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T20:17:33.436522"
       }
     ]
   }
