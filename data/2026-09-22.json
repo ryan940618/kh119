@@ -83303,7 +83303,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳥松分隊,鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -83316,6 +83316,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T11:31:33.487181"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T11:36:33.480171"
       }
     ]
   },
@@ -83417,7 +83421,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -83426,6 +83430,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T11:30:33.573192"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T11:36:33.480171"
       }
     ]
   },
@@ -83435,11 +83443,29 @@
     "sub_category": "車禍",
     "location": "高雄市小港區漢民路",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T11:34:33.386420"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T11:36:33.480171"
+      }
+    ]
+  },
+  "ebe4aa904557c6300af8fd7ee0f6d8b9": {
+    "time": "2026/09/22 11:34:56",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市林園區忠孝東路",
+    "units": "林園分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T11:36:33.480171"
       }
     ]
   }
