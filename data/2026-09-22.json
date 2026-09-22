@@ -89795,7 +89795,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "永安分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -89804,6 +89804,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T20:47:33.942481"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T21:01:34.071156"
       }
     ]
   },
@@ -89813,7 +89817,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區文萊路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -89822,6 +89826,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T20:56:33.921431"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T21:01:34.071156"
       }
     ]
   },
@@ -89840,6 +89848,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T20:57:33.989260"
+      }
+    ]
+  },
+  "e52bb3a2c11bf8491d038bf2fe5f044a": {
+    "time": "2026/09/22 21:00:38",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區中華路",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T21:01:34.071156"
       }
     ]
   }
