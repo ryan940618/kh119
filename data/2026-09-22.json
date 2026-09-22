@@ -82379,7 +82379,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區鳳屏二路",
     "units": "中庄分隊,大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -82396,6 +82396,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T10:30:33.308363"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T10:41:33.151971"
       }
     ]
   },
@@ -82710,6 +82714,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T10:38:33.366267"
+      }
+    ]
+  },
+  "b68a445dd10756b31a4e314f07dabadc": {
+    "time": "2026/09/22 10:40:34",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市大社區文明路",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T10:41:33.151971"
       }
     ]
   }
