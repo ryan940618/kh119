@@ -86713,7 +86713,7 @@
     "sub_category": "路倒",
     "location": "高雄市楠梓區慶昌街",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -86722,6 +86722,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T16:27:33.268898"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T16:31:33.227084"
       }
     ]
   },
@@ -86785,11 +86789,29 @@
     "sub_category": "車禍",
     "location": "高雄市三民區覺民路",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T16:30:33.452199"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T16:31:33.227084"
+      }
+    ]
+  },
+  "2a0f53bc5145449c11c7bb9e4a49c4e6": {
+    "time": "2026/09/22 16:30:46",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區和平路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T16:31:33.227084"
       }
     ]
   }
