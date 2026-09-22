@@ -87189,7 +87189,7 @@
     "sub_category": "車禍",
     "location": "高雄市林園區溪州一路",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -87206,6 +87206,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T17:19:33.558724"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T17:26:33.645382"
       }
     ]
   },
@@ -87215,7 +87219,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -87228,6 +87232,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T17:15:33.507088"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T17:26:33.645382"
       }
     ]
   },
@@ -87458,6 +87466,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T17:25:33.465964"
+      }
+    ]
+  },
+  "445ceed7bb4b75066113a21fce105824": {
+    "time": "2026/09/22 17:25:14",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區民興街",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T17:26:33.645382"
+      }
+    ]
+  },
+  "cce2a3ff6322fae53abc2d60124b3489": {
+    "time": "2026/09/22 17:24:17",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市新興區復興一路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T17:26:33.645382"
       }
     ]
   }
