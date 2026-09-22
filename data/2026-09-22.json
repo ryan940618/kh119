@@ -90039,7 +90039,7 @@
     "sub_category": "其他",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -90052,6 +90052,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T21:55:33.419288"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T22:01:33.524395"
       }
     ]
   },
@@ -90102,6 +90106,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T22:00:33.517633"
+      }
+    ]
+  },
+  "2e1d6536deb32251da094d6b0fefd683": {
+    "time": "2026/09/22 22:00:23",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區裕誠路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T22:01:33.524395"
       }
     ]
   }
