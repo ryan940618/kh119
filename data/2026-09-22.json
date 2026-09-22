@@ -85731,7 +85731,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -85744,6 +85744,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T15:26:33.818296"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T15:36:33.927167"
       }
     ]
   },
@@ -85829,11 +85833,15 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T15:34:33.857842"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T15:36:33.927167"
       }
     ]
   },
@@ -85848,6 +85856,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T15:35:33.937202"
+      }
+    ]
+  },
+  "8f8d0d233e5b4e2747bb18b8a2e40b6e": {
+    "time": "2026/09/22 15:35:56",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市燕巢區中北路",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T15:36:33.927167"
       }
     ]
   }
