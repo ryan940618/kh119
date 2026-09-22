@@ -80211,7 +80211,7 @@
     "sub_category": "路倒",
     "location": "高雄市路竹區路",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -80224,6 +80224,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T07:55:33.322801"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T08:05:33.263269"
       }
     ]
   },
@@ -80397,7 +80401,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -80406,6 +80410,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T08:03:33.417204"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T08:05:33.263269"
       }
     ]
   },
@@ -80505,11 +80513,15 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T08:04:33.372130"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T08:05:33.263269"
       }
     ]
   },
@@ -80533,11 +80545,29 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區北平路",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T08:04:33.372130"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T08:05:33.263269"
+      }
+    ]
+  },
+  "46cde2cd0db7a986a5526d2f7d3bb95a": {
+    "time": "2026/09/22 08:04:32",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區正勤路",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T08:05:33.263269"
       }
     ]
   }
