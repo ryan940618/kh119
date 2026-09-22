@@ -91553,7 +91553,7 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區溪寮路",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -91566,6 +91566,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T03:45:32.922012"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T04:08:33.154160"
       }
     ]
   },
@@ -91637,11 +91641,29 @@
     "sub_category": "路倒",
     "location": "高雄市六龜區光復路",
     "units": "六龜分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T04:06:32.986139"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T04:08:33.154160"
+      }
+    ]
+  },
+  "e3305f4d155c1c4933e46963390b4ea6": {
+    "time": "2026/09/23 04:07:21",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T04:08:33.154160"
       }
     ]
   }
