@@ -84475,7 +84475,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -84492,6 +84492,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T13:54:33.294786"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T14:07:33.545616"
       }
     ]
   },
@@ -84675,7 +84679,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區莊敬路",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -84684,6 +84688,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T14:04:33.244956"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T14:07:33.545616"
       }
     ]
   },
@@ -84716,6 +84724,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T14:06:33.924646"
+      }
+    ]
+  },
+  "5f9e0e70061a7ff3a31cd517bb0fd0b0": {
+    "time": "2026/09/22 14:06:57",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T14:07:33.545616"
       }
     ]
   }
