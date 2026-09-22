@@ -92903,7 +92903,7 @@
     "sub_category": "急病",
     "location": "高雄市杉林區",
     "units": "杉林分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -92912,6 +92912,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T07:41:33.887042"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T07:50:33.821462"
       }
     ]
   },
@@ -92944,6 +92948,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T07:48:33.736456"
+      }
+    ]
+  },
+  "7d209af0aca5d0dce772ae8d0ad17a81": {
+    "time": "2026/09/23 07:49:41",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市鳳山區",
+    "units": "",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T07:50:33.821462"
       }
     ]
   }
