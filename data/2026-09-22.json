@@ -88567,7 +88567,7 @@
     "sub_category": "車禍",
     "location": "高雄市新興區青年一路",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -88584,6 +88584,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T19:00:33.894444"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T19:05:33.946993"
       }
     ]
   },
@@ -88593,7 +88597,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -88610,6 +88614,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T19:02:34.173184"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T19:05:33.946993"
       }
     ]
   },
@@ -88619,7 +88627,7 @@
     "sub_category": "創傷",
     "location": "高雄市鼓山區中山大學-武嶺宿舍[高雄市鼓山區蓮海路",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -88632,6 +88640,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T18:55:33.889903"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T19:05:33.946993"
       }
     ]
   },
@@ -88787,11 +88799,15 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區橋新八路",
     "units": "橋頭分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T19:04:33.974973"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T19:05:33.946993"
       }
     ]
   }
