@@ -89409,7 +89409,7 @@
     "sub_category": "急病",
     "location": "高雄市內門區",
     "units": "內門分隊,杉林分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -89426,6 +89426,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T20:29:33.588272"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T20:56:33.921431"
       }
     ]
   },
@@ -89735,7 +89739,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -89752,6 +89756,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T20:42:33.569919"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T20:56:33.921431"
       }
     ]
   },
@@ -89801,11 +89809,29 @@
     "sub_category": "車禍",
     "location": "高雄市左營區文萊路",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T20:54:40.061076"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T20:56:33.921431"
+      }
+    ]
+  },
+  "2a94779a59553a36510b661819b8f1a4": {
+    "time": "2026/09/22 20:55:38",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T20:56:33.921431"
       }
     ]
   }
