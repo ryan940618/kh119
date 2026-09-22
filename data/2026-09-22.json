@@ -87733,7 +87733,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -87742,6 +87742,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T17:45:33.609135"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T17:48:33.734154"
       }
     ]
   },
@@ -87769,11 +87773,15 @@
     "sub_category": "車禍",
     "location": "高雄市小港區高松路",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T17:46:33.771176"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T17:48:33.734154"
       }
     ]
   },
@@ -87788,6 +87796,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T17:47:33.663276"
+      }
+    ]
+  },
+  "b72068a23cae3ba70d98bc5742a2c6bf": {
+    "time": "2026/09/22 17:47:33",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市彌陀區",
+    "units": "彌陀分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T17:48:33.734154"
+      }
+    ]
+  },
+  "86cb52e4db2ce1a6025479b879b438b6": {
+    "time": "2026/09/22 17:47:31",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區建德路",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T17:48:33.734154"
       }
     ]
   }
