@@ -82007,7 +82007,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -82020,6 +82020,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T09:55:34.059297"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T10:06:34.832897"
       }
     ]
   },
@@ -82109,7 +82113,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -82122,6 +82126,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T10:02:34.090018"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T10:06:34.832897"
       }
     ]
   },
@@ -82194,6 +82202,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T10:04:34.564240"
+      }
+    ]
+  },
+  "3cc687e065ff21e0dbed4eae1fc4ddf1": {
+    "time": "2026/09/22 10:05:06",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市新興區六合一路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T10:06:34.832897"
       }
     ]
   }
