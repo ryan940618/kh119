@@ -85161,7 +85161,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -85178,6 +85178,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T14:50:33.624087"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T14:58:33.704978"
       }
     ]
   },
@@ -85371,7 +85375,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區天興街",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -85380,6 +85384,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T14:47:33.677399"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T14:58:33.704978"
       }
     ]
   },
@@ -85434,6 +85442,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T14:56:33.733966"
+      }
+    ]
+  },
+  "ada4e3f4637935f171dcb2b3223e0640": {
+    "time": "2026/09/22 14:57:18",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區鐵道三街",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T14:58:33.704978"
+      }
+    ]
+  },
+  "04a7ad693dc257b5180471cfe7134bec": {
+    "time": "2026/09/22 14:56:12",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市阿蓮區",
+    "units": "阿蓮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T14:58:33.704978"
       }
     ]
   }
