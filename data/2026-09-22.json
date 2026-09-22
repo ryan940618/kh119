@@ -83003,7 +83003,7 @@
     "sub_category": "急病",
     "location": "高雄市甲仙區",
     "units": "甲仙分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -83012,6 +83012,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T11:04:33.355134"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T11:16:33.248271"
       }
     ]
   },
@@ -83105,7 +83109,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區國泰路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -83114,6 +83118,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T11:10:33.552044"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T11:16:33.248271"
       }
     ]
   },
@@ -83188,6 +83196,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T11:15:33.256420"
+      }
+    ]
+  },
+  "d2d1c0f900e0194a95169648d2f46d91": {
+    "time": "2026/09/22 11:15:25",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T11:16:33.248271"
       }
     ]
   }
