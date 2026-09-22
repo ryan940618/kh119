@@ -85835,7 +85835,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -85848,6 +85848,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T15:31:33.750117"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T15:49:34.126256"
       }
     ]
   },
@@ -85931,7 +85935,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -85948,6 +85952,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T15:47:33.935173"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T15:49:34.126256"
       }
     ]
   },
@@ -86067,11 +86075,15 @@
     "sub_category": "其他",
     "location": "高雄市前金區新田路",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T15:46:34.005410"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T15:49:34.126256"
       }
     ]
   },
@@ -86109,11 +86121,29 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區國泰路",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T15:48:34.235069"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T15:49:34.126256"
+      }
+    ]
+  },
+  "3617fcd164628c4ec9215425930c5d1c": {
+    "time": "2026/09/22 15:48:26",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T15:49:34.126256"
       }
     ]
   }
