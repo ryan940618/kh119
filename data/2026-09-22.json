@@ -89367,7 +89367,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -89384,6 +89384,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T20:22:33.495626"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T20:26:33.571112"
       }
     ]
   },
@@ -89511,7 +89515,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區福德三路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -89520,6 +89524,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T20:19:33.605357"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T20:26:33.571112"
       }
     ]
   },
@@ -89620,6 +89628,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T20:24:33.630057"
+      }
+    ]
+  },
+  "2a4274f83e31bb19173a9d5110be1a44": {
+    "time": "2026/09/22 20:25:46",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T20:26:33.571112"
+      }
+    ]
+  },
+  "2effb6bc1e4e28d73c30a196659b4637": {
+    "time": "2026/09/22 20:25:07",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T20:26:33.571112"
       }
     ]
   }
