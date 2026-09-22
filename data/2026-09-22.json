@@ -87871,11 +87871,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區建德路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-22T17:48:33.734154"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T17:56:33.742664"
       }
     ]
   },
@@ -87903,7 +87907,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區成功北路",
     "units": "橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -87912,6 +87916,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T17:51:33.733803"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T17:56:33.742664"
       }
     ]
   },
@@ -87930,6 +87938,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T17:53:33.689388"
+      }
+    ]
+  },
+  "32aeda08bf77060d06a4de58f29ed35f": {
+    "time": "2026/09/22 17:55:54",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區重慶街",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T17:56:33.742664"
+      }
+    ]
+  },
+  "f0c977f066323172424351d31c8ebfd3": {
+    "time": "2026/09/22 17:55:47",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區大昌一路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T17:56:33.742664"
       }
     ]
   }
