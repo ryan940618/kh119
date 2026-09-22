@@ -92275,7 +92275,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -92288,6 +92288,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T06:39:33.234618"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T06:51:33.307743"
       }
     ]
   },
@@ -92431,11 +92435,15 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T06:50:33.336494"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T06:51:33.307743"
       }
     ]
   }
