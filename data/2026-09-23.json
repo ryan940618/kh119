@@ -91143,7 +91143,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -91160,6 +91160,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T02:35:33.433681"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T02:38:33.451987"
       }
     ]
   },
@@ -91253,11 +91257,15 @@
     "sub_category": "其他",
     "location": "高雄市苓雅區新光路",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T02:37:33.450352"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T02:38:33.451987"
       }
     ]
   }
