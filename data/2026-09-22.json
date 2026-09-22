@@ -86527,7 +86527,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -86544,6 +86544,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T16:22:33.303276"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T16:26:33.386380"
       }
     ]
   },
@@ -86662,6 +86666,48 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T16:25:33.830071"
+      }
+    ]
+  },
+  "b079ed7bb41b20b7f6373f44a0b1d72d": {
+    "time": "2026/09/22 16:25:39",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T16:26:33.386380"
+      }
+    ]
+  },
+  "776506ddd8fc475494d7cf40960853bd": {
+    "time": "2026/09/22 16:25:50",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市楠梓區慶昌街",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T16:26:33.386380"
+      }
+    ]
+  },
+  "0983d3058d2cb69322120a47a0b04e52": {
+    "time": "2026/09/22 16:24:09",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市前鎮區崗山中街",
+    "units": "瑞隆分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T16:26:33.386380"
       }
     ]
   }
