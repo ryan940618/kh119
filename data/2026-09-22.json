@@ -85903,7 +85903,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區瑞興路",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -85920,6 +85920,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T16:05:32.973566"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T16:11:33.124528"
       }
     ]
   },
@@ -86391,11 +86395,15 @@
     "sub_category": "其他",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T16:09:33.045808"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T16:11:33.124528"
       }
     ]
   },
@@ -86410,6 +86418,48 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T16:10:33.258777"
+      }
+    ]
+  },
+  "e3ebd2dcb3d3e30bbcf7699c3cadde9f": {
+    "time": "2026/09/22 16:11:02",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T16:11:33.124528"
+      }
+    ]
+  },
+  "b7e55ee4fc32d76c39466ae2dbca4acd": {
+    "time": "2026/09/22 16:09:57",
+    "category": "火災",
+    "sub_category": "雜草(含廢棄物、墓地)",
+    "location": "高雄市湖內區中華街",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T16:11:33.124528"
+      }
+    ]
+  },
+  "040ea2f5371a2c7e225bebf5b839957f": {
+    "time": "2026/09/22 16:09:56",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T16:11:33.124528"
       }
     ]
   }
