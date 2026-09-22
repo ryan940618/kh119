@@ -84889,7 +84889,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -84898,6 +84898,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T14:17:33.520316"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T14:23:33.524226"
       }
     ]
   },
@@ -84966,6 +84970,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T14:21:33.620099"
+      }
+    ]
+  },
+  "0c602e25b98df4c671ea303d21149a73": {
+    "time": "2026/09/22 14:22:12",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區三誠路",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T14:23:33.524226"
       }
     ]
   }
