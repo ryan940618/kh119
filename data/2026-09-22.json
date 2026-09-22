@@ -84747,7 +84747,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -84764,6 +84764,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T14:22:33.435116"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T14:32:33.538583"
       }
     ]
   },
@@ -85031,7 +85035,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區三誠路",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -85040,6 +85044,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T14:26:33.486557"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T14:32:33.538583"
       }
     ]
   },
@@ -85049,7 +85057,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區澄清路",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -85058,6 +85066,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T14:26:33.486557"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T14:32:33.538583"
       }
     ]
   },
@@ -85080,6 +85092,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T14:31:33.578552"
+      }
+    ]
+  },
+  "0282dfb1e6616572d5577cba5a396300": {
+    "time": "2026/09/22 14:31:56",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T14:32:33.538583"
       }
     ]
   }
