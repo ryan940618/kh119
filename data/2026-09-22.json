@@ -85905,7 +85905,7 @@
     "sub_category": "創傷",
     "location": "高雄市燕巢區中北路",
     "units": "燕巢分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -85918,6 +85918,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T15:42:34.019693"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T15:48:34.235069"
       }
     ]
   },
@@ -86096,6 +86100,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T15:47:33.935173"
+      }
+    ]
+  },
+  "ca78deeaacc115a570bde61c7b78b69a": {
+    "time": "2026/09/22 15:47:08",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區國泰路",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T15:48:34.235069"
       }
     ]
   }
