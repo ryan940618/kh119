@@ -92613,7 +92613,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -92626,6 +92626,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T07:20:33.563848"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T07:27:33.644900"
       }
     ]
   },
@@ -92657,7 +92661,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區建工路",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -92666,6 +92670,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T07:23:33.592739"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T07:27:33.644900"
+      }
+    ]
+  },
+  "6895307e9bea287e5312bed37c38ca32": {
+    "time": "2026/09/23 07:26:25",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前金區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T07:27:33.644900"
       }
     ]
   }
