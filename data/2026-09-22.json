@@ -89219,7 +89219,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -89236,6 +89236,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T20:01:33.329413"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T20:10:33.373177"
       }
     ]
   },
@@ -89356,6 +89360,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T20:07:33.498670"
+      }
+    ]
+  },
+  "7ade03b48a5981ac0ba80c12e0a23f8a": {
+    "time": "2026/09/22 20:09:26",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市內門區",
+    "units": "內門分隊,杉林分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T20:10:33.373177"
+      }
+    ]
+  },
+  "1b9b51d9464f2f3b3970fa41dc92690b": {
+    "time": "2026/09/22 20:09:20",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳥松區本舘路",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T20:10:33.373177"
       }
     ]
   }
