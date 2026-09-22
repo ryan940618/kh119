@@ -90655,7 +90655,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -90672,6 +90672,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T00:20:33.335906"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T00:30:33.407995"
       }
     ]
   },
@@ -90681,7 +90685,7 @@
     "sub_category": "車禍",
     "location": "高雄市內門區",
     "units": "內門分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -90694,6 +90698,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T00:28:33.374612"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T00:30:33.407995"
       }
     ]
   },
@@ -90751,11 +90759,15 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T00:28:33.374612"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T00:30:33.407995"
       }
     ]
   }
