@@ -92009,11 +92009,15 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T05:33:33.756618"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T05:37:33.828279"
       }
     ]
   },
@@ -92023,11 +92027,29 @@
     "sub_category": "其他",
     "location": "高雄市鳥松區水管路",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T05:35:33.782988"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T05:37:33.828279"
+      }
+    ]
+  },
+  "310d5194a2ad508287be700dd31b9445": {
+    "time": "2026/09/23 05:35:55",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市鳥松區美山路",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T05:37:33.828279"
       }
     ]
   }
