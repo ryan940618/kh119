@@ -87881,7 +87881,7 @@
     "sub_category": "急病",
     "location": "高雄市彌陀區",
     "units": "彌陀分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -87898,6 +87898,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T17:59:33.827437"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T18:09:33.764887"
       }
     ]
   },
@@ -88108,6 +88112,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T18:07:33.921238"
+      }
+    ]
+  },
+  "05f9f45254ba7a9bd9f9680e7fd54747": {
+    "time": "2026/09/22 18:09:13",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T18:09:33.764887"
       }
     ]
   }
