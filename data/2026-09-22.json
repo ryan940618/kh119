@@ -80185,7 +80185,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區五甲一路",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -80198,6 +80198,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T07:56:33.510544"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T08:03:33.417204"
       }
     ]
   },
@@ -80385,11 +80389,15 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T08:00:33.327025"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T08:03:33.417204"
       }
     ]
   },
@@ -80431,11 +80439,15 @@
     "sub_category": "急病",
     "location": "高雄市杉林區",
     "units": "杉林分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T08:02:33.244842"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T08:03:33.417204"
       }
     ]
   },
@@ -80450,6 +80462,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T08:02:33.244842"
+      }
+    ]
+  },
+  "c9adaa2d87add992d9bbf6d0670bb084": {
+    "time": "2026/09/22 08:02:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T08:03:33.417204"
       }
     ]
   }
