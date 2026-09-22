@@ -84553,7 +84553,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -84566,6 +84566,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T13:57:33.301356"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T14:03:33.276200"
       }
     ]
   },
@@ -84619,7 +84623,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -84628,6 +84632,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T13:59:33.392118"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T14:03:33.276200"
       }
     ]
   },
@@ -84646,6 +84654,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T14:02:33.281535"
+      }
+    ]
+  },
+  "69384fe95c7c17ad021933197caedcde": {
+    "time": "2026/09/22 14:02:57",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區莊敬路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T14:03:33.276200"
       }
     ]
   }
