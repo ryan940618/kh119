@@ -80341,7 +80341,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區南京路",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -80358,6 +80358,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T08:09:33.667712"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T08:12:33.882749"
       }
     ]
   },
@@ -80561,7 +80565,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -80570,6 +80574,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T08:05:33.263269"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T08:12:33.882749"
       }
     ]
   },
@@ -80655,11 +80663,57 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T08:10:34.843919"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T08:12:33.882749"
+      }
+    ]
+  },
+  "ea9ce67183997fc5756537b9b985c4e7": {
+    "time": "2026/09/22 08:11:39",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區中安路和明鳳一街",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T08:12:33.882749"
+      }
+    ]
+  },
+  "2c9be8356527bb5a289012b6a3becd11": {
+    "time": "2026/09/22 08:11:20",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市林園區大義路",
+    "units": "大林分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T08:12:33.882749"
+      }
+    ]
+  },
+  "92f08f8dd360560cbdf4679078410398": {
+    "time": "2026/09/22 08:10:58",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T08:12:33.882749"
       }
     ]
   }
