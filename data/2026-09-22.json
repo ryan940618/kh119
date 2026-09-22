@@ -83123,7 +83123,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區凱旋路",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -83140,6 +83140,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T11:22:33.439665"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T11:29:33.385636"
       }
     ]
   },
@@ -83149,7 +83153,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區國泰路",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -83162,6 +83166,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T11:16:33.248271"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T11:29:33.385636"
       }
     ]
   },
@@ -83341,7 +83349,7 @@
     "sub_category": "其他",
     "location": "高雄市三民區九如一路",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -83350,6 +83358,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T11:24:33.555591"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T11:29:33.385636"
       }
     ]
   },
@@ -83368,6 +83380,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T11:24:33.555591"
+      }
+    ]
+  },
+  "fbc295c5817a9b3304e5700a9922c23e": {
+    "time": "2026/09/22 11:29:17",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T11:29:33.385636"
       }
     ]
   }
