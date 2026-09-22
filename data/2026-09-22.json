@@ -87795,7 +87795,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區成功北路",
     "units": "橋頭分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -87808,6 +87808,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T17:53:33.689388"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-22T18:04:33.872517"
       }
     ]
   },
@@ -88019,11 +88023,15 @@
     "sub_category": "車禍",
     "location": "高雄市左營區新莊一路",
     "units": "左營分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-22T17:59:33.827437"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T18:04:33.872517"
       }
     ]
   },
@@ -88038,6 +88046,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T18:02:33.860007"
+      }
+    ]
+  },
+  "c0718f43a7b358b26c66ff3902241293": {
+    "time": "2026/09/22 17:47:31",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區正興路",
+    "units": "新興分隊",
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T18:04:33.872517"
       }
     ]
   }
