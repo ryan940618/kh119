@@ -85347,7 +85347,7 @@
     "sub_category": "其他",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "送醫中",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -85364,6 +85364,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T15:33:33.931777"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T15:51:34.060924"
       }
     ]
   },
@@ -86143,11 +86147,29 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T15:49:34.126256"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T15:51:34.060924"
+      }
+    ]
+  },
+  "cebac8c7a925b36304f885d76141e662": {
+    "time": "2026/09/22 15:51:15",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T15:51:34.060924"
       }
     ]
   }
