@@ -83639,7 +83639,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -83648,6 +83648,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T12:01:33.658292"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T12:05:33.719912"
       }
     ]
   },
@@ -83675,11 +83679,29 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T12:02:33.569545"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T12:05:33.719912"
+      }
+    ]
+  },
+  "fd76b62124c74a092f809fa3c3e1d479": {
+    "time": "2026/09/22 12:04:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區中山二路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T12:05:33.719912"
       }
     ]
   }
