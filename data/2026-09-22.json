@@ -82439,7 +82439,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區南寧街",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -82456,6 +82456,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T10:34:33.145570"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T10:43:33.075286"
       }
     ]
   },
@@ -82691,7 +82695,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -82700,6 +82704,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T10:37:33.094230"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T10:43:33.075286"
       }
     ]
   },
@@ -82709,7 +82717,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -82718,6 +82726,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T10:38:33.366267"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T10:43:33.075286"
       }
     ]
   },
@@ -82732,6 +82744,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T10:41:33.151971"
+      }
+    ]
+  },
+  "175038434f249ec732b64d9a99fedace": {
+    "time": "2026/09/22 10:41:57",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區海邊路",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T10:43:33.075286"
       }
     ]
   }
