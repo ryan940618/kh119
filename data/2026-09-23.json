@@ -90905,7 +90905,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -90918,6 +90918,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T01:16:33.791152"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T01:35:33.926207"
       }
     ]
   },
@@ -91007,11 +91011,15 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T01:34:34.044172"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T01:35:33.926207"
       }
     ]
   }
