@@ -86611,7 +86611,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區綏遠一街",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -86620,6 +86620,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T16:23:33.323895"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T16:27:33.268898"
       }
     ]
   },
@@ -86675,11 +86679,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T16:26:33.386380"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T16:27:33.268898"
       }
     ]
   },
@@ -86689,11 +86697,15 @@
     "sub_category": "路倒",
     "location": "高雄市楠梓區慶昌街",
     "units": "右昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T16:26:33.386380"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T16:27:33.268898"
       }
     ]
   },
@@ -86708,6 +86720,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T16:26:33.386380"
+      }
+    ]
+  },
+  "9fa30d61e7d249b3707c4d7296c44162": {
+    "time": "2026/09/22 16:27:07",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區明倫路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T16:27:33.268898"
       }
     ]
   }
