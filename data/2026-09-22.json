@@ -81519,7 +81519,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -81536,6 +81536,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T09:28:33.750455"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T09:39:33.962998"
       }
     ]
   },
@@ -81760,6 +81764,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T09:38:33.769487"
+      }
+    ]
+  },
+  "c134b896a63e42007e96a697d7c54911": {
+    "time": "2026/09/22 09:38:46",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市美濃區",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T09:39:33.962998"
+      }
+    ]
+  },
+  "eba8c2d292eea83bfa9cd8ef76e4e9bc": {
+    "time": "2026/09/22 09:38:38",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市橋頭區",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T09:39:33.962998"
       }
     ]
   }
