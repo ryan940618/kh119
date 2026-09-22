@@ -81079,7 +81079,7 @@
     "sub_category": "創傷",
     "location": "高雄市杉林區山仙路",
     "units": "杉林分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -81088,6 +81088,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T08:38:33.600367"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T08:48:33.581443"
       }
     ]
   },
@@ -81234,6 +81238,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T08:47:33.699643"
+      }
+    ]
+  },
+  "317abbb146f64f16d2da7186621c2e38": {
+    "time": "2026/09/22 08:48:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T08:48:33.581443"
       }
     ]
   }
