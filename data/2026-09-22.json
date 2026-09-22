@@ -87825,7 +87825,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區高松路",
     "units": "高桂分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -87842,6 +87842,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T17:58:33.757738"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T18:07:33.921238"
       }
     ]
   },
@@ -88082,6 +88086,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T18:06:33.825200"
+      }
+    ]
+  },
+  "41077541c5ca0fdbadbef408b3205400": {
+    "time": "2026/09/22 18:06:24",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T18:07:33.921238"
       }
     ]
   }
