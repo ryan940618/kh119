@@ -80759,7 +80759,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "小港分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -80776,6 +80776,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-22T08:26:33.495415"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-22T08:34:33.569474"
       }
     ]
   },
@@ -80943,7 +80947,7 @@
     "sub_category": "急病",
     "location": "高雄市永安區",
     "units": "永安分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -80952,6 +80956,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T08:27:33.515719"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T08:34:33.569474"
       }
     ]
   },
@@ -81012,6 +81020,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T08:32:34.003766"
+      }
+    ]
+  },
+  "6d4ff8a7da91b45d923c91abac603c71": {
+    "time": "2026/09/22 08:34:04",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T08:34:33.569474"
       }
     ]
   }
