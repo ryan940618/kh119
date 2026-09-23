@@ -99471,7 +99471,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -99484,6 +99484,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T17:04:33.835780"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T17:13:34.059927"
       }
     ]
   },
@@ -99574,6 +99578,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T17:11:33.876438"
+      }
+    ]
+  },
+  "786ef7b7529faddb941b673f886979ab": {
+    "time": "2026/09/23 17:12:53",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T17:13:34.059927"
       }
     ]
   }
