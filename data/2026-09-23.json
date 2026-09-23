@@ -100751,7 +100751,7 @@
     "sub_category": "路倒",
     "location": "高雄市楠梓區岳陽街",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -100764,6 +100764,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T18:20:33.653095"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T18:39:33.813644"
       }
     ]
   },
@@ -100773,7 +100777,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區中山東路",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -100790,6 +100794,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T18:33:33.768116"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T18:39:33.813644"
       }
     ]
   },
@@ -100874,6 +100882,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T18:38:33.811513"
+      }
+    ]
+  },
+  "68a090c40312a62d0ff1a7cedb27e41b": {
+    "time": "2026/09/23 18:38:26",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區鳳林二路",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T18:39:33.813644"
+      }
+    ]
+  },
+  "b246635864e90317d4ac49ca6ec1519f": {
+    "time": "2026/09/23 18:38:18",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區民族一路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T18:39:33.813644"
       }
     ]
   }
