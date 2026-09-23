@@ -104853,7 +104853,7 @@
     "sub_category": "其他",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -104866,6 +104866,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T06:44:33.187100"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T06:51:33.120034"
       }
     ]
   },
@@ -104906,6 +104910,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T06:46:33.149122"
+      }
+    ]
+  },
+  "a5dd1d9983ed9c974188652343ee6b1a": {
+    "time": "2026/09/24 06:50:10",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市橋頭區橋新五路",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T06:51:33.120034"
       }
     ]
   }
