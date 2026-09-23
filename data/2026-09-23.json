@@ -101931,7 +101931,7 @@
     "sub_category": "創傷",
     "location": "高雄市鼓山區翠華路",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -101940,6 +101940,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T20:37:33.326693"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T20:46:33.610078"
       }
     ]
   },
@@ -101971,11 +101975,15 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-23T20:39:33.504717"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T20:46:33.610078"
       }
     ]
   },
@@ -102026,6 +102034,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T20:45:33.524822"
+      }
+    ]
+  },
+  "c2031570ccf38d2fb10837af68d53d1b": {
+    "time": "2026/09/23 20:45:41",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市苓雅區福德一路",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T20:46:33.610078"
       }
     ]
   }
