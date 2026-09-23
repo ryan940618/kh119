@@ -96403,7 +96403,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -96416,6 +96416,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T12:52:33.045705"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T13:01:33.037529"
       }
     ]
   },
@@ -96483,7 +96487,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -96496,6 +96500,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T12:58:33.005905"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T13:01:33.037529"
       }
     ]
   },
@@ -96617,11 +96625,29 @@
     "sub_category": "急病",
     "location": "高雄市永安區",
     "units": "永安分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T13:00:33.081105"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T13:01:33.037529"
+      }
+    ]
+  },
+  "edc132a7740ce40a39f557e0bc71c000": {
+    "time": "2026/09/23 13:00:30",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區大昌一路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T13:01:33.037529"
       }
     ]
   }
