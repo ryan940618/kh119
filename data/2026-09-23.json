@@ -100223,7 +100223,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區九如一路",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -100236,6 +100236,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T17:52:33.942462"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T18:05:33.337183"
       }
     ]
   },
@@ -100369,7 +100373,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -100382,6 +100386,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T18:00:33.281653"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T18:05:33.337183"
       }
     ]
   },
@@ -100449,11 +100457,15 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已派遣",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-23T18:02:33.346606"
+      },
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T18:05:33.337183"
       }
     ]
   },
@@ -100490,6 +100502,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T18:04:33.428577"
+      }
+    ]
+  },
+  "1f8bd82ee01a5d675e43dfce98ec5e77": {
+    "time": "2026/09/23 18:04:48",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區興中一路",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T18:05:33.337183"
       }
     ]
   }
