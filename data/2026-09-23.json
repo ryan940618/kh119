@@ -92845,7 +92845,7 @@
     "sub_category": "車禍",
     "location": "高雄市旗津區中洲二路",
     "units": "旗津分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -92862,6 +92862,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T08:05:33.880021"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T08:12:34.048532"
       }
     ]
   },
@@ -93079,7 +93083,7 @@
     "sub_category": "車禍",
     "location": "高雄市大社區旗楠路",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -93096,6 +93100,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T08:07:34.169534"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T08:12:34.048532"
       }
     ]
   },
@@ -93105,7 +93113,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區中崙一路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -93114,6 +93122,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T08:02:33.884941"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T08:12:34.048532"
       }
     ]
   },
@@ -93193,7 +93205,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區水管路",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -93202,6 +93214,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T08:09:34.116492"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T08:12:34.048532"
       }
     ]
   },
@@ -93234,6 +93250,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T08:11:34.075367"
+      }
+    ]
+  },
+  "97078f55cb38302de7226884d937b919": {
+    "time": "2026/09/23 08:11:49",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區大中二路",
+    "units": "左營小隊,新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T08:12:34.048532"
+      }
+    ]
+  },
+  "14eaf8c0528b533d93aa68156ab1a75d": {
+    "time": "2026/09/23 08:11:06",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區高楠公路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T08:12:34.048532"
       }
     ]
   }
