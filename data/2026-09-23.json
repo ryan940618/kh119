@@ -101551,7 +101551,7 @@
     "sub_category": "路倒",
     "location": "高雄市楠梓區後昌路",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -101560,6 +101560,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T19:41:34.110466"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T19:59:33.122137"
       }
     ]
   },
@@ -101569,7 +101573,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -101578,6 +101582,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T19:55:33.077513"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T19:59:33.122137"
       }
     ]
   },
@@ -101587,11 +101595,29 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區瑞隆路",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T19:58:33.231680"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T19:59:33.122137"
+      }
+    ]
+  },
+  "59268aa893fd3202d9cb316da27750fb": {
+    "time": "2026/09/23 19:58:05",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "高桂分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T19:59:33.122137"
       }
     ]
   }
