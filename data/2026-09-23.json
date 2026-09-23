@@ -100467,7 +100467,7 @@
     "sub_category": "創傷",
     "location": "高雄市仁武區中華路",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -100476,6 +100476,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T18:02:33.346606"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T18:13:33.574873"
       }
     ]
   },
@@ -100580,6 +100584,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T18:12:33.507185"
+      }
+    ]
+  },
+  "2aebf843c971a9ef5e0aae9064516ff9": {
+    "time": "2026/09/23 18:12:41",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區嫩江街",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T18:13:33.574873"
+      }
+    ]
+  },
+  "e19b82d22f0d9d3920d4e1486bec65f0": {
+    "time": "2026/09/23 18:12:10",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區鳳仁路",
+    "units": "仁武分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T18:13:33.574873"
+      }
+    ]
+  },
+  "5a24fa05649f817d39fadf32d2069f75": {
+    "time": "2026/09/23 18:11:25",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區文安南街",
+    "units": "大昌分隊,鳳山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T18:13:33.574873"
       }
     ]
   }
