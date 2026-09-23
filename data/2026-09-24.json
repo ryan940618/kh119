@@ -104685,7 +104685,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -104702,6 +104702,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T06:14:33.862607"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T06:22:33.001981"
       }
     ]
   },
@@ -104747,11 +104751,29 @@
     "sub_category": "路倒",
     "location": "高雄市小港區鳳林路",
     "units": "大林分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T06:21:33.017122"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T06:22:33.001981"
+      }
+    ]
+  },
+  "c6853756fbfd3b81872cd2ea6d631815": {
+    "time": "2026/09/24 06:21:28",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T06:22:33.001981"
       }
     ]
   }
