@@ -102151,7 +102151,7 @@
     "sub_category": "其他",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -102168,6 +102168,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T21:23:33.837665"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T21:33:33.922384"
       }
     ]
   },
@@ -102474,6 +102478,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T21:32:33.794243"
+      }
+    ]
+  },
+  "2e39080ef33ccb6f94def8794b136e17": {
+    "time": "2026/09/23 21:33:18",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區民族一路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T21:33:33.922384"
       }
     ]
   }
