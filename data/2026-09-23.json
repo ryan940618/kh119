@@ -95755,7 +95755,7 @@
     "sub_category": "異物哽塞",
     "location": "高雄市鼓山區翠華路",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -95764,6 +95764,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T11:38:33.509639"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T11:58:33.861795"
       }
     ]
   },
@@ -95857,7 +95861,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "大樹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -95866,6 +95870,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T11:52:33.651495"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T11:58:33.861795"
       }
     ]
   },
@@ -95959,11 +95967,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區建國二路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T11:57:34.920706"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T11:58:33.861795"
       }
     ]
   }
