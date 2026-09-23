@@ -103483,7 +103483,7 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -103496,6 +103496,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T00:52:33.430353"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T01:09:33.688672"
       }
     ]
   },
@@ -103585,7 +103589,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -103594,6 +103598,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T01:05:33.623674"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T01:09:33.688672"
       }
     ]
   },
@@ -103644,6 +103652,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T01:08:33.579662"
+      }
+    ]
+  },
+  "8348b96cac785d657761afd3e02a6e0d": {
+    "time": "2026/09/24 01:07:49",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T01:09:33.688672"
       }
     ]
   }
