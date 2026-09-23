@@ -95603,7 +95603,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區義華路",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -95616,6 +95616,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T11:43:33.584071"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T11:48:33.633128"
       }
     ]
   },
@@ -95763,7 +95767,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區中山北路",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -95776,6 +95780,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T11:42:33.600069"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T11:48:33.633128"
       }
     ]
   },
@@ -95807,11 +95815,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-23T11:41:33.548461"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T11:48:33.633128"
       }
     ]
   },
@@ -95862,6 +95874,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T11:46:33.554056"
+      }
+    ]
+  },
+  "b0ff9142240f20d0d4869b278980096a": {
+    "time": "2026/09/23 11:47:05",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區中山南路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T11:48:33.633128"
       }
     ]
   }
