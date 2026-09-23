@@ -99337,7 +99337,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -99350,6 +99350,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T17:01:33.786088"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T17:20:34.030771"
       }
     ]
   },
@@ -99475,7 +99479,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -99492,6 +99496,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T17:13:34.059927"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T17:20:34.030771"
       }
     ]
   },
@@ -99603,7 +99611,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -99612,6 +99620,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T17:14:34.471820"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T17:20:34.030771"
       }
     ]
   },
@@ -99666,6 +99678,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T17:16:33.961603"
+      }
+    ]
+  },
+  "a2fb56dbc245a6864a4398d4148c0469": {
+    "time": "2026/09/23 17:19:54",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市六龜區",
+    "units": "六龜分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T17:20:34.030771"
+      }
+    ]
+  },
+  "703f4988eb8f420340e081b0f2ab9140": {
+    "time": "2026/09/23 17:19:04",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鼓山區九如四路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T17:20:34.030771"
       }
     ]
   }
