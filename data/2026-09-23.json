@@ -96157,7 +96157,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區安招路",
     "units": "燕巢分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -96174,6 +96174,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T12:29:33.911869"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T12:39:34.063284"
       }
     ]
   },
@@ -96297,11 +96301,15 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區中山南路",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T12:37:33.903947"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T12:39:34.063284"
       }
     ]
   },
@@ -96311,11 +96319,29 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T12:38:33.901370"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T12:39:34.063284"
+      }
+    ]
+  },
+  "5c9a9ac8475155e5611dda2fbdeb0ebd": {
+    "time": "2026/09/23 12:38:11",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區經武路",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T12:39:34.063284"
       }
     ]
   }
