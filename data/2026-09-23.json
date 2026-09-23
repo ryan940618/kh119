@@ -100897,7 +100897,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -100914,6 +100914,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T18:47:33.576657"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T18:57:34.796384"
       }
     ]
   },
@@ -101088,6 +101092,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T18:56:33.698186"
+      }
+    ]
+  },
+  "71593169bd92ad6ade27eb514148083d": {
+    "time": "2026/09/23 18:56:51",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T18:57:34.796384"
+      }
+    ]
+  },
+  "ad9365473ed03cbb47b14a9514e83f9f": {
+    "time": "2026/09/23 18:55:26",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區大學南路",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T18:57:34.796384"
       }
     ]
   }
