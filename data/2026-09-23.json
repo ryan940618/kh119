@@ -95985,7 +95985,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -95998,6 +95998,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T12:06:33.841319"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T12:17:33.844263"
       }
     ]
   },
@@ -96144,6 +96148,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T12:12:33.897954"
+      }
+    ]
+  },
+  "0bab1c9d563e14c05aeaf9b403213a8e": {
+    "time": "2026/09/23 12:16:33",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區鳳頂路",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T12:17:33.844263"
       }
     ]
   }
