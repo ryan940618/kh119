@@ -101953,7 +101953,7 @@
     "sub_category": "車禍",
     "location": "高雄市前金區五福三路",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -101966,6 +101966,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T20:42:33.434608"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T20:51:33.591439"
       }
     ]
   },
@@ -102015,7 +102019,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -102028,6 +102032,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T20:48:33.628704"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T20:51:33.591439"
       }
     ]
   },
@@ -102037,7 +102045,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -102046,6 +102054,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T20:49:33.588186"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T20:51:33.591439"
       }
     ]
   },
@@ -102106,6 +102118,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T20:50:33.644415"
+      }
+    ]
+  },
+  "3d29d287b128258674e6b86b22a832d4": {
+    "time": "2026/09/23 20:49:46",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市小港區沿海一路",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T20:51:33.591439"
       }
     ]
   }
