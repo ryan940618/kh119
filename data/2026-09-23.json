@@ -95505,7 +95505,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區榮德街",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -95514,6 +95514,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T11:18:33.357864"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T11:31:33.524047"
       }
     ]
   },
@@ -95585,11 +95589,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-23T11:25:33.498795"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T11:31:33.524047"
       }
     ]
   },
@@ -95608,6 +95616,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T11:28:33.636754"
+      }
+    ]
+  },
+  "0edfda9b67ec0b798c442d4adaf9dc09": {
+    "time": "2026/09/23 11:30:42",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T11:31:33.524047"
+      }
+    ]
+  },
+  "685c3b7aa7857278387d9159fa96555e": {
+    "time": "2026/09/23 11:30:12",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T11:31:33.524047"
       }
     ]
   }
