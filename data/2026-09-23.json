@@ -101197,7 +101197,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -101210,6 +101210,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T19:07:33.728177"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T19:25:34.132476"
       }
     ]
   },
@@ -101219,7 +101223,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -101236,6 +101240,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T19:18:33.818834"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T19:25:34.132476"
       }
     ]
   },
@@ -101329,7 +101337,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -101338,6 +101346,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T19:22:33.907992"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T19:25:34.132476"
       }
     ]
   },
@@ -101365,11 +101377,43 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T19:24:33.893476"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T19:25:34.132476"
+      }
+    ]
+  },
+  "bacdeb52787686e63d6961c4b3c0e5c7": {
+    "time": "2026/09/23 19:24:18",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區保泰路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T19:25:34.132476"
+      }
+    ]
+  },
+  "e8b5a1fa3b076ce8276ea808b643a8c4": {
+    "time": "2026/09/23 19:24:10",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T19:25:34.132476"
       }
     ]
   }
