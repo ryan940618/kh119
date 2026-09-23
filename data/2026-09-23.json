@@ -98515,7 +98515,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -98528,6 +98528,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T15:35:33.274837"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T15:38:33.387509"
       }
     ]
   },
@@ -98672,6 +98676,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T15:37:33.324878"
+      }
+    ]
+  },
+  "486c76ee332938872bdaf926a16e76e1": {
+    "time": "2026/09/23 15:37:38",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T15:38:33.387509"
+      }
+    ]
+  },
+  "69197e199de680f7c4e07555454d6a84": {
+    "time": "2026/09/23 15:37:01",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市路竹區國昌路",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T15:38:33.387509"
       }
     ]
   }
