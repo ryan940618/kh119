@@ -105349,7 +105349,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區中興路",
     "units": "燕巢分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -105366,6 +105366,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T07:43:33.682451"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T07:50:33.756175"
       }
     ]
   },
@@ -105463,7 +105467,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區大明路",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -105472,6 +105476,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T07:44:33.717172"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T07:50:33.756175"
       }
     ]
   },
@@ -105481,7 +105489,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -105490,6 +105498,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T07:44:33.717172"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T07:50:33.756175"
       }
     ]
   },
@@ -105521,11 +105533,57 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T07:48:33.693912"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T07:50:33.756175"
+      }
+    ]
+  },
+  "8185570461f5ea28767f4418459efadd": {
+    "time": "2026/09/24 07:49:49",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T07:50:33.756175"
+      }
+    ]
+  },
+  "056b56424dfb0237798663a9ce6738b0": {
+    "time": "2026/09/24 07:49:49",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市橋頭區成功北路",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T07:50:33.756175"
+      }
+    ]
+  },
+  "aaf07979eb7d7bb2899dfd4c89e6efbb": {
+    "time": "2026/09/24 07:49:30",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市燕巢區",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T07:50:33.756175"
       }
     ]
   }
