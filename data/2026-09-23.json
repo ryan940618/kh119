@@ -98291,7 +98291,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -98308,6 +98308,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T15:28:33.268323"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T15:32:33.230755"
       }
     ]
   },
@@ -98415,7 +98419,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -98432,6 +98436,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T15:28:33.268323"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T15:32:33.230755"
       }
     ]
   },
@@ -98563,11 +98571,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T15:31:33.324437"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T15:32:33.230755"
       }
     ]
   },
@@ -98596,6 +98608,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T15:31:33.324437"
+      }
+    ]
+  },
+  "283c557c122a4b2441cdd252e9995c12": {
+    "time": "2026/09/23 15:31:38",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市新興區七賢一路",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T15:32:33.230755"
       }
     ]
   }
