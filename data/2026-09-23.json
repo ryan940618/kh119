@@ -99937,7 +99937,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區鳳仁路",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -99954,6 +99954,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T18:06:33.507877"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T18:16:33.530233"
       }
     ]
   },
@@ -100371,7 +100375,7 @@
     "sub_category": "其他",
     "location": "高雄市新興區",
     "units": "",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -100388,6 +100392,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T18:11:33.397481"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T18:16:33.530233"
       }
     ]
   },
@@ -100647,11 +100655,15 @@
     "sub_category": "車禍",
     "location": "高雄市前金區自強二路",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T18:14:33.461462"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T18:16:33.530233"
       }
     ]
   },
@@ -100675,11 +100687,29 @@
     "sub_category": "路倒",
     "location": "高雄市楠梓區岳陽街",
     "units": "楠梓分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T18:15:33.467805"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T18:16:33.530233"
+      }
+    ]
+  },
+  "cb67d1493f2ea8f545560889b419f1ad": {
+    "time": "2026/09/23 18:15:39",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區中山東路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T18:16:33.530233"
       }
     ]
   }
