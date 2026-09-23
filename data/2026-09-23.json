@@ -95511,7 +95511,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區復興四路",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -95520,6 +95520,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T11:21:33.500938"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T11:27:33.533960"
       }
     ]
   },
@@ -95566,6 +95570,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T11:25:33.498795"
+      }
+    ]
+  },
+  "56e48549d6ae087edb37f46e18e0ea57": {
+    "time": "2026/09/23 11:26:18",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市小港區龍華街",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T11:27:33.533960"
       }
     ]
   }
