@@ -93275,7 +93275,7 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區環球路",
     "units": "路竹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -93292,6 +93292,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T08:35:33.222236"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T08:41:33.297627"
       }
     ]
   },
@@ -93383,7 +93387,7 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "小港分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -93396,6 +93400,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T08:29:33.097795"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T08:41:33.297627"
       }
     ]
   },
@@ -93621,11 +93629,43 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區大昌路",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T08:40:33.222503"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T08:41:33.297627"
+      }
+    ]
+  },
+  "d8b91ce88a9ca8189c32bb655ddf4562": {
+    "time": "2026/09/23 08:40:32",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市湖內區",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T08:41:33.297627"
+      }
+    ]
+  },
+  "2598f6772ac9e25c91929ce028aa3500": {
+    "time": "2026/09/23 08:39:57",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市楠梓區海專路",
+    "units": "楠梓分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T08:41:33.297627"
       }
     ]
   }
