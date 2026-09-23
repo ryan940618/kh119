@@ -93035,7 +93035,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區澄照街",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -93052,6 +93052,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T08:06:34.036622"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T08:15:34.359573"
       }
     ]
   },
@@ -93139,7 +93143,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區為隨西路",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -93152,6 +93156,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T08:04:33.913554"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T08:15:34.359573"
       }
     ]
   },
@@ -93263,11 +93271,15 @@
     "sub_category": "車禍",
     "location": "高雄市左營區大中二路",
     "units": "左營小隊,新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T08:12:34.048532"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T08:15:34.359573"
       }
     ]
   },
@@ -93277,11 +93289,15 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區高楠公路",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T08:12:34.048532"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T08:15:34.359573"
       }
     ]
   },
@@ -93296,6 +93312,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T08:14:34.125446"
+      }
+    ]
+  },
+  "a8fd767779fe42cf2e77c518746f60b3": {
+    "time": "2026/09/23 08:12:21",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市楠梓區後勁東路",
+    "units": "後勁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T08:15:34.359573"
       }
     ]
   }
