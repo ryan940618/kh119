@@ -97029,7 +97029,7 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區竹寮路",
     "units": "大樹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -97038,6 +97038,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T13:34:33.299961"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T13:38:33.317830"
       }
     ]
   },
@@ -97065,11 +97069,29 @@
     "sub_category": "其他",
     "location": "高雄市三民區建國三路",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T13:37:33.543005"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T13:38:33.317830"
+      }
+    ]
+  },
+  "e29773116f7c20c5cb3281b8753c69cb": {
+    "time": "2026/09/23 13:37:27",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鳳山區博愛路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T13:38:33.317830"
       }
     ]
   }
