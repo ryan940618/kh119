@@ -94075,7 +94075,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -94088,6 +94088,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T09:10:33.463115"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T09:24:33.610131"
       }
     ]
   },
@@ -94159,7 +94163,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -94168,6 +94172,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T09:20:33.678240"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T09:24:33.610131"
       }
     ]
   },
@@ -94186,6 +94194,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T09:23:33.556401"
+      }
+    ]
+  },
+  "500b3b239e678e1bab4366194be8d012": {
+    "time": "2026/09/23 09:23:56",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T09:24:33.610131"
       }
     ]
   }
