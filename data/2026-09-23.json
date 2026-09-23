@@ -102951,7 +102951,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -102964,6 +102964,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T23:33:33.805690"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T23:47:33.875110"
       }
     ]
   },
@@ -103088,6 +103092,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T23:46:33.797381"
+      }
+    ]
+  },
+  "cc2a0c3088bda747cb205676c0fed453": {
+    "time": "2026/09/23 23:46:49",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區五甲二路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T23:47:33.875110"
+      }
+    ]
+  },
+  "19a7febde7fcd4d64cbc1f4acd07fa39": {
+    "time": "2026/09/23 23:46:17",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市茄萣區",
+    "units": "茄萣分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T23:47:33.875110"
       }
     ]
   }
