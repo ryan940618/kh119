@@ -95371,7 +95371,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -95384,6 +95384,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T11:11:33.436113"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T11:21:33.500938"
       }
     ]
   },
@@ -95415,7 +95419,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區建國一路",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -95424,6 +95428,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T11:10:33.560239"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T11:21:33.500938"
       }
     ]
   },
@@ -95433,7 +95441,7 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -95442,6 +95450,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T11:16:33.333371"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T11:21:33.500938"
       }
     ]
   },
@@ -95487,11 +95499,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區復興四路",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-23T11:18:33.357864"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T11:21:33.500938"
       }
     ]
   }
