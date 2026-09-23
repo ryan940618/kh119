@@ -96563,7 +96563,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -96576,6 +96576,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T13:06:33.203878"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T13:15:33.346522"
       }
     ]
   },
@@ -96585,7 +96589,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -96602,6 +96606,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T13:10:33.119063"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T13:15:33.346522"
       }
     ]
   },
@@ -96663,7 +96671,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區開發路",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -96672,6 +96680,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T13:04:33.053098"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T13:15:33.346522"
       }
     ]
   },
@@ -96729,7 +96741,7 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -96742,6 +96754,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T13:12:33.173295"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T13:15:33.346522"
       }
     ]
   },
@@ -96765,11 +96781,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區本舘路",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-23T13:09:33.163499"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T13:15:33.346522"
       }
     ]
   },
@@ -96779,11 +96799,15 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T13:14:33.308655"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T13:15:33.346522"
       }
     ]
   }
