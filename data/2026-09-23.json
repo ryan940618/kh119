@@ -100311,7 +100311,7 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -100328,6 +100328,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T18:02:33.346606"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T18:12:33.507185"
       }
     ]
   },
@@ -100517,7 +100521,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區中山南路",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -100530,6 +100534,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T18:07:33.373114"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T18:12:33.507185"
       }
     ]
   },
@@ -100558,6 +100566,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T18:11:33.397481"
+      }
+    ]
+  },
+  "e8df0766e80edde1bc20e0847bf26128": {
+    "time": "2026/09/23 18:11:25",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區三民區文安南街",
+    "units": "大昌分隊,鼎金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T18:12:33.507185"
       }
     ]
   }
