@@ -105265,7 +105265,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -105274,6 +105274,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T07:32:33.647981"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T07:35:33.514974"
       }
     ]
   },
@@ -105305,7 +105309,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區中興路",
     "units": "燕巢分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -105314,6 +105318,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T07:34:33.515973"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T07:35:33.514974"
       }
     ]
   },
@@ -105328,6 +105336,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T07:32:33.647981"
+      }
+    ]
+  },
+  "ce90ca0662eace5f3c57afa0fe22c826": {
+    "time": "2026/09/24 07:34:15",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區鳳林二路",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T07:35:33.514974"
       }
     ]
   }
