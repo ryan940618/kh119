@@ -97905,7 +97905,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -97918,6 +97918,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T14:57:33.943893"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T15:18:33.115599"
       }
     ]
   },
@@ -98063,7 +98067,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -98080,6 +98084,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T15:10:33.137586"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T15:18:33.115599"
       }
     ]
   },
@@ -98089,7 +98097,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -98102,6 +98110,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T15:09:33.097700"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T15:18:33.115599"
       }
     ]
   },
@@ -98159,7 +98171,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區和光街",
     "units": "後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -98172,6 +98184,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T15:14:33.170037"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T15:18:33.115599"
       }
     ]
   },
@@ -98203,7 +98219,7 @@
     "sub_category": "其他",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -98212,6 +98228,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T15:14:33.170037"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T15:18:33.115599"
       }
     ]
   },
@@ -98293,11 +98313,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-23T15:16:33.164955"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T15:18:33.115599"
       }
     ]
   },
@@ -98321,11 +98345,15 @@
     "sub_category": "創傷",
     "location": "高雄市新興區八德二路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T15:17:33.106574"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T15:18:33.115599"
       }
     ]
   },
@@ -98335,11 +98363,29 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T15:17:33.106574"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T15:18:33.115599"
+      }
+    ]
+  },
+  "72732b40e1f0873f2266954e5cf0c28a": {
+    "time": "2026/09/23 15:17:23",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市小港區",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T15:18:33.115599"
       }
     ]
   }
