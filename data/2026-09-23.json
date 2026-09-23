@@ -102225,7 +102225,7 @@
     "sub_category": "其他",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -102238,6 +102238,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T21:09:33.718905"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T21:18:33.754175"
       }
     ]
   },
@@ -102247,7 +102251,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -102260,6 +102264,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T21:11:33.669219"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T21:18:33.754175"
       }
     ]
   },
@@ -102319,11 +102327,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營小隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T21:17:33.829272"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T21:18:33.754175"
       }
     ]
   }
