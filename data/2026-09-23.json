@@ -93703,7 +93703,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -93720,6 +93720,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T08:54:33.302093"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T09:10:33.463115"
       }
     ]
   },
@@ -93777,7 +93781,7 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區林厝路",
     "units": "大寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -93790,6 +93794,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T08:51:33.341967"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T09:10:33.463115"
       }
     ]
   },
@@ -93869,7 +93877,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區大埤路",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -93886,6 +93894,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T09:06:33.481952"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T09:10:33.463115"
       }
     ]
   },
@@ -93921,7 +93933,7 @@
     "sub_category": "車禍",
     "location": "高雄市新興區五福二路",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -93930,6 +93942,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T08:56:33.339510"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T09:10:33.463115"
       }
     ]
   },
@@ -94023,7 +94039,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -94032,6 +94048,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T09:07:33.602032"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T09:10:33.463115"
       }
     ]
   },
@@ -94059,11 +94079,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T09:08:33.479612"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T09:10:33.463115"
       }
     ]
   }
