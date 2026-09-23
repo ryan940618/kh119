@@ -100163,7 +100163,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區重慶街",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -100180,6 +100180,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T17:59:33.495904"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T18:04:33.428577"
       }
     ]
   },
@@ -100317,7 +100321,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區經武路",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -100330,6 +100334,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T17:59:33.495904"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T18:04:33.428577"
       }
     ]
   },
@@ -100473,11 +100481,15 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區中山南路",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T18:03:33.426088"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T18:04:33.428577"
       }
     ]
   }
