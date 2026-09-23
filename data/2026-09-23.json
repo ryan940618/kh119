@@ -93177,7 +93177,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -93190,6 +93190,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T08:04:33.913554"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T08:20:33.068068"
       }
     ]
   },
@@ -93229,7 +93233,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區水管路",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -93242,6 +93246,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T08:12:34.048532"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T08:20:33.068068"
       }
     ]
   },
@@ -93273,7 +93281,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區楠梓新路",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -93282,6 +93290,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T08:16:34.049881"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T08:20:33.068068"
       }
     ]
   },
@@ -93353,11 +93365,15 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區後勁東路",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-23T08:15:34.359573"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T08:20:33.068068"
       }
     ]
   },
@@ -93372,6 +93388,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T08:17:34.235613"
+      }
+    ]
+  },
+  "b42828c8955389998480cafe83c277cc": {
+    "time": "2026/09/23 08:19:29",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區瑞隆路",
+    "units": "瑞隆分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T08:20:33.068068"
+      }
+    ]
+  },
+  "c25b68650aead35c787f23f0b77a6702": {
+    "time": "2026/09/23 08:19:00",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區翠華路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T08:20:33.068068"
       }
     ]
   }
