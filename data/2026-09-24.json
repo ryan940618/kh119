@@ -103545,7 +103545,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -103558,6 +103558,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T01:07:33.763248"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T01:10:33.621418"
       }
     ]
   },
@@ -103611,11 +103615,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T01:04:33.607465"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T01:10:33.621418"
       }
     ]
   },
@@ -103661,11 +103669,29 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已派遣",
+    "current_status": "",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T01:09:33.688672"
+      },
+      {
+        "status": "",
+        "timestamp": "2026-09-24T01:10:33.621418"
+      }
+    ]
+  },
+  "a98b9c45d7baa0127e45c042e0021f01": {
+    "time": "2026/09/24 01:05:30",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市大社區中山路",
+    "units": "仁武分隊,大社分隊,楠梓分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T01:10:33.621418"
       }
     ]
   }
