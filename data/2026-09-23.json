@@ -95697,7 +95697,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -95706,6 +95706,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T11:35:33.563181"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T11:41:33.548461"
       }
     ]
   },
@@ -95747,11 +95751,15 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區中山北路",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T11:38:33.509639"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T11:41:33.548461"
       }
     ]
   },
@@ -95770,6 +95778,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T11:39:33.570078"
+      }
+    ]
+  },
+  "5cba9c8d0221e39ebed7ae2b85816612": {
+    "time": "2026/09/23 11:40:27",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "後勁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T11:41:33.548461"
       }
     ]
   }
