@@ -98025,7 +98025,7 @@
     "sub_category": "車禍",
     "location": "高雄市前金區光復三街",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -98038,6 +98038,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T14:59:33.944706"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T15:05:33.149963"
       }
     ]
   },
@@ -98083,11 +98087,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T15:02:34.022174"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T15:05:33.149963"
       }
     ]
   },
@@ -98116,6 +98124,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T15:02:34.022174"
+      }
+    ]
+  },
+  "08ea4065941c44e98435472f8d300403": {
+    "time": "2026/09/23 15:04:10",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區高楠公路和監理南街",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T15:05:33.149963"
       }
     ]
   }
