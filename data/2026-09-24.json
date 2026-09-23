@@ -104611,7 +104611,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -104624,6 +104624,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T06:08:33.960185"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T06:19:32.996048"
       }
     ]
   },
@@ -104725,11 +104729,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區凱旋路和新康街",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T06:18:34.023860"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T06:19:32.996048"
       }
     ]
   }
