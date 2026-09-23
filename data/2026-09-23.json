@@ -96879,7 +96879,7 @@
     "sub_category": "急病",
     "location": "高雄市六龜區",
     "units": "茂林分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -96892,6 +96892,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T13:36:33.237304"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T13:42:33.373488"
       }
     ]
   },
@@ -97131,11 +97135,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T13:41:33.365018"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T13:42:33.373488"
       }
     ]
   }
