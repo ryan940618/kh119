@@ -98111,7 +98111,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -98124,6 +98124,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T15:10:33.137586"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T15:16:33.164955"
       }
     ]
   },
@@ -98280,6 +98284,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T15:14:33.170037"
+      }
+    ]
+  },
+  "d37c76cab941551de6657aaf565c2dc0": {
+    "time": "2026/09/23 15:15:29",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T15:16:33.164955"
       }
     ]
   }
