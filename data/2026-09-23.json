@@ -101637,7 +101637,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -101646,6 +101646,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T20:05:33.303868"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T20:22:33.347450"
       }
     ]
   },
@@ -101783,11 +101787,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區廣西路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T20:21:33.285405"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T20:22:33.347450"
       }
     ]
   },
@@ -101797,11 +101805,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T20:21:33.285405"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T20:22:33.347450"
       }
     ]
   }
