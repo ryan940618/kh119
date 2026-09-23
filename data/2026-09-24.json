@@ -105107,7 +105107,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -105116,6 +105116,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T07:17:33.342952"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T07:36:33.570699"
       }
     ]
   },
@@ -105177,7 +105181,7 @@
     "sub_category": "創傷",
     "location": "高雄市鹽埕區府北路",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -105190,6 +105194,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T07:20:33.486558"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T07:36:33.570699"
       }
     ]
   },
@@ -105331,11 +105339,15 @@
     "sub_category": "車禍",
     "location": "高雄市大社區中山路",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T07:32:33.647981"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T07:36:33.570699"
       }
     ]
   },
