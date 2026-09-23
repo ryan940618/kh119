@@ -98753,7 +98753,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -98766,6 +98766,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T15:45:33.374682"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T15:57:33.337014"
       }
     ]
   },
@@ -98903,11 +98907,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T15:56:33.416434"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T15:57:33.337014"
       }
     ]
   }
