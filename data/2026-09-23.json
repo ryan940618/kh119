@@ -94419,7 +94419,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -94428,6 +94428,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T09:48:33.663684"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T09:57:33.690254"
       }
     ]
   },
@@ -94508,6 +94512,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T09:53:33.882285"
+      }
+    ]
+  },
+  "664b0a657257cd62e4a7c53327fbf64b": {
+    "time": "2026/09/23 09:57:09",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區仁心路",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T09:57:33.690254"
       }
     ]
   }
