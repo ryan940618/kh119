@@ -95201,7 +95201,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -95214,6 +95214,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T11:07:33.260403"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T11:18:33.357864"
       }
     ]
   },
@@ -95461,11 +95465,29 @@
     "sub_category": "車禍",
     "location": "高雄市左營區榮德街",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T11:17:33.397199"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T11:18:33.357864"
+      }
+    ]
+  },
+  "a15079e8f80e97266a8e927be6becf4b": {
+    "time": "2026/09/23 11:17:11",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區復興四路",
+    "units": "成功分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T11:18:33.357864"
       }
     ]
   }
