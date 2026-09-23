@@ -99361,7 +99361,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中華五路",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -99370,6 +99370,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T16:55:33.681260"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T16:59:33.913915"
       }
     ]
   },
@@ -99379,11 +99383,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區五甲二路",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T16:55:33.681260"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T16:59:33.913915"
       }
     ]
   },
@@ -99402,6 +99410,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T16:57:33.755443"
+      }
+    ]
+  },
+  "1711c7d8f769716c4f8cfc8fac7dc224": {
+    "time": "2026/09/23 16:58:19",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市燕巢區",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T16:59:33.913915"
       }
     ]
   }
