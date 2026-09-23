@@ -94455,7 +94455,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區三誠路",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -94468,6 +94468,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T09:54:33.744896"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T10:01:33.786899"
       }
     ]
   },
@@ -94580,6 +94584,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T10:00:33.803222"
+      }
+    ]
+  },
+  "b61cf1b5baf88a482f420ba059b2b6be": {
+    "time": "2026/09/23 10:00:55",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市小港區店北路",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T10:01:33.786899"
       }
     ]
   }
