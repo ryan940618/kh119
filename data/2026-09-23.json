@@ -99687,7 +99687,7 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區大順三路",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -99700,6 +99700,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T17:22:33.944557"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T17:35:33.180704"
       }
     ]
   },
@@ -99753,7 +99757,7 @@
     "sub_category": "創傷",
     "location": "高雄市鼓山區九如四路",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -99770,6 +99774,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T17:31:33.352924"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T17:35:33.180704"
       }
     ]
   },
@@ -99940,6 +99948,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T17:32:33.345082"
+      }
+    ]
+  },
+  "fbf4d548f0b363a9d2b171ae18023dd4": {
+    "time": "2026/09/23 17:34:14",
+    "category": "火災",
+    "sub_category": "雜草(含廢棄物、墓地)",
+    "location": "高雄市鼓山區鼓山一路",
+    "units": "鼓山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T17:35:33.180704"
       }
     ]
   }
