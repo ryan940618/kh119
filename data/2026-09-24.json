@@ -105519,7 +105519,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區二聖一路",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -105532,6 +105532,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T07:48:33.693912"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T07:56:33.759980"
       }
     ]
   },
@@ -105541,7 +105545,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -105550,6 +105554,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T07:50:33.756175"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T07:56:33.759980"
       }
     ]
   },
@@ -105654,6 +105662,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T07:55:33.807968"
+      }
+    ]
+  },
+  "e5742b028b7375a1d94969f2b0da9552": {
+    "time": "2026/09/24 07:55:54",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市阿蓮區",
+    "units": "阿蓮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T07:56:33.759980"
       }
     ]
   }
