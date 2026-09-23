@@ -101663,7 +101663,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "路竹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -101680,6 +101680,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T20:29:33.432302"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T20:35:33.393797"
       }
     ]
   },
@@ -101719,7 +101723,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -101732,6 +101736,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T20:25:33.351406"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T20:35:33.393797"
       }
     ]
   },
@@ -101876,6 +101884,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T20:27:33.428726"
+      }
+    ]
+  },
+  "fcf6e4dd671e63a974094833c8b83329": {
+    "time": "2026/09/23 20:34:36",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鼓山區龍水一街",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T20:35:33.393797"
       }
     ]
   }
