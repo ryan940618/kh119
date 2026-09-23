@@ -97449,11 +97449,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-23T14:10:33.549294"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T14:15:33.643041"
       }
     ]
   },
@@ -97472,6 +97476,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T14:12:33.611205"
+      }
+    ]
+  },
+  "c0f3a672cbfd4882b2cb176869f3c062": {
+    "time": "2026/09/23 14:14:56",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗津區",
+    "units": "旗津分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T14:15:33.643041"
+      }
+    ]
+  },
+  "f6022e0ee3be0801d7466e3af4382a4e": {
+    "time": "2026/09/23 14:14:22",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T14:15:33.643041"
       }
     ]
   }
