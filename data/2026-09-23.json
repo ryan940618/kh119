@@ -93669,7 +93669,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區大昌路",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -93682,6 +93682,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T08:47:33.319310"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T09:01:33.379134"
       }
     ]
   },
@@ -93735,7 +93739,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區明潭路",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -93752,6 +93756,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T08:55:33.328136"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T09:01:33.379134"
       }
     ]
   },
@@ -93805,7 +93813,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區民族一路",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -93818,6 +93826,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T08:54:33.302093"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T09:01:33.379134"
       }
     ]
   },
@@ -93916,6 +93928,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T08:58:33.262851"
+      }
+    ]
+  },
+  "f65d3814247dbd49671bc8604341619e": {
+    "time": "2026/09/23 09:01:02",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區南福街",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T09:01:33.379134"
       }
     ]
   }
