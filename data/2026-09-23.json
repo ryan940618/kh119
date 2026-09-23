@@ -98649,7 +98649,7 @@
     "sub_category": "創傷",
     "location": "高雄市新興區七賢一路",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -98658,6 +98658,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T15:33:33.235932"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T15:39:33.342515"
       }
     ]
   },
@@ -98699,11 +98703,29 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區國昌路",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T15:38:33.387509"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T15:39:33.342515"
+      }
+    ]
+  },
+  "d0006069f73f1867c97d6f856e8ba76a": {
+    "time": "2026/09/23 15:39:04",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區南華路",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T15:39:33.342515"
       }
     ]
   }
