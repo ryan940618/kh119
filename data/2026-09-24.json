@@ -103127,7 +103127,7 @@
     "sub_category": "創傷",
     "location": "高雄市那瑪夏區",
     "units": "那瑪夏分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -103140,6 +103140,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T23:51:33.926093"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T00:39:33.207907"
       }
     ]
   },
@@ -103317,7 +103321,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -103330,6 +103334,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T00:24:33.079309"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T00:39:33.207907"
       }
     ]
   },
@@ -103383,11 +103391,29 @@
     "sub_category": "一般(集合)住宅",
     "location": "高雄市苓雅區自強三路",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T00:37:33.192585"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T00:39:33.207907"
+      }
+    ]
+  },
+  "e7098ab7bd01dfe98caa73b45b95e3fd": {
+    "time": "2026/09/24 00:38:14",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區一心二路",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T00:39:33.207907"
       }
     ]
   }
