@@ -104263,7 +104263,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -104276,6 +104276,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T04:14:33.026837"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T04:25:33.147487"
       }
     ]
   },
@@ -104294,6 +104298,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T04:24:33.071629"
+      }
+    ]
+  },
+  "2384351110e5151e8f3bb6ab2d6c8c4f": {
+    "time": "2026/09/24 04:25:11",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T04:25:33.147487"
       }
     ]
   }
