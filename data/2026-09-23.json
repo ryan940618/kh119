@@ -99669,7 +99669,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區光明路",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -99686,6 +99686,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T17:31:33.352924"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T17:50:33.420448"
       }
     ]
   },
@@ -100145,7 +100149,7 @@
     "sub_category": "車禍",
     "location": "高雄市新興區青年一路",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -100154,6 +100158,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T17:44:33.520296"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T17:50:33.420448"
       }
     ]
   },
@@ -100231,11 +100239,15 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T17:47:33.379422"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T17:50:33.420448"
       }
     ]
   },
@@ -100250,6 +100262,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T17:48:33.332406"
+      }
+    ]
+  },
+  "b601c9c4ad777e6c28d268b81f5621a0": {
+    "time": "2026/09/23 17:48:34",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市新興區",
+    "units": "",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T17:50:33.420448"
       }
     ]
   }
