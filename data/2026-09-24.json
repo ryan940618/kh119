@@ -103541,7 +103541,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -103550,6 +103550,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T01:04:33.607465"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T01:07:33.763248"
       }
     ]
   },
@@ -103559,7 +103563,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -103568,6 +103572,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T01:03:33.645529"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T01:07:33.763248"
       }
     ]
   },
@@ -103609,11 +103617,29 @@
     "sub_category": "其他",
     "location": "高雄市大社區大社路",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T01:06:33.722604"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T01:07:33.763248"
+      }
+    ]
+  },
+  "ad24548935a26aa242208f34eed186b1": {
+    "time": "2026/09/24 01:06:03",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T01:07:33.763248"
       }
     ]
   }
