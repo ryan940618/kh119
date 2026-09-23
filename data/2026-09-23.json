@@ -94493,7 +94493,7 @@
     "sub_category": "車禍",
     "location": "高雄市前金區中華三路",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -94506,6 +94506,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T09:56:33.733687"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T10:07:33.864350"
       }
     ]
   },
@@ -94559,7 +94563,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區鼓山三路",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -94572,6 +94576,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T10:02:33.726554"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T10:07:33.864350"
       }
     ]
   },
@@ -94662,6 +94670,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T10:06:33.962301"
+      }
+    ]
+  },
+  "9e80ab76d3e2655c04d35875d538c006": {
+    "time": "2026/09/23 10:06:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T10:07:33.864350"
       }
     ]
   }
