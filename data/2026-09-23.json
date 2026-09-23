@@ -98133,7 +98133,7 @@
     "sub_category": "車禍",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -98142,6 +98142,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T15:07:33.120282"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T15:11:33.095023"
       }
     ]
   },
@@ -98169,7 +98173,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區高楠公路和監理南街",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -98178,6 +98182,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T15:06:32.944872"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T15:11:33.095023"
       }
     ]
   },
@@ -98192,6 +98200,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T15:10:33.137586"
+      }
+    ]
+  },
+  "a95d28c607cab72e78395cc415b71ff6": {
+    "time": "2026/09/23 15:10:34",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T15:11:33.095023"
       }
     ]
   }
