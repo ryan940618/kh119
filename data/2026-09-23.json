@@ -97447,7 +97447,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -97464,6 +97464,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T14:27:33.718953"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T14:46:33.857353"
       }
     ]
   },
@@ -97737,7 +97741,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區褒揚東街",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -97746,6 +97750,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T14:36:33.853059"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T14:46:33.857353"
       }
     ]
   },
@@ -97871,11 +97879,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區澄和路",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T14:45:33.713262"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T14:46:33.857353"
       }
     ]
   }
