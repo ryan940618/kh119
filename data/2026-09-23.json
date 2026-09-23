@@ -97357,7 +97357,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -97366,6 +97366,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T14:02:33.444281"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T14:12:33.611205"
       }
     ]
   },
@@ -97375,7 +97379,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區平和路",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -97388,6 +97392,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T14:08:33.649042"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T14:12:33.611205"
       }
     ]
   },
@@ -97443,11 +97451,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T14:11:33.561982"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T14:12:33.611205"
       }
     ]
   }
