@@ -95895,7 +95895,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區加仁路",
     "units": "橋頭分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -95912,6 +95912,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T11:54:33.655748"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T12:07:33.860920"
       }
     ]
   },
@@ -96048,6 +96052,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T12:04:33.850476"
+      }
+    ]
+  },
+  "9f5136801663d98e9ad617d0bc008799": {
+    "time": "2026/09/23 12:06:55",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市阿蓮區",
+    "units": "阿蓮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T12:07:33.860920"
+      }
+    ]
+  },
+  "632c272514a2e939f08666fa3efebf9b": {
+    "time": "2026/09/23 12:06:38",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市橋頭區筆秀東路",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T12:07:33.860920"
       }
     ]
   }
