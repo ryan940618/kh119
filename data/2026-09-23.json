@@ -98155,7 +98155,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區和光街",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -98164,6 +98164,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T15:08:33.082185"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T15:14:33.170037"
       }
     ]
   },
@@ -98195,11 +98199,15 @@
     "sub_category": "其他",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T15:10:33.137586"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T15:14:33.170037"
       }
     ]
   },
@@ -98246,6 +98254,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T15:13:33.096735"
+      }
+    ]
+  },
+  "96ea2f9cfcdaa765b900641dcc758727": {
+    "time": "2026/09/23 15:13:22",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T15:14:33.170037"
       }
     ]
   }
