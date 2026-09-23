@@ -101029,7 +101029,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -101038,6 +101038,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T18:53:33.774840"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T18:58:33.677980"
       }
     ]
   },
@@ -101101,11 +101105,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T18:57:34.796384"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T18:58:33.677980"
       }
     ]
   },
@@ -101120,6 +101128,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T18:57:34.796384"
+      }
+    ]
+  },
+  "cff2af99e20107a45d343083098216ac": {
+    "time": "2026/09/23 18:57:24",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T18:58:33.677980"
       }
     ]
   }
