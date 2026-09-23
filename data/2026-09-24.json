@@ -105297,7 +105297,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -105314,6 +105314,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T07:46:33.696753"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T07:58:34.116841"
       }
     ]
   },
@@ -105593,7 +105597,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區成功北路",
     "units": "橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -105602,6 +105606,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T07:52:33.804885"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T07:58:34.116841"
       }
     ]
   },
@@ -105629,7 +105637,7 @@
     "sub_category": "創傷",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -105638,6 +105646,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T07:54:33.806237"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T07:58:34.116841"
       }
     ]
   },
@@ -105665,11 +105677,15 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區友情路",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T07:55:33.807968"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T07:58:34.116841"
       }
     ]
   },
@@ -105688,6 +105704,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T07:57:33.967226"
+      }
+    ]
+  },
+  "ee96139289f3409175f6de0000e86599": {
+    "time": "2026/09/24 07:58:00",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市新興區六合一路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T07:58:34.116841"
       }
     ]
   }
