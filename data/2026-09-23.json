@@ -97527,7 +97527,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -97536,6 +97536,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T14:18:33.634747"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T14:22:33.707481"
       }
     ]
   },
@@ -97563,11 +97567,29 @@
     "sub_category": "路倒",
     "location": "高雄市新興區忠孝一路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T14:21:33.667569"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T14:22:33.707481"
+      }
+    ]
+  },
+  "6b5e9a0367f259347cb328180caad1d1": {
+    "time": "2026/09/23 14:21:56",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區林泉街",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T14:22:33.707481"
       }
     ]
   }
