@@ -94075,7 +94075,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -94092,6 +94092,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T09:24:33.610131"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T09:32:33.750585"
       }
     ]
   },
@@ -94131,7 +94135,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -94148,6 +94152,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T09:26:33.696963"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T09:32:33.750585"
       }
     ]
   },
@@ -94232,6 +94240,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T09:31:33.771115"
+      }
+    ]
+  },
+  "1675f408b7f5c2abb87ebdff242c71fe": {
+    "time": "2026/09/23 09:31:04",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "測試-高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T09:32:33.750585"
       }
     ]
   }
