@@ -95121,7 +95121,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -95130,6 +95130,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T10:51:33.322495"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T10:55:33.278358"
       }
     ]
   },
@@ -95167,11 +95171,29 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T10:54:33.223524"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T10:55:33.278358"
+      }
+    ]
+  },
+  "e29e55b857fd54ab5de9907ca25f5ad1": {
+    "time": "2026/09/23 10:54:42",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T10:55:33.278358"
       }
     ]
   }
