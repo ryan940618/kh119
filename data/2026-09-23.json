@@ -102675,7 +102675,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -102692,6 +102692,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T22:29:33.267112"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T22:35:33.322091"
       }
     ]
   },
@@ -102754,6 +102758,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T22:30:33.202866"
+      }
+    ]
+  },
+  "da0b128a1f6e9f9c063019e7a4c19e9a": {
+    "time": "2026/09/23 22:34:45",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大社區光華路",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T22:35:33.322091"
       }
     ]
   }
