@@ -98291,7 +98291,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -98304,6 +98304,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T15:19:33.126478"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T15:28:33.268323"
       }
     ]
   },
@@ -98407,7 +98411,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -98420,6 +98424,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T15:25:33.162158"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T15:28:33.268323"
       }
     ]
   },
@@ -98483,11 +98491,43 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-23T15:25:33.162158"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T15:28:33.268323"
+      }
+    ]
+  },
+  "2a01b590c6a6048a9f60ab70387cbc62": {
+    "time": "2026/09/23 15:27:47",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區新富路",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T15:28:33.268323"
+      }
+    ]
+  },
+  "5d2195c1b499848d0ce9ffe7f4f26bb7": {
+    "time": "2026/09/23 15:27:08",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區建國路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T15:28:33.268323"
       }
     ]
   }
