@@ -95053,7 +95053,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區光華三路",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -95070,6 +95070,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T11:05:33.414309"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T11:09:33.376522"
       }
     ]
   },
@@ -95179,11 +95183,15 @@
     "sub_category": "路倒",
     "location": "高雄市六龜區寶建路",
     "units": "寶來分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T10:52:33.407377"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T11:09:33.376522"
       }
     ]
   },
@@ -95353,11 +95361,29 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中山四路",
     "units": "前鎮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T11:07:33.260403"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T11:09:33.376522"
+      }
+    ]
+  },
+  "e721dc4dece12ca8a9e1f55188a427ab": {
+    "time": "2026/09/23 11:08:26",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區建國一路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T11:09:33.376522"
       }
     ]
   }
