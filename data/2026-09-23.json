@@ -94357,7 +94357,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -94374,6 +94374,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T09:54:33.744896"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T10:02:33.726554"
       }
     ]
   },
@@ -94543,7 +94547,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區鼓山三路",
     "units": "左營分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -94552,6 +94556,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T09:59:33.782222"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T10:02:33.726554"
       }
     ]
   },
@@ -94598,6 +94606,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T10:01:33.786899"
+      }
+    ]
+  },
+  "ea7463ac70cd4621d2550591538eaf86": {
+    "time": "2026/09/23 10:01:46",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鼓山區東門路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T10:02:33.726554"
       }
     ]
   }
