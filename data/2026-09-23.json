@@ -96611,7 +96611,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -96624,6 +96624,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T13:04:33.053098"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T13:14:33.308655"
       }
     ]
   },
@@ -96699,7 +96703,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區大昌一路",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -96712,6 +96716,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T13:06:33.203878"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T13:14:33.308655"
       }
     ]
   },
@@ -96762,6 +96770,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T13:09:33.163499"
+      }
+    ]
+  },
+  "f4d6550266c59cbf69f0adaedf054650": {
+    "time": "2026/09/23 13:14:07",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T13:14:33.308655"
       }
     ]
   }
