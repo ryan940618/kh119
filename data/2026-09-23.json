@@ -102311,7 +102311,7 @@
     "sub_category": "創傷",
     "location": "高雄市小港區立群路",
     "units": "小港分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -102324,6 +102324,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T21:23:33.837665"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T21:32:33.794243"
       }
     ]
   },
@@ -102429,7 +102433,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -102438,6 +102442,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T21:25:33.814886"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T21:32:33.794243"
       }
     ]
   },
@@ -102452,6 +102460,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T21:30:34.045319"
+      }
+    ]
+  },
+  "422f45214d6923a73ba0c756ab076b59": {
+    "time": "2026/09/23 21:31:08",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T21:32:33.794243"
       }
     ]
   }
