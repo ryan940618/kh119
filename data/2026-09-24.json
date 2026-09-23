@@ -105207,7 +105207,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區文學一街",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -105224,6 +105224,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T07:40:33.714556"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T07:42:33.650844"
       }
     ]
   },
@@ -105432,6 +105436,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T07:41:33.706112"
+      }
+    ]
+  },
+  "8e06d10a4ed1287095bfcb290a84e3fa": {
+    "time": "2026/09/24 07:41:40",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T07:42:33.650844"
+      }
+    ]
+  },
+  "2422fb23365af8024a86e1c306ebe607": {
+    "time": "2026/09/24 07:41:33",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區二聖一路",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T07:42:33.650844"
       }
     ]
   }
