@@ -97981,7 +97981,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區高鐵路",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -97994,6 +97994,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T15:01:34.049282"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T15:10:33.137586"
       }
     ]
   },
@@ -98059,7 +98063,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -98072,6 +98076,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T15:06:32.944872"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T15:10:33.137586"
       }
     ]
   },
@@ -98103,7 +98111,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -98112,6 +98120,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T15:05:33.149963"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T15:10:33.137586"
       }
     ]
   },
@@ -98166,6 +98178,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T15:06:32.944872"
+      }
+    ]
+  },
+  "4206eaf414216cb8f93321c7be76c5c3": {
+    "time": "2026/09/23 15:09:55",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市小港區",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T15:10:33.137586"
       }
     ]
   }
