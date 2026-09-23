@@ -105307,7 +105307,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -105320,6 +105320,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T07:34:33.515973"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T07:43:33.682451"
       }
     ]
   },
@@ -105329,7 +105333,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區中興路",
     "units": "燕巢分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -105342,6 +105346,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T07:35:33.514974"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T07:43:33.682451"
       }
     ]
   },
@@ -105391,7 +105399,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區中泰街",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -105400,6 +105408,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T07:38:33.493977"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T07:43:33.682451"
       }
     ]
   },
@@ -105459,11 +105471,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區二聖一路",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T07:42:33.650844"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T07:43:33.682451"
       }
     ]
   }
