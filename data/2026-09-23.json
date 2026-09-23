@@ -97013,7 +97013,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -97022,6 +97022,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T13:32:33.333452"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T13:52:33.458811"
       }
     ]
   },
@@ -97169,11 +97173,15 @@
     "sub_category": "路倒",
     "location": "高雄市左營區華夏路",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T13:44:33.422115"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T13:52:33.458811"
       }
     ]
   },
