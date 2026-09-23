@@ -99385,7 +99385,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中華五路",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -99402,6 +99402,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T17:07:34.863658"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T17:11:33.876438"
       }
     ]
   },
@@ -99557,11 +99561,15 @@
     "sub_category": "路倒",
     "location": "高雄市左營區文川路",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T17:09:34.248928"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T17:11:33.876438"
       }
     ]
   }
