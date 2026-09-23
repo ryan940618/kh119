@@ -100555,11 +100555,15 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區興中一路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-23T18:05:33.337183"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T18:15:33.467805"
       }
     ]
   },
@@ -100662,6 +100666,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T18:14:33.461462"
+      }
+    ]
+  },
+  "c561f0703a88163f467cff1d3b34ac79": {
+    "time": "2026/09/23 18:14:48",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市楠梓區岳陽街",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T18:15:33.467805"
       }
     ]
   }
