@@ -100667,7 +100667,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區鳳仁路",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -100676,6 +100676,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T18:20:33.653095"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T18:29:33.733474"
       }
     ]
   },
@@ -100806,6 +100810,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T18:24:33.693328"
+      }
+    ]
+  },
+  "490ba339734a228fd3123636c251e4bc": {
+    "time": "2026/09/23 18:28:17",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T18:29:33.733474"
       }
     ]
   }
