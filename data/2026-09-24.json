@@ -103501,7 +103501,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -103510,6 +103510,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T00:51:33.530392"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T00:59:33.727003"
       }
     ]
   },
@@ -103524,6 +103528,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T00:55:33.440240"
+      }
+    ]
+  },
+  "eb72103e4b6e1cf301346e2b1d5b3726": {
+    "time": "2026/09/24 00:58:42",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T00:59:33.727003"
       }
     ]
   }
