@@ -101029,7 +101029,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -101042,6 +101042,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T18:58:33.677980"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T19:04:33.907998"
       }
     ]
   },
@@ -101180,6 +101184,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T19:03:33.746151"
+      }
+    ]
+  },
+  "5dc060f4d7739c08c77de955130493f5": {
+    "time": "2026/09/23 19:03:17",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區文學路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T19:04:33.907998"
       }
     ]
   }
