@@ -97503,7 +97503,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -97520,6 +97520,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-23T14:37:33.792220"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-23T14:50:33.878912"
       }
     ]
   },
@@ -97789,7 +97793,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -97802,6 +97806,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T14:41:33.733540"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T14:50:33.878912"
       }
     ]
   },
@@ -97910,6 +97918,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T14:47:33.888541"
+      }
+    ]
+  },
+  "fa56275955f53c23dab3731b78017409": {
+    "time": "2026/09/23 14:45:07",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大社區學府路",
+    "units": "大社分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T14:50:33.878912"
       }
     ]
   }
