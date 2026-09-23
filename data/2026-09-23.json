@@ -98371,7 +98371,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -98380,6 +98380,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T15:25:33.162158"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T15:31:33.324437"
       }
     ]
   },
@@ -98550,6 +98554,48 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T15:29:33.203686"
+      }
+    ]
+  },
+  "16aecbb30308468c4bb1d0024d1ecc92": {
+    "time": "2026/09/23 15:29:53",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T15:31:33.324437"
+      }
+    ]
+  },
+  "3024d3f656036d4612ef3de1f312df20": {
+    "time": "2026/09/23 15:29:53",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市彌陀區新庄路",
+    "units": "彌陀分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T15:31:33.324437"
+      }
+    ]
+  },
+  "ab98eca7c81a49de2050da67c5fb9d4a": {
+    "time": "2026/09/23 15:27:45",
+    "category": "其他",
+    "sub_category": "受困",
+    "location": "高雄市內門區實踐大學宿舍M棟[高雄市內門區大學路",
+    "units": "內門分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T15:31:33.324437"
       }
     ]
   }
