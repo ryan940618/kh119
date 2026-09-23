@@ -104991,7 +104991,7 @@
     "sub_category": "路倒",
     "location": "高雄市田寮區南安路",
     "units": "崇德駐地",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -105008,6 +105008,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T07:17:33.342952"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T07:31:33.565809"
       }
     ]
   },
@@ -105246,6 +105250,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T07:29:33.482496"
+      }
+    ]
+  },
+  "88b6d763b3d24cae30a567d64f29b8a1": {
+    "time": "2026/09/24 07:31:02",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市湖內區",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T07:31:33.565809"
+      }
+    ]
+  },
+  "f49b30c48a0c24baf82021596efe40e5": {
+    "time": "2026/09/24 07:31:09",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市燕巢區中興路",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T07:31:33.565809"
       }
     ]
   }
