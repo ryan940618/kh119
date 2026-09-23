@@ -97901,7 +97901,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -97910,6 +97910,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T14:51:33.803672"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-23T14:57:33.943893"
       }
     ]
   },
@@ -98005,11 +98009,15 @@
     "sub_category": "車禍",
     "location": "高雄市前金區光復三街",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T14:55:33.861090"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T14:57:33.943893"
       }
     ]
   }
