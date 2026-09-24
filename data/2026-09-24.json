@@ -112553,7 +112553,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區中華一路和慶豐街",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -112570,6 +112570,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T17:24:33.184712"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T17:35:33.316442"
       }
     ]
   },
@@ -112671,7 +112675,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區漁港南三路",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -112684,6 +112688,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T17:31:33.281181"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T17:35:33.316442"
       }
     ]
   },
@@ -112693,11 +112701,15 @@
     "sub_category": "路倒",
     "location": "高雄市鼓山區民泰街",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T17:25:33.223510"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T17:35:33.316442"
       }
     ]
   },
@@ -112725,7 +112737,7 @@
     "sub_category": "其他",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -112734,6 +112746,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T17:32:33.318635"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T17:35:33.316442"
       }
     ]
   }
