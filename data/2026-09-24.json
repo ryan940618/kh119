@@ -111099,7 +111099,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區林德街",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -111112,6 +111112,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T15:45:33.734927"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T15:50:33.730835"
       }
     ]
   },
@@ -111250,6 +111254,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T15:47:33.429948"
+      }
+    ]
+  },
+  "b0bf549b50b55f5c2023e9e94e37dc01": {
+    "time": "2026/09/24 15:48:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊,橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T15:50:33.730835"
       }
     ]
   }
