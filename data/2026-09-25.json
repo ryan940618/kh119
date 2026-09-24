@@ -118177,7 +118177,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區城峰路",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -118190,6 +118190,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T07:35:33.452747"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T07:42:33.506213"
       }
     ]
   },
@@ -118265,11 +118269,15 @@
     "sub_category": "創傷",
     "location": "高雄市燕巢區",
     "units": "田寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T07:41:33.533453"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T07:42:33.506213"
       }
     ]
   }
