@@ -107267,11 +107267,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T10:04:33.748360"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T10:10:34.008018"
       }
     ]
   },
@@ -107350,6 +107354,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T10:09:33.953337"
+      }
+    ]
+  },
+  "2e2551f2526ae3253ab4998f01255509": {
+    "time": "2026/09/24 10:10:11",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區輔仁路",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T10:10:34.008018"
       }
     ]
   }
