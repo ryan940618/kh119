@@ -107105,7 +107105,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區老爺四街",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -107114,6 +107114,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T09:51:33.861207"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T09:56:33.745807"
       }
     ]
   },
@@ -107150,6 +107154,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T09:55:33.727973"
+      }
+    ]
+  },
+  "88bebda485699bec01bccfbf8d4c6c3f": {
+    "time": "2026/09/24 09:55:49",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區仁心路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T09:56:33.745807"
+      }
+    ]
+  },
+  "d36c183f3bd2c05e1771d391819a4ead": {
+    "time": "2026/09/24 09:55:22",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市梓官區",
+    "units": "梓官分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T09:56:33.745807"
       }
     ]
   }
