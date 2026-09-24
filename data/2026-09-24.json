@@ -107373,11 +107373,15 @@
     "sub_category": "急病",
     "location": "高雄市六龜區",
     "units": "六龜分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T10:09:33.953337"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T10:18:33.923333"
       }
     ]
   },
@@ -107508,6 +107512,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T10:16:33.984697"
+      }
+    ]
+  },
+  "03e5b86070d3c5f1b7db108cbb0b9b4f": {
+    "time": "2026/09/24 10:17:32",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T10:18:33.923333"
       }
     ]
   }
