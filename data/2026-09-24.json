@@ -105943,7 +105943,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -105960,6 +105960,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T08:28:33.045741"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T08:34:33.100702"
       }
     ]
   },
@@ -105969,7 +105973,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -105982,6 +105986,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T08:25:33.968666"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T08:34:33.100702"
       }
     ]
   },
@@ -106110,6 +106118,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T08:33:33.060384"
+      }
+    ]
+  },
+  "e9558d3fe8612f2d607368a201c13594": {
+    "time": "2026/09/24 08:33:25",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市林園區西溪路",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T08:34:33.100702"
+      }
+    ]
+  },
+  "bb6683fb6038d8e5e953d2b6ce48f19b": {
+    "time": "2026/09/24 08:32:41",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市大寮區鳳屏一路",
+    "units": "中庄分隊,大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T08:34:33.100702"
       }
     ]
   }
