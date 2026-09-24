@@ -111951,7 +111951,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -111968,6 +111968,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T16:46:34.004232"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T16:59:34.052971"
       }
     ]
   },
@@ -112241,7 +112245,7 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區自強三路",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -112250,6 +112254,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T16:54:34.104009"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T16:59:34.052971"
       }
     ]
   },
@@ -112277,7 +112285,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -112286,6 +112294,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T16:56:34.495043"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T16:59:34.052971"
       }
     ]
   },
@@ -112295,11 +112307,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T16:55:34.279970"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T16:59:34.052971"
       }
     ]
   }
