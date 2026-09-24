@@ -113321,7 +113321,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區中正路",
     "units": "仁武分隊,大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -113338,6 +113338,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T18:34:33.863317"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T18:48:33.702690"
       }
     ]
   },
@@ -113487,7 +113491,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區英明路",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -113504,6 +113508,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T18:41:33.723143"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T18:48:33.702690"
       }
     ]
   },
@@ -113607,11 +113615,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T18:41:33.723143"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T18:48:33.702690"
       }
     ]
   },
