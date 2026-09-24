@@ -110303,7 +110303,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區富國路",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -110320,6 +110320,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T14:13:33.725507"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T14:18:33.919356"
       }
     ]
   },
@@ -110369,7 +110373,7 @@
     "sub_category": "車禍",
     "location": "高雄市旗山區旗美污水處理廠附近[高雄市旗山區旗屏一路",
     "units": "旗山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -110382,6 +110386,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T14:14:33.550970"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T14:18:33.919356"
       }
     ]
   },
@@ -110422,6 +110430,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T14:16:33.662667"
+      }
+    ]
+  },
+  "bbe9f80c1135c87142719fff216c7575": {
+    "time": "2026/09/24 14:17:13",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市彌陀區",
+    "units": "彌陀分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T14:18:33.919356"
       }
     ]
   }
