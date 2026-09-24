@@ -111345,7 +111345,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -111358,6 +111358,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T15:58:33.548461"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T16:09:33.701963"
       }
     ]
   },
@@ -111421,7 +111425,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -111430,6 +111434,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T16:04:33.662446"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T16:09:33.701963"
       }
     ]
   },
@@ -111453,11 +111461,29 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T16:08:33.523562"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T16:09:33.701963"
+      }
+    ]
+  },
+  "466d452b0f153f8a7ad7a500d3dbc71e": {
+    "time": "2026/09/24 16:07:42",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區高屏大橋[高雄市大寮區鳳屏二路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-24T16:09:33.701963"
       }
     ]
   }
