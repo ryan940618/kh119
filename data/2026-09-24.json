@@ -114637,7 +114637,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -114654,6 +114654,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T21:02:33.741746"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T21:09:33.799992"
       }
     ]
   },
@@ -114711,7 +114715,7 @@
     "sub_category": "創傷",
     "location": "高雄市旗津區旗津三路",
     "units": "旗津分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -114724,6 +114728,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T21:03:33.652463"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T21:09:33.799992"
       }
     ]
   },
@@ -114856,6 +114864,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T21:06:33.782465"
+      }
+    ]
+  },
+  "31435a94d48369a94ecd78587b848f99": {
+    "time": "2026/09/24 21:08:24",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T21:09:33.799992"
       }
     ]
   }
