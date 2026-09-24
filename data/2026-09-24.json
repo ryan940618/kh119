@@ -111615,7 +111615,7 @@
     "sub_category": "創傷",
     "location": "高雄市林園區中門路",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -111632,6 +111632,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T16:28:33.757372"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T16:43:34.268894"
       }
     ]
   },
@@ -111737,7 +111741,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -111746,6 +111750,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T16:29:34.012984"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T16:43:34.268894"
       }
     ]
   },
@@ -111947,7 +111955,7 @@
     "sub_category": "一般(集合)住宅",
     "location": "高雄市三民區永吉街",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -111956,6 +111964,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T16:41:33.876814"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T16:43:34.268894"
       }
     ]
   },
@@ -112014,6 +112026,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T16:42:34.215062"
+      }
+    ]
+  },
+  "fa160fb7b9a64c4b693dd28161725cc6": {
+    "time": "2026/09/24 16:41:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區東亞路",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T16:43:34.268894"
       }
     ]
   }
