@@ -106795,7 +106795,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區博愛一路",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -106812,6 +106812,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T09:46:33.742635"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T09:55:33.727973"
       }
     ]
   },
@@ -107079,7 +107083,7 @@
     "sub_category": "車禍",
     "location": "高雄市旗山區華中街",
     "units": "旗山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -107088,6 +107092,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T09:49:33.726373"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T09:55:33.727973"
       }
     ]
   },
@@ -107133,11 +107141,15 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區仁心路",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T09:54:33.803218"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T09:55:33.727973"
       }
     ]
   }
