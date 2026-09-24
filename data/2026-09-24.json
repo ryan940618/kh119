@@ -114819,7 +114819,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -114828,6 +114828,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T21:07:33.746028"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T21:18:33.797347"
       }
     ]
   },
@@ -114903,7 +114907,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區建國二路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -114912,6 +114916,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T21:13:33.757259"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T21:18:33.797347"
       }
     ]
   },
@@ -114979,11 +114987,15 @@
     "sub_category": "受困",
     "location": "高雄市三民區澄清路",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T21:17:33.817782"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T21:18:33.797347"
       }
     ]
   }
