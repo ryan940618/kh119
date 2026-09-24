@@ -107317,11 +107317,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區西甲里復興三路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T10:05:33.884554"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T10:11:33.901663"
       }
     ]
   },
@@ -107363,11 +107367,29 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區輔仁路",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T10:10:34.008018"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T10:11:33.901663"
+      }
+    ]
+  },
+  "81823dec11f396f31a9dd64643e0321b": {
+    "time": "2026/09/24 10:10:51",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T10:11:33.901663"
       }
     ]
   }
