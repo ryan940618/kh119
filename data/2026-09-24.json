@@ -115855,7 +115855,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區王生明路",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -115868,6 +115868,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T23:22:33.767657"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T23:27:33.921635"
       }
     ]
   },
@@ -116042,6 +116046,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T23:25:33.915850"
+      }
+    ]
+  },
+  "42767da0206142112f3554d1e7f8c9d4": {
+    "time": "2026/09/24 23:25:52",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T23:27:33.921635"
       }
     ]
   }
