@@ -111651,7 +111651,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區軍校路",
     "units": "左營小隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -111664,6 +111664,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T16:21:33.795529"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T16:29:34.012984"
       }
     ]
   },
@@ -111709,11 +111713,15 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T16:21:33.795529"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T16:29:34.012984"
       }
     ]
   },
@@ -111723,7 +111731,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區通化街",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -111736,6 +111744,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T16:26:33.848354"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T16:29:34.012984"
       }
     ]
   },
@@ -111767,11 +111779,15 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T16:26:33.848354"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T16:29:34.012984"
       }
     ]
   },
@@ -111781,11 +111797,29 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T16:28:33.757372"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T16:29:34.012984"
+      }
+    ]
+  },
+  "7319b4b0ed60e2f448a98031e6250ad3": {
+    "time": "2026/09/24 16:25:25",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市苓雅區自強三路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T16:29:34.012984"
       }
     ]
   }
