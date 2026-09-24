@@ -112537,7 +112537,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區中華一路和慶豐街",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -112550,6 +112550,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T17:16:34.090856"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T17:24:33.184712"
       }
     ]
   },
@@ -112639,11 +112643,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區漁港南三路",
     "units": "前鎮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T17:22:33.228276"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T17:24:33.184712"
       }
     ]
   }
