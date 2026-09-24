@@ -115737,7 +115737,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -115754,6 +115754,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T23:14:33.738939"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T23:28:33.975263"
       }
     ]
   },
@@ -115937,7 +115941,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -115954,6 +115958,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T23:22:33.767657"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T23:28:33.975263"
       }
     ]
   },
@@ -116055,11 +116063,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T23:27:33.921635"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T23:28:33.975263"
       }
     ]
   }
