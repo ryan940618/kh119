@@ -113225,7 +113225,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -113238,6 +113238,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T18:20:33.515673"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T18:29:33.822523"
       }
     ]
   },
@@ -113309,7 +113313,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區中正路",
     "units": "仁武分隊,大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -113318,6 +113322,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T18:24:33.653500"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T18:29:33.822523"
       }
     ]
   },
@@ -113327,7 +113335,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區白樹路",
     "units": "橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -113336,6 +113344,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T18:23:33.621785"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T18:29:33.822523"
       }
     ]
   },
@@ -113391,11 +113403,15 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T18:27:33.844530"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T18:29:33.822523"
       }
     ]
   },
@@ -113424,6 +113440,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T18:28:33.811536"
+      }
+    ]
+  },
+  "c87ad797f30bc088a8bd08ca26bfa9bd": {
+    "time": "2026/09/24 18:28:57",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T18:29:33.822523"
       }
     ]
   }
