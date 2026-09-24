@@ -109815,7 +109815,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -109824,6 +109824,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T13:14:33.344870"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T13:45:33.612792"
       }
     ]
   },
@@ -110111,7 +110115,7 @@
     "sub_category": "車禍",
     "location": "高雄市阿蓮區中正路",
     "units": "阿蓮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -110120,6 +110124,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T13:40:33.402818"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T13:45:33.612792"
       }
     ]
   },
@@ -110152,6 +110160,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T13:44:33.323234"
+      }
+    ]
+  },
+  "d3d8fd78ab30769dc5e5b01981f904f2": {
+    "time": "2026/09/24 13:44:58",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區正義路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T13:45:33.612792"
       }
     ]
   }
