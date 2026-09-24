@@ -111441,7 +111441,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -111458,6 +111458,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T16:20:33.610440"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T16:23:33.687199"
       }
     ]
   },
@@ -111551,7 +111555,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區甲樹路",
     "units": "橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -111560,6 +111564,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T16:16:33.537187"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T16:23:33.687199"
       }
     ]
   },
@@ -111657,11 +111665,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區國光路",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T16:21:33.795529"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T16:23:33.687199"
       }
     ]
   },
@@ -111713,11 +111725,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊,小港分隊,瑞隆分隊",
-    "current_status": "",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "",
         "timestamp": "2026-09-24T16:22:33.656328"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T16:23:33.687199"
       }
     ]
   }
