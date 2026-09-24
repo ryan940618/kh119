@@ -113919,7 +113919,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區育英路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -113928,6 +113928,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T19:09:34.122923"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T19:13:33.987603"
       }
     ]
   },
@@ -113937,11 +113941,15 @@
     "sub_category": "其他",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T19:08:33.874564"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T19:13:33.987603"
       }
     ]
   },
@@ -113978,6 +113986,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T19:12:33.871271"
+      }
+    ]
+  },
+  "70b9f66e34ea1f681c24c82552277c87": {
+    "time": "2026/09/24 19:12:57",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區英德街",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T19:13:33.987603"
       }
     ]
   }
