@@ -116695,7 +116695,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區漁村街",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -116704,6 +116704,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T01:50:33.882380"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T01:56:33.995216"
       }
     ]
   },
@@ -116722,6 +116726,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T01:55:33.886616"
+      }
+    ]
+  },
+  "370687006217f8350f393dab535f02f8": {
+    "time": "2026/09/25 01:55:39",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T01:56:33.995216"
+      }
+    ]
+  },
+  "0f0d5e800aa37a774a27efba68235fc3": {
+    "time": "2026/09/25 01:55:04",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市茄萣區",
+    "units": "茄萣分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T01:56:33.995216"
       }
     ]
   }
