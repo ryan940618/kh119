@@ -107441,7 +107441,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -107458,6 +107458,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T10:24:34.065753"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T10:33:34.111772"
       }
     ]
   },
@@ -107625,7 +107629,7 @@
     "sub_category": "路倒",
     "location": "高雄市鼓山區馬卡道路",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -107638,6 +107642,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T10:24:34.065753"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T10:33:34.111772"
       }
     ]
   },
@@ -107749,11 +107757,15 @@
     "sub_category": "車禍",
     "location": "高雄市左營區蓮潭路",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T10:31:34.041655"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T10:33:34.111772"
       }
     ]
   },
@@ -107781,11 +107793,43 @@
     "sub_category": "車禍",
     "location": "高雄市美濃區中正路",
     "units": "美濃分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T10:32:34.173972"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T10:33:34.111772"
+      }
+    ]
+  },
+  "8513b7940a5a668a386727e934add3e3": {
+    "time": "2026/09/24 10:33:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T10:33:34.111772"
+      }
+    ]
+  },
+  "1144d454b527883c516dc17d646e6acd": {
+    "time": "2026/09/24 10:30:13",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市美濃區中興路",
+    "units": "美濃分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T10:33:34.111772"
       }
     ]
   }
