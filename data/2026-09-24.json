@@ -109827,11 +109827,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區惠民路",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T13:13:33.517083"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T13:18:33.388366"
       }
     ]
   },
@@ -109859,11 +109863,15 @@
     "sub_category": "車禍",
     "location": "高雄市左營區立信路",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T13:16:33.358904"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T13:18:33.388366"
       }
     ]
   },
@@ -109878,6 +109886,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T13:16:33.358904"
+      }
+    ]
+  },
+  "f6efeaa32720205d6ad805ec7a7a1730": {
+    "time": "2026/09/24 13:17:51",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T13:18:33.388366"
       }
     ]
   }
