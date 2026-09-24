@@ -112997,7 +112997,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -113006,6 +113006,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T17:58:33.526872"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T18:01:34.390301"
       }
     ]
   },
@@ -113051,11 +113055,57 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區前峰路",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T18:00:33.642845"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T18:01:34.390301"
+      }
+    ]
+  },
+  "ab7c9ee525199ef3b70d15b6f70e0b8e": {
+    "time": "2026/09/24 18:00:41",
+    "category": "火災",
+    "sub_category": "雜草(含廢棄物、墓地)",
+    "location": "高雄市楠梓區大學十街",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T18:01:34.390301"
+      }
+    ]
+  },
+  "f2bdbad7538b1cfe7669aa66815f9bdf": {
+    "time": "2026/09/24 18:00:26",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T18:01:34.390301"
+      }
+    ]
+  },
+  "8c9da1249f61537883712e0afa102558": {
+    "time": "2026/09/24 17:57:44",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區",
+    "units": "鳥松分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T18:01:34.390301"
       }
     ]
   }
