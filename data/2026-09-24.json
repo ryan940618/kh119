@@ -109305,7 +109305,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -109318,6 +109318,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T12:46:34.152658"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T12:56:34.208723"
       }
     ]
   },
@@ -109459,7 +109463,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區文慈路",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -109468,6 +109472,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T12:44:34.157600"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T12:56:34.208723"
       }
     ]
   },
@@ -109561,7 +109569,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -109574,6 +109582,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T12:52:34.134839"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T12:56:34.208723"
       }
     ]
   },
@@ -109592,6 +109604,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T12:51:34.081418"
+      }
+    ]
+  },
+  "9df5ceab461a6633bd25eeb211557ed8": {
+    "time": "2026/09/24 12:55:25",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T12:56:34.208723"
       }
     ]
   }
