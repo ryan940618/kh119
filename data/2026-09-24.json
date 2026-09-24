@@ -114887,7 +114887,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區大順三路",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -114904,6 +114904,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T21:41:34.185853"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T21:46:33.306132"
       }
     ]
   },
@@ -115127,7 +115131,7 @@
     "sub_category": "創傷",
     "location": "高雄市新興區七賢二路",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -115144,6 +115148,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T21:42:33.013412"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T21:46:33.306132"
       }
     ]
   },
@@ -115234,6 +115242,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T21:45:33.080978"
+      }
+    ]
+  },
+  "5ee8b05e738002867a6bb2e86e1786bf": {
+    "time": "2026/09/24 21:45:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市彌陀區",
+    "units": "彌陀分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T21:46:33.306132"
       }
     ]
   }
