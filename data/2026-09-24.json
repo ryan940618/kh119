@@ -111603,7 +111603,7 @@
     "sub_category": "創傷",
     "location": "高雄市林園區中門路",
     "units": "林園分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -111616,6 +111616,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T16:22:33.656328"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T16:28:33.757372"
       }
     ]
   },
@@ -111768,6 +111772,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T16:26:33.848354"
+      }
+    ]
+  },
+  "bc32f8f7cb80d44ee4e5e05bb1da25aa": {
+    "time": "2026/09/24 16:27:21",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T16:28:33.757372"
       }
     ]
   }
