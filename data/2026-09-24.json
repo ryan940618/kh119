@@ -106487,7 +106487,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -106504,6 +106504,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T09:27:33.506757"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T09:30:33.569332"
       }
     ]
   },
@@ -106627,7 +106631,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -106636,6 +106640,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T09:24:33.644535"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T09:30:33.569332"
       }
     ]
   },
@@ -106645,7 +106653,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區仁愛三街",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -106654,6 +106662,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T09:24:33.644535"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T09:30:33.569332"
       }
     ]
   },
@@ -106695,11 +106707,15 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T09:28:34.078617"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T09:30:33.569332"
       }
     ]
   }
