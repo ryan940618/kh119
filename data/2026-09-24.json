@@ -112967,7 +112967,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -112984,6 +112984,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T18:17:33.557580"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T18:26:33.653546"
       }
     ]
   },
@@ -113187,7 +113191,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區青年路",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -113204,6 +113208,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T18:25:33.702109"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T18:26:33.653546"
       }
     ]
   },
@@ -113343,11 +113351,29 @@
     "sub_category": "其他",
     "location": "高雄市燕巢區中西路",
     "units": "燕巢分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T18:25:33.702109"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T18:26:33.653546"
+      }
+    ]
+  },
+  "4531f133bc0e83b123755f2f5b2fdb3c": {
+    "time": "2026/09/24 18:25:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T18:26:33.653546"
       }
     ]
   }
