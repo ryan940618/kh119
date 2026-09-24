@@ -112961,11 +112961,15 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T17:49:33.612394"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T17:58:33.526872"
       }
     ]
   },
@@ -112993,11 +112997,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T17:54:33.480687"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T17:58:33.526872"
       }
     ]
   },
@@ -113007,11 +113015,29 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區澄清路和文享街",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T17:57:33.923383"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T17:58:33.526872"
+      }
+    ]
+  },
+  "b6dd79f7bb0c9a28e22a68eb1c043898": {
+    "time": "2026/09/24 17:57:44",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區成功路",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T17:58:33.526872"
       }
     ]
   }
