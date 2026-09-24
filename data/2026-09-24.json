@@ -108045,7 +108045,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區中山四路",
     "units": "小港分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -108058,6 +108058,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T10:48:33.575046"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T11:00:33.239164"
       }
     ]
   },
@@ -108183,7 +108187,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區翠華路",
     "units": "左營小隊",
-    "current_status": "",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -108192,6 +108196,10 @@
       {
         "status": "",
         "timestamp": "2026-09-24T10:59:33.322853"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T11:00:33.239164"
       }
     ]
   },
@@ -108201,11 +108209,15 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T10:59:33.322853"
+      },
+      {
+        "status": "",
+        "timestamp": "2026-09-24T11:00:33.239164"
       }
     ]
   }
