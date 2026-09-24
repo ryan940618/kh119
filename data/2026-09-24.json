@@ -111319,7 +111319,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊,橋頭分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -111332,6 +111332,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T15:56:33.925513"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T16:06:33.746118"
       }
     ]
   },
@@ -111422,6 +111426,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T16:04:33.662446"
+      }
+    ]
+  },
+  "43ec45356cd6761f395209d7d52b8232": {
+    "time": "2026/09/24 16:04:51",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "鼎金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T16:06:33.746118"
       }
     ]
   }
