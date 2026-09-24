@@ -105917,7 +105917,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區美術北一街",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -105934,6 +105934,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T08:33:33.060384"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T08:45:33.234126"
       }
     ]
   },
@@ -106219,7 +106223,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區高鐵路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -106228,6 +106232,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T08:40:33.219713"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T08:45:33.234126"
       }
     ]
   },
@@ -106259,11 +106267,29 @@
     "sub_category": "車禍",
     "location": "高雄市新興區中山一路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T08:44:33.113011"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T08:45:33.234126"
+      }
+    ]
+  },
+  "c1d22750c2ddb28979b66f1e42b7b212": {
+    "time": "2026/09/24 08:44:20",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區澄清路",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T08:45:33.234126"
       }
     ]
   }
