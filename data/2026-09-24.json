@@ -112777,7 +112777,7 @@
     "sub_category": "其他",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -112790,6 +112790,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T17:35:33.316442"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T18:22:33.908660"
       }
     ]
   },
@@ -113286,6 +113290,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T18:21:33.729134"
+      }
+    ]
+  },
+  "2abf1730046603399ed941d0c618de70": {
+    "time": "2026/09/24 18:21:42",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市橋頭區白樹路",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T18:22:33.908660"
       }
     ]
   }
