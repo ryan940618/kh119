@@ -111077,7 +111077,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -111090,6 +111090,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T15:45:33.734927"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T15:56:33.925513"
       }
     ]
   },
@@ -111169,7 +111173,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -111182,6 +111186,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T15:42:33.278169"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T15:56:33.925513"
       }
     ]
   },
@@ -111249,7 +111257,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區里林東路和瑞祥二街",
     "units": "橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "",
     "status_history": [
       {
         "status": "已派遣",
@@ -111258,6 +111266,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T15:47:33.429948"
+      },
+      {
+        "status": "",
+        "timestamp": "2026-09-24T15:56:33.925513"
       }
     ]
   },
@@ -111267,7 +111279,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊,橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -111276,6 +111288,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T15:51:33.406436"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T15:56:33.925513"
       }
     ]
   },
@@ -111312,6 +111328,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T15:55:33.501358"
+      }
+    ]
+  },
+  "e9e828517490b5a4cfad820114cd2112": {
+    "time": "2026/09/24 15:54:28",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T15:56:33.925513"
       }
     ]
   }
