@@ -110511,7 +110511,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -110528,6 +110528,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T14:40:33.880558"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T14:47:34.040720"
       }
     ]
   },
@@ -110634,6 +110638,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T14:38:33.760149"
+      }
+    ]
+  },
+  "5109007106141b06855c603420067ba0": {
+    "time": "2026/09/24 14:46:10",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區鼎山街",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T14:47:34.040720"
       }
     ]
   }
