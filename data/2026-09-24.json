@@ -113187,7 +113187,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區青年路",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -113200,6 +113200,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T18:12:33.567818"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T18:25:33.702109"
       }
     ]
   },
@@ -113330,6 +113334,20 @@
       {
         "status": "已受理",
         "timestamp": "2026-09-24T18:24:33.653500"
+      }
+    ]
+  },
+  "bea3dd94c9db5b40930d8dd3f2224ad6": {
+    "time": "2026/09/24 18:24:32",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市燕巢區中西路",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T18:25:33.702109"
       }
     ]
   }
