@@ -112391,7 +112391,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區立大路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -112400,6 +112400,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T17:05:34.056714"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T17:10:34.069651"
       }
     ]
   },
@@ -112431,7 +112435,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區中正路",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -112440,6 +112444,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T17:07:33.995077"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T17:10:34.069651"
       }
     ]
   },
@@ -112458,6 +112466,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T17:08:34.038269"
+      }
+    ]
+  },
+  "0d8d66a250aff51ef1e88cafaacd7063": {
+    "time": "2026/09/24 17:10:01",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T17:10:34.069651"
       }
     ]
   }
