@@ -105891,7 +105891,7 @@
     "sub_category": "急病",
     "location": "高雄市橋頭區",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -105904,6 +105904,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T08:21:34.228682"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T08:29:33.168235"
       }
     ]
   },
@@ -106040,6 +106044,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T08:26:33.005516"
+      }
+    ]
+  },
+  "999b22c5004611e52b17cb228cc2744c": {
+    "time": "2026/09/24 08:28:40",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T08:29:33.168235"
+      }
+    ]
+  },
+  "e78b9756ea7143e4181b3b3af407e7a5": {
+    "time": "2026/09/24 08:28:16",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "大林分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T08:29:33.168235"
       }
     ]
   }
