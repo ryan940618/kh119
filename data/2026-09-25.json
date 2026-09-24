@@ -116249,7 +116249,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -116258,6 +116258,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T00:10:33.104347"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T00:17:33.373491"
       }
     ]
   },
@@ -116280,6 +116284,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T00:14:33.179185"
+      }
+    ]
+  },
+  "b5c798a44d3c50777883bdf6a230a66e": {
+    "time": "2026/09/25 00:16:02",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T00:17:33.373491"
       }
     ]
   }
