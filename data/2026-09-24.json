@@ -109357,7 +109357,7 @@
     "sub_category": "其他",
     "location": "高雄市楠梓區",
     "units": "",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -109366,6 +109366,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T12:44:34.157600"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T12:57:33.984960"
       }
     ]
   },
@@ -109618,6 +109622,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T12:56:34.208723"
+      }
+    ]
+  },
+  "487614b3171bf725afc9aa91812b9c9f": {
+    "time": "2026/09/24 12:56:10",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區康定路",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T12:57:33.984960"
       }
     ]
   }
