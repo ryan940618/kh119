@@ -111883,11 +111883,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T16:35:34.071282"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T16:38:34.125449"
       }
     ]
   },
@@ -111916,6 +111920,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T16:37:33.918406"
+      }
+    ]
+  },
+  "7eec8c2b901118580964ef88fb6b0084": {
+    "time": "2026/09/24 16:37:28",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T16:38:34.125449"
+      }
+    ]
+  },
+  "2d9a656b0d32b7c482f593481991515b": {
+    "time": "2026/09/24 16:36:50",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市三民區永吉街",
+    "units": "中華分隊,十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T16:38:34.125449"
       }
     ]
   }
