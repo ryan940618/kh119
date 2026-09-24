@@ -107083,7 +107083,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -107100,6 +107100,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T10:14:33.838017"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T10:27:33.956247"
       }
     ]
   },
@@ -107561,7 +107565,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -107570,6 +107574,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T10:21:33.937768"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T10:27:33.956247"
       }
     ]
   },
@@ -107641,11 +107649,15 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區新鎮路",
     "units": "大樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T10:20:34.031802"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T10:27:33.956247"
       }
     ]
   },
@@ -107673,11 +107685,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區后安路",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T10:24:34.065753"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T10:27:33.956247"
       }
     ]
   }
