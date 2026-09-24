@@ -111061,7 +111061,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -111070,6 +111070,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T15:39:33.420180"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T15:45:33.734927"
       }
     ]
   },
@@ -111079,7 +111083,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區林德街",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -111088,6 +111092,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T15:38:33.351325"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T15:45:33.734927"
       }
     ]
   },
@@ -111181,11 +111189,29 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區鳳東路",
     "units": "燕巢分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T15:41:33.295582"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T15:45:33.734927"
+      }
+    ]
+  },
+  "573046844d007b52b809714556da7864": {
+    "time": "2026/09/24 15:44:27",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市橋頭區里林東路",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T15:45:33.734927"
       }
     ]
   }
