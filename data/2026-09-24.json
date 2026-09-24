@@ -111601,7 +111601,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -111610,6 +111610,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T16:16:33.537187"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T16:21:33.795529"
       }
     ]
   },
@@ -111619,7 +111623,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區軍校路",
     "units": "左營小隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -111628,6 +111632,52 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T16:18:33.796725"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T16:21:33.795529"
+      }
+    ]
+  },
+  "f5b77a5959a2257e67d093a5da046adc": {
+    "time": "2026/09/24 16:21:01",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區國光路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T16:21:33.795529"
+      }
+    ]
+  },
+  "928122e60f54d4f881f153ccfc2bd323": {
+    "time": "2026/09/24 16:20:20",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區捷運R4A草衙站[高雄市前鎮區翠亨南中安路",
+    "units": "前鎮分隊,小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T16:21:33.795529"
+      }
+    ]
+  },
+  "14acfe3330e77521bdced2a8b35f4650": {
+    "time": "2026/09/24 16:20:15",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "和發分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T16:21:33.795529"
       }
     ]
   }
