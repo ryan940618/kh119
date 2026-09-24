@@ -117023,7 +117023,7 @@
     "sub_category": "路倒",
     "location": "高雄市苓雅區四維三路",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -117032,6 +117032,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T03:18:33.525973"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T03:29:33.708209"
       }
     ]
   },
@@ -117115,11 +117119,15 @@
     "sub_category": "路倒",
     "location": "高雄市新興區復興一路",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T03:26:33.616596"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T03:29:33.708209"
       }
     ]
   }
