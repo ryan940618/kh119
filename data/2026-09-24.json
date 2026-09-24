@@ -109207,7 +109207,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -109220,6 +109220,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T12:35:33.906894"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T12:45:34.351506"
       }
     ]
   },
@@ -109299,7 +109303,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -109308,6 +109312,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T12:39:33.931274"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T12:45:34.351506"
       }
     ]
   },
@@ -109462,6 +109470,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T12:44:34.157600"
+      }
+    ]
+  },
+  "4b8c642d12e6c52d0b38c277dc50a4e3": {
+    "time": "2026/09/24 12:44:20",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鹽埕區大義街",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T12:45:34.351506"
       }
     ]
   }
