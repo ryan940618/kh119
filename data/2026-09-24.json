@@ -110571,7 +110571,7 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -110588,6 +110588,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T14:57:33.987459"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T15:09:33.067764"
       }
     ]
   },
@@ -110671,7 +110675,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區鼎山街",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -110684,6 +110688,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T15:05:34.215551"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T15:09:33.067764"
       }
     ]
   },
@@ -110769,7 +110777,7 @@
     "sub_category": "其他",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -110778,6 +110786,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T15:03:34.018083"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T15:09:33.067764"
       }
     ]
   },
@@ -110792,6 +110804,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T15:02:33.981719"
+      }
+    ]
+  },
+  "cef0659c9b54642a8a16470b251461eb": {
+    "time": "2026/09/24 15:09:03",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區中山南路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T15:09:33.067764"
       }
     ]
   }
