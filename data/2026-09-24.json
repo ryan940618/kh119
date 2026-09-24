@@ -112717,7 +112717,7 @@
     "sub_category": "路倒",
     "location": "高雄市鼓山區民泰街",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -112730,6 +112730,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T17:41:33.416742"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T17:50:33.476989"
       }
     ]
   },
@@ -112911,11 +112915,15 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T17:49:33.612394"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T17:50:33.476989"
       }
     ]
   },
@@ -112930,6 +112938,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T17:49:33.612394"
+      }
+    ]
+  },
+  "88b5d9cdd7422e91d8044a537ce08dad": {
+    "time": "2026/09/24 17:49:41",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市甲仙區",
+    "units": "甲仙分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T17:50:33.476989"
       }
     ]
   }
