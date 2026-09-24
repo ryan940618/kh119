@@ -114637,7 +114637,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -114650,6 +114650,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T20:52:33.558383"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T21:02:33.741746"
       }
     ]
   },
@@ -114788,6 +114792,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T21:00:33.688780"
+      }
+    ]
+  },
+  "92be470d2911e6f05ffb97f77f47688e": {
+    "time": "2026/09/24 21:01:47",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T21:02:33.741746"
       }
     ]
   }
