@@ -105327,7 +105327,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -105344,6 +105344,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T07:43:33.682451"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T08:04:33.845296"
       }
     ]
   },
@@ -105457,7 +105461,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -105470,6 +105474,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T07:41:33.706112"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T08:04:33.845296"
       }
     ]
   },
@@ -105479,7 +105487,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區大明路",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -105496,6 +105504,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T07:57:33.967226"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T08:04:33.845296"
       }
     ]
   },
@@ -105657,7 +105669,7 @@
     "sub_category": "創傷",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -105670,6 +105682,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T07:58:34.116841"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T08:04:33.845296"
       }
     ]
   },
@@ -105727,7 +105743,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -105740,6 +105756,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T07:59:33.999901"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T08:04:33.845296"
       }
     ]
   },
@@ -105771,7 +105791,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -105780,6 +105800,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T08:01:34.316859"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T08:04:33.845296"
+      }
+    ]
+  },
+  "77338c56ca7b86ea329aef969e2834ea": {
+    "time": "2026/09/24 08:03:09",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區中庄路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T08:04:33.845296"
       }
     ]
   }
