@@ -111133,7 +111133,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區瑞竹路",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -111150,6 +111150,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T15:58:33.548461"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T16:02:33.498535"
       }
     ]
   },
@@ -111281,7 +111285,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區里林東路和瑞祥二街",
     "units": "橋頭分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -111298,6 +111302,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T15:57:33.514720"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T16:02:33.498535"
       }
     ]
   },
@@ -111392,6 +111400,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T15:59:33.572194"
+      }
+    ]
+  },
+  "a8ffb56d7b41d0b9eb83333a0e1d579c": {
+    "time": "2026/09/24 16:01:17",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T16:02:33.498535"
       }
     ]
   }
