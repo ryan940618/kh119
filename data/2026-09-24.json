@@ -105973,7 +105973,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -105990,6 +105990,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T08:34:33.100702"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T08:41:33.295694"
       }
     ]
   },
@@ -106197,11 +106201,15 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T08:36:33.306311"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T08:41:33.295694"
       }
     ]
   },
@@ -106229,7 +106237,7 @@
     "sub_category": "車禍",
     "location": "高雄市美濃區美中路",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -106238,6 +106246,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T08:39:33.134940"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T08:41:33.295694"
       }
     ]
   }
