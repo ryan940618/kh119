@@ -107279,7 +107279,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -107292,6 +107292,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T10:17:34.033657"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T10:24:34.065753"
       }
     ]
   },
@@ -107425,7 +107429,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -107438,6 +107442,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T10:17:34.033657"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T10:24:34.065753"
       }
     ]
   },
@@ -107581,7 +107589,7 @@
     "sub_category": "路倒",
     "location": "高雄市鼓山區馬卡道路",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -107590,6 +107598,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T10:21:33.937768"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T10:24:34.065753"
       }
     ]
   },
@@ -107636,6 +107648,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T10:21:33.937768"
+      }
+    ]
+  },
+  "73cdff2368e19360b20c7392a823c9d6": {
+    "time": "2026/09/24 10:23:43",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區后安路",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T10:24:34.065753"
       }
     ]
   }
