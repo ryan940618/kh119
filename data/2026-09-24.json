@@ -107727,7 +107727,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -107740,6 +107740,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T10:35:34.176500"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T10:41:33.089703"
       }
     ]
   },
@@ -107926,6 +107930,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T10:39:34.140254"
+      }
+    ]
+  },
+  "547d976b77ab8f5bc34be8458f596017": {
+    "time": "2026/09/24 10:40:26",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區五甲一路",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T10:41:33.089703"
       }
     ]
   }
