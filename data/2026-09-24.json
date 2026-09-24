@@ -112891,7 +112891,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -112904,6 +112904,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T17:48:33.264580"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T17:57:33.923383"
       }
     ]
   },
@@ -112994,6 +112998,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T17:54:33.480687"
+      }
+    ]
+  },
+  "8893a5d4a9fec66a03eab5ff97208f08": {
+    "time": "2026/09/24 17:57:10",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區澄清路和文享街",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T17:57:33.923383"
       }
     ]
   }
