@@ -113475,7 +113475,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區英明路",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -113488,6 +113488,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T18:38:33.713265"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T18:41:33.723143"
       }
     ]
   },
@@ -113570,6 +113574,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T18:37:33.811854"
+      }
+    ]
+  },
+  "d189bbfae6eeb98a80414a37c0c1fafc": {
+    "time": "2026/09/24 18:40:31",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T18:41:33.723143"
+      }
+    ]
+  },
+  "bc48a671924816a0912f6b83552dd064": {
+    "time": "2026/09/24 18:40:26",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市燕巢區橫山路",
+    "units": "後勁分隊,楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T18:41:33.723143"
       }
     ]
   }
