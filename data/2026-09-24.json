@@ -111637,7 +111637,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -111650,6 +111650,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T16:21:33.795529"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T16:39:34.045304"
       }
     ]
   },
@@ -111799,7 +111803,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -111812,6 +111816,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T16:33:34.093766"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T16:39:34.045304"
       }
     ]
   },
@@ -111901,11 +111909,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T16:36:34.150959"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T16:39:34.045304"
       }
     ]
   },
@@ -111943,11 +111955,29 @@
     "sub_category": "其他",
     "location": "高雄市三民區永吉街",
     "units": "中華分隊,十全分隊",
-    "current_status": "已派遣",
+    "current_status": "殘火滅",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T16:38:34.125449"
+      },
+      {
+        "status": "殘火滅",
+        "timestamp": "2026-09-24T16:39:34.045304"
+      }
+    ]
+  },
+  "512c48949ca2290b763aef2ff535430d": {
+    "time": "2026/09/24 16:38:35",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市岡山區岡燕路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T16:39:34.045304"
       }
     ]
   }
