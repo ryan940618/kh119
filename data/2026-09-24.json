@@ -109365,7 +109365,7 @@
     "sub_category": "其他",
     "location": "高雄市楠梓區",
     "units": "",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -109378,6 +109378,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T12:57:33.984960"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T13:04:34.117193"
       }
     ]
   },
@@ -109523,7 +109527,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -109536,6 +109540,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T12:49:34.160598"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T13:04:34.117193"
       }
     ]
   },
@@ -109678,6 +109686,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T13:03:34.133140"
+      }
+    ]
+  },
+  "2ff7f20ddfb5d59155e6740cc9dabef1": {
+    "time": "2026/09/24 13:03:49",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市鳥松區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T13:04:34.117193"
       }
     ]
   }
