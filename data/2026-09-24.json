@@ -115599,7 +115599,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區建國二路",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -115612,6 +115612,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T22:48:33.578865"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T22:49:33.677577"
       }
     ]
   },
@@ -115696,6 +115700,20 @@
       {
         "status": "已受理",
         "timestamp": "2026-09-24T22:45:33.635246"
+      }
+    ]
+  },
+  "7c3c7d8e2ee5485de1d0cb30332e6d04": {
+    "time": "2026/09/24 22:48:17",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T22:49:33.677577"
       }
     ]
   }
