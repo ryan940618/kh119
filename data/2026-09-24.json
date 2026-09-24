@@ -111761,7 +111761,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊,小港分隊,瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "",
@@ -111774,6 +111774,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T16:27:33.662840"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T16:32:33.862052"
       }
     ]
   },
@@ -111828,6 +111832,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T16:31:33.744784"
+      }
+    ]
+  },
+  "fa062123019fa59e12e6bf3074508316": {
+    "time": "2026/09/24 16:31:07",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市楠梓區朝陽路",
+    "units": "後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T16:32:33.862052"
       }
     ]
   }
