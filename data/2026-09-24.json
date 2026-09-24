@@ -112115,7 +112115,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區東亞路",
     "units": "小港分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -112132,6 +112132,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T16:55:34.279970"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T17:04:34.071528"
       }
     ]
   },
@@ -112221,7 +112225,7 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區土庫五路",
     "units": "大社分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -112234,6 +112238,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T16:58:34.181906"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T17:04:34.071528"
       }
     ]
   },
@@ -112345,11 +112353,15 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區水管路",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T17:02:33.963219"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T17:04:34.071528"
       }
     ]
   },
