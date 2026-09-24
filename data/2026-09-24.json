@@ -112325,7 +112325,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -112342,6 +112342,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T17:06:33.916355"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T17:12:34.127212"
       }
     ]
   },
@@ -112497,11 +112501,15 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區中華一路和慶豐街",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T17:11:33.997680"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T17:12:34.127212"
       }
     ]
   },
@@ -112511,11 +112519,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區站東路",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T17:11:33.997680"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T17:12:34.127212"
       }
     ]
   }
