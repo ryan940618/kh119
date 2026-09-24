@@ -117295,7 +117295,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -117304,6 +117304,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T04:11:34.005049"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T04:20:32.937818"
       }
     ]
   },
@@ -117322,6 +117326,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T04:15:33.963155"
+      }
+    ]
+  },
+  "0a30714b3b35f271374a1a710250aa4d": {
+    "time": "2026/09/25 04:19:52",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T04:20:32.937818"
       }
     ]
   }
