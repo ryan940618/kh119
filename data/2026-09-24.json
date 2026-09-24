@@ -112323,7 +112323,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -112332,6 +112332,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T16:59:34.052971"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T17:03:34.049264"
       }
     ]
   },
@@ -112346,6 +112350,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T17:02:33.963219"
+      }
+    ]
+  },
+  "17e3d1e7d6d9229df5982d35c81023ed": {
+    "time": "2026/09/24 17:03:11",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區立大路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T17:03:34.049264"
+      }
+    ]
+  },
+  "fbf736d60737d667814e98547f56af42": {
+    "time": "2026/09/24 17:02:51",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區鳳屏一路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T17:03:34.049264"
       }
     ]
   }
