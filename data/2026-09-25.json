@@ -118109,7 +118109,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區十全二路",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -118118,6 +118118,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T07:27:33.459620"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T07:29:33.561974"
       }
     ]
   },
@@ -118145,11 +118149,29 @@
     "sub_category": "創傷",
     "location": "高雄市左營區城峰路",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T07:28:33.399532"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T07:29:33.561974"
+      }
+    ]
+  },
+  "051905987da501d3d8ae5d68001fb2ed": {
+    "time": "2026/09/25 07:28:10",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區青年路",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T07:29:33.561974"
       }
     ]
   }
