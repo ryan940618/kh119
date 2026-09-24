@@ -110623,7 +110623,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -110640,6 +110640,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T14:52:33.966922"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T15:00:33.968460"
       }
     ]
   },
@@ -110718,6 +110722,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T14:59:34.175531"
+      }
+    ]
+  },
+  "e38351023c1508a83533f858b3199be5": {
+    "time": "2026/09/24 14:59:42",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T15:00:33.968460"
+      }
+    ]
+  },
+  "aa04ddc966b12c81c3040335304efcbd": {
+    "time": "2026/09/24 14:59:16",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T15:00:33.968460"
       }
     ]
   }
