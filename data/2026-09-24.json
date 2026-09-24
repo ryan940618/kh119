@@ -108179,7 +108179,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -108192,6 +108192,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T11:06:33.832337"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T11:21:33.407789"
       }
     ]
   },
@@ -108351,11 +108355,15 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T11:20:33.433649"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T11:21:33.407789"
       }
     ]
   }
