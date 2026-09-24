@@ -109631,7 +109631,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -109648,6 +109648,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T13:09:33.241514"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T13:13:33.517083"
       }
     ]
   },
@@ -109780,6 +109784,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T13:10:33.146064"
+      }
+    ]
+  },
+  "15a965bbb3ae49552a31c85b2a01c120": {
+    "time": "2026/09/24 13:12:53",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區文龍東路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T13:13:33.517083"
+      }
+    ]
+  },
+  "56534464273d68f23c26b29bd700c97e": {
+    "time": "2026/09/24 13:12:21",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區惠民路",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T13:13:33.517083"
       }
     ]
   }
