@@ -113317,7 +113317,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區中正路",
     "units": "仁武分隊,大社分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -113330,6 +113330,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T18:29:33.822523"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T18:34:33.863317"
       }
     ]
   },
@@ -113339,7 +113343,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區白樹路",
     "units": "橋頭分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -113352,6 +113356,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T18:29:33.822523"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T18:34:33.863317"
       }
     ]
   },
@@ -113500,6 +113508,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T18:32:33.659893"
+      }
+    ]
+  },
+  "718693b04ddc868c67922563b77ff907": {
+    "time": "2026/09/24 18:33:08",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T18:34:33.863317"
       }
     ]
   }
