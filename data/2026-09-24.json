@@ -107553,7 +107553,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -107570,6 +107570,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T10:37:34.179103"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T10:53:33.290606"
       }
     ]
   },
@@ -108051,7 +108055,7 @@
     "sub_category": "其他",
     "location": "高雄市岡山區介壽西路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -108060,6 +108064,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T10:44:33.110281"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T10:53:33.290606"
       }
     ]
   },
@@ -108110,6 +108118,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T10:50:33.223147"
+      }
+    ]
+  },
+  "c03eeb55203193f434ebc3e1fb85d370": {
+    "time": "2026/09/24 10:52:36",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T10:53:33.290606"
       }
     ]
   }
