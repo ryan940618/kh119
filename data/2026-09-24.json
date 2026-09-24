@@ -109909,7 +109909,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -109922,6 +109922,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T13:24:33.430678"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T13:29:33.418073"
       }
     ]
   },
@@ -110002,6 +110006,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T13:26:33.444122"
+      }
+    ]
+  },
+  "3d4f8c57c075c9e0d320a1b2dd4c769a": {
+    "time": "2026/09/24 13:29:13",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前金區六合二路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T13:29:33.418073"
+      }
+    ]
+  },
+  "38b7d5e96536948ed79744aec579fa26": {
+    "time": "2026/09/24 13:28:25",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區建和街",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T13:29:33.418073"
       }
     ]
   }
