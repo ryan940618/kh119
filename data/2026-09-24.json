@@ -108355,11 +108355,15 @@
     "sub_category": "創傷",
     "location": "高雄市茂林區",
     "units": "茂林分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T11:15:33.536693"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T11:36:34.259631"
       }
     ]
   },
@@ -108484,6 +108488,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T11:33:33.351131"
+      }
+    ]
+  },
+  "5157a6e86f8998fef0a49a362de34401": {
+    "time": "2026/09/24 11:35:40",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-24T11:36:34.259631"
       }
     ]
   }
