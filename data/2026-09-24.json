@@ -107475,7 +107475,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -107492,6 +107492,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T10:29:33.932404"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T10:36:34.069455"
       }
     ]
   },
@@ -107619,7 +107623,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -107628,6 +107632,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T10:26:34.066867"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T10:36:34.069455"
       }
     ]
   },
@@ -107729,7 +107737,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區后安路",
     "units": "小港分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -107742,6 +107750,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T10:31:34.041655"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T10:36:34.069455"
       }
     ]
   },
@@ -107773,7 +107785,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區蓮潭路",
     "units": "左營分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -107782,6 +107794,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T10:33:34.111772"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T10:36:34.069455"
       }
     ]
   },
@@ -107845,11 +107861,29 @@
     "sub_category": "車禍",
     "location": "高雄市美濃區中興路",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T10:33:34.111772"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T10:36:34.069455"
+      }
+    ]
+  },
+  "4eb1617c4fac658a49e8d54ea1338047": {
+    "time": "2026/09/24 10:34:59",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T10:36:34.069455"
       }
     ]
   }
