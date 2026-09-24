@@ -110455,7 +110455,7 @@
     "sub_category": "急病",
     "location": "高雄市彌陀區",
     "units": "彌陀分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -110464,6 +110464,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T14:22:33.878557"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T14:34:33.691680"
       }
     ]
   },
@@ -110473,7 +110477,7 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區四維三路和永定街",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -110486,6 +110490,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T14:31:33.779186"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T14:34:33.691680"
       }
     ]
   },
@@ -110562,6 +110570,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T14:33:33.790343"
+      }
+    ]
+  },
+  "579c8723f544ca288036e7b3436c1a56": {
+    "time": "2026/09/24 14:32:43",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳥松區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T14:34:33.691680"
       }
     ]
   }
