@@ -110959,7 +110959,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區博愛二路",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -110972,6 +110972,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T15:37:33.530172"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T15:47:33.429948"
       }
     ]
   },
@@ -111007,7 +111011,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -111016,6 +111020,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T15:33:33.436847"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T15:47:33.429948"
       }
     ]
   },
@@ -111043,7 +111051,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -111056,6 +111064,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T15:40:33.283094"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T15:47:33.429948"
       }
     ]
   },
@@ -111225,11 +111237,15 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區里林東路和瑞祥二街",
     "units": "橋頭分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T15:46:33.441885"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T15:47:33.429948"
       }
     ]
   }
