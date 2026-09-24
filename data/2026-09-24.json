@@ -111415,7 +111415,7 @@
     "sub_category": "急病",
     "location": "高雄市橋頭區",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -111428,6 +111428,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T16:17:33.617796"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T16:22:33.656328"
       }
     ]
   },
@@ -111463,7 +111467,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -111476,6 +111480,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T16:18:33.796725"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T16:22:33.656328"
       }
     ]
   },
@@ -111583,7 +111591,7 @@
     "sub_category": "創傷",
     "location": "高雄市林園區中門路",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -111592,6 +111600,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T16:15:33.604391"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T16:22:33.656328"
       }
     ]
   },
@@ -111678,6 +111690,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T16:21:33.795529"
+      }
+    ]
+  },
+  "d321b691341e7cc5dfd9074480a6cc1b": {
+    "time": "2026/09/24 16:21:49",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區通化街",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T16:22:33.656328"
+      }
+    ]
+  },
+  "acfd423f06177dd650c96237b8c12f62": {
+    "time": "2026/09/24 16:20:20",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區",
+    "units": "前鎮分隊,小港分隊,瑞隆分隊",
+    "current_status": "",
+    "status_history": [
+      {
+        "status": "",
+        "timestamp": "2026-09-24T16:22:33.656328"
       }
     ]
   }
