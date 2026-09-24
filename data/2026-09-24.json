@@ -108675,7 +108675,7 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -108692,6 +108692,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T12:05:33.983945"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T12:09:33.627823"
       }
     ]
   },
@@ -108932,6 +108936,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T12:05:33.983945"
+      }
+    ]
+  },
+  "88198088d930362d21f70083c6c64ec3": {
+    "time": "2026/09/24 12:09:03",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區埤子頭路",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T12:09:33.627823"
       }
     ]
   }
