@@ -113155,7 +113155,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -113168,6 +113168,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T18:12:33.567818"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T18:28:33.811536"
       }
     ]
   },
@@ -113243,7 +113247,7 @@
     "sub_category": "急病",
     "location": "高雄市六龜區",
     "units": "六龜分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -113256,6 +113260,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T18:16:33.567616"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T18:28:33.811536"
       }
     ]
   },
@@ -113402,6 +113410,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T18:27:33.844530"
+      }
+    ]
+  },
+  "5866d2c15100894f8b872680807051a1": {
+    "time": "2026/09/24 18:27:18",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區英明路",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T18:28:33.811536"
       }
     ]
   }
