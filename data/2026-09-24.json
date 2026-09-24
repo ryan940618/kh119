@@ -105917,7 +105917,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區美術北一街",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -105930,6 +105930,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T08:17:33.917274"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T08:33:33.060384"
       }
     ]
   },
@@ -106013,7 +106017,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -106026,6 +106030,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T08:25:33.968666"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T08:33:33.060384"
       }
     ]
   },
@@ -106057,7 +106065,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -106066,6 +106074,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T08:30:33.214462"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T08:33:33.060384"
       }
     ]
   },
@@ -106084,6 +106096,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T08:31:33.296632"
+      }
+    ]
+  },
+  "069e665776fb2da7ced70f6d962a4273": {
+    "time": "2026/09/24 08:32:41",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T08:33:33.060384"
       }
     ]
   }
