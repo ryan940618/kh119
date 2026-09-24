@@ -117041,7 +117041,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -117058,6 +117058,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T03:22:33.567903"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T03:26:33.616596"
       }
     ]
   },
@@ -117067,7 +117071,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -117076,6 +117080,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T03:22:33.567903"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T03:26:33.616596"
       }
     ]
   },
@@ -117094,6 +117102,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T03:20:33.565417"
+      }
+    ]
+  },
+  "92118e336c61aca87809d9dbb5b28e4e": {
+    "time": "2026/09/25 03:25:34",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市新興區復興一路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T03:26:33.616596"
       }
     ]
   }
