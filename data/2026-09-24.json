@@ -106609,7 +106609,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區文南街",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -106622,6 +106622,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T09:26:33.423721"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T09:34:33.755855"
       }
     ]
   },
@@ -106707,7 +106711,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -106716,6 +106720,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T09:30:33.569332"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T09:34:33.755855"
       }
     ]
   },
@@ -106762,6 +106770,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T09:33:33.519023"
+      }
+    ]
+  },
+  "d3348fd7098b32579dcfcda50efbeaa9": {
+    "time": "2026/09/24 09:33:51",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市楠梓區壽民路",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T09:34:33.755855"
+      }
+    ]
+  },
+  "cb9267b5e0f679ab043558d538fe871a": {
+    "time": "2026/09/24 09:33:39",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T09:34:33.755855"
       }
     ]
   }
