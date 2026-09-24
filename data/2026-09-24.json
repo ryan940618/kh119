@@ -110299,7 +110299,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區富國路",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -110312,6 +110312,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T14:04:33.548455"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T14:13:33.725507"
       }
     ]
   },
@@ -110321,7 +110325,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區光遠路",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -110334,6 +110338,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T14:10:33.702393"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T14:13:33.725507"
       }
     ]
   },
@@ -110375,7 +110383,7 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區湖中路",
     "units": "湖內分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -110384,6 +110392,24 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T14:09:33.702314"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T14:13:33.725507"
+      }
+    ]
+  },
+  "6d323932d496bcb29526da79c4618101": {
+    "time": "2026/09/24 14:12:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T14:13:33.725507"
       }
     ]
   }
