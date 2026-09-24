@@ -113105,11 +113105,15 @@
     "sub_category": "雜草(含廢棄物、墓地)",
     "location": "高雄市楠梓區大學十街",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T18:01:34.390301"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T18:11:33.579782"
       }
     ]
   },
@@ -113178,6 +113182,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T18:10:33.841996"
+      }
+    ]
+  },
+  "0f8e6c24b4150b2d1e3bf5635f49ce1a": {
+    "time": "2026/09/24 18:10:47",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市六龜區",
+    "units": "六龜分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T18:11:33.579782"
       }
     ]
   }
