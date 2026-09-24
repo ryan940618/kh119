@@ -107727,7 +107727,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -107736,6 +107736,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T10:29:33.932404"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T10:32:34.173972"
       }
     ]
   },
@@ -107759,11 +107763,29 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T10:31:34.041655"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T10:32:34.173972"
+      }
+    ]
+  },
+  "4b4cb4a75915f3e4fb8cf9c2a47553a0": {
+    "time": "2026/09/24 10:31:14",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市美濃區中正路",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T10:32:34.173972"
       }
     ]
   }
