@@ -116223,7 +116223,7 @@
     "sub_category": "創傷",
     "location": "高雄市岡山區文化一街",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -116232,6 +116232,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T00:06:33.102232"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T00:11:33.146242"
       }
     ]
   },
@@ -116250,6 +116254,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T00:10:33.104347"
+      }
+    ]
+  },
+  "f41f44d9e0a48970ac182cc57f98688e": {
+    "time": "2026/09/25 00:10:16",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區凱旋四路",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T00:11:33.146242"
       }
     ]
   }
