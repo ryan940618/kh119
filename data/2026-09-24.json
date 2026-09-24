@@ -110767,7 +110767,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -110780,6 +110780,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T15:07:33.070781"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T15:18:33.504157"
       }
     ]
   },
@@ -110873,11 +110877,29 @@
     "sub_category": "車禍",
     "location": "高雄市三民區大昌一路",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T15:17:33.192559"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T15:18:33.504157"
+      }
+    ]
+  },
+  "93babec05e1fa2c7b9ed28230651fc5b": {
+    "time": "2026/09/24 15:17:59",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T15:18:33.504157"
       }
     ]
   }
