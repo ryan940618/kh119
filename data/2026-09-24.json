@@ -115337,7 +115337,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -115346,6 +115346,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T22:00:33.365071"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T22:10:33.329403"
       }
     ]
   },
@@ -115400,6 +115404,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T22:08:33.354574"
+      }
+    ]
+  },
+  "65a019acb053fae6ac53c08e9394a1a4": {
+    "time": "2026/09/24 22:08:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T22:10:33.329403"
       }
     ]
   }
