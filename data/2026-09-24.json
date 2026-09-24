@@ -111693,7 +111693,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區國光路",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -111706,6 +111706,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T16:27:33.662840"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T16:40:33.947289"
       }
     ]
   },
@@ -111873,7 +111877,7 @@
     "sub_category": "路倒",
     "location": "高雄市楠梓區朝陽路",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -111882,6 +111886,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T16:33:34.093766"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T16:40:33.947289"
       }
     ]
   },
@@ -111941,11 +111949,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T16:38:34.125449"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T16:40:33.947289"
       }
     ]
   },
