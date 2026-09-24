@@ -109235,7 +109235,7 @@
     "sub_category": "其他",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -109244,6 +109244,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T12:37:33.875195"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T12:41:34.020509"
       }
     ]
   },
@@ -109294,6 +109298,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T12:40:33.923284"
+      }
+    ]
+  },
+  "93cf858e51ad5fff76f2bff783dd6f1f": {
+    "time": "2026/09/24 12:40:23",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區修明街",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T12:41:34.020509"
+      }
+    ]
+  },
+  "8d317e571fbdc808dd607a769009314b": {
+    "time": "2026/09/24 12:40:15",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗山區",
+    "units": "旗山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T12:41:34.020509"
       }
     ]
   }
