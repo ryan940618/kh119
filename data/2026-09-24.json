@@ -108417,7 +108417,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區德民路和惠豐街",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -108426,6 +108426,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T11:29:33.473531"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T11:38:34.427579"
       }
     ]
   },
@@ -108457,7 +108461,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -108470,6 +108474,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T11:33:33.351131"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T11:38:34.427579"
       }
     ]
   },
@@ -108506,6 +108514,20 @@
       {
         "status": "已受理",
         "timestamp": "2026-09-24T11:36:34.259631"
+      }
+    ]
+  },
+  "852bcc1e8ba1fc1524511ac40000c84f": {
+    "time": "2026/09/24 11:38:03",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T11:38:34.427579"
       }
     ]
   }
