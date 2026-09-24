@@ -105553,7 +105553,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -105566,6 +105566,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T07:56:33.759980"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T08:01:34.316859"
       }
     ]
   },
@@ -105721,7 +105725,7 @@
     "sub_category": "車禍",
     "location": "高雄市新興區六合一路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -105730,6 +105734,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T07:59:33.999901"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T08:01:34.316859"
       }
     ]
   },
@@ -105739,11 +105747,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T08:00:33.835005"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T08:01:34.316859"
       }
     ]
   }
