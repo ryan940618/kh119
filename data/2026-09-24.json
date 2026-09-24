@@ -111753,7 +111753,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -111766,6 +111766,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T16:43:34.268894"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T16:51:33.948862"
       }
     ]
   },
@@ -112053,7 +112057,7 @@
     "sub_category": "路倒",
     "location": "高雄市岡山區岡燕路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -112070,6 +112074,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T16:47:34.013488"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T16:51:33.948862"
       }
     ]
   },
@@ -112133,11 +112141,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T16:48:34.048983"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T16:51:33.948862"
       }
     ]
   },
@@ -112161,11 +112173,29 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區土庫五路",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T16:50:34.021621"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T16:51:33.948862"
+      }
+    ]
+  },
+  "ee2a545218a829b0f18b84f51d430297": {
+    "time": "2026/09/24 16:50:46",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T16:51:33.948862"
       }
     ]
   }
