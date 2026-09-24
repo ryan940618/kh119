@@ -113783,7 +113783,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區捷西路",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -113800,6 +113800,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T19:15:34.138917"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T19:20:34.056506"
       }
     ]
   },
@@ -114015,7 +114019,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區英德街",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -114024,6 +114028,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T19:14:33.897493"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T19:20:34.056506"
+      }
+    ]
+  },
+  "dad9a054107f788359199b6025dd9893": {
+    "time": "2026/09/24 19:05:53",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市大寮區內坑路",
+    "units": "大寮分隊",
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T19:20:34.056506"
       }
     ]
   }
