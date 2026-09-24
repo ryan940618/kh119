@@ -112167,7 +112167,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -112180,6 +112180,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T17:02:33.963219"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T17:11:33.997680"
       }
     ]
   },
@@ -112295,7 +112299,7 @@
     "sub_category": "創傷",
     "location": "高雄市岡山區嘉新東路",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -112308,6 +112312,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T17:01:34.087725"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T17:11:33.997680"
       }
     ]
   },
@@ -112480,6 +112488,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T17:10:34.069651"
+      }
+    ]
+  },
+  "31741a7d14721bc138ccab634a8aa0af": {
+    "time": "2026/09/24 17:10:27",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區中華一路和慶豐街",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T17:11:33.997680"
+      }
+    ]
+  },
+  "dee62750046009ebe866eb76ccf10610": {
+    "time": "2026/09/24 17:10:01",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區站東路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T17:11:33.997680"
       }
     ]
   }
