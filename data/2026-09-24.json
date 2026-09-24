@@ -109125,7 +109125,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -109138,6 +109138,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T12:31:33.904266"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T12:44:34.157600"
       }
     ]
   },
@@ -109225,7 +109229,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "大社分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -109238,6 +109242,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T12:42:34.132231"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T12:44:34.157600"
       }
     ]
   },
@@ -109309,11 +109317,15 @@
     "sub_category": "其他",
     "location": "高雄市楠梓區",
     "units": "",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T12:40:33.923284"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T12:44:34.157600"
       }
     ]
   },
@@ -109341,11 +109353,15 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T12:41:34.020509"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T12:44:34.157600"
       }
     ]
   },
@@ -109369,11 +109385,15 @@
     "sub_category": "汽機車",
     "location": "高雄市前鎮區光華二路和黃埔街",
     "units": "瑞隆分隊,苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T12:43:34.259849"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T12:44:34.157600"
       }
     ]
   },
@@ -109383,11 +109403,15 @@
     "sub_category": "車禍",
     "location": "高雄市左營區文慈路",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T12:43:34.259849"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T12:44:34.157600"
       }
     ]
   },
@@ -109397,11 +109421,15 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "大林分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T12:43:34.259849"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T12:44:34.157600"
       }
     ]
   },
@@ -109411,11 +109439,29 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T12:43:34.259849"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T12:44:34.157600"
+      }
+    ]
+  },
+  "391a6415ab2f07c63757e91cd889122b": {
+    "time": "2026/09/24 12:43:34",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市林園區西溪路",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T12:44:34.157600"
       }
     ]
   }
