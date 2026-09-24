@@ -117819,7 +117819,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -117836,6 +117836,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T06:46:33.029740"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T06:50:33.072556"
       }
     ]
   },
@@ -117880,6 +117884,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T06:47:33.169164"
+      }
+    ]
+  },
+  "30ae3fbd0aca35b4282cf510bca73b79": {
+    "time": "2026/09/25 06:50:09",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市苓雅區苓中路",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T06:50:33.072556"
+      }
+    ]
+  },
+  "c28a4698c76bbadd21894f2efed5a320": {
+    "time": "2026/09/25 06:48:43",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市三民區",
+    "units": "",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T06:50:33.072556"
       }
     ]
   }
