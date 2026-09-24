@@ -108817,7 +108817,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -108834,6 +108834,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T12:12:33.638512"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T12:21:33.840534"
       }
     ]
   },
@@ -108975,7 +108979,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -108984,6 +108988,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T12:13:33.733111"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T12:21:33.840534"
       }
     ]
   },
@@ -109033,11 +109041,15 @@
     "sub_category": "創傷",
     "location": "高雄市小港區店北路",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T12:18:33.660955"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T12:21:33.840534"
       }
     ]
   },
@@ -109047,11 +109059,15 @@
     "sub_category": "創傷",
     "location": "高雄市左營區自由四路",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T12:18:33.660955"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T12:21:33.840534"
       }
     ]
   },
@@ -109061,11 +109077,15 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T12:20:33.703222"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T12:21:33.840534"
       }
     ]
   }
