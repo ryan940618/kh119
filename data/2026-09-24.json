@@ -110979,11 +110979,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "前鎮分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T15:29:33.329996"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T15:33:33.436847"
       }
     ]
   },
@@ -111007,11 +111011,15 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T15:32:33.384268"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T15:33:33.436847"
       }
     ]
   },
@@ -111026,6 +111034,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T15:32:33.384268"
+      }
+    ]
+  },
+  "188ffd91265ea447b54329b550c68dbc": {
+    "time": "2026/09/24 15:32:41",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區林德街",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T15:33:33.436847"
       }
     ]
   }
