@@ -117981,7 +117981,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -117998,6 +117998,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T07:07:33.228953"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T07:22:33.366725"
       }
     ]
   },
@@ -118029,11 +118033,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T07:18:33.405376"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T07:22:33.366725"
       }
     ]
   }
