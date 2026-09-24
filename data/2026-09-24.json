@@ -107435,7 +107435,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -107444,6 +107444,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T10:14:33.838017"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T10:19:33.886189"
       }
     ]
   },
@@ -107526,6 +107530,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T10:18:33.923333"
+      }
+    ]
+  },
+  "bb1ba5e809a8f89c0366f2310cc43ac6": {
+    "time": "2026/09/24 10:18:16",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T10:19:33.886189"
+      }
+    ]
+  },
+  "eac8efa472e3ce8f53e3109d3a21aec7": {
+    "time": "2026/09/24 10:17:47",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鼓山區馬卡道路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T10:19:33.886189"
       }
     ]
   }
