@@ -106759,7 +106759,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區博愛一路",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -106768,6 +106768,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T09:33:33.519023"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T09:37:33.549914"
       }
     ]
   },
@@ -106809,7 +106813,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -106818,6 +106822,38 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T09:35:33.455867"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T09:37:33.549914"
+      }
+    ]
+  },
+  "ef71e474465233551d4c08e4328b810b": {
+    "time": "2026/09/24 09:36:57",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區高楠公路",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T09:37:33.549914"
+      }
+    ]
+  },
+  "6787bf9d36e7c7414a14a7c4b940ab95": {
+    "time": "2026/09/24 09:36:38",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鼓山區鼓山二路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T09:37:33.549914"
       }
     ]
   }
