@@ -109023,7 +109023,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區澄仁路",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -109032,6 +109032,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T12:15:33.626504"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T12:22:33.729030"
       }
     ]
   },
@@ -109086,6 +109090,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T12:21:33.840534"
+      }
+    ]
+  },
+  "fe2bae8a1cf1c371047add7925fbe430": {
+    "time": "2026/09/24 12:21:37",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T12:22:33.729030"
       }
     ]
   }
