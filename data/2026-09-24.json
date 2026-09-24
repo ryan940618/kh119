@@ -108957,7 +108957,7 @@
     "sub_category": "路倒",
     "location": "高雄市彌陀區山頂路",
     "units": "彌陀分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -108970,6 +108970,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T12:07:33.622582"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T12:23:33.689802"
       }
     ]
   },
@@ -109099,11 +109103,29 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T12:22:33.729030"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T12:23:33.689802"
+      }
+    ]
+  },
+  "511113012b80765f206a952864bcd7c0": {
+    "time": "2026/09/24 12:22:02",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區大順二路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T12:23:33.689802"
       }
     ]
   }
