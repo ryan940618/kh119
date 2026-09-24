@@ -113653,7 +113653,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區橫山路",
     "units": "後勁分隊,楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -113666,6 +113666,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T18:59:33.856109"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T19:04:33.910917"
       }
     ]
   },
@@ -113697,7 +113701,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -113706,6 +113710,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T18:50:33.861987"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T19:04:33.910917"
       }
     ]
   },
@@ -113715,7 +113723,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區平等路",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -113732,6 +113740,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T19:00:33.877429"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T19:04:33.910917"
       }
     ]
   },
@@ -113838,6 +113850,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T19:03:33.890938"
+      }
+    ]
+  },
+  "51bf64b1232b4f54ec6579ec78c7d70b": {
+    "time": "2026/09/24 19:03:50",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T19:04:33.910917"
       }
     ]
   }
