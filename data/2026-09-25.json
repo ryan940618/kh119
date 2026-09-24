@@ -116781,7 +116781,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -116794,6 +116794,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T02:02:33.873049"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T02:20:33.278756"
       }
     ]
   },
@@ -116808,6 +116812,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T02:19:33.005460"
+      }
+    ]
+  },
+  "6a66f8ea3a4696a257a7b0248565eaab": {
+    "time": "2026/09/25 02:19:08",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市前鎮區后安路",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T02:20:33.278756"
       }
     ]
   }
