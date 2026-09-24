@@ -107209,7 +107209,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區仁心路",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -107226,6 +107226,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T10:08:33.813517"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T10:21:33.937768"
       }
     ]
   },
@@ -107537,11 +107541,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T10:18:33.923333"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T10:21:33.937768"
       }
     ]
   },
@@ -107565,11 +107573,15 @@
     "sub_category": "路倒",
     "location": "高雄市鼓山區馬卡道路",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T10:19:33.886189"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T10:21:33.937768"
       }
     ]
   },
@@ -107598,6 +107610,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T10:20:34.031802"
+      }
+    ]
+  },
+  "281bed47e927082580616bd99bf0081a": {
+    "time": "2026/09/24 10:20:56",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T10:21:33.937768"
       }
     ]
   }
