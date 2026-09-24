@@ -109237,7 +109237,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -109254,6 +109254,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T12:44:34.157600"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T12:50:34.017982"
       }
     ]
   },
@@ -109395,7 +109399,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區橋新一路",
     "units": "橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -109404,6 +109408,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T12:47:33.971713"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T12:50:34.017982"
       }
     ]
   },
@@ -109413,7 +109421,7 @@
     "sub_category": "汽機車",
     "location": "高雄市前鎮區光華二路和黃埔街",
     "units": "瑞隆分隊,苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "火已滅",
     "status_history": [
       {
         "status": "已派遣",
@@ -109426,6 +109434,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T12:49:34.160598"
+      },
+      {
+        "status": "火已滅",
+        "timestamp": "2026-09-24T12:50:34.017982"
       }
     ]
   },
@@ -109538,6 +109550,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T12:48:34.354589"
+      }
+    ]
+  },
+  "c0e9b0578d018368cb32d030c933f380": {
+    "time": "2026/09/24 12:50:07",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T12:50:34.017982"
       }
     ]
   }
