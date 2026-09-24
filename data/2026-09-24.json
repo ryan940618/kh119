@@ -112385,7 +112385,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區水管路",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -112398,6 +112398,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T17:09:33.998910"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T17:17:34.174996"
       }
     ]
   },
@@ -112577,11 +112581,15 @@
     "sub_category": "其他",
     "location": "高雄市新興區林森一路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T17:16:34.090856"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T17:17:34.174996"
       }
     ]
   }
