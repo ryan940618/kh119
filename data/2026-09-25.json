@@ -117893,7 +117893,7 @@
     "sub_category": "其他",
     "location": "高雄市苓雅區苓中路",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -117902,6 +117902,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T06:51:32.997820"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T07:00:33.195895"
       }
     ]
   },
@@ -117911,7 +117915,7 @@
     "sub_category": "其他",
     "location": "高雄市三民區",
     "units": "",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -117924,6 +117928,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T06:57:33.157777"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T07:00:33.195895"
       }
     ]
   },
@@ -117956,6 +117964,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T06:58:33.097941"
+      }
+    ]
+  },
+  "998b937919c7dbc59adaa45cf4dabb03": {
+    "time": "2026/09/25 06:59:47",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市茄萣區",
+    "units": "茄萣分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T07:00:33.195895"
       }
     ]
   }
