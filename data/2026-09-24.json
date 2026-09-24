@@ -106599,7 +106599,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -106616,6 +106616,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T09:36:33.483516"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T09:43:33.655445"
       }
     ]
   },
@@ -106717,7 +106721,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -106730,6 +106734,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T09:39:33.613239"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T09:43:33.655445"
       }
     ]
   },
@@ -106926,6 +106934,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T09:42:33.682560"
+      }
+    ]
+  },
+  "eb8d7015b6e3f7647e2bd24312a3d03b": {
+    "time": "2026/09/24 09:43:03",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區二聖路",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T09:43:33.655445"
       }
     ]
   }
