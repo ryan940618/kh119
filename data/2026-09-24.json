@@ -110403,7 +110403,7 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區湖中路",
     "units": "湖內分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -110416,6 +110416,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T14:13:33.725507"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T14:24:33.875057"
       }
     ]
   },
@@ -110479,11 +110483,29 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T14:21:33.851135"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T14:24:33.875057"
+      }
+    ]
+  },
+  "eb0e9b308fcf1e5e3b1282f2a7a84a48": {
+    "time": "2026/09/24 14:23:48",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T14:24:33.875057"
       }
     ]
   }
