@@ -114489,7 +114489,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -114502,6 +114502,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T20:19:33.365650"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T20:24:33.378239"
       }
     ]
   },
@@ -114511,11 +114515,15 @@
     "sub_category": "車禍",
     "location": "高雄市大社區中山路",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T20:20:33.821659"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T20:24:33.378239"
       }
     ]
   },
