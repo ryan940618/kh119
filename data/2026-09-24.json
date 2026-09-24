@@ -109573,7 +109573,7 @@
     "sub_category": "車禍",
     "location": "高雄市林園區西溪路",
     "units": "林園分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -109586,6 +109586,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T12:55:34.162147"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T13:19:33.428689"
       }
     ]
   },
@@ -109881,11 +109885,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T13:16:33.358904"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T13:19:33.428689"
       }
     ]
   },
