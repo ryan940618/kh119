@@ -115539,11 +115539,15 @@
     "sub_category": "汽機車",
     "location": "高雄市大社區",
     "units": "仁武分隊,大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T22:21:33.560713"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T22:31:36.378940"
       }
     ]
   },
@@ -115567,11 +115571,29 @@
     "sub_category": "路倒",
     "location": "高雄市三民區建國二路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T22:30:33.475416"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T22:31:36.378940"
+      }
+    ]
+  },
+  "9e8ae51f7801ea0c3c0eea8e58246d7e": {
+    "time": "2026/09/24 22:29:43",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市大寮區",
+    "units": "",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T22:31:36.378940"
       }
     ]
   }
