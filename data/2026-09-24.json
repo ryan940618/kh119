@@ -112847,7 +112847,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區通化街",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -112860,6 +112860,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T17:56:33.487679"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T18:03:34.010076"
       }
     ]
   },
@@ -112917,7 +112921,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳥松區本舘路",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -112930,6 +112934,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T17:56:33.487679"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T18:03:34.010076"
       }
     ]
   },
@@ -113087,11 +113095,15 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T18:01:34.390301"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T18:03:34.010076"
       }
     ]
   },
