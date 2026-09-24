@@ -111005,11 +111005,15 @@
     "sub_category": "創傷",
     "location": "高雄市小港區立群路",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T15:32:33.384268"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T15:35:33.263250"
       }
     ]
   },
@@ -111065,11 +111069,29 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區瑞竹路",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T15:34:33.281159"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T15:35:33.263250"
+      }
+    ]
+  },
+  "db4ecd96ab83a2f7455879fbbd17f44c": {
+    "time": "2026/09/24 15:35:02",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區華泰路",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T15:35:33.263250"
       }
     ]
   }
