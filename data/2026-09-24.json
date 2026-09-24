@@ -111921,7 +111921,7 @@
     "sub_category": "路倒",
     "location": "高雄市楠梓區朝陽路",
     "units": "後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -111938,6 +111938,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-24T16:52:33.983459"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T16:53:34.169137"
       }
     ]
   },
@@ -112208,6 +112212,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T16:51:33.948862"
+      }
+    ]
+  },
+  "cdf58ad47e86671420a76ad8af647cb0": {
+    "time": "2026/09/24 16:50:46",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區自強三路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T16:53:34.169137"
       }
     ]
   }
