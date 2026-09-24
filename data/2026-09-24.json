@@ -115119,7 +115119,7 @@
     "sub_category": "創傷",
     "location": "高雄市新興區七賢二路",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -115132,6 +115132,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T21:37:33.955586"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T21:42:33.013412"
       }
     ]
   },
@@ -115190,6 +115194,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T21:38:34.088407"
+      }
+    ]
+  },
+  "5af0cae9fe67d914982fc5d71228d4ff": {
+    "time": "2026/09/24 21:41:12",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區澄清路",
+    "units": "鳥松分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T21:42:33.013412"
       }
     ]
   }
