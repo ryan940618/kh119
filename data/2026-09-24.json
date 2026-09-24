@@ -112987,7 +112987,7 @@
     "sub_category": "急病",
     "location": "高雄市甲仙區",
     "units": "甲仙分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -112996,6 +112996,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T17:56:33.487679"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T18:06:33.657817"
       }
     ]
   },
@@ -113131,11 +113135,29 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區青年路",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T18:05:33.658452"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T18:06:33.657817"
+      }
+    ]
+  },
+  "44fa91bdd1ee84608ed593a051780d39": {
+    "time": "2026/09/24 18:05:31",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T18:06:33.657817"
       }
     ]
   }
