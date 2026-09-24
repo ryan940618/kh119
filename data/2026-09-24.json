@@ -106829,11 +106829,15 @@
     "sub_category": "其他",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T09:33:33.519023"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T10:04:33.748360"
       }
     ]
   },
@@ -107242,6 +107246,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T09:59:33.701807"
+      }
+    ]
+  },
+  "9fc258751cb036af7aa53694830dc508": {
+    "time": "2026/09/24 10:03:36",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T10:04:33.748360"
+      }
+    ]
+  },
+  "d78fe173e442588e5ac7626653ff0714": {
+    "time": "2026/09/24 10:03:23",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區復興派出所[高雄市前鎮區西甲里復興三路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T10:04:33.748360"
       }
     ]
   }
