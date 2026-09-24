@@ -114659,7 +114659,7 @@
     "sub_category": "車禍",
     "location": "高雄市旗山區旗南三路",
     "units": "旗山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -114668,6 +114668,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T20:53:33.764349"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-24T20:58:33.629275"
       }
     ]
   },
@@ -114752,6 +114756,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T20:54:33.610881"
+      }
+    ]
+  },
+  "00f0d15ce89c91ecac6357e4826bdbfe": {
+    "time": "2026/09/24 20:57:02",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鼓山區大順一路",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T20:58:33.629275"
       }
     ]
   }
