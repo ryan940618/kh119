@@ -111559,7 +111559,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區甲樹路",
     "units": "橋頭分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -111572,6 +111572,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T16:23:33.687199"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-24T16:35:34.071282"
       }
     ]
   },
@@ -111866,6 +111870,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T16:33:34.093766"
+      }
+    ]
+  },
+  "227b0ab218f6938ec5e16dbe358919ab": {
+    "time": "2026/09/24 16:35:00",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T16:35:34.071282"
       }
     ]
   }
