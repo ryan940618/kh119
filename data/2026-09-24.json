@@ -108393,11 +108393,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區德民路和惠豐街",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T11:25:33.441906"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T11:29:33.473531"
       }
     ]
   },
@@ -108407,11 +108411,29 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T11:27:33.418398"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T11:29:33.473531"
+      }
+    ]
+  },
+  "3a881ca692de623f118eabe7886a4095": {
+    "time": "2026/09/24 11:28:30",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T11:29:33.473531"
       }
     ]
   }
