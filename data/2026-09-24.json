@@ -108563,7 +108563,7 @@
     "sub_category": "路倒",
     "location": "高雄市楠梓區後勁西路",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -108572,6 +108572,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T11:41:33.582340"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T11:45:33.684577"
       }
     ]
   },
@@ -108600,6 +108604,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T11:44:33.448891"
+      }
+    ]
+  },
+  "324399608ff5734b9eb8a07078236d30": {
+    "time": "2026/09/24 11:44:35",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳥松分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T11:45:33.684577"
+      }
+    ]
+  },
+  "3da87866caab78ee1f4eb4fca6176746": {
+    "time": "2026/09/24 11:44:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市燕巢區",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T11:45:33.684577"
       }
     ]
   }
