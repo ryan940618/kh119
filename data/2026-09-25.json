@@ -128101,7 +128101,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -128114,6 +128114,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T22:10:33.523796"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T22:20:33.532290"
       }
     ]
   },
@@ -128202,6 +128206,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T22:15:33.511456"
+      }
+    ]
+  },
+  "cab60114545d678a0496a8e4208e3b93": {
+    "time": "2026/09/25 22:19:38",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區一心二路",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T22:20:33.532290"
       }
     ]
   }
