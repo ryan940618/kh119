@@ -126417,7 +126417,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -126426,6 +126426,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T19:20:34.340379"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T19:26:34.078768"
       }
     ]
   },
@@ -126458,6 +126462,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T19:25:34.165992"
+      }
+    ]
+  },
+  "27537ed66fdbf1d4202110748b44529d": {
+    "time": "2026/09/25 19:25:38",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區保仁街",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T19:26:34.078768"
       }
     ]
   }
