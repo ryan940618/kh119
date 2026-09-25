@@ -120257,7 +120257,7 @@
     "sub_category": "其他",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -120270,6 +120270,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T11:19:33.476173"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T11:28:33.343481"
       }
     ]
   },
@@ -120381,7 +120385,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區中正路",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -120390,6 +120394,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T11:26:33.367667"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T11:28:33.343481"
       }
     ]
   },
@@ -120413,11 +120421,15 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區中正一路",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T11:27:33.397512"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T11:28:33.343481"
       }
     ]
   },
