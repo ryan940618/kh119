@@ -125119,7 +125119,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -125128,6 +125128,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T17:58:33.411500"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T18:12:33.599465"
       }
     ]
   },
@@ -125355,11 +125359,43 @@
     "sub_category": "創傷",
     "location": "高雄市小港區中鋼路",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T18:10:33.583344"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T18:12:33.599465"
+      }
+    ]
+  },
+  "e20e8afda5cf2ce0f934f11790fbb413": {
+    "time": "2026/09/25 18:11:51",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T18:12:33.599465"
+      }
+    ]
+  },
+  "90d75dabd5a0ed20f67ae0b47c1ce79e": {
+    "time": "2026/09/25 18:11:31",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T18:12:33.599465"
       }
     ]
   }
