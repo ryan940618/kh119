@@ -124945,7 +124945,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區鐵道北路",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -124958,6 +124958,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T17:47:33.310054"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T17:54:33.550699"
       }
     ]
   },
@@ -125003,11 +125007,15 @@
     "sub_category": "創傷",
     "location": "高雄市岡山區嘉興路",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T17:51:33.553335"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T17:54:33.550699"
       }
     ]
   },
@@ -125040,6 +125048,48 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T17:53:33.334142"
+      }
+    ]
+  },
+  "dd35bf3f48b7628981d09ccd01fed5e5": {
+    "time": "2026/09/25 17:54:07",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗津區",
+    "units": "旗津分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T17:54:33.550699"
+      }
+    ]
+  },
+  "61c0198bc19b49f1da1fd2e1734c1c67": {
+    "time": "2026/09/25 17:53:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T17:54:33.550699"
+      }
+    ]
+  },
+  "bca7d25d5c2bfeae6fa6d48144d31e9c": {
+    "time": "2026/09/25 17:52:38",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市旗津區中洲二路",
+    "units": "旗津分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T17:54:33.550699"
       }
     ]
   }
