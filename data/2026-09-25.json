@@ -121101,7 +121101,7 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區福德三路",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -121114,6 +121114,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T12:17:33.701760"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T12:21:33.871644"
       }
     ]
   },
@@ -121154,6 +121158,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T12:20:33.760676"
+      }
+    ]
+  },
+  "a1c98348ce398b7aff5247adde125539": {
+    "time": "2026/09/25 12:20:37",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市六龜區",
+    "units": "寶來分隊",
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T12:21:33.871644"
+      }
+    ]
+  },
+  "5a10584cf3b9c0ddd02dba3e15bf78c7": {
+    "time": "2026/09/25 12:20:29",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市燕巢區中北路",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T12:21:33.871644"
       }
     ]
   }
