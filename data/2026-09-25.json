@@ -123435,7 +123435,7 @@
     "sub_category": "其他",
     "location": "高雄市彌陀區國校路",
     "units": "彌陀分隊",
-    "current_status": "火已控",
+    "current_status": "火已滅",
     "status_history": [
       {
         "status": "已出動",
@@ -123448,6 +123448,10 @@
       {
         "status": "火已控",
         "timestamp": "2026-09-25T15:41:33.292087"
+      },
+      {
+        "status": "火已滅",
+        "timestamp": "2026-09-25T15:53:33.411968"
       }
     ]
   },
@@ -123580,6 +123584,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T15:52:33.366058"
+      }
+    ]
+  },
+  "f8d76576bdebcd2bef0a88e0ab6d1f3d": {
+    "time": "2026/09/25 15:51:58",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T15:53:33.411968"
       }
     ]
   }
