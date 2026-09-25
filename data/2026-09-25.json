@@ -124047,7 +124047,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -124064,6 +124064,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T16:53:33.891461"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T16:58:33.983327"
       }
     ]
   },
@@ -124139,7 +124143,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -124156,6 +124160,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T16:44:33.767511"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T16:58:33.983327"
       }
     ]
   },
@@ -124445,11 +124453,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區平等路",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T16:57:33.987953"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T16:58:33.983327"
       }
     ]
   }
