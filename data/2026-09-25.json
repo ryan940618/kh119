@@ -122919,7 +122919,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區會營街",
     "units": "和發分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -122932,6 +122932,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T15:17:33.584808"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T15:28:33.158884"
       }
     ]
   },
@@ -123125,7 +123129,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -123134,6 +123138,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T15:25:33.264198"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T15:28:33.158884"
       }
     ]
   },
@@ -123228,6 +123236,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T15:27:33.279931"
+      }
+    ]
+  },
+  "ccc1369d46579a470e940220e80ed21c": {
+    "time": "2026/09/25 15:27:37",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大樹區興山路",
+    "units": "大樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T15:28:33.158884"
+      }
+    ]
+  },
+  "96dfa7b1f5c0bbe270f9f83ef5a2f81a": {
+    "time": "2026/09/25 15:26:36",
+    "category": "火災",
+    "sub_category": "雜草(含廢棄物、墓地)",
+    "location": "高雄市彌陀區文安路",
+    "units": "彌陀分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T15:28:33.158884"
       }
     ]
   }
