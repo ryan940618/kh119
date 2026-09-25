@@ -121633,7 +121633,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區中華五路",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -121650,6 +121650,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T13:06:33.007063"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T13:13:33.024094"
       }
     ]
   },
@@ -121743,11 +121747,29 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T13:10:33.349311"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T13:13:33.024094"
+      }
+    ]
+  },
+  "676ff55cf56570ae8edcd2caaf9d3012": {
+    "time": "2026/09/25 13:12:25",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區裕國街",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T13:13:33.024094"
       }
     ]
   }
