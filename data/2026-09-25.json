@@ -128513,7 +128513,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -128526,6 +128526,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T23:17:33.799481"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T23:26:34.001441"
       }
     ]
   },
@@ -128605,7 +128609,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -128614,6 +128618,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T23:20:33.814623"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T23:26:34.001441"
       }
     ]
   },
@@ -128681,11 +128689,29 @@
     "sub_category": "一般(集合)住宅",
     "location": "高雄市新興區八德二路",
     "units": "前金分隊,新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T23:22:33.892297"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T23:26:34.001441"
+      }
+    ]
+  },
+  "290e18cf2ad9484f980c302a20cfadc9": {
+    "time": "2026/09/25 23:25:02",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T23:26:34.001441"
       }
     ]
   }
