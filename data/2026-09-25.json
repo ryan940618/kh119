@@ -121969,11 +121969,15 @@
     "sub_category": "急病",
     "location": "高雄市杉林區",
     "units": "杉林分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-25T13:35:33.387657"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T13:40:33.340490"
       }
     ]
   },
@@ -121992,6 +121996,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T13:38:33.337963"
+      }
+    ]
+  },
+  "79a7e19ba26dda5a843a0ad39b1a2c00": {
+    "time": "2026/09/25 13:39:52",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區自由路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T13:40:33.340490"
       }
     ]
   }
