@@ -120257,7 +120257,7 @@
     "sub_category": "其他",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -120274,6 +120274,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T11:28:33.343481"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T11:48:33.530045"
       }
     ]
   },
@@ -120283,7 +120287,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區先鋒路",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -120300,6 +120304,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T11:42:33.425826"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T11:48:33.530045"
       }
     ]
   },
@@ -120331,7 +120339,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -120348,6 +120356,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T11:43:33.451607"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T11:48:33.530045"
       }
     ]
   },
@@ -120457,7 +120469,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區中正一路",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -120470,6 +120482,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T11:37:33.481933"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T11:48:33.530045"
       }
     ]
   },
@@ -120639,11 +120655,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區遼寧二街",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T11:45:33.696687"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T11:48:33.530045"
       }
     ]
   },
@@ -120676,6 +120696,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T11:47:33.731852"
+      }
+    ]
+  },
+  "85850dd79dbc928cdc6b0566a565cb2b": {
+    "time": "2026/09/25 11:47:35",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市永安區興達路",
+    "units": "永安分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T11:48:33.530045"
       }
     ]
   }
