@@ -124451,7 +124451,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -124460,6 +124460,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T16:55:33.874469"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T17:04:34.111605"
       }
     ]
   },
@@ -124500,6 +124504,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T17:02:34.047404"
+      }
+    ]
+  },
+  "7cd062b102a0aff6d0456c57b5d9769c": {
+    "time": "2026/09/25 17:03:19",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T17:04:34.111605"
+      }
+    ]
+  },
+  "e4e6be01395facaa40d799c976e721b4": {
+    "time": "2026/09/25 17:03:02",
+    "category": "火災",
+    "sub_category": "雜草(含廢棄物、墓地)",
+    "location": "高雄市美濃區廣興街",
+    "units": "美濃分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T17:04:34.111605"
       }
     ]
   }
