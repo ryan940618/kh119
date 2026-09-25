@@ -127481,11 +127481,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-25T21:05:33.806310"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T21:09:33.973770"
       }
     ]
   },
@@ -127500,6 +127504,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T21:08:33.749546"
+      }
+    ]
+  },
+  "aa8104cc6b921e59cafffc146c03e5fb": {
+    "time": "2026/09/25 21:08:45",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T21:09:33.973770"
+      }
+    ]
+  },
+  "3c6ce73eb45c71d18dec152c72209bf4": {
+    "time": "2026/09/25 21:08:17",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市旗津區中洲二路",
+    "units": "旗津分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T21:09:33.973770"
       }
     ]
   }
