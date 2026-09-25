@@ -126265,7 +126265,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -126282,6 +126282,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T19:20:34.340379"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T19:34:33.190115"
       }
     ]
   },
@@ -126517,7 +126521,7 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -126526,6 +126530,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T19:31:34.079365"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T19:34:33.190115"
       }
     ]
   },
@@ -126535,11 +126543,43 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T19:31:34.079365"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T19:34:33.190115"
+      }
+    ]
+  },
+  "740a5786185cd8a75f1d1c44a22a1541": {
+    "time": "2026/09/25 19:33:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區草衙二路",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T19:34:33.190115"
+      }
+    ]
+  },
+  "96447b064d9987b728698549da70983d": {
+    "time": "2026/09/25 19:33:36",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T19:34:33.190115"
       }
     ]
   }
