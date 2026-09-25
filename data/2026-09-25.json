@@ -128439,7 +128439,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -128456,6 +128456,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T23:12:34.290350"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T23:18:34.115568"
       }
     ]
   },
@@ -128579,11 +128583,15 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區翁園路",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T23:16:33.764688"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T23:18:34.115568"
       }
     ]
   },
@@ -128598,6 +128606,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T23:17:33.799481"
+      }
+    ]
+  },
+  "e6e987b8f74be72d60b877a8224db65e": {
+    "time": "2026/09/25 23:17:19",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T23:18:34.115568"
       }
     ]
   }
