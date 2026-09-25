@@ -130891,11 +130891,15 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區大德街",
     "units": "和發分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T06:31:33.118500"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T06:35:33.240807"
       }
     ]
   },
@@ -130923,11 +130927,29 @@
     "sub_category": "車禍",
     "location": "高雄市林園區林園北路",
     "units": "林園分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T06:34:33.434017"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T06:35:33.240807"
+      }
+    ]
+  },
+  "30690f9d53c1e0535ee0348741889619": {
+    "time": "2026/09/26 06:34:04",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T06:35:33.240807"
       }
     ]
   }
