@@ -124905,7 +124905,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -124922,6 +124922,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T18:05:33.533056"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T18:10:33.583344"
       }
     ]
   },
@@ -124983,7 +124987,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -124996,6 +125000,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T17:59:33.461733"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T18:10:33.583344"
       }
     ]
   },
@@ -125159,7 +125167,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -125172,6 +125180,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T18:02:33.516763"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T18:10:33.583344"
       }
     ]
   },
@@ -125181,7 +125193,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -125194,6 +125206,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T18:08:33.484211"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T18:10:33.583344"
       }
     ]
   },
@@ -125225,7 +125241,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -125238,6 +125254,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T18:06:33.515225"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T18:10:33.583344"
       }
     ]
   },
@@ -125318,6 +125338,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T18:09:33.640607"
+      }
+    ]
+  },
+  "e36f35a82b9508b0f1b9421d48b82d3f": {
+    "time": "2026/09/25 18:08:57",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市小港區中鋼路",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T18:10:33.583344"
       }
     ]
   }
