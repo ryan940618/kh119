@@ -121751,7 +121751,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -121760,6 +121760,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T13:13:33.024094"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T13:16:33.188937"
       }
     ]
   },
@@ -121769,11 +121773,15 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區裕國街",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T13:13:33.024094"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T13:16:33.188937"
       }
     ]
   },
@@ -121806,6 +121814,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T13:15:33.066380"
+      }
+    ]
+  },
+  "c7c449ed7d099f170c5b6c1b006f33c9": {
+    "time": "2026/09/25 13:15:40",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市小港區漢民路",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T13:16:33.188937"
       }
     ]
   }
