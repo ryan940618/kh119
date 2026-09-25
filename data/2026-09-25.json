@@ -119473,7 +119473,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -119490,6 +119490,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T10:02:33.638374"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T10:22:33.855625"
       }
     ]
   },
@@ -119661,7 +119665,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -119670,6 +119674,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T10:18:33.835929"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T10:22:33.855625"
       }
     ]
   },
@@ -119688,6 +119696,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T10:19:33.801235"
+      }
+    ]
+  },
+  "86e97a89e5dc3ea02292bed21b2e4c51": {
+    "time": "2026/09/25 10:21:56",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市燕巢區中華路",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T10:22:33.855625"
       }
     ]
   }
