@@ -120163,7 +120163,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區太平路",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -120176,6 +120176,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T11:02:33.135643"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T11:15:33.291064"
       }
     ]
   },
@@ -120238,6 +120242,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T11:13:33.219233"
+      }
+    ]
+  },
+  "973c0bdf39ae1707f5061c17671a6769": {
+    "time": "2026/09/25 11:15:19",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市左營區先鋒路",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T11:15:33.291064"
       }
     ]
   }
