@@ -127323,7 +127323,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -127336,6 +127336,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T20:51:33.718380"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T21:03:33.795598"
       }
     ]
   },
@@ -127407,7 +127411,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -127416,6 +127420,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T20:58:33.687480"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T21:03:33.795598"
       }
     ]
   },
@@ -127434,6 +127442,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T20:59:34.216730"
+      }
+    ]
+  },
+  "d9c86520cd86d4c2800005552f4057a5": {
+    "time": "2026/09/25 21:02:32",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區華山路",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T21:03:33.795598"
       }
     ]
   }
