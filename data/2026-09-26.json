@@ -128987,7 +128987,7 @@
     "sub_category": "創傷",
     "location": "高雄市前金區明星街",
     "units": "鼓山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -129004,6 +129004,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-26T00:07:33.316741"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-26T00:12:33.280422"
       }
     ]
   },
@@ -129173,11 +129177,15 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T00:10:33.188975"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T00:12:33.280422"
       }
     ]
   },
@@ -129192,6 +129200,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T00:11:33.311001"
+      }
+    ]
+  },
+  "dfb985ea2db47d38953681cdee556882": {
+    "time": "2026/09/26 00:11:41",
+    "category": "其他",
+    "sub_category": "動物救援",
+    "location": "高雄市鼓山區鼓南街",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T00:12:33.280422"
       }
     ]
   }
