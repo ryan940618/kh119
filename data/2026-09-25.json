@@ -124605,7 +124605,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區博愛三路",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -124618,6 +124618,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T17:18:34.246612"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T17:29:33.187848"
       }
     ]
   },
@@ -124627,7 +124631,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區三多三路",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -124640,6 +124644,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T17:21:58.556837"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T17:29:33.187848"
       }
     ]
   },
@@ -124774,6 +124782,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T17:28:33.218234"
+      }
+    ]
+  },
+  "98d5211b64e18591feb2c369c501dfe6": {
+    "time": "2026/09/25 17:28:51",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T17:29:33.187848"
       }
     ]
   }
