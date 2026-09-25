@@ -124401,7 +124401,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區建國二路",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -124418,6 +124418,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T17:10:34.108002"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T17:13:34.320093"
       }
     ]
   },
@@ -124427,7 +124431,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -124444,6 +124448,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T17:02:34.047404"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T17:13:34.320093"
       }
     ]
   },
@@ -124574,6 +124582,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T17:11:33.978763"
+      }
+    ]
+  },
+  "e46bdd601a7dc4055701219c4bb0139f": {
+    "time": "2026/09/25 17:13:19",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區三多三路",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T17:13:34.320093"
+      }
+    ]
+  },
+  "d73cb938c85e73cc8e2d8c3bf6e8c331": {
+    "time": "2026/09/25 17:12:36",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市彌陀區中正路",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T17:13:34.320093"
+      }
+    ]
+  },
+  "3c8e2821461a5aa2eed852f384c57ebd": {
+    "time": "2026/09/25 17:12:32",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T17:13:34.320093"
       }
     ]
   }
