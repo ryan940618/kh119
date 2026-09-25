@@ -126243,7 +126243,7 @@
     "sub_category": "急病",
     "location": "高雄市甲仙區",
     "units": "甲仙分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -126260,6 +126260,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T19:39:33.340870"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T20:07:33.340159"
       }
     ]
   },
@@ -126599,7 +126603,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -126612,6 +126616,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T19:42:33.479808"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T20:07:33.340159"
       }
     ]
   },
@@ -126893,7 +126901,7 @@
     "sub_category": "創傷",
     "location": "高雄市林園區林園北路",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -126902,6 +126910,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T20:03:33.501869"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T20:07:33.340159"
       }
     ]
   }
