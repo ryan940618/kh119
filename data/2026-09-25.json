@@ -123579,11 +123579,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區鼎貴路",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T15:52:33.366058"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T15:54:33.610168"
       }
     ]
   },
@@ -123593,11 +123597,57 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T15:53:33.411968"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T15:54:33.610168"
+      }
+    ]
+  },
+  "fc5bfb3595b44e08169cbe88a2ab3dc7": {
+    "time": "2026/09/25 15:53:45",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T15:54:33.610168"
+      }
+    ]
+  },
+  "ff08e69e78eec33790d72446379e9f72": {
+    "time": "2026/09/25 15:53:12",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市旗山區仁愛街",
+    "units": "旗山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T15:54:33.610168"
+      }
+    ]
+  },
+  "56b21af29e8baca3a4e7dfe5f6f3db54": {
+    "time": "2026/09/25 15:52:45",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T15:54:33.610168"
       }
     ]
   }
