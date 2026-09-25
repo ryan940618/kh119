@@ -122701,7 +122701,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -122710,6 +122710,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T14:48:34.056717"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T14:54:34.228374"
       }
     ]
   },
@@ -122756,6 +122760,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T14:53:34.016914"
+      }
+    ]
+  },
+  "b64fb81fe7e7f85dbc3f7f7ef26c8961": {
+    "time": "2026/09/25 14:53:03",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區德民路和惠豐街",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T14:54:34.228374"
       }
     ]
   }
