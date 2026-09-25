@@ -120885,7 +120885,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區平和路",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -120894,6 +120894,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T11:57:33.503320"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T12:03:33.687591"
       }
     ]
   },
@@ -120917,7 +120921,7 @@
     "sub_category": "路倒",
     "location": "高雄市林園區頂厝路",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -120926,6 +120930,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T11:59:33.688964"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T12:03:33.687591"
+      }
+    ]
+  },
+  "e7431c199ffc5a17dd883167025855cd": {
+    "time": "2026/09/25 12:02:05",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T12:03:33.687591"
       }
     ]
   }
