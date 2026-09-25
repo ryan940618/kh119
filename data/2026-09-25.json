@@ -119805,7 +119805,7 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區仁智街",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -119822,6 +119822,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T10:40:33.881993"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T10:46:33.946245"
       }
     ]
   },
@@ -119904,6 +119908,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T10:45:33.951297"
+      }
+    ]
+  },
+  "8e69fb8873c5e9c8e46fb38c363774d4": {
+    "time": "2026/09/25 10:45:00",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市新興區仁愛一街",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T10:46:33.946245"
       }
     ]
   }
