@@ -125023,7 +125023,7 @@
     "sub_category": "創傷",
     "location": "高雄市岡山區嘉興路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -125032,6 +125032,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T17:54:33.550699"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T18:00:33.487155"
       }
     ]
   },
@@ -125189,11 +125193,15 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T17:58:33.411500"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T18:00:33.487155"
       }
     ]
   },
@@ -125203,11 +125211,29 @@
     "sub_category": "創傷",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T17:59:33.461733"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T18:00:33.487155"
+      }
+    ]
+  },
+  "42fe61b44d59681a43900fa82f8ac72f": {
+    "time": "2026/09/25 17:59:33",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鼓山區南屏路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T18:00:33.487155"
       }
     ]
   }
