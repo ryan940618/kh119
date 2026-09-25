@@ -129507,7 +129507,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區臥龍路",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -129524,6 +129524,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-26T01:50:33.900588"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-26T02:02:32.966914"
       }
     ]
   },
@@ -129608,6 +129612,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T02:01:33.077408"
+      }
+    ]
+  },
+  "6367fc63e98a206d6059b1547d51feeb": {
+    "time": "2026/09/26 02:01:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T02:02:32.966914"
       }
     ]
   }
