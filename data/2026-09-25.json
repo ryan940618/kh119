@@ -122175,7 +122175,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區勝利路",
     "units": "左營小隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -122188,6 +122188,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T14:10:33.711535"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T14:15:33.595847"
       }
     ]
   },
@@ -122259,11 +122263,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區後昌路",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-25T14:09:33.568674"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T14:15:33.595847"
       }
     ]
   },
@@ -122273,11 +122281,15 @@
     "sub_category": "創傷",
     "location": "高雄市鼓山區南屏路",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T14:10:33.711535"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T14:15:33.595847"
       }
     ]
   },
@@ -122287,11 +122299,29 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T14:14:33.640546"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T14:15:33.595847"
+      }
+    ]
+  },
+  "de329eb31011964e84349576d92db4e7": {
+    "time": "2026/09/25 14:14:06",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市左營區文川路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T14:15:33.595847"
       }
     ]
   }
