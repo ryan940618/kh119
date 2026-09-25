@@ -128967,7 +128967,7 @@
     "sub_category": "創傷",
     "location": "高雄市前金區明星街",
     "units": "鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -128976,6 +128976,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T23:49:34.245716"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T23:57:33.170348"
       }
     ]
   },
@@ -129063,11 +129067,29 @@
     "sub_category": "路倒",
     "location": "高雄市林園區潭平路",
     "units": "林園分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T23:54:33.061120"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T23:57:33.170348"
+      }
+    ]
+  },
+  "4cefca69abe283bedc7b90d1fdeadc04": {
+    "time": "2026/09/25 23:56:10",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市鳳山區三成街",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T23:57:33.170348"
       }
     ]
   }
