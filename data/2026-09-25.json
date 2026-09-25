@@ -125297,7 +125297,7 @@
     "sub_category": "路倒",
     "location": "高雄市鼓山區南屏路",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -125310,6 +125310,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T18:06:33.515225"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T18:13:33.573463"
       }
     ]
   },
@@ -125377,11 +125381,15 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "梓官分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T18:12:33.599465"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T18:13:33.573463"
       }
     ]
   },
@@ -125396,6 +125404,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T18:12:33.599465"
+      }
+    ]
+  },
+  "6d87860941e133dedf759540642d97a3": {
+    "time": "2026/09/25 18:13:04",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鹽埕區七賢三路",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T18:13:33.573463"
       }
     ]
   }
