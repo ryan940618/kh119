@@ -127169,7 +127169,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區中山東路",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -127202,6 +127202,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T20:53:33.735897"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T20:56:33.703636"
       }
     ]
   },
@@ -127329,11 +127333,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-25T20:51:33.718380"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T20:56:33.703636"
       }
     ]
   },
@@ -127361,11 +127369,29 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T20:55:33.839006"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T20:56:33.703636"
+      }
+    ]
+  },
+  "53518e6893c313c2b43c01249467ee2d": {
+    "time": "2026/09/25 20:55:43",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T20:56:33.703636"
       }
     ]
   }
