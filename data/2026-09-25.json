@@ -121055,7 +121055,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -121072,6 +121072,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T12:25:33.949585"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T12:34:33.949243"
       }
     ]
   },
@@ -121249,11 +121253,15 @@
     "sub_category": "汽機車",
     "location": "高雄市旗山區旗屏一路",
     "units": "旗山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-25T12:25:33.949585"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T12:34:33.949243"
       }
     ]
   },
@@ -121299,11 +121307,15 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區文衡路",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T12:30:33.812788"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T12:34:33.949243"
       }
     ]
   },
@@ -121331,11 +121343,15 @@
     "sub_category": "創傷",
     "location": "高雄市三民區市中一路和鐵道三街",
     "units": "前金分隊,十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T12:31:33.776308"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T12:34:33.949243"
       }
     ]
   },
@@ -121354,6 +121370,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T12:33:33.865350"
+      }
+    ]
+  },
+  "8fe2dd023f85deca45eed36ded98a675": {
+    "time": "2026/09/25 12:33:59",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區九如一路",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T12:34:33.949243"
       }
     ]
   }
