@@ -128509,7 +128509,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -128518,6 +128518,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T23:12:34.290350"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T23:17:33.799481"
       }
     ]
   },
@@ -128527,7 +128531,7 @@
     "sub_category": "創傷",
     "location": "高雄市田寮區崇德路",
     "units": "崇德駐地",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -128540,6 +128544,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T23:13:33.782695"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T23:17:33.799481"
       }
     ]
   },
@@ -128576,6 +128584,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T23:16:33.764688"
+      }
+    ]
+  },
+  "fc58551bed85703f5fed14f0c928a322": {
+    "time": "2026/09/25 23:16:08",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T23:17:33.799481"
       }
     ]
   }
