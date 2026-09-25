@@ -125261,7 +125261,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -125278,6 +125278,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T18:10:33.583344"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T18:21:33.966955"
       }
     ]
   },
@@ -125463,7 +125467,7 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區小坪路",
     "units": "大樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -125472,6 +125476,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T18:16:33.589446"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T18:21:33.966955"
       }
     ]
   },
@@ -125481,7 +125489,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區哈爾濱街",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -125490,6 +125498,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T18:16:33.589446"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T18:21:33.966955"
       }
     ]
   },
@@ -125517,11 +125529,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區鼎山街",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-25T18:16:33.589446"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T18:21:33.966955"
       }
     ]
   },
@@ -125585,11 +125601,15 @@
     "sub_category": "燒燙傷",
     "location": "高雄市阿蓮區成功街",
     "units": "阿蓮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T18:20:33.921062"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T18:21:33.966955"
       }
     ]
   }
