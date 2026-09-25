@@ -123915,7 +123915,7 @@
     "sub_category": "車禍",
     "location": "高雄市旗山區旗甲路",
     "units": "旗山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -123928,6 +123928,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T16:20:33.725311"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T16:23:33.745721"
       }
     ]
   },
@@ -123973,11 +123977,29 @@
     "sub_category": "車禍",
     "location": "高雄市左營區華夏路",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T16:22:33.736453"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T16:23:33.745721"
+      }
+    ]
+  },
+  "34455d04ec16c70471f9cf91ce97ddbc": {
+    "time": "2026/09/25 16:22:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T16:23:33.745721"
       }
     ]
   }
