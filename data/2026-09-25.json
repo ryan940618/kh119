@@ -123777,7 +123777,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -123790,6 +123790,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T16:05:33.733891"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T16:11:33.635283"
       }
     ]
   },
@@ -123799,7 +123803,7 @@
     "sub_category": "急病",
     "location": "高雄市永安區",
     "units": "永安分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -123812,6 +123816,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T16:05:33.733891"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T16:11:33.635283"
       }
     ]
   },
@@ -123866,6 +123874,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T16:08:33.601660"
+      }
+    ]
+  },
+  "ef746aa43e26880118f575c02f16afd2": {
+    "time": "2026/09/25 16:10:11",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市旗山區旗甲路",
+    "units": "旗山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T16:11:33.635283"
       }
     ]
   }
