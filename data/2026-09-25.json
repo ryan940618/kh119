@@ -125441,7 +125441,7 @@
     "sub_category": "創傷",
     "location": "高雄市鹽埕區七賢三路",
     "units": "鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -125450,6 +125450,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T18:15:33.597558"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T18:20:33.921062"
       }
     ]
   },
@@ -125545,11 +125549,15 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區中崙二路",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T18:17:33.851738"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T18:20:33.921062"
       }
     ]
   },
@@ -125568,6 +125576,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T18:19:33.702631"
+      }
+    ]
+  },
+  "8ea180508edd58c54c75a8f7a098185c": {
+    "time": "2026/09/25 18:19:58",
+    "category": "緊急救護",
+    "sub_category": "燒燙傷",
+    "location": "高雄市阿蓮區成功街",
+    "units": "阿蓮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T18:20:33.921062"
       }
     ]
   }
