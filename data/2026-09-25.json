@@ -127721,7 +127721,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "左營小隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -127730,6 +127730,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T21:30:34.095975"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T21:44:33.175317"
       }
     ]
   },
@@ -127783,7 +127787,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -127792,6 +127796,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T21:40:33.226802"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T21:44:33.175317"
       }
     ]
   },
@@ -127819,7 +127827,7 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區凱旋三路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -127828,6 +127836,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T21:41:33.134500"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T21:44:33.175317"
       }
     ]
   },
@@ -127837,11 +127849,29 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T21:43:33.279407"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T21:44:33.175317"
+      }
+    ]
+  },
+  "482292aa514b4497b01af6cb4006007f": {
+    "time": "2026/09/25 21:43:51",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T21:44:33.175317"
       }
     ]
   }
