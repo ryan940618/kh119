@@ -127143,7 +127143,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區鎮潭路",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -127160,6 +127160,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T20:50:33.637128"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T20:57:33.883360"
       }
     ]
   },
@@ -127392,6 +127396,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T20:56:33.703636"
+      }
+    ]
+  },
+  "1a906c1d42ddb1018abde8cdf00c865f": {
+    "time": "2026/09/25 20:56:45",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T20:57:33.883360"
       }
     ]
   }
