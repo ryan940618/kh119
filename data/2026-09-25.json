@@ -127431,7 +127431,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -127448,6 +127448,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T21:11:33.856659"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T21:17:34.019441"
       }
     ]
   },
@@ -127581,11 +127585,29 @@
     "sub_category": "其他",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T21:15:34.035305"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T21:17:34.019441"
+      }
+    ]
+  },
+  "d6492fa452b5bca7d4b27d7fb1590edd": {
+    "time": "2026/09/25 21:16:22",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T21:17:34.019441"
       }
     ]
   }
