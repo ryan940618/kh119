@@ -127461,7 +127461,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -127474,6 +127474,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T21:04:33.901305"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T21:20:34.040342"
       }
     ]
   },
@@ -127612,6 +127616,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T21:18:34.002950"
+      }
+    ]
+  },
+  "5e20b347f2beac6058aad4a48be084fa": {
+    "time": "2026/09/25 21:19:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T21:20:34.040342"
       }
     ]
   }
