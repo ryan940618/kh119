@@ -123011,7 +123011,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -123028,6 +123028,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T15:25:33.264198"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T15:32:33.292883"
       }
     ]
   },
@@ -123177,7 +123181,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區翠華路",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -123190,6 +123194,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T15:27:33.279931"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T15:32:33.292883"
       }
     ]
   },
@@ -123217,7 +123225,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區寶陽路",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -123230,6 +123238,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T15:30:33.225375"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T15:32:33.292883"
       }
     ]
   },
@@ -123286,6 +123298,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T15:30:33.225375"
+      }
+    ]
+  },
+  "c3e6e664b7581a845fc39aa1e2f5abc2": {
+    "time": "2026/09/25 15:31:40",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T15:32:33.292883"
       }
     ]
   }
