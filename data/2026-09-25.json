@@ -122213,7 +122213,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區新強路",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -122222,6 +122222,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T14:12:33.681796"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T14:24:33.658187"
       }
     ]
   },
@@ -122355,11 +122359,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區民族一路",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-25T14:18:33.601055"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T14:24:33.658187"
       }
     ]
   }
