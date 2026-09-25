@@ -124557,7 +124557,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -124570,6 +124570,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T17:21:58.556837"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T17:24:33.215569"
       }
     ]
   },
@@ -124708,6 +124712,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T17:22:36.658709"
+      }
+    ]
+  },
+  "43d0a6da516fe89df71301a142c4e02c": {
+    "time": "2026/09/25 17:24:14",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區自強一路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T17:24:33.215569"
+      }
+    ]
+  },
+  "2124651c9778330e29fd6d0d15319746": {
+    "time": "2026/09/25 17:23:20",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區光明路",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T17:24:33.215569"
       }
     ]
   }
