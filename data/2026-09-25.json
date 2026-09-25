@@ -124741,7 +124741,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區自強一路",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -124750,6 +124750,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T17:26:33.155717"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T17:30:33.238325"
       }
     ]
   },
@@ -124796,6 +124800,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T17:29:33.187848"
+      }
+    ]
+  },
+  "5c99a09bf72021e83f2c0d56ce7c3ae5": {
+    "time": "2026/09/25 17:30:08",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區福隆街",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T17:30:33.238325"
+      }
+    ]
+  },
+  "4b1370e4b40703a18ee329e8c5d2dc0e": {
+    "time": "2026/09/25 17:28:51",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區大福街",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T17:30:33.238325"
       }
     ]
   }
