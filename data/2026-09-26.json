@@ -129403,7 +129403,7 @@
     "sub_category": "路倒",
     "location": "高雄市美濃區中正路",
     "units": "美濃分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -129416,6 +129416,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-26T01:12:33.657495"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-26T01:33:33.962040"
       }
     ]
   },
@@ -129425,7 +129429,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -129442,6 +129446,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-26T01:18:33.806387"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-26T01:33:33.962040"
       }
     ]
   },
