@@ -120345,11 +120345,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T11:22:33.539127"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T11:26:33.367667"
       }
     ]
   },
@@ -120377,11 +120381,29 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區中正路",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T11:25:33.456572"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T11:26:33.367667"
+      }
+    ]
+  },
+  "5eea7fca1dd9aec21dd42d69b1a34bef": {
+    "time": "2026/09/25 11:25:39",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區區東路",
+    "units": "後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T11:26:33.367667"
       }
     ]
   }
