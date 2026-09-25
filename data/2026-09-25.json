@@ -122941,7 +122941,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區實踐路",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -122954,6 +122954,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T15:10:33.170928"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T15:25:33.264198"
       }
     ]
   },
@@ -122999,7 +123003,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -123012,6 +123016,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T15:15:33.034518"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T15:25:33.264198"
       }
     ]
   },
@@ -123021,7 +123029,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -123034,6 +123042,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T15:18:33.471981"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T15:25:33.264198"
       }
     ]
   },
@@ -123065,7 +123077,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區沿海二路",
     "units": "高桂分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -123074,6 +123086,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T15:17:33.584808"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T15:25:33.264198"
       }
     ]
   },
@@ -123101,11 +123117,15 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T15:17:33.584808"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T15:25:33.264198"
       }
     ]
   },
@@ -123115,11 +123135,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T15:18:33.471981"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T15:25:33.264198"
       }
     ]
   },
@@ -123129,11 +123153,43 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區翠華路",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T15:20:33.125220"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T15:25:33.264198"
+      }
+    ]
+  },
+  "208b3d756c0757a54d5308c8bf39ffae": {
+    "time": "2026/09/25 15:24:26",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市前金區仁義街",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T15:25:33.264198"
+      }
+    ]
+  },
+  "d666bbbebd0cdd0f712647be890ceea3": {
+    "time": "2026/09/25 15:23:44",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區寶陽路",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T15:25:33.264198"
       }
     ]
   }
