@@ -122991,7 +122991,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -123000,6 +123000,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T15:10:33.170928"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T15:15:33.034518"
       }
     ]
   },
@@ -123027,11 +123031,29 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T15:12:33.215593"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T15:15:33.034518"
+      }
+    ]
+  },
+  "7ddf10d0a5b64fdf49d8045fbcf18100": {
+    "time": "2026/09/25 15:14:08",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區沿海二路",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T15:15:33.034518"
       }
     ]
   }
