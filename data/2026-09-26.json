@@ -131171,11 +131171,15 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T07:09:33.493726"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T07:15:33.604028"
       }
     ]
   },
@@ -131190,6 +131194,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T07:13:33.609695"
+      }
+    ]
+  },
+  "a4c7d2a3a6e713611d368a84928193a6": {
+    "time": "2026/09/26 07:14:58",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區武慶二路和瑞興街",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T07:15:33.604028"
+      }
+    ]
+  },
+  "8d62f376c947c4cd4c92cb36a7f0e9a7": {
+    "time": "2026/09/26 07:14:17",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T07:15:33.604028"
       }
     ]
   }
