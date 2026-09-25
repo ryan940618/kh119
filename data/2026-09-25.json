@@ -123153,7 +123153,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -123166,6 +123166,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T15:28:33.158884"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T15:36:33.349383"
       }
     ]
   },
@@ -123367,11 +123371,15 @@
     "sub_category": "其他",
     "location": "高雄市彌陀區國校路",
     "units": "彌陀分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-25T15:33:33.458648"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T15:36:33.349383"
       }
     ]
   },
@@ -123381,11 +123389,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T15:35:33.238641"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T15:36:33.349383"
       }
     ]
   }
