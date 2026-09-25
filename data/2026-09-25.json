@@ -124717,7 +124717,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -124726,6 +124726,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T17:23:33.098397"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T17:42:33.462487"
       }
     ]
   },
@@ -124913,11 +124917,29 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區鐵道北路",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T17:40:33.305539"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T17:42:33.462487"
+      }
+    ]
+  },
+  "66e67f3d024f6ac616952a8d30f368fa": {
+    "time": "2026/09/25 17:41:45",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T17:42:33.462487"
       }
     ]
   }
