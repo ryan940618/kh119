@@ -128797,7 +128797,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -128810,6 +128810,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T23:42:33.967809"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T23:46:34.088302"
       }
     ]
   },
@@ -128863,7 +128867,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -128872,6 +128876,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T23:41:34.014040"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T23:46:34.088302"
       }
     ]
   },
@@ -128881,11 +128889,15 @@
     "sub_category": "車禍",
     "location": "高雄市內門區",
     "units": "內門分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T23:43:34.184588"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T23:46:34.088302"
       }
     ]
   },
@@ -128895,11 +128907,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T23:44:34.034535"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T23:46:34.088302"
+      }
+    ]
+  },
+  "9f7022ecb0762b4d9a54a8488c8a6de9": {
+    "time": "2026/09/25 23:45:18",
+    "category": "緊急救護",
+    "sub_category": "藥物、食物中毒",
+    "location": "高雄市楠梓區大學二十九路",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T23:46:34.088302"
       }
     ]
   }
