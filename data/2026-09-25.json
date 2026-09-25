@@ -120813,7 +120813,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -120830,6 +120830,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T12:02:33.714110"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T12:10:33.782111"
       }
     ]
   },
@@ -121034,6 +121038,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T12:09:33.765135"
+      }
+    ]
+  },
+  "c262a1880d06e63ea4cdef11b9c7f8e7": {
+    "time": "2026/09/25 12:09:28",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T12:10:33.782111"
+      }
+    ]
+  },
+  "6cf28e1a5c4c069a67d3a0ed1d18ebdc": {
+    "time": "2026/09/25 12:07:58",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區福德三路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T12:10:33.782111"
       }
     ]
   }
