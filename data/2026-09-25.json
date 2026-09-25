@@ -124119,7 +124119,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -124132,6 +124132,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T16:35:34.043881"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T16:44:33.767511"
       }
     ]
   },
@@ -124203,7 +124207,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -124212,6 +124216,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T16:40:33.903961"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T16:44:33.767511"
       }
     ]
   },
@@ -124230,6 +124238,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T16:41:33.941773"
+      }
+    ]
+  },
+  "8ec64bf277f268d719b012c599095604": {
+    "time": "2026/09/25 16:43:58",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T16:44:33.767511"
       }
     ]
   }
