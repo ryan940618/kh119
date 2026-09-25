@@ -127703,7 +127703,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -127716,6 +127716,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T21:30:34.095975"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T21:46:33.177805"
       }
     ]
   },
@@ -127813,7 +127817,7 @@
     "sub_category": "路倒",
     "location": "高雄市大樹區久堂路和復興街",
     "units": "大樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -127822,6 +127826,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T21:39:33.166338"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T21:46:33.177805"
       }
     ]
   },
@@ -127885,11 +127893,15 @@
     "sub_category": "創傷",
     "location": "高雄市林園區下厝路",
     "units": "林園分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T21:45:33.231994"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T21:46:33.177805"
       }
     ]
   }
