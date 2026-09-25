@@ -126229,7 +126229,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -126238,6 +126238,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T19:06:34.019951"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T19:10:33.958168"
       }
     ]
   },
@@ -126265,11 +126269,29 @@
     "sub_category": "創傷",
     "location": "高雄市茂林區",
     "units": "茂林分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T19:09:34.113973"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T19:10:33.958168"
+      }
+    ]
+  },
+  "75d714257e6ff324eb85b495c7e2d12e": {
+    "time": "2026/09/25 19:10:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T19:10:33.958168"
       }
     ]
   }
