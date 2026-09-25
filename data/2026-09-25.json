@@ -122235,7 +122235,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區復興三路",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -122248,6 +122248,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T14:12:33.681796"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T14:28:33.929378"
       }
     ]
   },
@@ -122323,7 +122327,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -122336,6 +122340,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T14:22:33.703844"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T14:28:33.929378"
       }
     ]
   },
@@ -122372,6 +122380,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T14:24:33.658187"
+      }
+    ]
+  },
+  "abad1bf058db9d8c0e0fed4abc2fdfb5": {
+    "time": "2026/09/25 14:27:53",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T14:28:33.929378"
+      }
+    ]
+  },
+  "ff8a78a57ed10975ce8888943a6d80b6": {
+    "time": "2026/09/25 14:27:33",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T14:28:33.929378"
       }
     ]
   }
