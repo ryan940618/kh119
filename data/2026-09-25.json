@@ -120939,7 +120939,7 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區後昌路",
     "units": "後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -120952,6 +120952,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T12:20:33.760676"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T12:25:33.949585"
       }
     ]
   },
@@ -121047,7 +121051,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -121060,6 +121064,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T12:13:33.672399"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T12:25:33.949585"
       }
     ]
   },
@@ -121083,7 +121091,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -121096,6 +121104,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T12:16:33.668436"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T12:25:33.949585"
       }
     ]
   },
@@ -121185,7 +121197,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區中北路",
     "units": "燕巢分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -121194,6 +121206,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T12:22:33.740951"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T12:25:33.949585"
       }
     ]
   },
@@ -121208,6 +121224,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T12:23:33.733345"
+      }
+    ]
+  },
+  "69e98db150a8de1f231bb120f6d0cc3d": {
+    "time": "2026/09/25 12:24:01",
+    "category": "火災",
+    "sub_category": "汽機車",
+    "location": "高雄市旗山區旗屏一路",
+    "units": "旗山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T12:25:33.949585"
       }
     ]
   }
