@@ -127047,7 +127047,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -127064,6 +127064,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T20:37:33.658449"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T20:49:33.793165"
       }
     ]
   },
@@ -127217,7 +127221,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -127230,6 +127234,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T20:44:33.782272"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T20:49:33.793165"
       }
     ]
   },
@@ -127239,7 +127247,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -127248,6 +127256,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T20:43:33.684187"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T20:49:33.793165"
       }
     ]
   },
@@ -127275,11 +127287,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T20:46:33.872717"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T20:49:33.793165"
       }
     ]
   }
