@@ -128461,7 +128461,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區國泰路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -128470,6 +128470,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T23:05:33.678009"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T23:11:34.560477"
       }
     ]
   },
@@ -128479,7 +128483,7 @@
     "sub_category": "車禍",
     "location": "高雄市林園區石化二路",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -128488,6 +128492,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T23:05:33.678009"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T23:11:34.560477"
       }
     ]
   },
@@ -128502,6 +128510,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T23:10:33.970702"
+      }
+    ]
+  },
+  "787a7591a910421bb034c728671ebaa5": {
+    "time": "2026/09/25 23:11:05",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市田寮區崇德路",
+    "units": "崇德駐地",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T23:11:34.560477"
+      }
+    ]
+  },
+  "80ae3f42e6e0420040446b6abd0910c2": {
+    "time": "2026/09/25 23:10:26",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市苓雅區光華一路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T23:11:34.560477"
       }
     ]
   }
