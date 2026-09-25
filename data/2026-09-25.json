@@ -125421,7 +125421,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "梓官分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -125434,6 +125434,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T18:23:33.770825"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T18:29:33.914115"
       }
     ]
   },
@@ -125681,7 +125685,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區海專路",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -125690,6 +125694,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T18:23:33.770825"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T18:29:33.914115"
       }
     ]
   },
@@ -125699,7 +125707,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區大寮路",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -125708,6 +125716,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T18:24:33.858588"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T18:29:33.914115"
       }
     ]
   },
@@ -125834,6 +125846,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T18:28:33.723727"
+      }
+    ]
+  },
+  "26eed8d06071c75d5b4eb9207f09e7b8": {
+    "time": "2026/09/25 18:28:00",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區和平二路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T18:29:33.914115"
       }
     ]
   }
