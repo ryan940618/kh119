@@ -123409,7 +123409,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -123422,6 +123422,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T15:40:33.304833"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T15:52:33.366058"
       }
     ]
   },
@@ -123545,7 +123549,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -123558,6 +123562,24 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T15:48:33.486766"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T15:52:33.366058"
+      }
+    ]
+  },
+  "e71633e4cc17eac4368dfbd17d7614b3": {
+    "time": "2026/09/25 15:51:11",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區鼎貴路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T15:52:33.366058"
       }
     ]
   }
