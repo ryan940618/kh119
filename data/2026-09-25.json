@@ -124505,7 +124505,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區平等路",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -124522,6 +124522,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T17:14:34.215035"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T17:21:58.556837"
       }
     ]
   },
@@ -124553,7 +124557,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -124562,6 +124566,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T17:11:33.978763"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T17:21:58.556837"
       }
     ]
   },
@@ -124611,7 +124619,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區三多三路",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -124620,6 +124628,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T17:14:34.215035"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T17:21:58.556837"
       }
     ]
   },
@@ -124674,6 +124686,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T17:15:34.111088"
+      }
+    ]
+  },
+  "5a12a14ea4671e505dfedcf30ca48af6": {
+    "time": "2026/09/25 17:20:32",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區高坪七路",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T17:21:58.556837"
       }
     ]
   }
