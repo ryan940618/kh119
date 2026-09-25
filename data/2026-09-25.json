@@ -122555,7 +122555,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -122572,6 +122572,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T14:51:34.006327"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T15:03:34.100961"
       }
     ]
   },
@@ -122735,7 +122739,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -122744,6 +122748,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T14:53:34.016914"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T15:03:34.100961"
       }
     ]
   },
@@ -122856,6 +122864,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T15:01:34.132364"
+      }
+    ]
+  },
+  "e9a13374556538ac44cc09ecf0a76b63": {
+    "time": "2026/09/25 15:02:01",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市左營區實踐路",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T15:03:34.100961"
       }
     ]
   }
