@@ -125387,7 +125387,7 @@
     "sub_category": "創傷",
     "location": "高雄市小港區中鋼路",
     "units": "小港分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -125400,6 +125400,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T18:17:33.851738"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T18:22:33.637842"
       }
     ]
   },
@@ -125610,6 +125614,62 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T18:21:33.966955"
+      }
+    ]
+  },
+  "155ccdacc9faafcc85f873b2271d2373": {
+    "time": "2026/09/25 18:21:58",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區藍田路",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T18:22:33.637842"
+      }
+    ]
+  },
+  "93528b5099f8e67686551b154ce659df": {
+    "time": "2026/09/25 18:21:31",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區海專路",
+    "units": "後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T18:22:33.637842"
+      }
+    ]
+  },
+  "7b778bba1b387abb2ae17386b60e408e": {
+    "time": "2026/09/25 18:21:30",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區大寮路",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T18:22:33.637842"
+      }
+    ]
+  },
+  "d1dfe4ccc6055f098e5d1b32cb0d2e30": {
+    "time": "2026/09/25 18:21:12",
+    "category": "災害搶救",
+    "sub_category": "山域事故",
+    "location": "高雄市桃源區",
+    "units": "桃源分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T18:22:33.637842"
       }
     ]
   }
