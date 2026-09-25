@@ -123755,7 +123755,7 @@
     "sub_category": "其他",
     "location": "高雄市苓雅區",
     "units": "",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -123772,6 +123772,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T16:08:33.601660"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T16:16:33.823340"
       }
     ]
   },
@@ -123895,11 +123899,15 @@
     "sub_category": "車禍",
     "location": "高雄市旗山區旗甲路",
     "units": "旗山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-25T16:11:33.635283"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T16:16:33.823340"
       }
     ]
   },
