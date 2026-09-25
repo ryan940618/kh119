@@ -126011,7 +126011,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -126020,6 +126020,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T18:46:33.954520"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T18:49:34.298306"
       }
     ]
   },
@@ -126052,6 +126056,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T18:48:33.993762"
+      }
+    ]
+  },
+  "eefc83dbb5ee3b1be0b51dc422404e81": {
+    "time": "2026/09/25 18:48:55",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T18:49:34.298306"
+      }
+    ]
+  },
+  "3c28de7f874c88ffd29b573bd7946c04": {
+    "time": "2026/09/25 18:46:26",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市鳳山區中山東路",
+    "units": "鳳山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T18:49:34.298306"
       }
     ]
   }
