@@ -126705,7 +126705,7 @@
     "sub_category": "雜草(含廢棄物、墓地)",
     "location": "高雄市茄萣區莒光路",
     "units": "茄萣分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -126714,6 +126714,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T19:50:33.408080"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T19:53:33.451016"
       }
     ]
   },
@@ -126751,11 +126755,29 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T19:52:33.495160"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T19:53:33.451016"
+      }
+    ]
+  },
+  "47f93680a6f5ed1449af3145e1119744": {
+    "time": "2026/09/25 19:52:45",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T19:53:33.451016"
       }
     ]
   }
