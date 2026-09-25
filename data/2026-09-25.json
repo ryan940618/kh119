@@ -123659,7 +123659,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -123672,6 +123672,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T16:00:33.440032"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T16:06:33.735276"
       }
     ]
   },
@@ -123695,7 +123699,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -123704,6 +123708,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T15:56:33.561952"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T16:06:33.735276"
       }
     ]
   },
@@ -123731,7 +123739,7 @@
     "sub_category": "其他",
     "location": "高雄市苓雅區",
     "units": "",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -123740,6 +123748,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T15:58:33.709188"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T16:06:33.735276"
       }
     ]
   },
@@ -123784,6 +123796,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T16:05:33.733891"
+      }
+    ]
+  },
+  "93cb806a75f328f2bc4a854455e75597": {
+    "time": "2026/09/25 16:05:11",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T16:06:33.735276"
       }
     ]
   }
