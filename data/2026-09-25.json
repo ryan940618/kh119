@@ -126095,7 +126095,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區後昌路",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -126108,6 +126108,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T19:00:34.023604"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T19:22:34.144795"
       }
     ]
   },
@@ -126161,7 +126165,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -126174,6 +126178,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T19:13:34.037418"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T19:22:34.144795"
       }
     ]
   },
@@ -126347,7 +126355,7 @@
     "sub_category": "其他",
     "location": "高雄市梓官區光明路",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -126356,6 +126364,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T19:13:34.037418"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T19:22:34.144795"
       }
     ]
   },
@@ -126410,6 +126422,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T19:20:34.340379"
+      }
+    ]
+  },
+  "0bc20802cdcec3baca98ef2a260e00fd": {
+    "time": "2026/09/25 19:21:40",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗津區",
+    "units": "旗津分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T19:22:34.144795"
       }
     ]
   }
