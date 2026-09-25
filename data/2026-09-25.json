@@ -123875,7 +123875,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -123892,6 +123892,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T16:20:33.725311"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T16:33:33.932092"
       }
     ]
   },
@@ -124077,7 +124081,7 @@
     "sub_category": "其他",
     "location": "高雄市左營區",
     "units": "",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -124086,6 +124090,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T16:28:33.677780"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T16:33:33.932092"
       }
     ]
   },
@@ -124122,6 +124130,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T16:31:33.796342"
+      }
+    ]
+  },
+  "bd4c1d9a04db23ad76a02019907ada6d": {
+    "time": "2026/09/25 16:32:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T16:33:33.932092"
       }
     ]
   }
