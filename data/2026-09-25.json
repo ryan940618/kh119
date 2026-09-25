@@ -124003,7 +124003,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -124012,6 +124012,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T16:24:33.803849"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T16:29:33.858258"
       }
     ]
   },
@@ -124021,11 +124025,15 @@
     "sub_category": "車禍",
     "location": "高雄市鹽埕區七賢三路",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T16:24:33.803849"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T16:29:33.858258"
       }
     ]
   },
@@ -124067,11 +124075,29 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T16:28:33.677780"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T16:29:33.858258"
+      }
+    ]
+  },
+  "d35c56a1c59b42b2bbecca770b3c441e": {
+    "time": "2026/09/25 16:28:13",
+    "category": "緊急救護",
+    "sub_category": "燒燙傷",
+    "location": "高雄市梓官區通安路",
+    "units": "梓官分隊,橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T16:29:33.858258"
       }
     ]
   }
