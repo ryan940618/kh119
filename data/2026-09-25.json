@@ -124103,7 +124103,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -124112,6 +124112,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T16:29:33.858258"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T16:35:34.043881"
       }
     ]
   },
@@ -124148,6 +124152,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T16:34:33.874701"
+      }
+    ]
+  },
+  "c7969de00faa7e8fd2e37277970ddda4": {
+    "time": "2026/09/25 16:34:17",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T16:35:34.043881"
       }
     ]
   }
