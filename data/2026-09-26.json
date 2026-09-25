@@ -130201,7 +130201,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -130214,6 +130214,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-26T04:34:33.214129"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-26T04:45:33.591762"
       }
     ]
   },
@@ -130246,6 +130250,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T04:43:33.378870"
+      }
+    ]
+  },
+  "edcaea6d7d4ab676ea3e940f65875f3b": {
+    "time": "2026/09/26 04:44:17",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T04:45:33.591762"
       }
     ]
   }
