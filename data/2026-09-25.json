@@ -123815,7 +123815,7 @@
     "sub_category": "急病",
     "location": "高雄市永安區",
     "units": "永安分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -123832,6 +123832,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T16:11:33.635283"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T16:20:33.725311"
       }
     ]
   },
@@ -123863,7 +123867,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -123876,6 +123880,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T16:13:33.645739"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T16:20:33.725311"
       }
     ]
   },
@@ -123907,7 +123915,7 @@
     "sub_category": "車禍",
     "location": "高雄市旗山區旗甲路",
     "units": "旗山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -123916,6 +123924,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T16:16:33.823340"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T16:20:33.725311"
       }
     ]
   },
@@ -123934,6 +123946,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T16:17:33.550275"
+      }
+    ]
+  },
+  "e9f1e9335ab476ee558e618417010407": {
+    "time": "2026/09/25 16:19:29",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市梓官區",
+    "units": "梓官分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T16:20:33.725311"
       }
     ]
   }
