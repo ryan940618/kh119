@@ -125391,7 +125391,7 @@
     "sub_category": "創傷",
     "location": "高雄市小港區中鋼路",
     "units": "小港分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -125408,6 +125408,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T18:22:33.637842"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T18:27:34.043266"
       }
     ]
   },
@@ -125461,7 +125465,7 @@
     "sub_category": "創傷",
     "location": "高雄市鹽埕區七賢三路",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -125474,6 +125478,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T18:20:33.921062"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T18:27:34.043266"
       }
     ]
   },
@@ -125633,7 +125641,7 @@
     "sub_category": "燒燙傷",
     "location": "高雄市阿蓮區成功街",
     "units": "阿蓮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -125642,6 +125650,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T18:21:33.966955"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T18:27:34.043266"
       }
     ]
   },
@@ -125783,11 +125795,29 @@
     "sub_category": "其他",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T18:26:33.837779"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T18:27:34.043266"
+      }
+    ]
+  },
+  "3b966790c9f071c656b0fd4de5a28c99": {
+    "time": "2026/09/25 18:26:58",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區孔鳳路",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T18:27:34.043266"
       }
     ]
   }
