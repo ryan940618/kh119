@@ -122405,7 +122405,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -122418,6 +122418,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T14:34:33.870530"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T14:37:33.811936"
       }
     ]
   },
@@ -122467,7 +122471,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區典昌路",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -122476,6 +122480,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T14:32:33.761642"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T14:37:33.811936"
       }
     ]
   },
@@ -122485,11 +122493,15 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-25T14:31:33.829397"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T14:37:33.811936"
       }
     ]
   },
@@ -122499,7 +122511,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -122508,6 +122520,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T14:33:33.874546"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T14:37:33.811936"
       }
     ]
   },
@@ -122554,6 +122570,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T14:36:34.018209"
+      }
+    ]
+  },
+  "4ff2759ee56100396cdd74a9480fd7f8": {
+    "time": "2026/09/25 14:36:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市茄萣區",
+    "units": "茄萣分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T14:37:33.811936"
       }
     ]
   }
