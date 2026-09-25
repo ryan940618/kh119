@@ -122679,7 +122679,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -122688,6 +122688,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T14:48:34.056717"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T14:53:34.016914"
       }
     ]
   },
@@ -122715,11 +122719,15 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T14:50:34.121953"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T14:53:34.016914"
       }
     ]
   },
@@ -122734,6 +122742,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T14:51:34.006327"
+      }
+    ]
+  },
+  "671b2d67f9856dfc3edb1b9c7747a3dd": {
+    "time": "2026/09/25 14:51:45",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "左營小隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T14:53:34.016914"
       }
     ]
   }
