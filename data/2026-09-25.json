@@ -125001,7 +125001,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -125014,6 +125014,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T17:58:33.411500"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T18:01:33.476821"
       }
     ]
   },
@@ -125229,11 +125233,29 @@
     "sub_category": "路倒",
     "location": "高雄市鼓山區南屏路",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T18:00:33.487155"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T18:01:33.476821"
+      }
+    ]
+  },
+  "0ccbc54a0b66bb933c5e5cb191a6953d": {
+    "time": "2026/09/25 18:00:42",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T18:01:33.476821"
       }
     ]
   }
