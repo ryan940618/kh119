@@ -131357,7 +131357,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -131370,6 +131370,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-26T07:38:33.809504"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-26T07:45:33.797496"
       }
     ]
   },
@@ -131416,6 +131420,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T07:44:33.844097"
+      }
+    ]
+  },
+  "94c5209095220381ebcb53eaf7918816": {
+    "time": "2026/09/26 07:43:33",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市大寮區溪寮國小後方靠近河堤路",
+    "units": "中庄分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T07:45:33.797496"
       }
     ]
   }
