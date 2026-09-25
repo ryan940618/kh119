@@ -128543,7 +128543,7 @@
     "sub_category": "創傷",
     "location": "高雄市田寮區崇德路",
     "units": "崇德駐地",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -128560,6 +128560,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T23:17:33.799481"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T23:36:34.079251"
       }
     ]
   },
@@ -128739,7 +128743,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -128752,6 +128756,24 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T23:33:33.952075"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T23:36:34.079251"
+      }
+    ]
+  },
+  "840a9954a91eeb686ad30f481f80db52": {
+    "time": "2026/09/25 23:35:00",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T23:36:34.079251"
       }
     ]
   }
