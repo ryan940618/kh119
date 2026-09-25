@@ -127205,11 +127205,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-25T20:39:33.542380"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T20:43:33.684187"
       }
     ]
   },
@@ -127219,11 +127223,29 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T20:41:33.770008"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T20:43:33.684187"
+      }
+    ]
+  },
+  "c583f780ce840bef3a8f16b8174bfd32": {
+    "time": "2026/09/25 20:42:19",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "後勁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T20:43:33.684187"
       }
     ]
   }
