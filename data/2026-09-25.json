@@ -121773,7 +121773,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區裕國街",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -121790,6 +121790,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T13:22:33.230239"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T13:26:33.227526"
       }
     ]
   },
@@ -121799,7 +121803,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區大業北路",
     "units": "小港分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -121812,6 +121816,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T13:21:33.329949"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T13:26:33.227526"
       }
     ]
   },
@@ -121866,6 +121874,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T13:17:33.150804"
+      }
+    ]
+  },
+  "74d21eb297611dd3e12baf0a1437206b": {
+    "time": "2026/09/25 13:25:26",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區翠華路",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T13:26:33.227526"
       }
     ]
   }
