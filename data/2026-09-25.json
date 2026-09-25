@@ -119687,7 +119687,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -119696,6 +119696,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T10:19:33.801235"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T10:23:33.960218"
       }
     ]
   },
@@ -119705,11 +119709,29 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區中華路",
     "units": "燕巢分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T10:22:33.855625"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T10:23:33.960218"
+      }
+    ]
+  },
+  "83ed61b82565a6b203cea680f757a236": {
+    "time": "2026/09/25 10:23:12",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T10:23:33.960218"
       }
     ]
   }
