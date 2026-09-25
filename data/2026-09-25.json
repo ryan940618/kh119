@@ -121391,7 +121391,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區市中一路和鐵道三街",
     "units": "前金分隊,十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -121404,6 +121404,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T12:38:33.819749"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T12:56:34.034147"
       }
     ]
   },
@@ -121483,7 +121487,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -121492,6 +121496,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T12:43:33.935375"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T12:56:34.034147"
       }
     ]
   },
@@ -121622,6 +121630,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T12:51:33.940887"
+      }
+    ]
+  },
+  "acd1a125aa0da7c7cc120b6c96c19728": {
+    "time": "2026/09/25 12:54:42",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鹽埕區",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T12:56:34.034147"
       }
     ]
   }
