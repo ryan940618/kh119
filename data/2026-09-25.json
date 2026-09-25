@@ -118557,7 +118557,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -118574,6 +118574,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T08:13:33.723603"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T08:24:33.870824"
       }
     ]
   },
@@ -118713,11 +118717,15 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T08:21:33.762034"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T08:24:33.870824"
       }
     ]
   },
@@ -118732,6 +118740,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T08:23:33.859083"
+      }
+    ]
+  },
+  "4a644d3f34723cfc6ac40e601dc86ecf": {
+    "time": "2026/09/25 08:22:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市林園區東林西路和康樂街",
+    "units": "林園分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T08:24:33.870824"
       }
     ]
   }
