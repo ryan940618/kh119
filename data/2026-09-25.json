@@ -123333,7 +123333,7 @@
     "sub_category": "車禍",
     "location": "高雄市前金區文武二街",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -123346,6 +123346,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T15:35:33.238641"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T15:40:33.304833"
       }
     ]
   },
@@ -123355,7 +123359,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -123364,6 +123368,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T15:33:33.458648"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T15:40:33.304833"
       }
     ]
   },
@@ -123373,7 +123381,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -123382,6 +123390,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T15:34:33.363033"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T15:40:33.304833"
       }
     ]
   },
@@ -123427,11 +123439,15 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T15:39:33.398071"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T15:40:33.304833"
       }
     ]
   }
