@@ -126353,11 +126353,15 @@
     "sub_category": "創傷",
     "location": "高雄市阿蓮區中正路",
     "units": "阿蓮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已到達",
         "timestamp": "2026-09-25T19:12:33.972310"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T19:18:34.088978"
       }
     ]
   },
@@ -126376,6 +126380,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T19:16:33.997120"
+      }
+    ]
+  },
+  "52be67c78728fd0bb67057806b71c135": {
+    "time": "2026/09/25 19:17:13",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T19:18:34.088978"
       }
     ]
   }
