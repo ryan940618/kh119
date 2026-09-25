@@ -121987,7 +121987,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -121996,6 +121996,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T13:38:33.337963"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T13:41:33.323973"
       }
     ]
   },
@@ -122010,6 +122014,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T13:40:33.340490"
+      }
+    ]
+  },
+  "60f0acf1c89a9818ceb042865788af93": {
+    "time": "2026/09/25 13:40:33",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區三多三路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T13:41:33.323973"
       }
     ]
   }
