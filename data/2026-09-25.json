@@ -125863,7 +125863,7 @@
     "sub_category": "其他",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -125876,6 +125876,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T18:30:33.750809"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T18:48:33.993762"
       }
     ]
   },
@@ -125915,7 +125919,7 @@
     "sub_category": "其他",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -125928,6 +125932,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T18:32:33.933457"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T18:48:33.993762"
       }
     ]
   },
@@ -126021,11 +126029,29 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區軍校路",
     "units": "後勁分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T18:47:34.223454"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T18:48:33.993762"
+      }
+    ]
+  },
+  "25b95849eb72a4e6f12b63787ace3438": {
+    "time": "2026/09/25 18:45:57",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市左營區後昌路",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T18:48:33.993762"
       }
     ]
   }
