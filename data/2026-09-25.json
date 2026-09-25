@@ -123131,7 +123131,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區楠梓路",
     "units": "後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -123148,6 +123148,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T15:35:33.238641"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T15:39:33.398071"
       }
     ]
   },
@@ -123414,6 +123418,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T15:36:33.349383"
+      }
+    ]
+  },
+  "9616f86ec3c729fe4eb121e75cf97ca3": {
+    "time": "2026/09/25 15:39:04",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市阿蓮區",
+    "units": "阿蓮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T15:39:33.398071"
       }
     ]
   }
