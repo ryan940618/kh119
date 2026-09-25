@@ -118721,7 +118721,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -118730,6 +118730,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T08:24:33.870824"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T08:27:33.947853"
       }
     ]
   },
@@ -118804,6 +118808,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T08:26:33.995522"
+      }
+    ]
+  },
+  "88e35b94cc042d9be418e7c568c26300": {
+    "time": "2026/09/25 08:26:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T08:27:33.947853"
+      }
+    ]
+  },
+  "adcd09eba83159ea2666e9218b9a9222": {
+    "time": "2026/09/25 08:25:28",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區自由一路",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T08:27:33.947853"
       }
     ]
   }
