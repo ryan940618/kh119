@@ -123143,7 +123143,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -123152,6 +123152,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T15:25:33.264198"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T15:27:33.279931"
       }
     ]
   },
@@ -123161,7 +123165,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區翠華路",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -123170,6 +123174,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T15:25:33.264198"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T15:27:33.279931"
       }
     ]
   },
@@ -123206,6 +123214,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T15:26:33.305046"
+      }
+    ]
+  },
+  "115e1f52aa6ea24f98cf730cced83faa": {
+    "time": "2026/09/25 15:26:36",
+    "category": "火災",
+    "sub_category": "雜草(含廢棄物、墓地)",
+    "location": "高雄市彌陀區",
+    "units": "彌陀分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T15:27:33.279931"
       }
     ]
   }
