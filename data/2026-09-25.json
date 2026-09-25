@@ -126057,7 +126057,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區軍校路",
     "units": "後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -126074,6 +126074,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T18:59:34.008441"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T19:04:34.054961"
       }
     ]
   },
@@ -126105,7 +126109,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -126122,6 +126126,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T19:00:34.023604"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T19:04:34.054961"
       }
     ]
   },
@@ -126190,6 +126198,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T19:02:33.915355"
+      }
+    ]
+  },
+  "6e1722f2735993a9f4b0375abc4321ef": {
+    "time": "2026/09/25 19:03:46",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市甲仙區",
+    "units": "甲仙分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T19:04:34.054961"
       }
     ]
   }
