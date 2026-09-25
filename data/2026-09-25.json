@@ -124071,7 +124071,7 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區竹寮路",
     "units": "大樹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -124080,6 +124080,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T16:31:33.796342"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T16:38:33.817207"
       }
     ]
   },
@@ -124133,7 +124137,7 @@
     "sub_category": "燒燙傷",
     "location": "高雄市梓官區通安路",
     "units": "梓官分隊,橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -124142,6 +124146,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T16:31:33.796342"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T16:38:33.817207"
       }
     ]
   },
@@ -124178,6 +124186,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T16:36:34.007926"
+      }
+    ]
+  },
+  "8d07546fe5fbec3199b218cc95a732dd": {
+    "time": "2026/09/25 16:37:31",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T16:38:33.817207"
       }
     ]
   }
