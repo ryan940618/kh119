@@ -120283,7 +120283,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區先鋒路",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -120296,6 +120296,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T11:21:33.260689"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T11:42:33.425826"
       }
     ]
   },
@@ -120571,7 +120575,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -120580,6 +120584,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T11:39:33.432257"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T11:42:33.425826"
+      }
+    ]
+  },
+  "a9664615e29c1cad69b54ca5a2a41f95": {
+    "time": "2026/09/25 11:41:15",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大社區",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T11:42:33.425826"
       }
     ]
   }
