@@ -118401,7 +118401,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -118418,6 +118418,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T08:01:33.688249"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T08:07:33.760169"
       }
     ]
   },
@@ -118547,7 +118551,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區崗山南街",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -118556,6 +118560,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T08:02:33.817072"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T08:07:33.760169"
       }
     ]
   },
@@ -118579,11 +118587,43 @@
     "sub_category": "車禍",
     "location": "高雄市三民區天祥一路",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T08:06:33.880656"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T08:07:33.760169"
+      }
+    ]
+  },
+  "fc47532097daf9a1c5822a25240887dd": {
+    "time": "2026/09/25 08:06:30",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市梓官區",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T08:07:33.760169"
+      }
+    ]
+  },
+  "663d535e71195d6bee4b00c62acd701e": {
+    "time": "2026/09/25 08:06:22",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T08:07:33.760169"
       }
     ]
   }
