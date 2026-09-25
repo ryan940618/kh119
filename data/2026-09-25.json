@@ -122949,7 +122949,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區實踐路",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -122966,6 +122966,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T15:25:33.264198"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T15:33:33.458648"
       }
     ]
   },
@@ -122975,7 +122979,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區鳳屏二路",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -122988,6 +122992,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T15:12:33.215593"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T15:33:33.458648"
       }
     ]
   },
@@ -123307,11 +123315,43 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T15:32:33.292883"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T15:33:33.458648"
+      }
+    ]
+  },
+  "1de1626ea3cdc3b4fa831817a8d8935f": {
+    "time": "2026/09/25 15:32:18",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T15:33:33.458648"
+      }
+    ]
+  },
+  "80ecb540e71c82423baf38788221ff09": {
+    "time": "2026/09/25 15:26:36",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市彌陀區國校路",
+    "units": "彌陀分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T15:33:33.458648"
       }
     ]
   }
