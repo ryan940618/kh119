@@ -120539,7 +120539,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -120552,6 +120552,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T11:36:33.491104"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T11:50:33.645826"
       }
     ]
   },
@@ -120641,7 +120645,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -120650,6 +120654,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T11:43:33.451607"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T11:50:33.645826"
       }
     ]
   },
@@ -120659,7 +120667,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區遼寧二街",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -120668,6 +120676,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T11:48:33.530045"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T11:50:33.645826"
       }
     ]
   },
@@ -120736,6 +120748,48 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T11:49:33.515996"
+      }
+    ]
+  },
+  "59b465fc8df067264b71c5c5fdef0adf": {
+    "time": "2026/09/25 11:50:04",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T11:50:33.645826"
+      }
+    ]
+  },
+  "466da9e4928bdeb86452d7ab867dbab3": {
+    "time": "2026/09/25 11:49:41",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區鳳林三路",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T11:50:33.645826"
+      }
+    ]
+  },
+  "6852bcc50e43f53476e70a797429d90a": {
+    "time": "2026/09/25 11:49:08",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市橋頭區",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T11:50:33.645826"
       }
     ]
   }
