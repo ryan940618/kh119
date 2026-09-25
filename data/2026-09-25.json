@@ -124743,7 +124743,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區高坪七路",
     "units": "高桂分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -124760,6 +124760,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T17:40:33.305539"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T17:51:33.553335"
       }
     ]
   },
@@ -124857,7 +124861,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區福隆街",
     "units": "小港分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -124870,6 +124874,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T17:36:33.233439"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T17:51:33.553335"
       }
     ]
   },
@@ -124915,7 +124923,7 @@
     "sub_category": "其他",
     "location": "高雄市三民區",
     "units": "",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -124924,6 +124932,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T17:41:33.297227"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T17:51:33.553335"
       }
     ]
   },
@@ -124978,6 +124990,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T17:50:33.474770"
+      }
+    ]
+  },
+  "987d57249f06a0ffd0c1ae97aabff815": {
+    "time": "2026/09/25 17:50:24",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市岡山區嘉興路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T17:51:33.553335"
+      }
+    ]
+  },
+  "22ad8b24838daa9c208d75bfc2593c8d": {
+    "time": "2026/09/25 17:49:02",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市小港區高松路",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T17:51:33.553335"
       }
     ]
   }
