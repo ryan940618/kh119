@@ -119919,7 +119919,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -119928,6 +119928,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T10:48:34.086384"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T10:56:34.022020"
       }
     ]
   },
@@ -120085,11 +120089,15 @@
     "sub_category": "車禍",
     "location": "高雄市梓官區赤崁南路",
     "units": "梓官分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T10:55:34.096065"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T10:56:34.022020"
       }
     ]
   },
