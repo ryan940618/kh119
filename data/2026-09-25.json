@@ -122287,7 +122287,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區後昌路",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -122296,6 +122296,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T14:15:33.595847"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T14:32:33.761642"
       }
     ]
   },
@@ -122447,11 +122451,15 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區典昌路",
     "units": "梓官分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T14:31:33.829397"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T14:32:33.761642"
       }
     ]
   },
@@ -122466,6 +122474,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T14:31:33.829397"
+      }
+    ]
+  },
+  "e119da217c368f6322a10c8b24982b14": {
+    "time": "2026/09/25 14:31:36",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T14:32:33.761642"
       }
     ]
   }
