@@ -128871,7 +128871,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -128888,6 +128888,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T23:52:34.217946"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T23:53:34.070422"
       }
     ]
   },
@@ -128937,7 +128941,7 @@
     "sub_category": "藥物、食物中毒",
     "location": "高雄市楠梓區大學二十九路",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -128946,6 +128950,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T23:47:34.060769"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T23:53:34.070422"
       }
     ]
   },
@@ -129006,6 +129014,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T23:51:34.082508"
+      }
+    ]
+  },
+  "2bac0f464b21c42a78f9affecff8bd8a": {
+    "time": "2026/09/25 23:52:42",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區南正二路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T23:53:34.070422"
+      }
+    ]
+  },
+  "ec9d6b27cbaf22f3da335b4454f03afd": {
+    "time": "2026/09/25 23:52:10",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市橋頭區豐祥路",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T23:53:34.070422"
       }
     ]
   }
