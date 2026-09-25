@@ -123021,7 +123021,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -123030,6 +123030,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T15:13:33.193840"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T15:18:33.471981"
       }
     ]
   },
@@ -123039,7 +123043,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -123048,6 +123052,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T15:15:33.034518"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T15:18:33.471981"
       }
     ]
   },
@@ -123075,11 +123083,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區楠梓路",
     "units": "後勁分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T15:17:33.584808"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T15:18:33.471981"
       }
     ]
   },
@@ -123094,6 +123106,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T15:17:33.584808"
+      }
+    ]
+  },
+  "8a4a5af3852fdfa79bf1e1b3bff9229e": {
+    "time": "2026/09/25 15:17:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T15:18:33.471981"
       }
     ]
   }
