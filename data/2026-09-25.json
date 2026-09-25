@@ -123845,7 +123845,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -123858,6 +123858,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T16:12:33.739481"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T16:26:33.752802"
       }
     ]
   },
@@ -124036,6 +124040,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T16:24:33.803849"
+      }
+    ]
+  },
+  "18eca48d9b5c7eed2abbfb218f1107e3": {
+    "time": "2026/09/25 16:25:37",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市左營區",
+    "units": "",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T16:26:33.752802"
       }
     ]
   }
