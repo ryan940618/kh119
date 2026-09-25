@@ -121997,7 +121997,7 @@
     "sub_category": "急病",
     "location": "高雄市杉林區",
     "units": "杉林分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -122010,6 +122010,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T13:48:45.654211"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T14:04:33.549260"
       }
     ]
   },
@@ -122137,7 +122141,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區萬壽路",
     "units": "鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -122146,6 +122150,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T14:01:33.522178"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T14:04:33.549260"
       }
     ]
   },
@@ -122155,11 +122163,15 @@
     "sub_category": "車禍",
     "location": "高雄市左營區勝利路",
     "units": "左營小隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T14:03:33.634220"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T14:04:33.549260"
       }
     ]
   },
@@ -122174,6 +122186,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T14:03:33.634220"
+      }
+    ]
+  },
+  "4c9390ca99303dc0ddd059071619fdbb": {
+    "time": "2026/09/25 14:03:56",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區復興三路",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T14:04:33.549260"
+      }
+    ]
+  },
+  "2a015d0608b9f3a8364ead0136d44fa1": {
+    "time": "2026/09/25 14:03:11",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市永安區",
+    "units": "永安分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T14:04:33.549260"
       }
     ]
   }
