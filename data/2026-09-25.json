@@ -119321,7 +119321,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區河北一路",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -119334,6 +119334,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T09:35:33.508702"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T09:46:33.711003"
       }
     ]
   },
@@ -119419,11 +119423,29 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T09:45:33.686277"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T09:46:33.711003"
+      }
+    ]
+  },
+  "fa341c663911814e49b9bad782e0f843": {
+    "time": "2026/09/25 09:44:43",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市阿蓮區",
+    "units": "阿蓮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T09:46:33.711003"
       }
     ]
   }
