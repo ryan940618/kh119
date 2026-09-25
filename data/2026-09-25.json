@@ -127635,7 +127635,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -127648,6 +127648,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T21:27:34.050767"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T21:34:34.095581"
       }
     ]
   },
@@ -127723,11 +127727,29 @@
     "sub_category": "急病",
     "location": "高雄市六龜區",
     "units": "六龜分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T21:33:34.187378"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T21:34:34.095581"
+      }
+    ]
+  },
+  "84a74fa4900b3bc28353405dc936edff": {
+    "time": "2026/09/25 21:34:01",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市左營區崇德路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T21:34:34.095581"
       }
     ]
   }
