@@ -120371,7 +120371,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區忠貞街",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -120380,6 +120380,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T11:25:33.456572"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T11:30:33.499141"
       }
     ]
   },
@@ -120457,11 +120461,29 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T11:29:33.352605"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T11:30:33.499141"
+      }
+    ]
+  },
+  "24a1fce5c16131c04e9a5926cc0d8905": {
+    "time": "2026/09/25 11:29:05",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T11:30:33.499141"
       }
     ]
   }
