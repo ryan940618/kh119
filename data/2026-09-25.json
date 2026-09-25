@@ -128621,7 +128621,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -128634,6 +128634,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T23:26:34.001441"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T23:37:33.944922"
       }
     ]
   },
@@ -128643,7 +128647,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -128656,6 +128660,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T23:25:33.823231"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T23:37:33.944922"
       }
     ]
   },
@@ -128713,7 +128721,7 @@
     "sub_category": "一般(集合)住宅",
     "location": "高雄市新興區八德二路",
     "units": "前金分隊,新興分隊",
-    "current_status": "火已控",
+    "current_status": "火已滅",
     "status_history": [
       {
         "status": "已派遣",
@@ -128734,6 +128742,10 @@
       {
         "status": "火已控",
         "timestamp": "2026-09-25T23:35:33.970616"
+      },
+      {
+        "status": "火已滅",
+        "timestamp": "2026-09-25T23:37:33.944922"
       }
     ]
   },
@@ -128769,11 +128781,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T23:36:34.079251"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T23:37:33.944922"
       }
     ]
   }
