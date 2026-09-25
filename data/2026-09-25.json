@@ -128637,11 +128637,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T23:21:33.760141"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T23:22:33.892297"
       }
     ]
   },
@@ -128656,6 +128660,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T23:21:33.760141"
+      }
+    ]
+  },
+  "ec6717c9b5336c6a17832c7aec224618": {
+    "time": "2026/09/25 23:22:05",
+    "category": "火災",
+    "sub_category": "一般(集合)住宅",
+    "location": "高雄市新興區八德二路",
+    "units": "前金分隊,新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T23:22:33.892297"
       }
     ]
   }
