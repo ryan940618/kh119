@@ -124411,7 +124411,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -124424,6 +124424,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T17:00:34.048673"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T17:02:34.047404"
       }
     ]
   },
@@ -124483,11 +124487,15 @@
     "sub_category": "創傷",
     "location": "高雄市三民區大昌一路",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T17:01:34.064269"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T17:02:34.047404"
       }
     ]
   }
