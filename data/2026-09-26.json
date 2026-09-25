@@ -131097,7 +131097,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -131114,6 +131114,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-26T07:14:33.531027"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-26T07:24:33.594619"
       }
     ]
   },
@@ -131123,7 +131127,7 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區久堂路",
     "units": "大樹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -131140,6 +131144,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-26T07:11:33.582237"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-26T07:24:33.594619"
       }
     ]
   },
@@ -131237,7 +131245,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -131246,6 +131254,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T07:18:33.685234"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T07:24:33.594619"
       }
     ]
   },
@@ -131264,6 +131276,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T07:19:33.630190"
+      }
+    ]
+  },
+  "90a574a66dcaa3bbf4f3502d67d80faa": {
+    "time": "2026/09/26 07:23:00",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市美濃區",
+    "units": "美濃分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T07:24:33.594619"
       }
     ]
   }
