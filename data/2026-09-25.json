@@ -123413,7 +123413,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -123430,6 +123430,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T15:52:33.366058"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T15:58:33.709188"
       }
     ]
   },
@@ -123521,7 +123525,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區十全路",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -123534,6 +123538,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T15:47:33.491376"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T15:58:33.709188"
       }
     ]
   },
@@ -123595,7 +123603,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區鼎貴路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -123604,6 +123612,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T15:54:33.610168"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T15:58:33.709188"
       }
     ]
   },
@@ -123695,11 +123707,15 @@
     "sub_category": "其他",
     "location": "高雄市苓雅區",
     "units": "",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T15:57:33.654546"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T15:58:33.709188"
       }
     ]
   }
