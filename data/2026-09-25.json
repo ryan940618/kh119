@@ -126161,7 +126161,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -126170,6 +126170,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T18:54:33.895930"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T19:13:34.037418"
       }
     ]
   },
@@ -126179,7 +126183,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -126192,6 +126196,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T19:07:34.073986"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T19:13:34.037418"
       }
     ]
   },
@@ -126323,11 +126331,15 @@
     "sub_category": "其他",
     "location": "高雄市梓官區光明路",
     "units": "梓官分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T19:12:33.972310"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T19:13:34.037418"
       }
     ]
   },
