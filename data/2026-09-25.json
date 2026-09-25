@@ -120635,7 +120635,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -120652,6 +120652,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T11:51:33.479358"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T12:04:33.726637"
       }
     ]
   },
@@ -120661,7 +120665,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -120678,6 +120682,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T11:55:33.663094"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T12:04:33.726637"
       }
     ]
   },
@@ -120948,6 +120956,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T12:03:33.687591"
+      }
+    ]
+  },
+  "0fad3adb0f646519036bf75244442a28": {
+    "time": "2026/09/25 12:03:42",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市左營區孔營路",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T12:04:33.726637"
       }
     ]
   }
