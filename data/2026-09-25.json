@@ -118691,7 +118691,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -118708,6 +118708,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T08:17:33.835794"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T08:26:33.995522"
       }
     ]
   },
@@ -118735,11 +118739,15 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T08:23:33.859083"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T08:26:33.995522"
       }
     ]
   },
@@ -118754,6 +118762,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T08:24:33.870824"
+      }
+    ]
+  },
+  "8d48f56cea84c6962010b49f0eff4036": {
+    "time": "2026/09/25 08:25:32",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區熱河一街",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T08:26:33.995522"
+      }
+    ]
+  },
+  "00885426b1c3b9772d8f8ebe6022aeb8": {
+    "time": "2026/09/25 08:25:28",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區十全一路",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T08:26:33.995522"
+      }
+    ]
+  },
+  "21f82f4af84af9206e40725d6eaa07ef": {
+    "time": "2026/09/25 08:25:15",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T08:26:33.995522"
       }
     ]
   }
