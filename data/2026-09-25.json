@@ -121213,7 +121213,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區中北路",
     "units": "燕巢分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -121226,6 +121226,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T12:25:33.949585"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T12:38:33.819749"
       }
     ]
   },
@@ -121359,7 +121363,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區市中一路和鐵道三街",
     "units": "前金分隊,十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -121368,6 +121372,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T12:34:33.949243"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T12:38:33.819749"
       }
     ]
   },
@@ -121432,6 +121440,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T12:37:33.906070"
+      }
+    ]
+  },
+  "7aa18a78d048c0798e53a84064f4057e": {
+    "time": "2026/09/25 12:37:36",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T12:38:33.819749"
       }
     ]
   }
