@@ -125025,7 +125025,7 @@
     "sub_category": "路倒",
     "location": "高雄市小港區高松路",
     "units": "高桂分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -125034,6 +125034,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T17:52:33.457547"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T17:56:33.459546"
       }
     ]
   },
@@ -125057,11 +125061,15 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已派遣",
+    "current_status": "已受理",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T17:54:33.550699"
+      },
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-25T17:56:33.459546"
       }
     ]
   },
@@ -125108,6 +125116,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T17:55:33.836035"
+      }
+    ]
+  },
+  "143a8efa00535d7a6654dfc1b9e0b0bc": {
+    "time": "2026/09/25 17:55:33",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市湖內區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T17:56:33.459546"
+      }
+    ]
+  },
+  "8260d9ed36c764d1abe3b8cabc9b2746": {
+    "time": "2026/09/25 17:54:56",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市苓雅區海邊路",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T17:56:33.459546"
       }
     ]
   }
