@@ -118869,7 +118869,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -118886,6 +118886,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T08:41:34.018253"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T08:47:33.144505"
       }
     ]
   },
@@ -118895,7 +118899,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區自由一路",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -118904,6 +118908,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T08:29:33.905192"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T08:47:33.144505"
       }
     ]
   },
@@ -118935,7 +118943,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "大林分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -118944,6 +118952,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T08:38:34.083041"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T08:47:33.144505"
       }
     ]
   },
@@ -119007,11 +119019,15 @@
     "sub_category": "車禍",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T08:46:33.170425"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T08:47:33.144505"
       }
     ]
   }
