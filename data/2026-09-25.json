@@ -123433,7 +123433,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -123442,6 +123442,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T15:36:33.349383"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T15:43:33.376464"
       }
     ]
   },
@@ -123451,7 +123455,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -123460,6 +123464,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T15:40:33.304833"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T15:43:33.376464"
       }
     ]
   },
@@ -123469,11 +123477,29 @@
     "sub_category": "車禍",
     "location": "高雄市三民區十全路",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T15:42:33.458593"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T15:43:33.376464"
+      }
+    ]
+  },
+  "0fc408efc3731620ae4fdb99fca4189b": {
+    "time": "2026/09/25 15:42:17",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區滇池街",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T15:43:33.376464"
       }
     ]
   }
