@@ -124217,7 +124217,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -124230,6 +124230,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T16:46:33.888649"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T16:54:34.063507"
       }
     ]
   },
@@ -124358,6 +124362,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T16:51:34.021691"
+      }
+    ]
+  },
+  "b811f9a94e71b17b304ed27c02ac364e": {
+    "time": "2026/09/25 16:54:18",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市湖內區",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T16:54:34.063507"
+      }
+    ]
+  },
+  "6c79c77789c94b49444d9a22e6d7759f": {
+    "time": "2026/09/25 16:54:00",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市六龜區",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-25T16:54:34.063507"
+      }
+    ]
+  },
+  "e5374b07969160c37c3dd9becb826d9c": {
+    "time": "2026/09/25 16:53:24",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T16:54:34.063507"
       }
     ]
   }
