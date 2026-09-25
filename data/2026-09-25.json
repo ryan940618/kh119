@@ -127077,7 +127077,7 @@
     "sub_category": "其他",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -127090,6 +127090,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T20:25:33.610600"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T20:51:33.718380"
       }
     ]
   },
@@ -127295,7 +127299,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -127304,6 +127308,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T20:49:33.793165"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T20:51:33.718380"
+      }
+    ]
+  },
+  "b294ebe0d382e9b48004721250e957f1": {
+    "time": "2026/09/25 20:50:01",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T20:51:33.718380"
       }
     ]
   }
