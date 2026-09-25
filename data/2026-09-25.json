@@ -122097,7 +122097,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -122114,6 +122114,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T14:05:33.729895"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T14:10:33.711535"
       }
     ]
   },
@@ -122171,7 +122175,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區勝利路",
     "units": "左營小隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -122180,6 +122184,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T14:04:33.549260"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T14:10:33.711535"
       }
     ]
   },
@@ -122244,6 +122252,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T14:09:33.568674"
+      }
+    ]
+  },
+  "6bf85da4d891aafa78fe7fb0c05d2df1": {
+    "time": "2026/09/25 14:09:36",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鼓山區南屏路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T14:10:33.711535"
       }
     ]
   }
