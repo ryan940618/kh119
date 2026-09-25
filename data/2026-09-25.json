@@ -125413,7 +125413,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -125422,6 +125422,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T18:13:33.573463"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T18:23:33.770825"
       }
     ]
   },
@@ -125515,7 +125519,7 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區瑞福路",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -125524,6 +125528,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T18:17:33.851738"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T18:23:33.770825"
       }
     ]
   },
@@ -125587,7 +125595,7 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區瑞福路",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -125596,6 +125604,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T18:19:33.702631"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T18:23:33.770825"
       }
     ]
   },
@@ -125637,11 +125649,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區海專路",
     "units": "後勁分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T18:22:33.637842"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T18:23:33.770825"
       }
     ]
   },
@@ -125670,6 +125686,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T18:22:33.637842"
+      }
+    ]
+  },
+  "ced12b56ee43e23a0c3dfaac93efc847": {
+    "time": "2026/09/25 18:22:21",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "永安分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T18:23:33.770825"
+      }
+    ]
+  },
+  "0ad53ffe025e028cbccbd0060db4d8e9": {
+    "time": "2026/09/25 18:22:18",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區翠亨南路和崇安街",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T18:23:33.770825"
       }
     ]
   }
