@@ -120349,7 +120349,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -120362,6 +120362,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T11:29:33.352605"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T11:37:33.481933"
       }
     ]
   },
@@ -120433,7 +120437,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區中正一路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -120442,6 +120446,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T11:28:33.343481"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T11:37:33.481933"
       }
     ]
   },
@@ -120546,6 +120554,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T11:35:33.351491"
+      }
+    ]
+  },
+  "41b3b6a2c7f69624bead06f0118cdf7a": {
+    "time": "2026/09/25 11:36:10",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T11:37:33.481933"
       }
     ]
   }
