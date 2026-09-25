@@ -126603,7 +126603,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -126620,6 +126620,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T20:07:33.340159"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T20:11:34.533165"
       }
     ]
   },
@@ -126901,7 +126905,7 @@
     "sub_category": "創傷",
     "location": "高雄市林園區林園北路",
     "units": "林園分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -126914,6 +126918,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T20:07:33.340159"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T20:11:34.533165"
       }
     ]
   },
@@ -126923,11 +126931,15 @@
     "sub_category": "車禍",
     "location": "高雄市小港區桂華街",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T20:08:33.378250"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T20:11:34.533165"
       }
     ]
   },
@@ -126937,11 +126949,15 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區甲樹路",
     "units": "橋頭分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T20:10:33.707090"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T20:11:34.533165"
       }
     ]
   },
@@ -126951,11 +126967,15 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T20:10:33.707090"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T20:11:34.533165"
       }
     ]
   }
