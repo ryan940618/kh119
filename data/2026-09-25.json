@@ -122669,7 +122669,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -122682,6 +122682,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T15:00:34.235903"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T15:05:34.067143"
       }
     ]
   },
@@ -122761,7 +122765,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -122774,6 +122778,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T15:02:34.151695"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T15:05:34.067143"
       }
     ]
   },
@@ -122783,7 +122791,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營小隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -122792,6 +122800,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T14:58:34.011058"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T15:05:34.067143"
       }
     ]
   },
@@ -122801,7 +122813,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區德民路和惠豐街",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -122814,6 +122826,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T15:00:34.235903"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T15:05:34.067143"
       }
     ]
   },
@@ -122886,6 +122902,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T15:04:34.248939"
+      }
+    ]
+  },
+  "bf3ffc610fbf85ad59902edc14328d72": {
+    "time": "2026/09/25 15:04:52",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區鳳屏二路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T15:05:34.067143"
       }
     ]
   }
