@@ -122919,7 +122919,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區會營街",
     "units": "和發分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -122928,6 +122928,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T15:10:33.170928"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T15:17:33.584808"
       }
     ]
   },
@@ -123053,11 +123057,43 @@
     "sub_category": "車禍",
     "location": "高雄市小港區沿海二路",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T15:15:33.034518"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T15:17:33.584808"
+      }
+    ]
+  },
+  "a5a0e9fa21bc972c120b530a8f2469d7": {
+    "time": "2026/09/25 15:16:55",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區楠梓路",
+    "units": "後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T15:17:33.584808"
+      }
+    ]
+  },
+  "c076e0b534b2d1d2d164d740d2c4d8ce": {
+    "time": "2026/09/25 15:16:24",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T15:17:33.584808"
       }
     ]
   }
