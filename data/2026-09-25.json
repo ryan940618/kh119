@@ -125119,7 +125119,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -125132,6 +125132,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-25T18:12:33.599465"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-25T18:15:33.597558"
       }
     ]
   },
@@ -125417,11 +125421,57 @@
     "sub_category": "創傷",
     "location": "高雄市鹽埕區七賢三路",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T18:13:33.573463"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T18:15:33.597558"
+      }
+    ]
+  },
+  "70aadf4d4f4be1a49b324eecc4df1f60": {
+    "time": "2026/09/25 18:15:00",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大樹區小坪路",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T18:15:33.597558"
+      }
+    ]
+  },
+  "509061779c31709af191ba58e46a43c3": {
+    "time": "2026/09/25 18:14:48",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區哈爾濱街",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T18:15:33.597558"
+      }
+    ]
+  },
+  "0f12c90fc704024545f1ba29852844bc": {
+    "time": "2026/09/25 18:14:37",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市前鎮區瑞福路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T18:15:33.597558"
       }
     ]
   }
