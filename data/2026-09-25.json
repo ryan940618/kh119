@@ -122305,7 +122305,7 @@
     "sub_category": "創傷",
     "location": "高雄市鼓山區南屏路",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -122318,6 +122318,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T14:19:33.702337"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-25T14:30:33.956993"
       }
     ]
   },
@@ -122407,11 +122411,29 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T14:28:33.929378"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T14:30:33.956993"
+      }
+    ]
+  },
+  "715aa16a4d1bfd7a47a017f5fc09c8b7": {
+    "time": "2026/09/25 14:29:30",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T14:30:33.956993"
       }
     ]
   }
