@@ -735,7 +735,7 @@
     "sub_category": "創傷",
     "location": "高雄市燕巢區中華路",
     "units": "燕巢分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -752,6 +752,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T01:41:31.856853"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T01:47:31.780894"
       }
     ]
   },
@@ -925,11 +929,15 @@
     "sub_category": "藥物、食物中毒",
     "location": "高雄市左營區榮耀街",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T01:42:31.825647"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T01:47:31.780894"
       }
     ]
   },
@@ -989,11 +997,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區光華路",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T01:46:31.791512"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T01:47:31.780894"
       }
     ]
   }
