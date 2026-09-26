@@ -6147,7 +6147,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區宏平路321巷和安和街",
     "units": "高桂分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6164,6 +6164,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-26T12:45:32.420744"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-26T12:54:32.104362"
       }
     ]
   },
@@ -6173,7 +6177,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區新庄仔路",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6190,6 +6194,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-26T12:48:32.300874"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-26T12:54:32.104362"
       }
     ]
   },
@@ -6307,11 +6315,15 @@
     "sub_category": "其他",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T12:53:31.994038"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T12:54:32.104362"
       }
     ]
   }
