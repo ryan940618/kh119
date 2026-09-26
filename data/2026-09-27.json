@@ -565,7 +565,7 @@
     "sub_category": "車禍",
     "location": "高雄市新興區復興一路",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -582,6 +582,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T01:15:31.495167"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T01:18:31.548434"
       }
     ]
   },
@@ -680,6 +684,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T01:17:31.564870"
+      }
+    ]
+  },
+  "7be8e4d12f01849550fac3b20b64ac19": {
+    "time": "2026/09/27 01:16:57",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區十全三路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T01:18:31.548434"
       }
     ]
   }
