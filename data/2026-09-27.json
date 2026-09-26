@@ -2273,7 +2273,7 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區仁愛街",
     "units": "湖內分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2290,6 +2290,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T06:41:31.651691"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T06:55:31.704659"
       }
     ]
   },
@@ -2435,7 +2439,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2444,6 +2448,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T06:53:31.735268"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T06:55:31.704659"
       }
     ]
   },
@@ -2453,11 +2461,29 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T06:53:31.735268"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T06:55:31.704659"
+      }
+    ]
+  },
+  "aa53b0114d9a74c66a0d7a18c72361fd": {
+    "time": "2026/09/27 06:54:59",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大社區",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T06:55:31.704659"
       }
     ]
   }
