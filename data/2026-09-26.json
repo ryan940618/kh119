@@ -8923,7 +8923,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8932,6 +8932,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T17:02:31.501521"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T17:12:31.519700"
       }
     ]
   },
@@ -9003,11 +9007,15 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T17:08:31.609547"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T17:12:31.519700"
       }
     ]
   },
@@ -9022,6 +9030,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T17:10:31.579842"
+      }
+    ]
+  },
+  "b02b892ef336a16257e0e4b543dd4781": {
+    "time": "2026/09/26 17:11:50",
+    "category": "其他",
+    "sub_category": "受困",
+    "location": "高雄市三民區大和街",
+    "units": "大昌分隊,鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T17:12:31.519700"
       }
     ]
   }
