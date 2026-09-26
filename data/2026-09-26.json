@@ -9657,7 +9657,7 @@
     "sub_category": "車禍",
     "location": "高雄市茄萣區忠孝街",
     "units": "茄萣分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9670,6 +9670,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-26T18:04:31.733958"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-26T18:11:31.890779"
       }
     ]
   },
@@ -9817,11 +9821,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區大昌一路",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T18:09:31.918060"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T18:11:31.890779"
       }
     ]
   },
@@ -9831,11 +9839,15 @@
     "sub_category": "受困",
     "location": "高雄市苓雅區建民路",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T18:10:31.872214"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T18:11:31.890779"
       }
     ]
   }
