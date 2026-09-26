@@ -6951,7 +6951,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區九如四路",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6968,6 +6968,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-26T14:23:31.608371"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-26T14:30:31.355386"
       }
     ]
   },
@@ -7065,11 +7069,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區市立新甲國小側門新強路",
     "units": "五甲分隊,苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-26T14:24:31.485920"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T14:30:31.355386"
       }
     ]
   },
@@ -7097,11 +7105,15 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區中崙四路",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T14:27:31.384967"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T14:30:31.355386"
       }
     ]
   },
