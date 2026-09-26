@@ -10271,7 +10271,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區民族一路",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10284,6 +10284,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-26T18:43:31.140862"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-26T18:53:31.157967"
       }
     ]
   },
@@ -10355,11 +10359,15 @@
     "sub_category": "車禍",
     "location": "高雄市小港區大平路",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T18:52:31.127543"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T18:53:31.157967"
       }
     ]
   }
