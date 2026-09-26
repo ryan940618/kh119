@@ -11101,7 +11101,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11114,6 +11114,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-26T19:58:31.595315"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-26T20:14:31.900959"
       }
     ]
   },
@@ -11203,7 +11207,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊,高桂分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11212,6 +11216,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T20:04:31.670074"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T20:14:31.900959"
       }
     ]
   },
@@ -11289,7 +11297,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區新榮街",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11298,6 +11306,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T20:08:32.048425"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T20:14:31.900959"
       }
     ]
   },
@@ -11357,11 +11369,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T20:13:31.715916"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T20:14:31.900959"
       }
     ]
   }
