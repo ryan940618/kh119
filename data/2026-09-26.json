@@ -131491,7 +131491,7 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊,田寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -131504,6 +131504,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-26T08:00:34.635093"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-26T08:13:33.326392"
       }
     ]
   },
@@ -131707,11 +131711,29 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區三山街",
     "units": "右昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T08:12:34.390287"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T08:13:33.326392"
+      }
+    ]
+  },
+  "012cbea6ac0c89e35af38d2cb18973da": {
+    "time": "2026/09/26 08:12:43",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T08:13:33.326392"
       }
     ]
   }
