@@ -132025,7 +132025,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區海景街",
     "units": "左營小隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -132034,6 +132034,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-26T08:48:33.319840"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-26T09:12:33.648972"
       }
     ]
   },
@@ -132171,7 +132175,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -132180,6 +132184,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T09:04:33.568611"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T09:12:33.648972"
       }
     ]
   },
@@ -132226,6 +132234,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T09:11:33.503958"
+      }
+    ]
+  },
+  "9440faa8600896aa9b144e8170f83898": {
+    "time": "2026/09/26 09:10:58",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區九如二路",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T09:12:33.648972"
       }
     ]
   }
