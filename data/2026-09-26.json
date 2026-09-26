@@ -10425,7 +10425,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -10438,6 +10438,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-26T19:07:31.308494"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-26T19:14:31.401504"
       }
     ]
   },
@@ -10477,11 +10481,15 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-26T19:00:31.318295"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T19:14:31.401504"
       }
     ]
   },
@@ -10558,6 +10566,48 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T19:12:31.595091"
+      }
+    ]
+  },
+  "354bd73127279edf103cf9e45755f783": {
+    "time": "2026/09/26 19:13:47",
+    "category": "火災",
+    "sub_category": "一般(集合)住宅",
+    "location": "高雄市鳥松區仁美路",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T19:14:31.401504"
+      }
+    ]
+  },
+  "b20bcae0ee971220853132ec6acb795f": {
+    "time": "2026/09/26 19:13:43",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區大同南街",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T19:14:31.401504"
+      }
+    ]
+  },
+  "1d9179ce300f39f427957c901b1606dc": {
+    "time": "2026/09/26 19:13:12",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T19:14:31.401504"
       }
     ]
   }
