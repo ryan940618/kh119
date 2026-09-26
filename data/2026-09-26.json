@@ -9669,7 +9669,7 @@
     "sub_category": "車禍",
     "location": "高雄市茄萣區忠孝街",
     "units": "茄萣分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9686,6 +9686,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-26T18:11:31.890779"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-26T18:33:32.088501"
       }
     ]
   },
@@ -10009,7 +10013,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區中山路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10018,6 +10022,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T18:31:31.948002"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T18:33:32.088501"
       }
     ]
   },
@@ -10050,6 +10058,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T18:31:31.948002"
+      }
+    ]
+  },
+  "e99942f2cdd3041689e36a977a432a6f": {
+    "time": "2026/09/26 18:32:11",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T18:33:32.088501"
       }
     ]
   }
