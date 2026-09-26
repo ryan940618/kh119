@@ -2521,11 +2521,15 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T06:59:31.778563"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T07:01:31.799805"
       }
     ]
   },
@@ -2535,11 +2539,29 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T07:00:31.850859"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T07:01:31.799805"
+      }
+    ]
+  },
+  "fbea49a22d6526cceb35cacd8c2c69c7": {
+    "time": "2026/09/27 07:00:00",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T07:01:31.799805"
       }
     ]
   }
