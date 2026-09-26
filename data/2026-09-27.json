@@ -2609,7 +2609,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2626,6 +2626,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T07:22:31.964016"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T07:38:31.101515"
       }
     ]
   },
@@ -2727,11 +2731,29 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區中興北路",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T07:34:31.128362"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T07:38:31.101515"
+      }
+    ]
+  },
+  "fa8805c7d004e480cdac98fa4428ae11": {
+    "time": "2026/09/27 07:37:29",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T07:38:31.101515"
       }
     ]
   }
