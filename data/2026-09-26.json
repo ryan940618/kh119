@@ -10499,7 +10499,7 @@
     "sub_category": "其他",
     "location": "高雄市美濃區自強街",
     "units": "美濃分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -10512,6 +10512,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-26T19:10:31.206993"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T19:17:31.419163"
       }
     ]
   },
@@ -10543,7 +10547,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區中山路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10552,6 +10556,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T19:13:31.479405"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T19:17:31.419163"
       }
     ]
   },
@@ -10597,11 +10605,15 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區大同南街",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T19:14:31.401504"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T19:17:31.419163"
       }
     ]
   },
@@ -10634,6 +10646,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T19:15:31.361805"
+      }
+    ]
+  },
+  "dd6eef5143a1a3e143c79effd4ee69a6": {
+    "time": "2026/09/26 19:16:12",
+    "category": "緊急救護",
+    "sub_category": "異物哽塞",
+    "location": "高雄市大寮區林厝路",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T19:17:31.419163"
       }
     ]
   }
