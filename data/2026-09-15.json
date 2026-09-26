@@ -1173,7 +1173,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1190,6 +1190,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-15T23:45:33.871631"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T00:03:32.984683"
       }
     ]
   },
@@ -1299,7 +1303,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1316,6 +1320,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-15T23:59:33.931916"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T00:02:33.012683"
       }
     ]
   },
@@ -1325,7 +1333,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -1334,6 +1342,14 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-15T23:46:34.231900"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T00:03:32.984683"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T00:05:32.977669"
       }
     ]
   },
@@ -1343,7 +1359,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1360,6 +1376,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-15T23:59:33.931916"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T00:04:32.934806"
       }
     ]
   },
@@ -1369,7 +1389,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -1378,6 +1398,14 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-15T23:48:34.277099"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T00:00:34.053989"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T00:06:33.039199"
       }
     ]
   },
@@ -1387,7 +1415,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1400,6 +1428,14 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-15T23:53:33.974766"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T00:07:33.025303"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T00:15:33.101947"
       }
     ]
   },
@@ -1431,7 +1467,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1448,6 +1484,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-15T23:59:33.931916"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T00:05:32.977669"
       }
     ]
   },
@@ -1501,7 +1541,7 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區廣西路和修文街",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1510,6 +1550,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-15T23:54:33.938243"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T00:01:33.025089"
       }
     ]
   },
@@ -1519,11 +1563,49 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已派遣",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-15T23:58:34.045327"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T00:01:33.025089"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T00:11:33.021999"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-16T00:16:33.205381"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-16T00:32:33.222184"
+      }
+    ]
+  },
+  "cf4322414086bb656e76de5beeedc4f9": {
+    "time": "2026/09/15 23:59:29",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市大寮區拷潭路",
+    "units": "鳳祥分隊",
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T00:00:34.053989"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T00:03:32.984683"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-16T00:10:33.029029"
       }
     ]
   }
