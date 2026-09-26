@@ -11987,11 +11987,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T21:18:31.345260"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T21:20:31.212849"
       }
     ]
   },
@@ -12006,6 +12010,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T21:19:31.448200"
+      }
+    ]
+  },
+  "64f96d946f75110a4737ea3046dd1d1b": {
+    "time": "2026/09/26 21:19:02",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T21:20:31.212849"
       }
     ]
   }
