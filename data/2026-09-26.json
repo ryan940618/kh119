@@ -9901,7 +9901,7 @@
     "sub_category": "其他",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
@@ -9914,6 +9914,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T18:19:32.015670"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T18:22:31.868325"
       }
     ]
   },
@@ -9923,7 +9927,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區左營大路",
     "units": "左營小隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9932,6 +9936,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T18:21:31.991436"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T18:22:31.868325"
       }
     ]
   },
@@ -9941,11 +9949,15 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T18:21:31.991436"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T18:22:31.868325"
       }
     ]
   }
