@@ -787,7 +787,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區鼎昌街",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -804,6 +804,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T01:40:31.809057"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T01:48:31.838284"
       }
     ]
   },
@@ -879,7 +883,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -892,6 +896,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T01:44:31.814709"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T01:48:31.838284"
       }
     ]
   },
@@ -947,7 +955,7 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區鎮興路",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -956,6 +964,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T01:46:31.791512"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T01:48:31.838284"
       }
     ]
   },
