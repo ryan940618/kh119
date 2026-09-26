@@ -4573,7 +4573,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區南成街",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4590,6 +4590,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-26T11:22:31.455814"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-26T11:38:31.665051"
       }
     ]
   },
@@ -4900,6 +4904,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T11:37:31.571191"
+      }
+    ]
+  },
+  "0129f811910a4abda27c33b0e21b4c01": {
+    "time": "2026/09/26 11:38:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T11:38:31.665051"
+      }
+    ]
+  },
+  "bcc91c75d844e95fb86914b341c4a738": {
+    "time": "2026/09/26 11:37:15",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鳳山區新樂街",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T11:38:31.665051"
+      }
+    ]
+  },
+  "3c25599706f22cdbaf2f6b50ce653281": {
+    "time": "2026/09/26 11:35:22",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區",
+    "units": "五甲分隊,鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T11:38:31.665051"
       }
     ]
   }
