@@ -1453,7 +1453,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -1462,6 +1462,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T03:28:31.370927"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T03:31:31.464615"
       }
     ]
   },
@@ -1471,7 +1475,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1480,6 +1484,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T03:26:31.195274"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T03:31:31.464615"
       }
     ]
   },
@@ -1511,11 +1519,29 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T03:29:31.382985"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T03:31:31.464615"
+      }
+    ]
+  },
+  "a4e4e9a68b2780954f81228693bc0a31": {
+    "time": "2026/09/27 03:30:39",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市美濃區",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T03:31:31.464615"
       }
     ]
   }
