@@ -8425,7 +8425,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區海涵路",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8442,6 +8442,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-26T16:44:31.308495"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-26T17:00:31.704644"
       }
     ]
   },
@@ -8671,7 +8675,7 @@
     "sub_category": "創傷",
     "location": "高雄市小港區學府路",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8684,6 +8688,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-26T16:57:31.465436"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-26T17:00:31.704644"
       }
     ]
   },
@@ -8813,11 +8821,43 @@
     "sub_category": "其他",
     "location": "高雄市杉林區桐竹路",
     "units": "杉林分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T16:59:32.025693"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T17:00:31.704644"
+      }
+    ]
+  },
+  "d5770ebf284aff7b1fb4150503ec7f72": {
+    "time": "2026/09/26 16:59:21",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市湖內區",
+    "units": "湖內分隊",
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T17:00:31.704644"
+      }
+    ]
+  },
+  "fd1ad132beffafb20e50f373280bddcb": {
+    "time": "2026/09/26 16:54:45",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鹽埕區",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-26T17:00:31.704644"
       }
     ]
   }
