@@ -12061,7 +12061,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12070,6 +12070,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T21:23:31.260070"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T21:26:31.416765"
       }
     ]
   },
@@ -12084,6 +12088,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T21:25:31.378430"
+      }
+    ]
+  },
+  "57c63624953714afb8c5d82d04af1aad": {
+    "time": "2026/09/26 21:26:05",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳥松區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T21:26:31.416765"
       }
     ]
   }
