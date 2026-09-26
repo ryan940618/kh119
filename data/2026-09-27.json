@@ -697,7 +697,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區十全三路",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -706,6 +706,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T01:19:31.639621"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T01:24:31.622379"
       }
     ]
   },
@@ -720,6 +724,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T01:23:31.474246"
+      }
+    ]
+  },
+  "ae087313e2b81103dc55f9896a68d3e9": {
+    "time": "2026/09/27 01:23:46",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T01:24:31.622379"
+      }
+    ]
+  },
+  "045737eb42d28d39e8a4bab115ecd582": {
+    "time": "2026/09/27 01:23:29",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區鼎昌街",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T01:24:31.622379"
       }
     ]
   }
