@@ -4903,7 +4903,7 @@
     "sub_category": "車禍",
     "location": "高雄市田寮區",
     "units": "阿蓮分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -4916,6 +4916,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-26T11:48:31.629559"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T11:56:31.868036"
       }
     ]
   },
@@ -5141,7 +5145,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5150,6 +5154,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T11:51:31.759048"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T11:56:31.868036"
       }
     ]
   },
@@ -5191,11 +5199,15 @@
     "sub_category": "創傷",
     "location": "高雄市仁武區仁雄路",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-26T11:51:31.759048"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T11:56:31.868036"
       }
     ]
   },
