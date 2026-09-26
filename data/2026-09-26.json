@@ -132389,11 +132389,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-26T09:24:33.593250"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T09:30:33.725009"
       }
     ]
   },
@@ -132412,6 +132416,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T09:28:33.716582"
+      }
+    ]
+  },
+  "199c702a5f933675fccdc360e1c3174d": {
+    "time": "2026/09/26 09:29:25",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T09:30:33.725009"
       }
     ]
   }
