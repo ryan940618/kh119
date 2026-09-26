@@ -4821,7 +4821,7 @@
     "sub_category": "其他",
     "location": "高雄市岡山區致遠路",
     "units": "岡山分隊",
-    "current_status": "火已控",
+    "current_status": "火已滅",
     "status_history": [
       {
         "status": "已派遣",
@@ -4834,6 +4834,10 @@
       {
         "status": "火已控",
         "timestamp": "2026-09-26T11:43:31.999737"
+      },
+      {
+        "status": "火已滅",
+        "timestamp": "2026-09-26T11:47:31.668112"
       }
     ]
   },
@@ -4971,11 +4975,15 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區新樂街",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-26T11:38:31.665051"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T11:47:31.668112"
       }
     ]
   },
@@ -5083,11 +5091,29 @@
     "sub_category": "車禍",
     "location": "高雄市三民區大順二路",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T11:46:31.715365"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T11:47:31.668112"
+      }
+    ]
+  },
+  "3b80dc74d088b2e9c27fadc99339678a": {
+    "time": "2026/09/26 11:46:47",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T11:47:31.668112"
       }
     ]
   }
