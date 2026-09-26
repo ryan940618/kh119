@@ -297,7 +297,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -306,6 +306,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T00:36:31.113027"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T00:42:31.321865"
       }
     ]
   },
@@ -315,7 +319,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區本館路",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -324,6 +328,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T00:38:31.320274"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T00:42:31.321865"
       }
     ]
   },
@@ -333,11 +341,29 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T00:38:31.320274"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T00:42:31.321865"
+      }
+    ]
+  },
+  "5437b82d5026b619092c2d3983908357": {
+    "time": "2026/09/27 00:40:54",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市梓官區大舍東路",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T00:42:31.321865"
       }
     ]
   }
