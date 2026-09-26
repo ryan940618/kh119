@@ -131927,7 +131927,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -131936,6 +131936,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T08:43:33.314102"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T08:48:33.319840"
       }
     ]
   },
@@ -131985,11 +131989,29 @@
     "sub_category": "創傷",
     "location": "高雄市左營區海景街",
     "units": "左營小隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-26T08:42:33.430073"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T08:48:33.319840"
+      }
+    ]
+  },
+  "f808094da7b979dadbde6155cc4acc7b": {
+    "time": "2026/09/26 08:47:41",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市前鎮區林森四路",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T08:48:33.319840"
       }
     ]
   }
