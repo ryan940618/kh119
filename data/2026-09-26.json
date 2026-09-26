@@ -11103,7 +11103,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區翠華路",
     "units": "左營小隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11112,6 +11112,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T19:57:31.792239"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T20:01:31.654255"
       }
     ]
   },
@@ -11121,7 +11125,7 @@
     "sub_category": "路倒",
     "location": "高雄市鼓山區美術館路",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11130,6 +11134,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T19:58:31.595315"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T20:01:31.654255"
       }
     ]
   },
@@ -11153,7 +11161,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區光遠路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11162,6 +11170,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T20:00:31.838725"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T20:01:31.654255"
       }
     ]
   },
@@ -11176,6 +11188,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T20:00:31.838725"
+      }
+    ]
+  },
+  "2a08ca9d0ee0d7c093c366310f8f1ea3": {
+    "time": "2026/09/26 19:59:26",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市美濃區",
+    "units": "內門分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T20:01:31.654255"
       }
     ]
   }
