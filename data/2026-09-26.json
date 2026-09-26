@@ -10261,7 +10261,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10278,6 +10278,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-26T18:50:31.261625"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-26T19:07:31.308494"
       }
     ]
   },
@@ -10417,7 +10421,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -10426,6 +10430,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-26T19:00:31.318295"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-26T19:07:31.308494"
       }
     ]
   },
@@ -10484,6 +10492,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T19:04:31.261628"
+      }
+    ]
+  },
+  "63b679e7d1e54dfde0d122a8a933d7a2": {
+    "time": "2026/09/26 19:06:12",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區建國三路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T19:07:31.308494"
       }
     ]
   }
