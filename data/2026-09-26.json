@@ -10773,7 +10773,7 @@
     "sub_category": "車禍",
     "location": "高雄市永安區維新路",
     "units": "永安分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -10782,6 +10782,24 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-26T19:24:31.419178"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-26T19:32:31.546885"
+      }
+    ]
+  },
+  "78321b0b915c539614f5d2680caec1d3": {
+    "time": "2026/09/26 19:31:55",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T19:32:31.546885"
       }
     ]
   }
