@@ -4323,7 +4323,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區鼎中路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4332,6 +4332,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T11:05:31.410643"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T11:15:31.613036"
       }
     ]
   },
@@ -4525,7 +4529,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區南成街",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4534,6 +4538,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T11:12:31.347780"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T11:15:31.613036"
       }
     ]
   },
@@ -4557,11 +4565,29 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-26T11:12:31.347780"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T11:15:31.613036"
+      }
+    ]
+  },
+  "34c8398e171d129e395118df088aaea7": {
+    "time": "2026/09/26 11:14:08",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市阿蓮區中山路",
+    "units": "阿蓮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T11:15:31.613036"
       }
     ]
   }
