@@ -779,7 +779,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區鼎昌街",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -792,6 +792,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T01:29:31.630231"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T01:40:31.809057"
       }
     ]
   },
@@ -841,7 +845,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -850,6 +854,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T01:37:31.718462"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T01:40:31.809057"
       }
     ]
   },
@@ -882,6 +890,20 @@
       {
         "status": "已受理",
         "timestamp": "2026-09-27T01:34:31.631715"
+      }
+    ]
+  },
+  "1367682f9b2e40cfc0c1f1ff8672c3c1": {
+    "time": "2026/09/27 01:39:19",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T01:40:31.809057"
       }
     ]
   }
