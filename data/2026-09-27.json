@@ -2901,7 +2901,7 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2914,6 +2914,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T07:53:31.189535"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T07:58:31.213696"
       }
     ]
   },
@@ -2923,11 +2927,43 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區中正一路",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T07:57:31.182107"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T07:58:31.213696"
+      }
+    ]
+  },
+  "a549e32750095da4d6cdca39e1e10608": {
+    "time": "2026/09/27 07:57:40",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區大德二路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T07:58:31.213696"
+      }
+    ]
+  },
+  "a2e246547268c63aebabcd23f2911951": {
+    "time": "2026/09/27 07:57:30",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T07:58:31.213696"
       }
     ]
   }
