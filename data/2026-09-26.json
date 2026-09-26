@@ -10035,7 +10035,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10044,6 +10044,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T18:31:31.948002"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T18:34:32.051493"
       }
     ]
   },
@@ -10072,6 +10076,48 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T18:33:32.088501"
+      }
+    ]
+  },
+  "a3f715a727697d006f94749cedbaff69": {
+    "time": "2026/09/26 18:34:04",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市路竹區大仁路",
+    "units": "阿蓮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T18:34:32.051493"
+      }
+    ]
+  },
+  "34810a968e8a7b48924ae7d8c407c959": {
+    "time": "2026/09/26 18:33:54",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市路竹區大仁路",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T18:34:32.051493"
+      }
+    ]
+  },
+  "b35c119b06a39d12cbcf88317d11950e": {
+    "time": "2026/09/26 18:33:36",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市旗津區",
+    "units": "旗津分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T18:34:32.051493"
       }
     ]
   }
