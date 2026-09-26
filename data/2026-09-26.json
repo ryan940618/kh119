@@ -11083,7 +11083,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11096,6 +11096,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-26T20:00:31.838725"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-26T20:30:31.787663"
       }
     ]
   },
@@ -11135,7 +11139,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區翠華路",
     "units": "左營小隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11152,6 +11156,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-26T20:22:32.055312"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-26T20:30:31.787663"
       }
     ]
   },
@@ -11487,11 +11495,15 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T20:26:32.328410"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T20:30:31.787663"
       }
     ]
   }
