@@ -7045,7 +7045,7 @@
     "sub_category": "創傷",
     "location": "高雄市橋頭區仕豐南路",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7058,6 +7058,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-26T14:28:31.473730"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-26T14:39:31.809083"
       }
     ]
   },
@@ -7103,7 +7107,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區軍校路",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7116,6 +7120,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-26T14:34:31.345276"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-26T14:39:31.809083"
       }
     ]
   },
@@ -7209,7 +7217,7 @@
     "sub_category": "車禍",
     "location": "高雄市大社區三民路",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7218,6 +7226,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T14:37:31.534213"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T14:39:31.809083"
       }
     ]
   },
@@ -7232,6 +7244,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T14:37:31.534213"
+      }
+    ]
+  },
+  "0b50b793db456e7c86d1dd00b2fb63fb": {
+    "time": "2026/09/26 14:38:12",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大社區旗楠路",
+    "units": "楠梓分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T14:39:31.809083"
       }
     ]
   }
