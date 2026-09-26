@@ -12573,7 +12573,7 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12590,6 +12590,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-26T22:15:31.718328"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-26T22:17:31.720310"
       }
     ]
   },
@@ -12683,11 +12687,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區公正路",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T22:16:31.711885"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T22:17:31.720310"
       }
     ]
   }
