@@ -1483,7 +1483,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1496,6 +1496,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T03:31:31.464615"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T03:41:31.397530"
       }
     ]
   },
@@ -1598,6 +1602,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T03:40:31.421060"
+      }
+    ]
+  },
+  "1fff600655a4aecf11b09073ddaea73b": {
+    "time": "2026/09/27 03:39:50",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市前鎮區擴建一路",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T03:41:31.397530"
       }
     ]
   }
