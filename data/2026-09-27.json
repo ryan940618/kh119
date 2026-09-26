@@ -1323,7 +1323,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1340,6 +1340,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T02:53:30.988614"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T03:02:31.188676"
       }
     ]
   },
@@ -1380,6 +1384,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T03:01:31.246013"
+      }
+    ]
+  },
+  "b8ab5c7c4f11ca4314ea1513d19d0e37": {
+    "time": "2026/09/27 03:01:15",
+    "category": "其他",
+    "sub_category": "動物救援",
+    "location": "高雄市前鎮區二聖路",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T03:02:31.188676"
       }
     ]
   }
