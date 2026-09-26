@@ -132409,7 +132409,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -132418,6 +132418,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-26T09:30:33.725009"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-26T09:41:33.755888"
       }
     ]
   },
@@ -132486,6 +132490,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-26T09:37:33.707200"
+      }
+    ]
+  },
+  "6f0d4c1feff60789d87ce758f0a5f0c9": {
+    "time": "2026/09/26 09:39:44",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市新興區中山一路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T09:41:33.755888"
       }
     ]
   }
