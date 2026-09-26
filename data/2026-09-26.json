@@ -132947,7 +132947,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -132956,6 +132956,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-26T10:20:34.156749"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-26T10:47:33.566824"
       }
     ]
   },
@@ -133035,7 +133039,7 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -133052,6 +133056,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-26T10:43:34.066838"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-26T10:47:33.566824"
       }
     ]
   },
@@ -133239,7 +133247,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區清風街",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -133256,6 +133264,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-26T10:42:34.254331"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-26T10:47:33.566824"
       }
     ]
   },
@@ -133335,7 +133347,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -133344,6 +133356,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T10:42:34.254331"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T10:47:33.566824"
       }
     ]
   },
@@ -133353,7 +133369,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區海功路",
     "units": "左營分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -133362,6 +133378,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T10:40:33.582749"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T10:47:33.566824"
       }
     ]
   },
@@ -133394,6 +133414,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T10:44:58.207451"
+      }
+    ]
+  },
+  "2d94735d80b1310d0f24cf2c84c0fa44": {
+    "time": "2026/09/26 10:46:31",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區瑞隆路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T10:47:33.566824"
+      }
+    ]
+  },
+  "b029e9fd6c3dfdffbb5132a1dcd7311b": {
+    "time": "2026/09/26 10:45:48",
+    "category": "其他",
+    "sub_category": "受困",
+    "location": "高雄市仁武區京吉二路",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T10:47:33.566824"
       }
     ]
   }
