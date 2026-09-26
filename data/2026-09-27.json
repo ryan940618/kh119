@@ -2437,7 +2437,7 @@
     "sub_category": "急病",
     "location": "高雄市彌陀區",
     "units": "彌陀分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2450,6 +2450,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T07:00:31.850859"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T07:09:32.357727"
       }
     ]
   },
@@ -2485,7 +2489,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2498,6 +2502,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T07:00:31.850859"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T07:09:32.357727"
       }
     ]
   },
@@ -2578,6 +2586,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T07:02:31.800811"
+      }
+    ]
+  },
+  "66b8a2b6630ad299beb3ce3a5edcb382": {
+    "time": "2026/09/27 07:09:05",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市梓官區大舍南路",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T07:09:32.357727"
       }
     ]
   }
