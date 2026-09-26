@@ -10499,7 +10499,7 @@
     "sub_category": "其他",
     "location": "高雄市美濃區自強街",
     "units": "美濃分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -10520,6 +10520,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-26T19:22:31.306453"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T19:24:31.419178"
       }
     ]
   },
@@ -10599,7 +10603,7 @@
     "sub_category": "一般(集合)住宅",
     "location": "高雄市鳥松區仁美路",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10608,6 +10612,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T19:15:31.361805"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T19:24:31.419178"
       }
     ]
   },
@@ -10721,11 +10729,15 @@
     "sub_category": "車禍",
     "location": "高雄市永安區維新路",
     "units": "永安分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-26T19:21:31.432665"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T19:24:31.419178"
       }
     ]
   }
