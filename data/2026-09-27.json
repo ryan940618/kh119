@@ -797,7 +797,7 @@
     "sub_category": "創傷",
     "location": "高雄市鹽埕區府北路",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -806,6 +806,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T01:28:31.691911"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T01:34:31.631715"
       }
     ]
   },
@@ -824,6 +828,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T01:32:31.604574"
+      }
+    ]
+  },
+  "89bfbfc1135202a1ea2a23fb4235a3ae": {
+    "time": "2026/09/27 01:33:54",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T01:34:31.631715"
+      }
+    ]
+  },
+  "fb9aaf95125230e8c49af52448726b3b": {
+    "time": "2026/09/27 01:33:29",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T01:34:31.631715"
+      }
+    ]
+  },
+  "d01f03ba06fdd2d472dabdfc07b51bb8": {
+    "time": "2026/09/27 01:32:21",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-27T01:34:31.631715"
       }
     ]
   }
