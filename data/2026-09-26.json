@@ -4555,7 +4555,7 @@
     "sub_category": "車禍",
     "location": "高雄市桃源區梅山里南橫公路",
     "units": "桃源分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4564,6 +4564,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T11:09:31.351577"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T11:44:31.636425"
       }
     ]
   },
@@ -5013,7 +5017,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區中道街",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5022,6 +5026,38 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T11:41:31.592771"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T11:44:31.636425"
+      }
+    ]
+  },
+  "200dab876211cc4710abd4447b45ebc2": {
+    "time": "2026/09/26 11:43:56",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T11:44:31.636425"
+      }
+    ]
+  },
+  "872f4ee66e15262985c64146b54a4f6e": {
+    "time": "2026/09/26 11:43:30",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區環潭路",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T11:44:31.636425"
       }
     ]
   }
