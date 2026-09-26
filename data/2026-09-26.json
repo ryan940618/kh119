@@ -11829,7 +11829,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11846,6 +11846,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-26T21:23:31.260070"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-26T21:30:31.237941"
       }
     ]
   },
@@ -12015,7 +12019,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12028,6 +12032,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-26T21:25:31.378430"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-26T21:30:31.237941"
       }
     ]
   },
@@ -12127,11 +12135,15 @@
     "sub_category": "其他",
     "location": "高雄市大寮區上寮路",
     "units": "和發分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T21:27:31.323162"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T21:30:31.237941"
       }
     ]
   }
