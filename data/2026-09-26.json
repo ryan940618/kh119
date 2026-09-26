@@ -4725,7 +4725,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4738,6 +4738,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-26T11:27:31.478340"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-26T12:07:32.010194"
       }
     ]
   },
@@ -4981,7 +4985,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4998,6 +5002,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-26T12:03:31.748838"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-26T12:07:32.010194"
       }
     ]
   },
@@ -5491,11 +5499,15 @@
     "sub_category": "創傷",
     "location": "高雄市內門區",
     "units": "內門分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T12:06:31.687018"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T12:07:32.010194"
       }
     ]
   }
