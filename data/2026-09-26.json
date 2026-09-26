@@ -11553,7 +11553,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11566,6 +11566,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-26T20:41:31.921332"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-26T20:53:32.014899"
       }
     ]
   },
@@ -11633,7 +11637,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11642,6 +11646,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T20:51:32.150748"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T20:53:32.014899"
       }
     ]
   },
@@ -11651,11 +11659,15 @@
     "sub_category": "創傷",
     "location": "高雄市小港區中山四路",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T20:50:31.961848"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T20:53:32.014899"
       }
     ]
   },
@@ -11679,11 +11691,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T20:52:32.158179"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T20:53:32.014899"
       }
     ]
   }
