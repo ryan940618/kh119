@@ -7937,7 +7937,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7950,6 +7950,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-26T15:55:31.866271"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-26T16:01:31.851843"
       }
     ]
   },
@@ -7995,11 +7999,15 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區青山街",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T15:59:31.736494"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T16:01:31.851843"
       }
     ]
   }
