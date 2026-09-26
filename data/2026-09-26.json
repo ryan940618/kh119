@@ -9137,7 +9137,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9150,6 +9150,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-26T17:23:31.550922"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-26T17:37:31.671362"
       }
     ]
   },
@@ -9379,11 +9383,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T17:36:31.685550"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T17:37:31.671362"
       }
     ]
   }
