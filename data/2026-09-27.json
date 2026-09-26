@@ -849,7 +849,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -862,6 +862,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T01:40:31.809057"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T01:45:31.740175"
       }
     ]
   },
@@ -949,11 +953,29 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區黃埔街",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T01:44:31.814709"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T01:45:31.740175"
+      }
+    ]
+  },
+  "016c5e786943104f58381b9af9a2ba4f": {
+    "time": "2026/09/27 01:44:54",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T01:45:31.740175"
       }
     ]
   }
