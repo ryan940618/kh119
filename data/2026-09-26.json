@@ -5101,7 +5101,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區環潭路",
     "units": "左營小隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5114,6 +5114,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-26T11:49:31.724614"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-26T11:57:32.047079"
       }
     ]
   },
@@ -5267,11 +5271,15 @@
     "sub_category": "車禍",
     "location": "高雄市大社區翠屏路",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T11:54:31.941571"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T11:57:32.047079"
       }
     ]
   },
@@ -5281,11 +5289,15 @@
     "sub_category": "車禍",
     "location": "高雄市小港區平和東路",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T11:55:31.745399"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T11:57:32.047079"
       }
     ]
   }
