@@ -132417,7 +132417,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -132430,6 +132430,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-26T09:41:33.755888"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-26T09:46:33.652568"
       }
     ]
   },
@@ -132515,7 +132519,7 @@
     "sub_category": "創傷",
     "location": "高雄市新興區中山一路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -132524,6 +132528,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T09:42:33.655939"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T09:46:33.652568"
       }
     ]
   },
@@ -132556,6 +132564,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T09:45:33.738947"
+      }
+    ]
+  },
+  "4a14e15e00fa419f180012d909ceb999": {
+    "time": "2026/09/26 09:46:13",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T09:46:33.652568"
       }
     ]
   }
