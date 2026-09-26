@@ -8705,7 +8705,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區惠豐街",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -8718,6 +8718,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-26T16:59:32.025693"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-26T17:03:31.408558"
       }
     ]
   },
@@ -8793,11 +8797,15 @@
     "sub_category": "生物咬螫傷",
     "location": "高雄市旗山區旗南二路",
     "units": "旗山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-26T16:53:31.293014"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T17:03:31.408558"
       }
     ]
   },
@@ -8893,11 +8901,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T17:02:31.501521"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T17:03:31.408558"
       }
     ]
   }
