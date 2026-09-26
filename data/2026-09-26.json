@@ -7097,7 +7097,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區市立新甲國小側門新強路",
     "units": "五甲分隊,苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -7106,6 +7106,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-26T14:30:31.355386"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-26T14:45:32.044003"
       }
     ]
   },
@@ -7273,11 +7277,15 @@
     "sub_category": "車禍",
     "location": "高雄市大社區旗楠路",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-26T14:39:31.809083"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T14:45:32.044003"
       }
     ]
   },
@@ -7320,6 +7328,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T14:44:31.522789"
+      }
+    ]
+  },
+  "94c489f7f05102369e2cab079490fd96": {
+    "time": "2026/09/26 14:44:32",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T14:45:32.044003"
       }
     ]
   }
