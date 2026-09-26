@@ -5795,11 +5795,15 @@
     "sub_category": "創傷",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T12:19:31.852229"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T12:21:31.978472"
       }
     ]
   },
@@ -5809,11 +5813,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區民族一路",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T12:19:31.852229"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T12:21:31.978472"
       }
     ]
   },
@@ -5828,6 +5836,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T12:20:31.979821"
+      }
+    ]
+  },
+  "5ae6602de1d4c14f787ddc258c9bebe4": {
+    "time": "2026/09/26 12:20:27",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市小港區松興路",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T12:21:31.978472"
       }
     ]
   }
