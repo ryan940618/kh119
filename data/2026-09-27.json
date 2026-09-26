@@ -2463,7 +2463,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2480,6 +2480,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T06:58:31.730391"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T07:20:31.872647"
       }
     ]
   },
@@ -2559,7 +2563,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2572,6 +2576,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T07:08:31.836180"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T07:20:31.872647"
       }
     ]
   },
@@ -2643,7 +2651,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2652,6 +2660,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T07:15:31.947468"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T07:20:31.872647"
       }
     ]
   }
