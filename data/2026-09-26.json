@@ -7677,7 +7677,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區五權南路",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7690,6 +7690,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-26T15:25:31.685118"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-26T15:30:31.951009"
       }
     ]
   },
@@ -7739,11 +7743,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-26T15:25:31.685118"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T15:30:31.951009"
       }
     ]
   },
@@ -7785,11 +7793,15 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T15:29:31.943833"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T15:30:31.951009"
       }
     ]
   }
