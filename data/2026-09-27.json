@@ -5,7 +5,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區富民路",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -22,6 +22,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T00:23:31.235992"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T00:29:31.168249"
       }
     ]
   },
@@ -119,7 +123,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -136,6 +140,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T00:26:31.121252"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T00:29:31.168249"
       }
     ]
   },
@@ -246,6 +254,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T00:28:31.437751"
+      }
+    ]
+  },
+  "d3cb9358eaf5b5a409b88966e25e8328": {
+    "time": "2026/09/27 00:27:53",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區鳳東路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T00:29:31.168249"
       }
     ]
   }
