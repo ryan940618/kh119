@@ -12861,7 +12861,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區自由四路",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12878,6 +12878,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-26T22:48:31.905969"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-26T22:53:32.157358"
       }
     ]
   },
@@ -12963,11 +12967,15 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T22:49:31.931615"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T22:53:32.157358"
       }
     ]
   },
@@ -12995,11 +13003,29 @@
     "sub_category": "路倒",
     "location": "高雄市新興區復興一路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T22:52:31.893281"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T22:53:32.157358"
+      }
+    ]
+  },
+  "c09a085cc26efa80e1325e7795da4d82": {
+    "time": "2026/09/26 22:52:54",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區捷運R21都會公園站[高雄市楠梓區高楠公路",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T22:53:32.157358"
       }
     ]
   }
