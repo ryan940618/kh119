@@ -132105,7 +132105,7 @@
     "sub_category": "創傷",
     "location": "高雄市岡山區介壽西路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -132118,6 +132118,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-26T09:07:33.510688"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-26T09:10:33.577146"
       }
     ]
   },
@@ -132195,11 +132199,15 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區和業二路",
     "units": "和發分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T09:09:33.574697"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T09:10:33.577146"
       }
     ]
   }
