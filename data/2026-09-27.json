@@ -431,7 +431,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -444,6 +444,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T00:53:31.439856"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T00:59:31.433536"
       }
     ]
   },
@@ -512,6 +516,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T00:58:31.360944"
+      }
+    ]
+  },
+  "9f92531f006a96701e38b04d7a0c4a36": {
+    "time": "2026/09/27 00:58:37",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市新興區復興一路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T00:59:31.433536"
+      }
+    ]
+  },
+  "dd20233adb5ddbf778b28d57c4516226": {
+    "time": "2026/09/27 00:58:36",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市大社區民生路",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T00:59:31.433536"
+      }
+    ]
+  },
+  "344852de0d3e6c23f12d8fd3a436585a": {
+    "time": "2026/09/27 00:58:22",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市新興區大同一路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T00:59:31.433536"
       }
     ]
   }
