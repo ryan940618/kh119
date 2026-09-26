@@ -12923,7 +12923,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12932,6 +12932,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T22:46:31.818581"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T22:52:31.893281"
       }
     ]
   },
@@ -12982,6 +12986,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T22:51:31.947077"
+      }
+    ]
+  },
+  "bc21eec41026519298c0a40f77623de8": {
+    "time": "2026/09/26 22:51:14",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市新興區復興一路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T22:52:31.893281"
       }
     ]
   }
