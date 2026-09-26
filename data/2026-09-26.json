@@ -7543,7 +7543,7 @@
     "sub_category": "其他",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7560,6 +7560,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-26T15:14:31.849530"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-26T15:25:31.685118"
       }
     ]
   },
@@ -7643,7 +7647,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區復興三路",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7656,6 +7660,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-26T15:19:31.698843"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-26T15:25:31.685118"
       }
     ]
   },
@@ -7665,7 +7673,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區五權南路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7674,6 +7682,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T15:15:31.734016"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T15:25:31.685118"
       }
     ]
   },
@@ -7692,6 +7704,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T15:19:31.698843"
+      }
+    ]
+  },
+  "beca2d630fe221d600dbc3a38b845ad0": {
+    "time": "2026/09/26 15:22:38",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T15:25:31.685118"
+      }
+    ]
+  },
+  "5bb584c2c552e58ffcd66f0ae24aaa50": {
+    "time": "2026/09/26 15:21:56",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "前金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T15:25:31.685118"
+      }
+    ]
+  },
+  "4e82919d1cc37c639076ec9e42a486f0": {
+    "time": "2026/09/26 15:19:55",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T15:25:31.685118"
       }
     ]
   }
