@@ -2813,7 +2813,7 @@
     "sub_category": "路倒",
     "location": "高雄市鼓山區中華一路",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2826,6 +2826,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T07:47:31.011608"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T07:57:31.182107"
       }
     ]
   },
@@ -2910,6 +2914,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T07:53:31.189535"
+      }
+    ]
+  },
+  "4d9cb6672941072b35f98abeef19604f": {
+    "time": "2026/09/27 07:56:28",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區中正一路",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T07:57:31.182107"
       }
     ]
   }
