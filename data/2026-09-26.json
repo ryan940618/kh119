@@ -4639,7 +4639,7 @@
     "sub_category": "車禍",
     "location": "高雄市阿蓮區中山路",
     "units": "阿蓮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -4652,6 +4652,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-26T11:25:31.498977"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-26T11:37:31.571191"
       }
     ]
   },
@@ -4873,11 +4877,29 @@
     "sub_category": "急病",
     "location": "高雄市內門區",
     "units": "內門分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T11:36:31.642252"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T11:37:31.571191"
+      }
+    ]
+  },
+  "cf31b7f70b1ce26edc16e5c7181c2593": {
+    "time": "2026/09/26 11:33:12",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市田寮區月球路",
+    "units": "旗山分隊,阿蓮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T11:37:31.571191"
       }
     ]
   }
