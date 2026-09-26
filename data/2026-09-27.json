@@ -279,7 +279,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區鳳東路",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -292,6 +292,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T00:38:31.320274"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T00:56:31.402709"
       }
     ]
   },
@@ -486,6 +490,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T00:54:31.230395"
+      }
+    ]
+  },
+  "c68bbc82b98408f082d7a7473a625c61": {
+    "time": "2026/09/27 00:56:01",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市鳳山區",
+    "units": "",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T00:56:31.402709"
       }
     ]
   }
