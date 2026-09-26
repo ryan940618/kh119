@@ -7725,7 +7725,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7734,6 +7734,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T15:26:31.657609"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T15:31:37.649496"
       }
     ]
   },
@@ -7761,11 +7765,15 @@
     "sub_category": "其他",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-26T15:25:31.685118"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-26T15:31:37.649496"
       }
     ]
   },
@@ -7802,6 +7810,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T15:30:31.951009"
+      }
+    ]
+  },
+  "f9d94e85016db3ba3342382d5c0b09ae": {
+    "time": "2026/09/26 15:30:21",
+    "category": "火災",
+    "sub_category": "汽機車",
+    "location": "高雄市楠梓區廣昌街",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T15:31:37.649496"
       }
     ]
   }
