@@ -1505,7 +1505,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1518,6 +1518,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T03:30:31.439088"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T03:40:31.421060"
       }
     ]
   },
@@ -1571,11 +1575,29 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T03:35:31.383027"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T03:40:31.421060"
+      }
+    ]
+  },
+  "3f20bfa8c32f000ae8532225219f5399": {
+    "time": "2026/09/27 03:39:50",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市前鎮區擴建路",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T03:40:31.421060"
       }
     ]
   }
