@@ -12671,7 +12671,7 @@
     "sub_category": "車禍",
     "location": "高雄市茄萣區茄萣路",
     "units": "茄萣分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12684,6 +12684,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-26T22:21:31.514747"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-26T22:39:31.635700"
       }
     ]
   },
@@ -12845,11 +12849,15 @@
     "sub_category": "車禍",
     "location": "高雄市左營區自由四路",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T22:35:31.612710"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T22:39:31.635700"
       }
     ]
   }
