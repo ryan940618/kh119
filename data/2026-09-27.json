@@ -2313,7 +2313,7 @@
     "sub_category": "車禍",
     "location": "高雄市彌陀區四維路",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2322,6 +2322,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T06:34:31.593721"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T06:38:31.605724"
       }
     ]
   },
@@ -2331,11 +2335,29 @@
     "sub_category": "雜草(含廢棄物、墓地)",
     "location": "高雄市鼓山區博愛一路",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T06:37:31.565482"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T06:38:31.605724"
+      }
+    ]
+  },
+  "03e61a0cfc6fe3fee46dad9282e16009": {
+    "time": "2026/09/27 06:37:34",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市燕巢區",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T06:38:31.605724"
       }
     ]
   }
