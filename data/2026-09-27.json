@@ -3467,7 +3467,7 @@
     "sub_category": "急病",
     "location": "高雄市田寮區",
     "units": "崇德駐地",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3484,6 +3484,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T09:16:31.480544"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T09:43:31.730123"
       }
     ]
   },
@@ -3549,7 +3553,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3562,6 +3566,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T09:20:31.618074"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T09:43:31.730123"
       }
     ]
   },
@@ -3783,7 +3791,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3796,6 +3804,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T09:37:31.740084"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T09:43:31.730123"
       }
     ]
   },
@@ -3858,6 +3870,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T09:40:32.247511"
+      }
+    ]
+  },
+  "bde29453ab3161eee34833da1e4a3b00": {
+    "time": "2026/09/27 09:42:57",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳥松區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T09:43:31.730123"
       }
     ]
   }
