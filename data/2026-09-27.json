@@ -8949,7 +8949,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8958,6 +8958,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T16:20:31.670695"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T16:24:31.756349"
       }
     ]
   },
@@ -9012,6 +9016,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T16:23:31.513995"
+      }
+    ]
+  },
+  "0416b14de02d62fe412c6d21f1e6e21d": {
+    "time": "2026/09/27 16:23:10",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T16:24:31.756349"
+      }
+    ]
+  },
+  "016ef346b305fac02a027c243f1f5f2b": {
+    "time": "2026/09/27 16:23:09",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區仁美路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T16:24:31.756349"
       }
     ]
   }
