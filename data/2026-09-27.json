@@ -5219,7 +5219,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "旗山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -5228,6 +5228,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T11:37:31.534514"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T11:48:31.624796"
       }
     ]
   },
@@ -5351,7 +5355,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5360,6 +5364,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T11:45:31.529977"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T11:48:31.624796"
       }
     ]
   },
@@ -5423,11 +5431,15 @@
     "sub_category": "其他",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T11:47:31.579105"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T11:48:31.624796"
       }
     ]
   },
@@ -5442,6 +5454,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T11:47:31.579105"
+      }
+    ]
+  },
+  "d4b1f5928a6662df5df36b9a16d1d01c": {
+    "time": "2026/09/27 11:47:25",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區瑞北路",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T11:48:31.624796"
       }
     ]
   }
