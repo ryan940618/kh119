@@ -2721,7 +2721,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區中山路",
     "units": "路竹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2738,6 +2738,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T07:45:31.216382"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T08:02:31.386694"
       }
     ]
   },
@@ -2935,7 +2939,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區中正一路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2944,6 +2948,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T07:58:31.213696"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T08:02:31.386694"
       }
     ]
   },
@@ -3008,6 +3016,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T08:00:31.204222"
+      }
+    ]
+  },
+  "a5c4be4ca8f06328e2a61750f1e093f5": {
+    "time": "2026/09/27 08:01:39",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T08:02:31.386694"
       }
     ]
   }
