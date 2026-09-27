@@ -6525,7 +6525,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6538,6 +6538,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T13:31:31.176881"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T13:45:31.257108"
       }
     ]
   },
@@ -6623,11 +6627,15 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區捷西路",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T13:44:31.263303"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T13:45:31.257108"
       }
     ]
   }
