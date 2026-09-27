@@ -771,7 +771,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -788,6 +788,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T02:28:30.988254"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T02:32:30.966951"
       }
     ]
   },
@@ -845,7 +849,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -854,6 +858,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T02:26:31.060368"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T02:32:30.966951"
       }
     ]
   },
@@ -872,6 +880,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T02:31:31.025237"
+      }
+    ]
+  },
+  "bd34ec9bda713f204335489889a5c486": {
+    "time": "2026/09/28 02:30:40",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市左營區重上街",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T02:32:30.966951"
       }
     ]
   }
