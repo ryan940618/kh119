@@ -6607,7 +6607,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6624,6 +6624,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T13:50:31.528956"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T13:56:31.453992"
       }
     ]
   },
@@ -6783,7 +6787,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區水管路",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6792,6 +6796,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T13:50:31.528956"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T13:56:31.453992"
       }
     ]
   },
@@ -6838,6 +6846,62 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T13:55:31.339707"
+      }
+    ]
+  },
+  "c280fb6af0ba8b3c778b00369f767f86": {
+    "time": "2026/09/27 13:56:04",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T13:56:31.453992"
+      }
+    ]
+  },
+  "5cc964ff51edf76e9a9d3b47e3cf8a30": {
+    "time": "2026/09/27 13:55:51",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鹽埕區五福四路",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T13:56:31.453992"
+      }
+    ]
+  },
+  "29afc5e5c83183246e0f289cca4489da": {
+    "time": "2026/09/27 13:55:28",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區鐵道三街",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T13:56:31.453992"
+      }
+    ]
+  },
+  "28db1a53f4c8bd2d3ea055a31fc62ace": {
+    "time": "2026/09/27 13:54:43",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區杭州西街",
+    "units": "鳳山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T13:56:31.453992"
       }
     ]
   }
