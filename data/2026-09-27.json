@@ -7897,7 +7897,7 @@
     "sub_category": "其他",
     "location": "高雄市前鎮區中山二路",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7906,6 +7906,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T15:03:31.849310"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T15:13:31.896701"
       }
     ]
   },
@@ -8013,11 +8017,29 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區東方路",
     "units": "湖內分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T15:12:31.884751"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T15:13:31.896701"
+      }
+    ]
+  },
+  "17836864be511eb007b88972adf82b00": {
+    "time": "2026/09/27 15:12:41",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區大華路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T15:13:31.896701"
       }
     ]
   }
