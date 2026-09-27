@@ -11879,7 +11879,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11892,6 +11892,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T19:24:31.541123"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T19:34:31.466869"
       }
     ]
   },
@@ -11942,6 +11946,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T19:32:31.359405"
+      }
+    ]
+  },
+  "973651cb5568f674f6ffc20c2f2cb494": {
+    "time": "2026/09/27 19:33:16",
+    "category": "其他",
+    "sub_category": "捉蛇",
+    "location": "高雄市甲仙區中正路",
+    "units": "甲仙分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T19:34:31.466869"
       }
     ]
   }
