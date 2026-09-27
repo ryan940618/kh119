@@ -13001,7 +13001,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -13014,6 +13014,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T22:05:31.589004"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T22:16:31.530916"
       }
     ]
   },
@@ -13130,6 +13134,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T22:15:31.439914"
+      }
+    ]
+  },
+  "e0dd91ee84c985770fffdc5d36f3a38d": {
+    "time": "2026/09/27 22:15:29",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市新興區六合一路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T22:16:31.530916"
       }
     ]
   }
