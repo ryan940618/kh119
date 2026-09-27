@@ -3139,7 +3139,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3148,6 +3148,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T08:17:31.373644"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T08:22:31.306798"
       }
     ]
   },
@@ -3175,11 +3179,29 @@
     "sub_category": "藥物、食物中毒",
     "location": "高雄市三民區三民街",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T08:20:31.312365"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T08:22:31.306798"
+      }
+    ]
+  },
+  "936774c323eea80cb8bc1405da8155fd": {
+    "time": "2026/09/27 08:21:38",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T08:22:31.306798"
       }
     ]
   }
