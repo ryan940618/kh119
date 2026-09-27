@@ -1645,7 +1645,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "左營分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1654,6 +1654,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T04:44:31.653553"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T04:50:31.729153"
       }
     ]
   },
@@ -1672,6 +1676,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T04:47:32.181767"
+      }
+    ]
+  },
+  "8fba08b486c9ef1634148cc7d9a2e93f": {
+    "time": "2026/09/28 04:49:08",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區天祥二路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T04:50:31.729153"
       }
     ]
   }
