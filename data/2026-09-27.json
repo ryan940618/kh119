@@ -8885,7 +8885,7 @@
     "sub_category": "藥物、食物中毒",
     "location": "高雄市旗山區興中路",
     "units": "美濃分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8902,6 +8902,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T16:31:31.642026"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T16:34:31.658813"
       }
     ]
   },
@@ -9243,7 +9247,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9252,6 +9256,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T16:30:31.557645"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T16:34:31.658813"
       }
     ]
   },
@@ -9279,11 +9287,29 @@
     "sub_category": "車禍",
     "location": "高雄市三民區德山街",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T16:33:31.476743"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T16:34:31.658813"
+      }
+    ]
+  },
+  "648896e174684dd0868272bf9aac53ca": {
+    "time": "2026/09/27 16:31:22",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市內門區",
+    "units": "杉林分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T16:34:31.658813"
       }
     ]
   }
