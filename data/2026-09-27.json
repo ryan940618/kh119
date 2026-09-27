@@ -6953,11 +6953,15 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區杭州西街",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T13:56:31.453992"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T14:03:31.372759"
       }
     ]
   },
@@ -6985,11 +6989,43 @@
     "sub_category": "其他",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T14:02:31.445408"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T14:03:31.372759"
+      }
+    ]
+  },
+  "d16f66d5c682982caab6a0f08db5e970": {
+    "time": "2026/09/27 14:02:50",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區至學路",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T14:03:31.372759"
+      }
+    ]
+  },
+  "6b803cc990221f5d51156e6dfc61c3fa": {
+    "time": "2026/09/27 14:02:18",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T14:03:31.372759"
       }
     ]
   }
