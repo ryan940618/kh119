@@ -6217,7 +6217,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6226,6 +6226,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T12:48:32.038858"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T12:56:30.956708"
       }
     ]
   },
@@ -6262,6 +6266,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T12:55:30.955872"
+      }
+    ]
+  },
+  "2522d5d1358d806b2d92229d57aada3f": {
+    "time": "2026/09/27 12:55:45",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市大樹區小坪路",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T12:56:30.956708"
       }
     ]
   }
