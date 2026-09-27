@@ -10917,7 +10917,7 @@
     "sub_category": "路倒",
     "location": "高雄市仁武區鳳仁路",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -10926,6 +10926,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T18:14:32.073845"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T18:20:31.015752"
       }
     ]
   },
@@ -10997,11 +11001,15 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "楠梓分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T18:19:31.107427"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T18:20:31.015752"
       }
     ]
   }
