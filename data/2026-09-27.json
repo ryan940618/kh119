@@ -3633,7 +3633,7 @@
     "sub_category": "其他",
     "location": "高雄市小港區高坪六十六路",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -3654,6 +3654,10 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T09:30:31.679319"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T09:34:31.604019"
       }
     ]
   },
@@ -3735,11 +3739,15 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T09:33:31.680525"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T09:34:31.604019"
       }
     ]
   },
@@ -3749,11 +3757,29 @@
     "sub_category": "急病",
     "location": "高雄市杉林區",
     "units": "杉林分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T09:33:31.680525"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T09:34:31.604019"
+      }
+    ]
+  },
+  "a110c3ceb6f7d8b46b7e6db327729b9f": {
+    "time": "2026/09/27 09:33:25",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T09:34:31.604019"
       }
     ]
   }
