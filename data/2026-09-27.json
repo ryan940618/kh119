@@ -3971,7 +3971,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區上寮路",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3980,6 +3980,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T09:59:31.859129"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T10:08:32.112392"
       }
     ]
   },
@@ -4021,11 +4025,43 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T10:07:31.974540"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T10:08:32.112392"
+      }
+    ]
+  },
+  "17f4cc6d3598c7fdc2e0219cba5e9981": {
+    "time": "2026/09/27 10:07:52",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市左營區重立路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T10:08:32.112392"
+      }
+    ]
+  },
+  "83e6b26ac84ac3ba8b774a154a122b12": {
+    "time": "2026/09/27 10:06:45",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T10:08:32.112392"
       }
     ]
   }
