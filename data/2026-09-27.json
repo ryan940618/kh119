@@ -11049,7 +11049,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11066,6 +11066,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T18:39:31.587437"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T18:44:31.347821"
       }
     ]
   },
@@ -11163,7 +11167,7 @@
     "sub_category": "急病",
     "location": "高雄市六龜區",
     "units": "六龜分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11176,6 +11180,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T18:41:31.353914"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T18:44:31.347821"
       }
     ]
   },
@@ -11207,7 +11215,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11216,6 +11224,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T18:35:31.166660"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T18:44:31.347821"
       }
     ]
   },
@@ -11305,11 +11317,15 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T18:42:31.199689"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T18:44:31.347821"
       }
     ]
   },
