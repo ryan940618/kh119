@@ -643,7 +643,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -652,6 +652,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T01:39:31.622096"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T01:44:31.808398"
       }
     ]
   },
@@ -670,6 +674,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T01:41:31.784341"
+      }
+    ]
+  },
+  "0753972e55e67faff4fe451a6691e66d": {
+    "time": "2026/09/28 01:43:13",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T01:44:31.808398"
       }
     ]
   }
