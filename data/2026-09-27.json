@@ -13359,7 +13359,7 @@
     "sub_category": "創傷",
     "location": "高雄市湖內區中正路",
     "units": "湖內分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -13372,6 +13372,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T22:37:31.543198"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T22:47:31.678565"
       }
     ]
   },
@@ -13403,7 +13407,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大寮分隊,大樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -13412,6 +13416,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T22:37:31.543198"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T22:47:31.678565"
       }
     ]
   },
@@ -13434,6 +13442,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T22:44:31.632498"
+      }
+    ]
+  },
+  "d35b37252f5bb3f5a27f9ab3ac276138": {
+    "time": "2026/09/27 22:46:50",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市前鎮區鎮東二街",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T22:47:31.678565"
       }
     ]
   }
