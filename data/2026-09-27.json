@@ -10143,7 +10143,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10156,6 +10156,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T17:30:31.913318"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T17:41:32.333716"
       }
     ]
   },
@@ -10355,7 +10359,7 @@
     "sub_category": "車禍",
     "location": "高雄市林園區沿海路",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10364,6 +10368,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T17:37:31.905435"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T17:41:32.333716"
       }
     ]
   },
@@ -10406,6 +10414,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T17:39:32.325785"
+      }
+    ]
+  },
+  "b8cd77dbdeffb42e36d959fd0a1aead3": {
+    "time": "2026/09/27 17:40:07",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T17:41:32.333716"
       }
     ]
   }
