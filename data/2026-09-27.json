@@ -4981,7 +4981,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區義華路",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -4990,6 +4990,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T11:03:31.431403"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T11:23:31.496811"
       }
     ]
   },
@@ -5132,6 +5136,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T11:22:31.373359"
+      }
+    ]
+  },
+  "bb09901b9401e955308c5bbda58607e1": {
+    "time": "2026/09/27 11:22:16",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T11:23:31.496811"
       }
     ]
   }
