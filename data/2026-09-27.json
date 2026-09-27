@@ -10785,7 +10785,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "左營小隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10798,6 +10798,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T18:07:31.985201"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T18:08:32.088284"
       }
     ]
   },
@@ -10851,11 +10855,29 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T18:06:31.994699"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T18:08:32.088284"
+      }
+    ]
+  },
+  "72450a38ba69f35f0f5f41402d310af6": {
+    "time": "2026/09/27 18:07:47",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市仁武區鳳仁路",
+    "units": "仁武分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T18:08:32.088284"
       }
     ]
   }
