@@ -7711,7 +7711,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7724,6 +7724,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T14:54:31.718036"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T15:05:31.771885"
       }
     ]
   },
@@ -7851,7 +7855,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區仁林路",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7860,6 +7864,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T15:02:31.872077"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T15:05:31.771885"
       }
     ]
   },
@@ -7887,11 +7895,29 @@
     "sub_category": "其他",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T15:04:31.787032"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T15:05:31.771885"
+      }
+    ]
+  },
+  "5774e1336cc6c6d95d94ee53e1c54d2e": {
+    "time": "2026/09/27 15:04:54",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T15:05:31.771885"
       }
     ]
   }
