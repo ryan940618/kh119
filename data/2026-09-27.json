@@ -12733,7 +12733,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12750,6 +12750,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T21:42:31.239881"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T21:56:31.372854"
       }
     ]
   },
@@ -12837,7 +12841,7 @@
     "sub_category": "雜草(含廢棄物、墓地)",
     "location": "高雄市甲仙區",
     "units": "甲仙分隊",
-    "current_status": "已到達",
+    "current_status": "火已控",
     "status_history": [
       {
         "status": "已派遣",
@@ -12850,6 +12854,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T21:54:31.360294"
+      },
+      {
+        "status": "火已控",
+        "timestamp": "2026-09-27T21:56:31.372854"
       }
     ]
   },
@@ -12947,7 +12955,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12956,6 +12964,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T21:52:31.311385"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T21:56:31.372854"
       }
     ]
   }
