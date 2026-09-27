@@ -8543,7 +8543,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8560,6 +8560,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T15:57:31.150703"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T16:06:31.277904"
       }
     ]
   },
@@ -8669,7 +8673,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8686,6 +8690,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T16:04:31.112852"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T16:06:31.277904"
       }
     ]
   },
@@ -8727,11 +8735,15 @@
     "sub_category": "其他",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T15:59:31.151212"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T16:06:31.277904"
       }
     ]
   },
@@ -8781,11 +8793,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區站西路和鐵道三街",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T16:05:31.300439"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T16:06:31.277904"
       }
     ]
   }
