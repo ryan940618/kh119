@@ -2433,7 +2433,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2450,6 +2450,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T07:10:31.551018"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T07:18:31.722458"
       }
     ]
   },
@@ -2481,7 +2485,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區鼎勇街",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2490,6 +2494,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T07:14:31.711388"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T07:18:31.722458"
       }
     ]
   },
@@ -2504,6 +2512,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T07:16:31.765909"
+      }
+    ]
+  },
+  "27a0d35d5d54f206ba9a8944589d779a": {
+    "time": "2026/09/28 07:17:49",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區苓雅一路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T07:18:31.722458"
       }
     ]
   }
