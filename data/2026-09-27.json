@@ -9431,7 +9431,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9448,6 +9448,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T16:51:31.588474"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T16:58:31.635623"
       }
     ]
   },
@@ -9607,11 +9611,15 @@
     "sub_category": "車禍",
     "location": "高雄市小港區中安路",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T16:56:31.706777"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T16:58:31.635623"
       }
     ]
   }
