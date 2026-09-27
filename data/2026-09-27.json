@@ -13183,7 +13183,7 @@
     "sub_category": "車禍",
     "location": "高雄市新興區六合一路",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -13200,6 +13200,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T22:27:31.532795"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T22:33:31.634245"
       }
     ]
   },
@@ -13257,7 +13261,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳥松區仁愛路",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -13266,6 +13270,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T22:25:31.559099"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T22:33:31.634245"
       }
     ]
   },
@@ -13324,6 +13332,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T22:31:31.693381"
+      }
+    ]
+  },
+  "de35831e5a391236ba394779b45c713c": {
+    "time": "2026/09/27 22:32:44",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區九如一路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T22:33:31.634245"
       }
     ]
   }
