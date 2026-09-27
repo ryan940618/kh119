@@ -10267,7 +10267,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區翠亨南中安路",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -10276,6 +10276,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T17:31:31.850847"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T17:39:32.325785"
       }
     ]
   },
@@ -10307,7 +10311,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10320,6 +10324,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T17:35:31.912869"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T17:39:32.325785"
       }
     ]
   },
@@ -10384,6 +10392,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T17:38:31.877358"
+      }
+    ]
+  },
+  "027a9b2df4f023ba3f4bf7d53f9d63ff": {
+    "time": "2026/09/27 17:38:55",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T17:39:32.325785"
       }
     ]
   }
