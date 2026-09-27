@@ -12747,7 +12747,7 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12760,6 +12760,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T21:33:31.113559"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T21:38:31.175917"
       }
     ]
   },
@@ -12791,11 +12795,15 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T21:36:31.117930"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T21:38:31.175917"
       }
     ]
   },
@@ -12810,6 +12818,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T21:37:31.182306"
+      }
+    ]
+  },
+  "0c28b75f40fec50f967569d96ba1c5e3": {
+    "time": "2026/09/27 21:38:04",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區水源路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T21:38:31.175917"
+      }
+    ]
+  },
+  "084b5eb05d2ffa84c7a15f8bf877e146": {
+    "time": "2026/09/27 21:37:38",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市燕巢區牧場路",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T21:38:31.175917"
       }
     ]
   }
