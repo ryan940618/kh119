@@ -4519,7 +4519,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4532,6 +4532,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T10:43:31.198088"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T10:56:31.357031"
       }
     ]
   },
@@ -4597,7 +4601,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4610,6 +4614,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T10:44:31.295868"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T10:56:31.357031"
       }
     ]
   },
@@ -4645,7 +4653,7 @@
     "sub_category": "創傷",
     "location": "高雄市岡山區竹圍中街",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4658,6 +4666,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T10:44:31.295868"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T10:56:31.357031"
       }
     ]
   },
@@ -4693,7 +4705,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -4702,6 +4714,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T10:46:31.271937"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T10:56:31.357031"
       }
     ]
   },
@@ -4787,7 +4803,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4796,6 +4812,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T10:50:31.341418"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T10:56:31.357031"
       }
     ]
   },
@@ -4810,6 +4830,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T10:51:31.186890"
+      }
+    ]
+  },
+  "912a09fe6dde8c782849ae6086a290d4": {
+    "time": "2026/09/27 10:55:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T10:56:31.357031"
+      }
+    ]
+  },
+  "199c9df764f09923946cc65e16688fb7": {
+    "time": "2026/09/27 10:55:34",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區明誠三路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T10:56:31.357031"
+      }
+    ]
+  },
+  "59171c596908053b3c791fedbd983d0d": {
+    "time": "2026/09/27 10:55:05",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T10:56:31.357031"
       }
     ]
   }
