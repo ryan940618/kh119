@@ -1943,7 +1943,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1960,6 +1960,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T05:50:31.172721"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T05:59:31.168448"
       }
     ]
   },
@@ -2041,11 +2045,15 @@
     "sub_category": "一般(集合)住宅",
     "location": "高雄市內門區",
     "units": "內門分隊,旗山分隊,杉林分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T05:57:31.216328"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T05:59:31.168448"
       }
     ]
   }
