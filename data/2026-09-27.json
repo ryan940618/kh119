@@ -12897,7 +12897,7 @@
     "sub_category": "創傷",
     "location": "高雄市燕巢區牧場路",
     "units": "燕巢分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12910,6 +12910,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T21:54:31.360294"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T22:09:31.842501"
       }
     ]
   },
@@ -13061,11 +13065,15 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區澄仁東街",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T22:07:31.464717"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T22:09:31.842501"
       }
     ]
   }
