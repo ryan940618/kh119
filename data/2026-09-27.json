@@ -6861,7 +6861,7 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區九大路",
     "units": "大樹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6878,6 +6878,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T14:02:31.445408"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T14:21:31.601182"
       }
     ]
   },
@@ -7275,11 +7279,15 @@
     "sub_category": "創傷",
     "location": "高雄市岡山區岡燕路",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T14:18:31.487550"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T14:21:31.601182"
       }
     ]
   },
@@ -7289,11 +7297,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T14:19:31.669849"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T14:21:31.601182"
       }
     ]
   }
