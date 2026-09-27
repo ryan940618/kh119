@@ -3199,7 +3199,7 @@
     "sub_category": "藥物、食物中毒",
     "location": "高雄市三民區三民街",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3212,6 +3212,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T08:25:31.205375"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T08:41:31.390193"
       }
     ]
   },
@@ -3296,6 +3300,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T08:37:31.378564"
+      }
+    ]
+  },
+  "195feada021ca76f33b744b38e2ee868": {
+    "time": "2026/09/27 08:40:07",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T08:41:31.390193"
       }
     ]
   }
