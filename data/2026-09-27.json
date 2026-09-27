@@ -13699,7 +13699,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -13708,6 +13708,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T23:10:31.884241"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T23:17:32.275309"
       }
     ]
   },
@@ -13717,7 +13721,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -13726,6 +13730,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T23:12:31.822107"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T23:17:32.275309"
       }
     ]
   },
@@ -13753,7 +13761,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區後紅路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -13762,6 +13770,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T23:14:31.848595"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T23:17:32.275309"
       }
     ]
   },
@@ -13798,6 +13810,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T23:16:31.853867"
+      }
+    ]
+  },
+  "db77337f3cec3c549e6c08577a57238f": {
+    "time": "2026/09/27 23:16:31",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T23:17:32.275309"
       }
     ]
   }
