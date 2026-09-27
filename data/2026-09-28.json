@@ -2663,7 +2663,7 @@
     "sub_category": "創傷",
     "location": "高雄市鼓山區河川街",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2676,6 +2676,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T07:33:31.814919"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T07:45:31.868505"
       }
     ]
   },
@@ -2707,11 +2711,15 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T07:43:31.893831"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T07:45:31.868505"
       }
     ]
   }
