@@ -4467,7 +4467,7 @@
     "sub_category": "急病",
     "location": "高雄市橋頭區",
     "units": "橋頭分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4484,6 +4484,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T10:51:31.186890"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T11:04:31.372121"
       }
     ]
   },
@@ -4661,7 +4665,7 @@
     "sub_category": "創傷",
     "location": "高雄市岡山區竹圍中街",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4678,6 +4682,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T10:56:31.357031"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T11:04:31.372121"
       }
     ]
   },
@@ -4849,11 +4857,15 @@
     "sub_category": "其他",
     "location": "高雄市美濃區清水街",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T10:51:31.186890"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T11:04:31.372121"
       }
     ]
   },
@@ -4952,6 +4964,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T11:03:31.431403"
+      }
+    ]
+  },
+  "6149b71c789ebacbc96aceef12b3c75e": {
+    "time": "2026/09/27 11:03:59",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T11:04:31.372121"
       }
     ]
   }
