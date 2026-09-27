@@ -4147,7 +4147,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中安路",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4156,6 +4156,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T10:17:31.999848"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T10:18:31.995043"
       }
     ]
   },
@@ -4165,11 +4169,29 @@
     "sub_category": "其他",
     "location": "高雄市三民區九如二路",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T10:12:31.913039"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T10:18:31.995043"
+      }
+    ]
+  },
+  "f4135de46fbbdabdbc38fe9d8403b717": {
+    "time": "2026/09/27 10:17:50",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區鎮興路",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T10:18:31.995043"
       }
     ]
   }
