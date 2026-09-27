@@ -9697,7 +9697,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9706,6 +9706,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T17:01:31.903912"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T17:06:31.979030"
       }
     ]
   },
@@ -9765,11 +9769,29 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T17:05:31.857404"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T17:06:31.979030"
+      }
+    ]
+  },
+  "133f1ac66f31b6c472c6e2dac2e406ab": {
+    "time": "2026/09/27 17:04:53",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區裕誠路",
+    "units": "鼎金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T17:06:31.979030"
       }
     ]
   }
