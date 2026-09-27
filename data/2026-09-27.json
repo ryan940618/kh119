@@ -3433,11 +3433,15 @@
     "sub_category": "其他",
     "location": "高雄市楠梓區",
     "units": "",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T09:08:31.461991"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T09:13:31.657641"
       }
     ]
   },
@@ -3474,6 +3478,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T09:12:31.526134"
+      }
+    ]
+  },
+  "f099208a18928bea95bb502ec3df22e3": {
+    "time": "2026/09/27 09:13:05",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區文衡路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T09:13:31.657641"
       }
     ]
   }
