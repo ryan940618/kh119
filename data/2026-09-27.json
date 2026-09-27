@@ -5285,7 +5285,7 @@
     "sub_category": "其他",
     "location": "高雄市大寮區",
     "units": "",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5298,6 +5298,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T11:41:31.549556"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T11:50:31.717595"
       }
     ]
   },
@@ -5385,7 +5389,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區鳳林三路",
     "units": "大寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5398,6 +5402,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T11:47:31.579105"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T11:50:31.717595"
       }
     ]
   },
@@ -5407,7 +5415,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區天祥一路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5416,6 +5424,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T11:46:31.575809"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T11:50:31.717595"
       }
     ]
   },
@@ -5480,6 +5492,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T11:48:31.624796"
+      }
+    ]
+  },
+  "0fa871e7fcbdce1853877b18a64f29c2": {
+    "time": "2026/09/27 11:48:50",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T11:50:31.717595"
       }
     ]
   }
