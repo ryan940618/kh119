@@ -7739,7 +7739,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區左營大路",
     "units": "左營小隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7756,6 +7756,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T14:57:31.837568"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T15:02:31.872077"
       }
     ]
   },
@@ -7823,11 +7827,29 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區仁林路",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T15:00:31.841741"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T15:02:31.872077"
+      }
+    ]
+  },
+  "3bc78b424e7872d196326bc7601b07ad": {
+    "time": "2026/09/27 15:01:14",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市前鎮區中山二路",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T15:02:31.872077"
       }
     ]
   }
