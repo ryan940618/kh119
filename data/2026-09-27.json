@@ -8307,7 +8307,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8324,6 +8324,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T15:43:31.372660"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T15:52:31.071359"
       }
     ]
   },
@@ -8405,7 +8409,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區建工路",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -8418,6 +8422,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T15:45:31.573300"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T15:52:31.071359"
       }
     ]
   },
@@ -8565,11 +8573,15 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區仕隆路",
     "units": "楠梓分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T15:51:31.151314"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T15:52:31.071359"
       }
     ]
   }
