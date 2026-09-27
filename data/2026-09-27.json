@@ -13087,7 +13087,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -13100,6 +13100,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T22:11:31.622942"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T22:30:31.497383"
       }
     ]
   },
@@ -13267,7 +13271,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -13276,6 +13280,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T22:26:31.506278"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T22:30:31.497383"
       }
     ]
   },
@@ -13290,6 +13298,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T22:29:31.480362"
+      }
+    ]
+  },
+  "ddc4b920b287146536b9292e9c65609a": {
+    "time": "2026/09/27 22:29:35",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市湖內區中正路",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T22:30:31.497383"
       }
     ]
   }
