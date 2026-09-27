@@ -3819,7 +3819,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3836,6 +3836,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T09:43:31.730123"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T10:13:31.948796"
       }
     ]
   },
@@ -3949,7 +3953,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3962,6 +3966,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T10:00:31.866101"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T10:13:31.948796"
       }
     ]
   },
@@ -4051,7 +4059,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區重立路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4060,6 +4068,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T10:10:31.922757"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T10:13:31.948796"
       }
     ]
   },
