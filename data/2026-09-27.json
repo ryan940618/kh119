@@ -6555,7 +6555,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊,美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6564,6 +6564,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T13:27:31.273859"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T13:47:31.313471"
       }
     ]
   },
@@ -6617,7 +6621,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6626,6 +6630,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T13:42:31.310515"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T13:47:31.313471"
       }
     ]
   },
@@ -6681,11 +6689,29 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T13:46:31.267535"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T13:47:31.313471"
+      }
+    ]
+  },
+  "f12b329de45f19dd9947729f71ed3d69": {
+    "time": "2026/09/27 13:46:51",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T13:47:31.313471"
       }
     ]
   }
