@@ -5,7 +5,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -14,6 +14,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T00:06:31.006697"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T00:10:31.089325"
       }
     ]
   },
@@ -23,11 +27,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T00:05:31.170470"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T00:10:31.089325"
       }
     ]
   },
@@ -42,6 +50,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T00:08:31.059492"
+      }
+    ]
+  },
+  "cccacc6f9815e57dc1ec1d1cfc0ae4c4": {
+    "time": "2026/09/28 00:08:57",
+    "category": "其他",
+    "sub_category": "動物救援",
+    "location": "高雄市小港區沿海一路",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T00:10:31.089325"
       }
     ]
   }
