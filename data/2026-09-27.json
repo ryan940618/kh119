@@ -6057,7 +6057,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區和平二路",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6074,6 +6074,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T13:05:31.114621"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T13:12:31.151885"
       }
     ]
   },
@@ -6229,7 +6233,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6242,6 +6246,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T12:52:31.239580"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T13:12:31.151885"
       }
     ]
   },
@@ -6397,11 +6405,15 @@
     "sub_category": "創傷",
     "location": "高雄市旗山區旗甲路",
     "units": "內門分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T13:11:31.104453"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T13:12:31.151885"
       }
     ]
   }
