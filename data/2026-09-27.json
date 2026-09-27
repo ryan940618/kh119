@@ -5967,7 +5967,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區富國路",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5980,6 +5980,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T12:39:31.869447"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T12:57:31.150693"
       }
     ]
   },
@@ -6275,11 +6279,29 @@
     "sub_category": "路倒",
     "location": "高雄市大樹區小坪路",
     "units": "大樹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T12:56:30.956708"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T12:57:31.150693"
+      }
+    ]
+  },
+  "284ba46ab44be43fcf05d9ceab89b2bd": {
+    "time": "2026/09/27 12:56:29",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市林園區潭頭路",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T12:57:31.150693"
       }
     ]
   }
