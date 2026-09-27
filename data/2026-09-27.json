@@ -8517,7 +8517,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -8526,6 +8526,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T15:46:31.213895"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T16:01:31.068098"
       }
     ]
   },
@@ -8717,11 +8721,15 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T16:00:31.166286"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T16:01:31.068098"
       }
     ]
   }
