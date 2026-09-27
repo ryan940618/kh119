@@ -7673,7 +7673,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區自由一路",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7690,6 +7690,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T15:01:31.759691"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T15:03:31.849310"
       }
     ]
   },
@@ -7845,11 +7849,15 @@
     "sub_category": "其他",
     "location": "高雄市前鎮區中山二路",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T15:02:31.872077"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T15:03:31.849310"
       }
     ]
   }
