@@ -1601,7 +1601,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區崗山北街",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1618,6 +1618,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T04:59:31.815543"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T05:11:30.952162"
       }
     ]
   },
@@ -1816,6 +1820,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T05:05:30.869046"
+      }
+    ]
+  },
+  "a23440759f028b1b69af601aff11775b": {
+    "time": "2026/09/28 05:09:31",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大社區",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T05:11:30.952162"
       }
     ]
   }
