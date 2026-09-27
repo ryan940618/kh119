@@ -6473,7 +6473,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6490,6 +6490,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T13:30:31.135364"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T13:40:31.212513"
       }
     ]
   },
@@ -6588,6 +6592,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T13:39:31.294544"
+      }
+    ]
+  },
+  "08f5e0dfb6024104e9150edb9c30a86d": {
+    "time": "2026/09/27 13:39:19",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市梓官區",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T13:40:31.212513"
       }
     ]
   }
