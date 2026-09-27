@@ -12341,7 +12341,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12358,6 +12358,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T20:26:31.905724"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T20:30:31.889760"
       }
     ]
   },
@@ -12442,6 +12446,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T20:27:31.849024"
+      }
+    ]
+  },
+  "791b16552acf43d098248035f4cd0161": {
+    "time": "2026/09/27 20:29:21",
+    "category": "火災",
+    "sub_category": "雜草(含廢棄物、墓地)",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T20:30:31.889760"
       }
     ]
   }
