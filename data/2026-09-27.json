@@ -7509,7 +7509,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7526,6 +7526,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T14:57:31.837568"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T15:01:31.759691"
       }
     ]
   },
@@ -7557,7 +7561,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區站西路",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7574,6 +7578,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T14:59:31.822098"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T15:01:31.759691"
       }
     ]
   },
@@ -7665,7 +7673,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區自由一路",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7678,6 +7686,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T14:53:31.824556"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T15:01:31.759691"
       }
     ]
   },
@@ -7793,11 +7805,15 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區中山二路",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T14:59:31.822098"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T15:01:31.759691"
       }
     ]
   },
