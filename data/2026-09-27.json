@@ -6675,7 +6675,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區捷西路",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6692,6 +6692,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T14:05:31.416834"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T14:11:31.503827"
       }
     ]
   },
@@ -7087,11 +7091,15 @@
     "sub_category": "其他",
     "location": "高雄市楠梓區",
     "units": "",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T14:06:31.550161"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T14:11:31.503827"
       }
     ]
   },
@@ -7119,11 +7127,15 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T14:09:31.588129"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T14:11:31.503827"
       }
     ]
   },
