@@ -13303,7 +13303,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -13316,6 +13316,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T22:30:31.497383"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T22:39:31.711776"
       }
     ]
   },
@@ -13409,11 +13413,15 @@
     "sub_category": "汽機車",
     "location": "高雄市左營區左營大路",
     "units": "左營小隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T22:38:31.629343"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T22:39:31.711776"
       }
     ]
   }
