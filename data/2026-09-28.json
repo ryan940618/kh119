@@ -2381,7 +2381,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區興隆街",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2398,6 +2398,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T07:08:31.619787"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T07:19:31.807661"
       }
     ]
   },
@@ -2407,7 +2411,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2424,6 +2428,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T07:07:31.588303"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T07:19:31.807661"
       }
     ]
   },
@@ -2507,11 +2515,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T07:16:31.765909"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T07:19:31.807661"
       }
     ]
   },
@@ -2526,6 +2538,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T07:18:31.722458"
+      }
+    ]
+  },
+  "33ad9085a18f61333f5e71073f25dfc2": {
+    "time": "2026/09/28 07:18:02",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區三多二路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T07:19:31.807661"
+      }
+    ]
+  },
+  "2f0e91f808f738320977ae4e2d420f00": {
+    "time": "2026/09/28 07:17:49",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T07:19:31.807661"
       }
     ]
   }
