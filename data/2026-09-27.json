@@ -13791,7 +13791,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -13800,6 +13800,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T23:15:31.979378"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T23:20:31.750181"
       }
     ]
   },
@@ -13827,11 +13831,29 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T23:17:32.275309"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T23:20:31.750181"
+      }
+    ]
+  },
+  "64aa4c678621a9d91b2784fa1bfa4e6b": {
+    "time": "2026/09/27 23:19:40",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T23:20:31.750181"
       }
     ]
   }
