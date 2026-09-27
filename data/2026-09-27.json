@@ -3503,7 +3503,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區文衡路",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3516,6 +3516,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T09:18:31.613095"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T09:24:31.746429"
       }
     ]
   },
@@ -3547,11 +3551,15 @@
     "sub_category": "路倒",
     "location": "高雄市三民區鼎貴路",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T09:18:31.613095"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T09:24:31.746429"
       }
     ]
   },
@@ -3597,11 +3605,15 @@
     "sub_category": "其他",
     "location": "高雄市小港區高坪六十六路",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T09:23:31.733148"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T09:24:31.746429"
       }
     ]
   }
