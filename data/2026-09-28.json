@@ -2351,7 +2351,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區嘉新東路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2368,6 +2368,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T07:04:31.635530"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T07:12:31.693058"
       }
     ]
   },
@@ -2455,7 +2459,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區翠華路",
     "units": "左營小隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2464,6 +2468,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T07:07:31.588303"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T07:12:31.693058"
+      }
+    ]
+  },
+  "25848afc65fd80eb7987581f83395f9d": {
+    "time": "2026/09/28 07:11:26",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區鼎勇街",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T07:12:31.693058"
       }
     ]
   }
