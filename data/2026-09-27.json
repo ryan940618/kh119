@@ -8439,7 +8439,7 @@
     "sub_category": "急病",
     "location": "高雄市杉林區",
     "units": "杉林分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -8452,6 +8452,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T15:44:31.055759"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T15:59:31.151212"
       }
     ]
   },
@@ -8690,6 +8694,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T15:58:31.206973"
+      }
+    ]
+  },
+  "0e0cd0de7574d62bba81da08b6af4416": {
+    "time": "2026/09/27 15:57:44",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市仁武區",
+    "units": "仁武分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T15:59:31.151212"
       }
     ]
   }
