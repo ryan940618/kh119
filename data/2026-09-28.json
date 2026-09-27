@@ -801,7 +801,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區崗山南街",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -814,6 +814,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T02:24:30.963477"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T02:38:31.010240"
       }
     ]
   },
@@ -930,6 +934,48 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T02:37:31.072820"
+      }
+    ]
+  },
+  "857076b5c3f77852980a10f204394a78": {
+    "time": "2026/09/28 02:37:36",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市前鎮區鎮中路",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T02:38:31.010240"
+      }
+    ]
+  },
+  "d998ec74a82d2490388c650bb00de001": {
+    "time": "2026/09/28 02:37:22",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T02:38:31.010240"
+      }
+    ]
+  },
+  "6ac49a1f7a6221d5b54f42aa2369178c": {
+    "time": "2026/09/28 02:36:54",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市前鎮區德昌路",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T02:38:31.010240"
       }
     ]
   }
