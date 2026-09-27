@@ -4555,7 +4555,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區高楠公路",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4572,6 +4572,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T10:46:31.271937"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T10:49:31.300645"
       }
     ]
   },
@@ -4723,11 +4727,15 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T10:46:31.271937"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T10:49:31.300645"
       }
     ]
   },
@@ -4737,11 +4745,29 @@
     "sub_category": "其他",
     "location": "高雄市美濃區清水街",
     "units": "美濃分隊",
-    "current_status": "已派遣",
+    "current_status": "已受理",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T10:48:31.168318"
+      },
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-27T10:49:31.300645"
+      }
+    ]
+  },
+  "1cb04c30ae6a12b48db74570f9452f74": {
+    "time": "2026/09/27 10:48:49",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳥松區",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T10:49:31.300645"
       }
     ]
   }
