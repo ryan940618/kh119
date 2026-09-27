@@ -5917,7 +5917,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5926,6 +5926,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T12:30:31.802965"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T12:37:32.055084"
       }
     ]
   },
@@ -5953,11 +5957,29 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區日昌路",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T12:35:31.994286"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T12:37:32.055084"
+      }
+    ]
+  },
+  "074cb9a92747e48ced4838bd81ff6668": {
+    "time": "2026/09/27 12:36:25",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T12:37:32.055084"
       }
     ]
   }
