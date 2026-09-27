@@ -5369,7 +5369,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區鳳林三路",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5378,6 +5378,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T11:46:31.575809"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T11:47:31.579105"
       }
     ]
   },
@@ -5410,6 +5414,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T11:46:31.575809"
+      }
+    ]
+  },
+  "b7fe6919bfb6be3f2804733014de4369": {
+    "time": "2026/09/27 11:46:30",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市仁武區",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T11:47:31.579105"
+      }
+    ]
+  },
+  "7f0bbbc32b0007e1cae68e2d61654c65": {
+    "time": "2026/09/27 11:45:48",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區光華一路",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T11:47:31.579105"
       }
     ]
   }
