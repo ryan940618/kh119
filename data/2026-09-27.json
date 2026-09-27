@@ -11429,7 +11429,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區翠華路",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -11438,6 +11438,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T18:49:31.254874"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T19:09:31.499905"
       }
     ]
   },
@@ -11645,7 +11649,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11658,6 +11662,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T19:06:31.341419"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T19:09:31.499905"
       }
     ]
   },
@@ -11667,11 +11675,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T19:07:31.579324"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T19:09:31.499905"
       }
     ]
   },
@@ -11681,11 +11693,29 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區仁怡二街",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T19:08:31.426880"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T19:09:31.499905"
+      }
+    ]
+  },
+  "6620d9dd53810c232cddb7f453bbbb4e": {
+    "time": "2026/09/27 19:08:37",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T19:09:31.499905"
       }
     ]
   }
