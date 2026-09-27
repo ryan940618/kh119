@@ -10027,7 +10027,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10036,6 +10036,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T17:22:31.906969"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T17:24:31.791228"
       }
     ]
   },
@@ -10045,11 +10049,29 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T17:22:31.906969"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T17:24:31.791228"
+      }
+    ]
+  },
+  "04ad96d792ecb45b3a8ad95accccec00": {
+    "time": "2026/09/27 17:23:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T17:24:31.791228"
       }
     ]
   }
