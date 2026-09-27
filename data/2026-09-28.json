@@ -179,7 +179,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -192,6 +192,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T00:35:31.249554"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T00:41:31.186678"
       }
     ]
   },
@@ -273,11 +277,15 @@
     "sub_category": "路倒",
     "location": "高雄市苓雅區樂仁路",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T00:40:31.123862"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T00:41:31.186678"
       }
     ]
   }
