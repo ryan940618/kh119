@@ -2471,7 +2471,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區翠華路",
     "units": "左營小隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2488,6 +2488,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T07:22:31.727982"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T07:28:31.740594"
       }
     ]
   },
@@ -2627,11 +2631,15 @@
     "sub_category": "創傷",
     "location": "高雄市鼓山區河川街",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T07:25:31.780796"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T07:28:31.740594"
       }
     ]
   }
