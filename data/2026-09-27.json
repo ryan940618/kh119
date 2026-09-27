@@ -5281,7 +5281,7 @@
     "sub_category": "其他",
     "location": "高雄市大寮區",
     "units": "",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5290,6 +5290,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T11:32:31.425408"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T11:41:31.549556"
       }
     ]
   },
@@ -5299,7 +5303,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "林園分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5312,6 +5316,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T11:39:31.601789"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T11:41:31.549556"
       }
     ]
   },
