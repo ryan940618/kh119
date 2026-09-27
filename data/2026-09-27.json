@@ -8643,7 +8643,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8656,6 +8656,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T15:58:31.206973"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T16:05:31.300439"
       }
     ]
   },
@@ -8737,7 +8741,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8746,6 +8750,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T16:01:31.068098"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T16:05:31.300439"
       }
     ]
   },
@@ -8755,11 +8763,29 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T16:04:31.112852"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T16:05:31.300439"
+      }
+    ]
+  },
+  "ae0383c8a5d45be71068bd4541d53e5a": {
+    "time": "2026/09/27 16:04:43",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區站西路和鐵道三街",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T16:05:31.300439"
       }
     ]
   }
