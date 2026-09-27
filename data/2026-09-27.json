@@ -12773,7 +12773,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12786,6 +12786,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T21:34:31.109472"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T21:40:31.222669"
       }
     ]
   },
@@ -12795,7 +12799,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12804,6 +12808,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T21:38:31.175917"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T21:40:31.222669"
       }
     ]
   },
@@ -12858,6 +12866,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T21:39:31.341409"
+      }
+    ]
+  },
+  "84b17f883025277d007d3e463557ef8e": {
+    "time": "2026/09/27 21:39:29",
+    "category": "火災",
+    "sub_category": "雜草(含廢棄物、墓地)",
+    "location": "高雄市美濃區中山路",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T21:40:31.222669"
       }
     ]
   }
