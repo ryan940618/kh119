@@ -9875,7 +9875,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區裕誠路",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -9888,6 +9888,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T17:16:32.119648"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T17:31:31.850847"
       }
     ]
   },
@@ -9923,7 +9927,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -9936,6 +9940,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T17:27:31.891681"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T17:31:31.850847"
       }
     ]
   },
@@ -10201,7 +10209,7 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10210,6 +10218,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T17:28:32.037417"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T17:31:31.850847"
       }
     ]
   },
@@ -10219,11 +10231,15 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區翠亨南中安路",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T17:28:32.037417"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T17:31:31.850847"
       }
     ]
   },
@@ -10233,11 +10249,29 @@
     "sub_category": "車禍",
     "location": "高雄市左營區果峰街",
     "units": "左營小隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T17:30:31.913318"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T17:31:31.850847"
+      }
+    ]
+  },
+  "e069968536716231c044e512b8e1bdb6": {
+    "time": "2026/09/27 17:30:32",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市阿蓮區",
+    "units": "阿蓮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T17:31:31.850847"
       }
     ]
   }
