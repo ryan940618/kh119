@@ -4503,11 +4503,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區高楠公路",
     "units": "楠梓分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T10:38:31.101035"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T10:39:31.313276"
       }
     ]
   },
@@ -4517,11 +4521,43 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T10:38:31.101035"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T10:39:31.313276"
+      }
+    ]
+  },
+  "2e4d731ce0a12e3be5119a81ca4cc268": {
+    "time": "2026/09/27 10:39:15",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T10:39:31.313276"
+      }
+    ]
+  },
+  "a181628bebd2f0852afcd0f8dd0e606c": {
+    "time": "2026/09/27 10:38:56",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市岡山區竹圍中街",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T10:39:31.313276"
       }
     ]
   }
