@@ -7585,7 +7585,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區翠華路",
     "units": "左營分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7594,6 +7594,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T14:43:31.777639"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T14:48:31.774996"
       }
     ]
   },
@@ -7625,11 +7629,43 @@
     "sub_category": "車禍",
     "location": "高雄市三民區自由一路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T14:47:31.845449"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T14:48:31.774996"
+      }
+    ]
+  },
+  "3a27da9a5a0d6bb384464eec74b8ad67": {
+    "time": "2026/09/27 14:47:47",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T14:48:31.774996"
+      }
+    ]
+  },
+  "6f76f282b67168e306ab52d907733dab": {
+    "time": "2026/09/27 14:47:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗津區",
+    "units": "旗津分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T14:48:31.774996"
       }
     ]
   }
