@@ -8407,7 +8407,7 @@
     "sub_category": "急病",
     "location": "高雄市杉林區",
     "units": "杉林分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -8416,6 +8416,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T15:38:31.151096"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T15:44:31.055759"
       }
     ]
   },
@@ -8425,7 +8429,7 @@
     "sub_category": "其他",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8434,6 +8438,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T15:37:31.071298"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T15:44:31.055759"
       }
     ]
   },
@@ -8466,6 +8474,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T15:39:31.130577"
+      }
+    ]
+  },
+  "de0d0c92e88763efd23c647f9dd9be9d": {
+    "time": "2026/09/27 15:42:53",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T15:44:31.055759"
       }
     ]
   }
