@@ -3493,7 +3493,7 @@
     "sub_category": "路倒",
     "location": "高雄市左營區果峰街",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3506,6 +3506,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T09:27:31.682680"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T09:31:31.687661"
       }
     ]
   },
@@ -3691,11 +3695,29 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區海洋二路",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T09:30:31.679319"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T09:31:31.687661"
+      }
+    ]
+  },
+  "3d7579cbc181ccf132752ad401da7b27": {
+    "time": "2026/09/27 09:30:54",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T09:31:31.687661"
       }
     ]
   }
