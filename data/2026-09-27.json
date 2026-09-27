@@ -13979,11 +13979,15 @@
     "sub_category": "動物救援",
     "location": "高雄市小港區中山四路",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T23:52:31.166992"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T23:57:30.994502"
       }
     ]
   },
@@ -14011,11 +14015,15 @@
     "sub_category": "動物救援",
     "location": "高雄市鳥松區中正路",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T23:55:30.956674"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T23:57:30.994502"
       }
     ]
   },
@@ -14025,11 +14033,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T23:55:30.956674"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T23:57:30.994502"
+      }
+    ]
+  },
+  "0c97128c87a04e97882dc17da6ec8de3": {
+    "time": "2026/09/27 23:55:50",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T23:57:30.994502"
       }
     ]
   }
