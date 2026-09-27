@@ -10559,7 +10559,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10572,6 +10572,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T18:12:32.174091"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T18:13:32.029287"
       }
     ]
   },
@@ -10779,7 +10783,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區果峰街",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10788,6 +10792,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T17:59:32.264838"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T18:13:32.029287"
       }
     ]
   },
@@ -10926,6 +10934,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T18:10:32.198019"
+      }
+    ]
+  },
+  "5a9a9a0d902d2f056f4f04643514199e": {
+    "time": "2026/09/27 18:12:27",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市茄萣區白砂路",
+    "units": "茄萣分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T18:13:32.029287"
       }
     ]
   }
