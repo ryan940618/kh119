@@ -8603,7 +8603,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區永順街",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8616,6 +8616,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T15:58:31.206973"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T16:13:31.245310"
       }
     ]
   },
@@ -8840,6 +8844,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T16:12:31.298935"
+      }
+    ]
+  },
+  "adf1380ba2362bfc53b7d70ed68c4789": {
+    "time": "2026/09/27 16:12:29",
+    "category": "緊急救護",
+    "sub_category": "藥物、食物中毒",
+    "location": "高雄市旗山區興中路",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T16:13:31.245310"
       }
     ]
   }
