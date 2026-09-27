@@ -1169,7 +1169,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1178,6 +1178,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T03:26:31.240812"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T03:30:31.289124"
       }
     ]
   },
@@ -1192,6 +1196,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T03:26:31.240812"
+      }
+    ]
+  },
+  "3392f6227182cbc6d911052403a5e5e9": {
+    "time": "2026/09/28 03:29:25",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市楠梓區",
+    "units": "後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T03:30:31.289124"
       }
     ]
   }
