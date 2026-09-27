@@ -8043,7 +8043,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -8056,6 +8056,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T15:32:32.118503"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T15:36:31.066101"
       }
     ]
   },
@@ -8113,7 +8117,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區通港路",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -8126,6 +8130,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T15:31:32.058285"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T15:36:31.066101"
       }
     ]
   },
@@ -8380,6 +8388,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T15:33:31.902941"
+      }
+    ]
+  },
+  "0e9f7e9c65db5a921ea930d9cd017968": {
+    "time": "2026/09/27 15:36:04",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市美濃區",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T15:36:31.066101"
       }
     ]
   }
