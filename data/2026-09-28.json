@@ -811,7 +811,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -820,6 +820,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T02:20:30.923577"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T02:26:31.060368"
       }
     ]
   },
@@ -829,11 +833,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T02:23:30.918019"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T02:26:31.060368"
       }
     ]
   }
