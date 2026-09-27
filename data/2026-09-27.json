@@ -10941,7 +10941,7 @@
     "sub_category": "路倒",
     "location": "高雄市仁武區鳳仁路",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -10954,6 +10954,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T18:20:31.015752"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T18:34:31.162348"
       }
     ]
   },
@@ -11166,6 +11170,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T18:33:31.276364"
+      }
+    ]
+  },
+  "3913185735693569957fa1042e279e5a": {
+    "time": "2026/09/27 18:33:34",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T18:34:31.162348"
       }
     ]
   }
