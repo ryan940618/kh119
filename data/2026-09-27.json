@@ -6529,7 +6529,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6546,6 +6546,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T13:45:31.257108"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T13:50:31.528956"
       }
     ]
   },
@@ -6599,7 +6603,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6612,6 +6616,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T13:46:31.267535"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T13:50:31.528956"
       }
     ]
   },
@@ -6643,7 +6651,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區捷西路",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6652,6 +6660,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T13:45:31.257108"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T13:50:31.528956"
       }
     ]
   },
@@ -6747,11 +6759,15 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區水管路",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T13:49:31.275809"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T13:50:31.528956"
       }
     ]
   },
@@ -6761,11 +6777,15 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區九大路",
     "units": "大樹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T13:49:31.275809"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T13:50:31.528956"
       }
     ]
   }
