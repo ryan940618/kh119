@@ -35,7 +35,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -48,6 +48,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T00:12:31.126654"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T00:38:31.262563"
       }
     ]
   },
@@ -123,7 +127,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區自由路",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -136,6 +140,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T00:26:31.163003"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T00:38:31.262563"
       }
     ]
   },
@@ -220,6 +228,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T00:33:31.182252"
+      }
+    ]
+  },
+  "437fe42ba2ef7267a16cb086162ae035": {
+    "time": "2026/09/28 00:36:57",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市橋頭區",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T00:38:31.262563"
       }
     ]
   }
