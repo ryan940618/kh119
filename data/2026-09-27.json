@@ -4009,7 +4009,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4026,6 +4026,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T10:23:31.113304"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T10:40:31.118503"
       }
     ]
   },
@@ -4291,7 +4295,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4304,6 +4308,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T10:31:31.104832"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T10:40:31.118503"
       }
     ]
   },
@@ -4453,7 +4461,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4462,6 +4470,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T10:36:30.989772"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T10:40:31.118503"
       }
     ]
   },
@@ -4471,11 +4483,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T10:36:30.989772"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T10:40:31.118503"
       }
     ]
   },
@@ -4539,11 +4555,15 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T10:39:31.313276"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T10:40:31.118503"
       }
     ]
   },
@@ -4558,6 +4578,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T10:39:31.313276"
+      }
+    ]
+  },
+  "973bb134eefdabf0e7bd766dfaeb41f0": {
+    "time": "2026/09/27 10:39:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市阿蓮區",
+    "units": "阿蓮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T10:40:31.118503"
+      }
+    ]
+  },
+  "3fb736c7d875a70ca205b28036bd091a": {
+    "time": "2026/09/27 10:39:04",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T10:40:31.118503"
       }
     ]
   }
