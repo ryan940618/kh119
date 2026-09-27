@@ -4199,7 +4199,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中安路",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4216,6 +4216,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T10:25:31.009679"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T10:33:30.994864"
       }
     ]
   },
@@ -4331,7 +4335,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區南光街",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4344,6 +4348,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T10:29:31.202981"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T10:33:30.994864"
       }
     ]
   },
@@ -4353,7 +4361,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4362,6 +4370,38 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T10:31:31.104832"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T10:33:30.994864"
+      }
+    ]
+  },
+  "29b521d04c3e88136208b8189fcb420d": {
+    "time": "2026/09/27 10:32:26",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T10:33:30.994864"
+      }
+    ]
+  },
+  "c1ac851100abcaf7bc9198c9afcefc07": {
+    "time": "2026/09/27 10:32:56",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市旗津區中洲二路",
+    "units": "旗津分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T10:33:30.994864"
       }
     ]
   }
