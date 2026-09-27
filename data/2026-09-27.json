@@ -4071,7 +4071,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區重立路",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4084,6 +4084,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T10:13:31.948796"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T10:22:31.040855"
       }
     ]
   },
@@ -4200,6 +4204,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T10:20:31.905701"
+      }
+    ]
+  },
+  "b8a5c3962b13a28e88534637b3cbd4c4": {
+    "time": "2026/09/27 10:21:05",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市燕巢區安招路",
+    "units": "岡山分隊,燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T10:22:31.040855"
       }
     ]
   }
