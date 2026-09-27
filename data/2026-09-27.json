@@ -3371,7 +3371,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區翠華路",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3388,6 +3388,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T09:14:31.548999"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T09:27:31.682680"
       }
     ]
   },
@@ -3397,7 +3401,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3414,6 +3418,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T09:14:31.548999"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T09:27:31.682680"
       }
     ]
   },
@@ -3485,7 +3493,7 @@
     "sub_category": "路倒",
     "location": "高雄市左營區果峰街",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3494,6 +3502,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T09:14:31.548999"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T09:27:31.682680"
       }
     ]
   },
@@ -3618,6 +3630,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T09:26:31.644796"
+      }
+    ]
+  },
+  "7af17882ea78bb5b03059bee15e80a5d": {
+    "time": "2026/09/27 09:26:38",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T09:27:31.682680"
       }
     ]
   }
