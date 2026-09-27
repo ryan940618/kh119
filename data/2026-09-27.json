@@ -6871,7 +6871,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -6884,6 +6884,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T14:04:31.483489"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T14:08:31.501015"
       }
     ]
   },
@@ -7013,7 +7017,7 @@
     "sub_category": "其他",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7022,6 +7026,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T14:03:31.372759"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T14:08:31.501015"
       }
     ]
   },
@@ -7081,11 +7089,15 @@
     "sub_category": "創傷",
     "location": "高雄市橋頭區台糖花卉中心(精隼漆彈場)[高雄市橋頭區橋南路",
     "units": "橋頭分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T14:07:31.504586"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T14:08:31.501015"
       }
     ]
   }
