@@ -7375,7 +7375,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7392,6 +7392,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T14:38:31.749453"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T14:46:31.749169"
       }
     ]
   },
@@ -7541,7 +7545,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區站西路",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7550,6 +7554,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T14:39:31.620914"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T14:46:31.749169"
       }
     ]
   },
@@ -7559,11 +7567,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T14:42:31.742572"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T14:46:31.749169"
       }
     ]
   },
@@ -7591,7 +7603,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7600,6 +7612,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T14:44:31.852039"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T14:46:31.749169"
       }
     ]
   }
