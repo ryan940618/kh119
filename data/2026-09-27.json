@@ -5581,7 +5581,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -5594,6 +5594,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T12:12:31.781202"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T12:26:31.799317"
       }
     ]
   },
@@ -5681,7 +5685,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5698,6 +5702,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T12:19:32.180209"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T12:26:31.799317"
       }
     ]
   },
@@ -5725,7 +5733,7 @@
     "sub_category": "路倒",
     "location": "高雄市左營區後昌路和和光街",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -5734,6 +5742,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T12:18:32.113548"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T12:26:31.799317"
       }
     ]
   },
