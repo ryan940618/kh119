@@ -9735,7 +9735,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區大德街",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9748,6 +9748,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T17:09:31.956093"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T17:13:31.959897"
       }
     ]
   },
@@ -9779,7 +9783,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9792,6 +9796,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T17:09:31.956093"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T17:13:31.959897"
       }
     ]
   },
@@ -9882,6 +9890,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T17:12:31.963358"
+      }
+    ]
+  },
+  "698a209df11abff0be87e55bb5e78761": {
+    "time": "2026/09/27 17:11:53",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T17:13:31.959897"
       }
     ]
   }
