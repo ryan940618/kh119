@@ -7155,7 +7155,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7164,6 +7164,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T14:11:31.503827"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T14:19:31.669849"
       }
     ]
   },
@@ -7264,6 +7268,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T14:18:31.487550"
+      }
+    ]
+  },
+  "80509503388037e771c5111d32c99cb7": {
+    "time": "2026/09/27 14:18:11",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T14:19:31.669849"
       }
     ]
   }
