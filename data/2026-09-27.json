@@ -7621,7 +7621,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區翠華路",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7638,6 +7638,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T14:59:31.822098"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T15:04:31.787032"
       }
     ]
   },
@@ -7647,7 +7651,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7664,6 +7668,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T14:55:31.750038"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T15:04:31.787032"
       }
     ]
   },
@@ -7725,7 +7733,7 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -7734,6 +7742,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T14:54:31.718036"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T15:04:31.787032"
       }
     ]
   },
@@ -7773,7 +7785,7 @@
     "sub_category": "急病",
     "location": "高雄市橋頭區",
     "units": "橋頭分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7786,6 +7798,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T14:55:31.750038"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T15:04:31.787032"
       }
     ]
   },
@@ -7795,7 +7811,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7804,6 +7820,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T14:59:31.822098"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T15:04:31.787032"
       }
     ]
   },
@@ -7858,6 +7878,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T15:03:31.849310"
+      }
+    ]
+  },
+  "771446c9455be98ee41410f428a37bdc": {
+    "time": "2026/09/27 15:03:23",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T15:04:31.787032"
       }
     ]
   }
