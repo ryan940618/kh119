@@ -5369,11 +5369,15 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區鳳林三路",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T11:44:31.578207"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T11:46:31.575809"
       }
     ]
   },
@@ -5383,11 +5387,29 @@
     "sub_category": "車禍",
     "location": "高雄市三民區天祥一路",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T11:45:31.529977"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T11:46:31.575809"
+      }
+    ]
+  },
+  "eb322128c1fe3df17f9bb2efa7b61421": {
+    "time": "2026/09/27 11:45:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區頂新十街",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T11:46:31.575809"
       }
     ]
   }
