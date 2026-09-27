@@ -10987,7 +10987,7 @@
     "sub_category": "車禍",
     "location": "高雄市茄萣區白砂路",
     "units": "茄萣分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11000,6 +11000,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T18:17:31.093292"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T18:25:31.119259"
       }
     ]
   },
@@ -11018,6 +11022,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T18:20:31.015752"
+      }
+    ]
+  },
+  "b29197b99a420ff017b8a6b85fbf86dc": {
+    "time": "2026/09/27 18:24:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T18:25:31.119259"
+      }
+    ]
+  },
+  "2328964b70b9cf4d85561e547682c852": {
+    "time": "2026/09/27 18:24:06",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T18:25:31.119259"
       }
     ]
   }
