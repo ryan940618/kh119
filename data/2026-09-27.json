@@ -7011,7 +7011,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區仁愛路",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7024,6 +7024,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T14:06:31.550161"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T14:15:31.443106"
       }
     ]
   },
@@ -7055,7 +7059,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區至學路",
     "units": "大寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7068,6 +7072,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T14:12:31.436402"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T14:15:31.443106"
       }
     ]
   },
@@ -7167,11 +7175,15 @@
     "sub_category": "創傷",
     "location": "高雄市橋頭區橋南路",
     "units": "橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T14:09:31.588129"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T14:15:31.443106"
       }
     ]
   },
