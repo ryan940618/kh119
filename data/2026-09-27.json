@@ -4851,7 +4851,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4868,6 +4868,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T11:05:31.292951"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T11:13:31.439626"
       }
     ]
   },
@@ -5044,6 +5048,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T11:10:31.333091"
+      }
+    ]
+  },
+  "1aae309dc96b694918f07ac9c82b2303": {
+    "time": "2026/09/27 11:11:43",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區上寮路",
+    "units": "和發分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T11:13:31.439626"
       }
     ]
   }
