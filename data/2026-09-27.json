@@ -3371,7 +3371,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區翠華路",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3384,6 +3384,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T09:00:31.400748"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T09:14:31.548999"
       }
     ]
   },
@@ -3393,7 +3397,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3406,6 +3410,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T09:07:31.514754"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T09:14:31.548999"
       }
     ]
   },
@@ -3473,11 +3481,15 @@
     "sub_category": "路倒",
     "location": "高雄市左營區果峰街",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T09:12:31.526134"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T09:14:31.548999"
       }
     ]
   },
@@ -3487,11 +3499,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區文衡路",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T09:13:31.657641"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T09:14:31.548999"
       }
     ]
   }
