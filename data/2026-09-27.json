@@ -4553,7 +4553,7 @@
     "sub_category": "車禍",
     "location": "高雄市田寮區",
     "units": "田寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4570,6 +4570,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T10:52:31.238294"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T11:30:31.608781"
       }
     ]
   },
@@ -5220,6 +5224,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T11:29:31.426588"
+      }
+    ]
+  },
+  "19eb6e51642043177e62b7d53bdcb452": {
+    "time": "2026/09/27 11:29:15",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市大寮區",
+    "units": "",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T11:30:31.608781"
+      }
+    ]
+  },
+  "53249faa626ac6464e0d492c9a462109": {
+    "time": "2026/09/27 11:27:51",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T11:30:31.608781"
       }
     ]
   }
