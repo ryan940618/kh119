@@ -13045,7 +13045,7 @@
     "sub_category": "創傷",
     "location": "高雄市旗山區南洲街",
     "units": "旗山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -13054,6 +13054,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T22:10:31.598203"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T22:15:31.439914"
       }
     ]
   },
@@ -13112,6 +13116,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T22:13:31.568536"
+      }
+    ]
+  },
+  "dbeb355e89597f204efad0e1905bf674": {
+    "time": "2026/09/27 22:14:47",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T22:15:31.439914"
       }
     ]
   }
