@@ -8557,7 +8557,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區三多三路和仁智街",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8570,6 +8570,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T15:56:31.150244"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T15:58:31.206973"
       }
     ]
   },
@@ -8579,7 +8583,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區永順街",
     "units": "高桂分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8588,6 +8592,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T15:54:31.106524"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T15:58:31.206973"
       }
     ]
   },
@@ -8597,7 +8605,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區仕隆路",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8606,6 +8614,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T15:52:31.071359"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T15:58:31.206973"
       }
     ]
   },
@@ -8615,7 +8627,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8624,6 +8636,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T15:56:31.150244"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T15:58:31.206973"
       }
     ]
   },
@@ -8633,7 +8649,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8642,6 +8658,38 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T15:55:31.119438"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T15:58:31.206973"
+      }
+    ]
+  },
+  "0bbaf605bec5977f1b1552b70c0f7bf5": {
+    "time": "2026/09/27 15:57:44",
+    "category": "其他",
+    "sub_category": "受困",
+    "location": "高雄市仁武區京吉二路",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T15:58:31.206973"
+      }
+    ]
+  },
+  "c5c96b73c1d0e5ce8da9008933df475f": {
+    "time": "2026/09/27 15:57:05",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗山區",
+    "units": "旗山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T15:58:31.206973"
       }
     ]
   }
