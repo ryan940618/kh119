@@ -9521,7 +9521,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9538,6 +9538,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T16:51:31.588474"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T17:05:31.857404"
       }
     ]
   },
@@ -9729,11 +9733,43 @@
     "sub_category": "創傷",
     "location": "高雄市三民區建國三路",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T17:04:31.668414"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T17:05:31.857404"
+      }
+    ]
+  },
+  "a79cc9924c95fdf27966d21114fa1741": {
+    "time": "2026/09/27 17:04:45",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市湖內區",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T17:05:31.857404"
+      }
+    ]
+  },
+  "6a02f93e20e0d8f47e0c772a5ad105ad": {
+    "time": "2026/09/27 17:04:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T17:05:31.857404"
       }
     ]
   }
