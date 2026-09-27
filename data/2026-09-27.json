@@ -7827,7 +7827,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7844,6 +7844,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T15:06:31.952862"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T15:25:32.166855"
       }
     ]
   },
@@ -7883,7 +7887,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區仁林路",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7900,6 +7904,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T15:11:31.924905"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T15:25:32.166855"
       }
     ]
   },
@@ -7931,7 +7939,7 @@
     "sub_category": "其他",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7948,6 +7956,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-27T15:12:31.884751"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-27T15:25:32.166855"
       }
     ]
   },
@@ -8001,7 +8013,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "燕巢分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8014,6 +8026,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T15:18:32.103864"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T15:25:32.166855"
       }
     ]
   },
@@ -8041,7 +8057,7 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區東方路",
     "units": "湖內分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8054,6 +8070,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T15:20:32.026446"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T15:25:32.166855"
       }
     ]
   },
@@ -8081,11 +8101,15 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區通港路",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T15:15:31.897279"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T15:25:32.166855"
       }
     ]
   },
@@ -8113,7 +8137,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -8122,6 +8146,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T15:20:32.026446"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T15:25:32.166855"
       }
     ]
   },
@@ -8131,7 +8159,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8140,6 +8168,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T15:20:32.026446"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T15:25:32.166855"
       }
     ]
   },
@@ -8149,11 +8181,15 @@
     "sub_category": "車禍",
     "location": "高雄市鹽埕區新興街",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T15:17:32.038641"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T15:25:32.166855"
       }
     ]
   },
@@ -8163,11 +8199,43 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T15:20:32.026446"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T15:25:32.166855"
+      }
+    ]
+  },
+  "0fecb7289de1482fe2669b27c2ff212b": {
+    "time": "2026/09/27 15:24:26",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市永安區",
+    "units": "永安分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T15:25:32.166855"
+      }
+    ]
+  },
+  "de2e57d4febefe68d977917e27eb1b71": {
+    "time": "2026/09/27 15:23:25",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T15:25:32.166855"
       }
     ]
   }
