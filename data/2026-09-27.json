@@ -5089,7 +5089,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區上寮路",
     "units": "和發分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -5098,6 +5098,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T11:17:31.385434"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-27T11:28:31.515893"
       }
     ]
   },
@@ -5188,6 +5192,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T11:24:31.467387"
+      }
+    ]
+  },
+  "f1208078de9c93ca0ceae6266f094ba7": {
+    "time": "2026/09/27 11:27:28",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T11:28:31.515893"
       }
     ]
   }
