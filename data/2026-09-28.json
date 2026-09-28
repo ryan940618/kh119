@@ -3141,7 +3141,7 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3154,6 +3154,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T09:01:31.317201"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T09:17:31.415295"
       }
     ]
   },
@@ -3309,7 +3313,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3318,6 +3322,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T09:12:31.501189"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T09:17:31.415295"
       }
     ]
   },
@@ -3336,6 +3344,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T09:13:31.362634"
+      }
+    ]
+  },
+  "2616832a59d62b8151add63758f81ebd": {
+    "time": "2026/09/28 09:16:33",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T09:17:31.415295"
       }
     ]
   }
