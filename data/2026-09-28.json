@@ -9967,7 +9967,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9984,6 +9984,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T20:15:31.306711"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T20:39:31.748220"
       }
     ]
   },
@@ -11213,11 +11217,15 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T20:38:31.604107"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T20:39:31.748220"
       }
     ]
   },
@@ -11232,6 +11240,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T20:38:31.604107"
+      }
+    ]
+  },
+  "2cf293156bdeffd2fad9f397b64c5f0d": {
+    "time": "2026/09/28 20:38:03",
+    "category": "火災",
+    "sub_category": "雜草(含廢棄物、墓地)",
+    "location": "高雄市大社區中華路",
+    "units": "大社分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T20:39:31.748220"
       }
     ]
   }
