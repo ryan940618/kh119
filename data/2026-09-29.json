@@ -1931,7 +1931,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1948,6 +1948,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T07:33:31.890051"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T07:42:32.023399"
       }
     ]
   },
@@ -1989,7 +1993,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2002,6 +2006,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T07:23:31.841417"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T07:42:32.023399"
       }
     ]
   },
@@ -2165,7 +2173,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2174,6 +2182,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T07:36:31.888288"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T07:42:32.023399"
       }
     ]
   },
@@ -2272,6 +2284,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T07:41:32.019711"
+      }
+    ]
+  },
+  "bc2c6d17614058ffb59e68a2c874dc1d": {
+    "time": "2026/09/29 07:42:05",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市苓雅區興中一路",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T07:42:32.023399"
       }
     ]
   }
