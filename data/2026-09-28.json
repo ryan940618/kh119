@@ -3537,7 +3537,7 @@
     "sub_category": "創傷",
     "location": "高雄市路竹區環球路",
     "units": "路竹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3554,6 +3554,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T09:41:31.506304"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T09:50:31.579240"
       }
     ]
   },
@@ -3563,7 +3567,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3580,6 +3584,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T09:45:31.723164"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T09:50:31.579240"
       }
     ]
   },
@@ -3737,7 +3745,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3746,6 +3754,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T09:46:31.669337"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T09:50:31.579240"
       }
     ]
   },
@@ -3773,11 +3785,15 @@
     "sub_category": "孕婦急產",
     "location": "高雄市三民區懷安街",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T09:49:31.674227"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T09:50:31.579240"
       }
     ]
   }
