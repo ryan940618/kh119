@@ -8091,7 +8091,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -8104,6 +8104,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T16:09:30.958902"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T16:11:31.006445"
       }
     ]
   },
@@ -8149,11 +8153,15 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區統嶺路",
     "units": "大樹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T16:10:30.997659"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T16:11:31.006445"
       }
     ]
   }
