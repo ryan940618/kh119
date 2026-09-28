@@ -587,7 +587,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區建工路",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -604,6 +604,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T02:57:31.045635"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T03:10:31.031317"
       }
     ]
   },
@@ -686,6 +690,34 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T03:07:30.963674"
+      }
+    ]
+  },
+  "ac20027ebb2e97a508e4bdfde071be1b": {
+    "time": "2026/09/29 03:09:42",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "和發分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T03:10:31.031317"
+      }
+    ]
+  },
+  "ec46a47659c4f47899703f5eae87330d": {
+    "time": "2026/09/29 03:09:30",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區中山一路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T03:10:31.031317"
       }
     ]
   }
