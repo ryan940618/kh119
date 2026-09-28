@@ -9041,7 +9041,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9058,6 +9058,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T17:25:31.360196"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T17:39:31.454340"
       }
     ]
   },
@@ -9089,7 +9093,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區榮總路",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9102,6 +9106,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T17:20:31.547953"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T17:39:31.454340"
       }
     ]
   },
@@ -9198,6 +9206,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T17:31:31.509873"
+      }
+    ]
+  },
+  "41a66313867612ccf8ac77699d033346": {
+    "time": "2026/09/28 17:38:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T17:39:31.454340"
       }
     ]
   }
