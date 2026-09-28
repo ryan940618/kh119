@@ -1975,7 +1975,7 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區井腳路",
     "units": "大樹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -1984,6 +1984,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T07:22:31.744803"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T07:47:31.932172"
       }
     ]
   },
@@ -2225,7 +2229,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區華東路",
     "units": "和發分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2238,6 +2242,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T07:41:32.019711"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T07:47:31.932172"
       }
     ]
   },
@@ -2331,7 +2339,7 @@
     "sub_category": "創傷",
     "location": "高雄市新興區林森一路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2340,6 +2348,38 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T07:44:31.994416"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T07:47:31.932172"
+      }
+    ]
+  },
+  "bde044c6e9066578351df6069bfc5749": {
+    "time": "2026/09/29 07:46:24",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市路竹區復興路",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T07:47:31.932172"
+      }
+    ]
+  },
+  "32ad3cfbdbdb0097ce7dcf2e3a08a5ae": {
+    "time": "2026/09/29 07:46:08",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區九如三路",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T07:47:31.932172"
       }
     ]
   }
