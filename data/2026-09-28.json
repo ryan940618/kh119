@@ -8531,7 +8531,7 @@
     "sub_category": "創傷",
     "location": "高雄市燕巢區燕南三街",
     "units": "燕巢分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8540,6 +8540,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T16:33:31.104110"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T16:37:31.442601"
       }
     ]
   },
@@ -8549,11 +8553,29 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T16:35:31.151234"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T16:37:31.442601"
+      }
+    ]
+  },
+  "ed6dd9fb87df7c514a42aa9872234c15": {
+    "time": "2026/09/28 16:36:41",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市美濃區",
+    "units": "旗山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T16:37:31.442601"
       }
     ]
   }
