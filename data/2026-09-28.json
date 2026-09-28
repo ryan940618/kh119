@@ -11865,7 +11865,7 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區信義路",
     "units": "湖內分隊,茄萣分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11878,6 +11878,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T22:13:31.067951"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T22:26:31.318917"
       }
     ]
   },
@@ -11913,7 +11917,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11930,6 +11934,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T22:23:31.325517"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T22:26:31.318917"
       }
     ]
   },
@@ -11939,7 +11947,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11956,6 +11964,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T22:20:31.178813"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T22:26:31.318917"
       }
     ]
   },
@@ -12085,11 +12097,15 @@
     "sub_category": "車禍",
     "location": "高雄市左營區翠華路",
     "units": "左營小隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T22:23:31.325517"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T22:26:31.318917"
       }
     ]
   },
@@ -12099,11 +12115,15 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T22:25:31.427908"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T22:26:31.318917"
       }
     ]
   }
