@@ -1517,7 +1517,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1534,6 +1534,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T06:39:31.454194"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T07:11:31.651099"
       }
     ]
   },
@@ -1621,7 +1625,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區民族一路",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1638,6 +1642,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T07:10:31.672762"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T07:11:31.651099"
       }
     ]
   },
@@ -1896,6 +1904,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T07:10:31.672762"
+      }
+    ]
+  },
+  "a3811f2433751442eb631210cb81e288": {
+    "time": "2026/09/29 07:09:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T07:11:31.651099"
       }
     ]
   }
