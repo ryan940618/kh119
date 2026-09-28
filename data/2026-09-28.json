@@ -5261,7 +5261,7 @@
     "sub_category": "創傷",
     "location": "高雄市仁武區仁心路",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5278,6 +5278,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T11:49:31.306393"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T11:53:31.458911"
       }
     ]
   },
@@ -5432,6 +5436,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T11:52:31.610423"
+      }
+    ]
+  },
+  "b702641a2cb6cec762d837c635541c36": {
+    "time": "2026/09/28 11:52:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳥松區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T11:53:31.458911"
       }
     ]
   }
