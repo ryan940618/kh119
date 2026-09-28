@@ -7195,7 +7195,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7212,6 +7212,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T14:45:31.445994"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T14:58:31.555660"
       }
     ]
   },
@@ -7323,7 +7327,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區大連街",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7332,6 +7336,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T14:54:31.563459"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T14:58:31.555660"
       }
     ]
   },
@@ -7346,6 +7354,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T14:56:31.560881"
+      }
+    ]
+  },
+  "83b4833b8f594fee7ca6054665adf493": {
+    "time": "2026/09/28 14:56:11",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鹽埕區大勇路",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T14:58:31.555660"
+      }
+    ]
+  },
+  "0abe82efdd7c5effb30e3515f743d649": {
+    "time": "2026/09/28 13:33:35",
+    "category": "災害搶救",
+    "sub_category": "溺水",
+    "location": "高雄市湖內區",
+    "units": "湖內分隊,茄萣分隊,路竹分隊,阿蓮分隊",
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T14:58:31.555660"
       }
     ]
   }
