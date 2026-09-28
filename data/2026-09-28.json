@@ -9735,11 +9735,15 @@
     "sub_category": "其他",
     "location": "高雄市楠梓區旗楠路",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-28T18:05:31.744480"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T18:11:31.763704"
       }
     ]
   },
@@ -9767,11 +9771,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T18:10:31.763778"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T18:11:31.763704"
       }
     ]
   },
@@ -9781,11 +9789,29 @@
     "sub_category": "受困",
     "location": "高雄市新興區大同一路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T18:10:31.763778"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T18:11:31.763704"
+      }
+    ]
+  },
+  "8e876065c5a218a645153c4a30d718d7": {
+    "time": "2026/09/28 18:09:45",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T18:11:31.763704"
       }
     ]
   }
