@@ -12231,7 +12231,7 @@
     "sub_category": "其他",
     "location": "高雄市茄萣區",
     "units": "",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12244,6 +12244,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T22:52:31.551780"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T23:10:31.550349"
       }
     ]
   },
@@ -12335,7 +12339,7 @@
     "sub_category": "路倒",
     "location": "高雄市杉林區清水路",
     "units": "杉林分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -12348,6 +12352,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T22:59:31.607394"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T23:10:31.550349"
       }
     ]
   },
@@ -12409,11 +12417,15 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T23:05:31.551777"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T23:10:31.550349"
       }
     ]
   },
@@ -12455,11 +12467,29 @@
     "sub_category": "車禍",
     "location": "高雄市左營區勝利路",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T23:08:31.871812"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T23:10:31.550349"
+      }
+    ]
+  },
+  "35439e69e9d1d9143a2e7415f6019818": {
+    "time": "2026/09/28 23:08:50",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T23:10:31.550349"
       }
     ]
   }
