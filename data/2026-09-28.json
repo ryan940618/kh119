@@ -11767,7 +11767,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區中山四路",
     "units": "小港分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11780,6 +11780,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T22:00:31.228600"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T22:05:31.161444"
       }
     ]
   },
@@ -11789,7 +11793,7 @@
     "sub_category": "路倒",
     "location": "高雄市新興區中正中山路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11798,6 +11802,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T22:02:30.952106"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T22:05:31.161444"
       }
     ]
   },
@@ -11825,11 +11833,29 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區信義路",
     "units": "湖內分隊,茄萣分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T22:03:31.072637"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T22:05:31.161444"
+      }
+    ]
+  },
+  "c24c494f1c9f01b7476f7a32fa072c39": {
+    "time": "2026/09/28 22:04:37",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T22:05:31.161444"
       }
     ]
   }
