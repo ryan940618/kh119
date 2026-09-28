@@ -7703,7 +7703,7 @@
     "sub_category": "車禍",
     "location": "高雄市茄萣區",
     "units": "路竹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -7716,6 +7716,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T15:43:31.760487"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T16:08:30.928047"
       }
     ]
   },
@@ -8096,6 +8100,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T16:01:31.782535"
+      }
+    ]
+  },
+  "a4359aa74c6015eb4bf2bfcf91eb0691": {
+    "time": "2026/09/28 16:07:31",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T16:08:30.928047"
+      }
+    ]
+  },
+  "59dd39873630974c89810552d6a301ef": {
+    "time": "2026/09/28 16:07:12",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T16:08:30.928047"
       }
     ]
   }
