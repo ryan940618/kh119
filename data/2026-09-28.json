@@ -5677,7 +5677,7 @@
     "sub_category": "其他",
     "location": "高雄市美濃區中山路",
     "units": "美濃分隊",
-    "current_status": "已到達",
+    "current_status": "火已滅",
     "status_history": [
       {
         "status": "已派遣",
@@ -5690,6 +5690,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T12:30:31.466527"
+      },
+      {
+        "status": "火已滅",
+        "timestamp": "2026-09-28T12:43:31.538345"
       }
     ]
   },
@@ -5809,7 +5813,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5822,6 +5826,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T12:35:31.452086"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T12:43:31.538345"
       }
     ]
   },
@@ -5876,6 +5884,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T12:39:31.813452"
+      }
+    ]
+  },
+  "bc755d1f19d8a7590c8bc13d99cea731": {
+    "time": "2026/09/28 12:42:15",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區臨海一路",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T12:43:31.538345"
       }
     ]
   }
