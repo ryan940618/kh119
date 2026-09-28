@@ -4239,7 +4239,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區建國路",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4256,6 +4256,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T10:39:32.225313"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T10:43:31.025602"
       }
     ]
   },
@@ -4428,6 +4432,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T10:42:31.007292"
+      }
+    ]
+  },
+  "e184c1c3746fdbf6e647eac64206a975": {
+    "time": "2026/09/28 10:42:13",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鹽埕區新樂街",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T10:43:31.025602"
+      }
+    ]
+  },
+  "03edf1feece0cb56c760781328747c98": {
+    "time": "2026/09/28 10:41:17",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T10:43:31.025602"
       }
     ]
   }
