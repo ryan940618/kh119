@@ -10643,7 +10643,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10656,6 +10656,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T19:32:31.223129"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T19:42:31.415628"
       }
     ]
   },
@@ -10724,6 +10728,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T19:41:31.258038"
+      }
+    ]
+  },
+  "46606ac592ee9d12a4a6d97102268c15": {
+    "time": "2026/09/28 19:41:23",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市旗山區大里街",
+    "units": "旗山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T19:42:31.415628"
+      }
+    ]
+  },
+  "c71fedb8f2db6d4684271152262a1f29": {
+    "time": "2026/09/28 19:41:21",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T19:42:31.415628"
       }
     ]
   }
