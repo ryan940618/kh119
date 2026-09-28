@@ -4615,7 +4615,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4628,6 +4628,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T10:58:31.232253"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T11:20:31.349471"
       }
     ]
   },
@@ -4993,11 +4997,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區澄清路",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T11:19:31.389826"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T11:20:31.349471"
       }
     ]
   }
