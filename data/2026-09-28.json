@@ -8543,7 +8543,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中平路",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8560,6 +8560,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T16:45:31.210330"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T16:58:31.230722"
       }
     ]
   },
@@ -8779,11 +8783,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區河北二路和同愛街",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T16:56:31.167153"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T16:58:31.230722"
       }
     ]
   },
@@ -8811,11 +8819,29 @@
     "sub_category": "車禍",
     "location": "高雄市林園區中門路",
     "units": "林園分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T16:57:31.421494"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T16:58:31.230722"
+      }
+    ]
+  },
+  "4f8b5ecba040046db23750e03cc8fbb2": {
+    "time": "2026/09/28 16:57:15",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T16:58:31.230722"
       }
     ]
   }
