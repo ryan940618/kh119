@@ -1023,7 +1023,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1036,6 +1036,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T04:16:31.540919"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T04:40:31.664364"
       }
     ]
   },
@@ -1102,6 +1106,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T04:35:31.620460"
+      }
+    ]
+  },
+  "f10387b83bc706043309678355250a7d": {
+    "time": "2026/09/29 04:39:47",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市左營區榮德街",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T04:40:31.664364"
       }
     ]
   }
