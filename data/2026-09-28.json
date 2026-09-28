@@ -5387,7 +5387,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5404,6 +5404,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T11:50:31.314138"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T12:01:31.469770"
       }
     ]
   },
@@ -5413,7 +5417,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區中華街",
     "units": "苓雅分隊,鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -5426,6 +5430,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T11:59:31.661875"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T12:01:31.469770"
       }
     ]
   },
@@ -5528,6 +5536,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T11:58:31.402220"
+      }
+    ]
+  },
+  "fbcd5bea301891ed0970fdb932b96a12": {
+    "time": "2026/09/28 12:00:56",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T12:01:31.469770"
       }
     ]
   }
