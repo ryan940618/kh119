@@ -5895,11 +5895,15 @@
     "sub_category": "創傷",
     "location": "高雄市左營區果峰街",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已到達",
         "timestamp": "2026-09-28T12:39:31.813452"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T12:50:31.774087"
       }
     ]
   },
@@ -5909,7 +5913,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區臨海一路",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5918,6 +5922,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T12:45:31.619320"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T12:50:31.774087"
       }
     ]
   },
@@ -5927,11 +5935,15 @@
     "sub_category": "受困",
     "location": "高雄市三民區大昌二路",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-28T12:45:31.619320"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T12:50:31.774087"
       }
     ]
   },
@@ -5964,6 +5976,48 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T12:49:31.919536"
+      }
+    ]
+  },
+  "8bdf236589b8cc963c8ea7b468be5ef5": {
+    "time": "2026/09/28 12:50:04",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "和發分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T12:50:31.774087"
+      }
+    ]
+  },
+  "45874935598e33ef762d0d5602492aa7": {
+    "time": "2026/09/28 12:49:38",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗山區",
+    "units": "內門分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T12:50:31.774087"
+      }
+    ]
+  },
+  "4a013be3f3d4e48ed6123052a817639f": {
+    "time": "2026/09/28 12:48:46",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市桃源區南橫公路",
+    "units": "桃源分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T12:50:31.774087"
       }
     ]
   }
