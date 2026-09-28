@@ -4981,7 +4981,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區水管路",
     "units": "後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4998,6 +4998,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T11:34:31.556840"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T11:45:31.440853"
       }
     ]
   },
@@ -5303,7 +5307,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5312,6 +5316,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T11:36:31.434469"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T11:45:31.440853"
       }
     ]
   },
@@ -5371,11 +5379,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T11:44:31.363047"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T11:45:31.440853"
       }
     ]
   }
