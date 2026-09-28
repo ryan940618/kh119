@@ -3735,7 +3735,7 @@
     "sub_category": "急病",
     "location": "高雄市田寮區",
     "units": "崇德駐地",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3752,6 +3752,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T10:03:31.750799"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T10:24:31.869410"
       }
     ]
   },
@@ -4051,7 +4055,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區美術東二路",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4068,6 +4072,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T10:18:31.808162"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T10:24:31.869410"
       }
     ]
   },
@@ -4135,11 +4143,15 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T10:22:31.947645"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T10:24:31.869410"
       }
     ]
   },
@@ -4149,11 +4161,15 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T10:22:31.947645"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T10:24:31.869410"
       }
     ]
   },
