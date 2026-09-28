@@ -8647,7 +8647,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "旗山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -8656,6 +8656,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T16:49:31.116616"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T16:50:31.354461"
       }
     ]
   },
@@ -8700,6 +8704,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T16:47:31.263970"
+      }
+    ]
+  },
+  "8b23dbdb12b468c7e543276b2f682a1f": {
+    "time": "2026/09/28 16:48:01",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市甲仙區",
+    "units": "甲仙分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T16:50:31.354461"
       }
     ]
   }
