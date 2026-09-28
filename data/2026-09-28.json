@@ -6141,7 +6141,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6158,6 +6158,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T13:25:31.804509"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T13:27:31.748090"
       }
     ]
   },
@@ -6193,7 +6197,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6202,6 +6206,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T13:11:31.818787"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T13:27:31.748090"
       }
     ]
   },
@@ -6375,11 +6383,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T13:25:31.804509"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T13:27:31.748090"
       }
     ]
   },
@@ -6389,11 +6401,29 @@
     "sub_category": "其他",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T13:26:31.713319"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T13:27:31.748090"
+      }
+    ]
+  },
+  "d64d1920d618d346c53381ac3f9ff4a0": {
+    "time": "2026/09/28 13:26:23",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T13:27:31.748090"
       }
     ]
   }
