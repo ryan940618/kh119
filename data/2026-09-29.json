@@ -1535,7 +1535,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1552,6 +1552,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T06:30:31.397371"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T06:38:31.469611"
       }
     ]
   },
@@ -1624,6 +1628,20 @@
       {
         "status": "已受理",
         "timestamp": "2026-09-29T06:36:31.353948"
+      }
+    ]
+  },
+  "2e3261399d66c9b122215e18d249e4f0": {
+    "time": "2026/09/29 06:36:16",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市橋頭區橋都路",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T06:38:31.469611"
       }
     ]
   }
