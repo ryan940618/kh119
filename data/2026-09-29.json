@@ -2027,7 +2027,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中山二路",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2044,6 +2044,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T07:38:32.013598"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T07:48:31.939070"
       }
     ]
   },
@@ -2361,11 +2365,15 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區復興路",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T07:47:31.932172"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T07:48:31.939070"
       }
     ]
   },
@@ -2380,6 +2388,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T07:47:31.932172"
+      }
+    ]
+  },
+  "8d89cf542eb821ec1ad1de7cd8974bff": {
+    "time": "2026/09/29 07:47:27",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市旗山區旗甲路",
+    "units": "旗山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T07:48:31.939070"
+      }
+    ]
+  },
+  "ce63cbc6275486a71c175967f0cf91f4": {
+    "time": "2026/09/29 07:47:05",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區德祥路",
+    "units": "後勁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T07:48:31.939070"
       }
     ]
   }
