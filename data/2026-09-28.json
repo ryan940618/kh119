@@ -5033,7 +5033,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -5042,6 +5042,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T11:22:31.420630"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T11:41:31.307448"
       }
     ]
   },
@@ -5155,7 +5159,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區南福街",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5172,6 +5176,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T11:34:31.556840"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T11:41:31.307448"
       }
     ]
   },
@@ -5300,6 +5308,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T11:36:31.434469"
+      }
+    ]
+  },
+  "c15c29db590a73036d19841c852cec3b": {
+    "time": "2026/09/28 11:40:59",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T11:41:31.307448"
+      }
+    ]
+  },
+  "5c5803dad512610b427e018960233901": {
+    "time": "2026/09/28 11:40:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市阿蓮區",
+    "units": "阿蓮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T11:41:31.307448"
       }
     ]
   }
