@@ -9459,7 +9459,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區北忠街",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9472,6 +9472,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T17:59:31.849313"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T18:06:31.858980"
       }
     ]
   },
@@ -9481,7 +9485,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9494,6 +9498,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T18:02:31.733701"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T18:06:31.858980"
       }
     ]
   },
@@ -9565,7 +9573,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9574,6 +9582,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T18:01:31.729870"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T18:06:31.858980"
       }
     ]
   },
@@ -9583,7 +9595,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9592,6 +9604,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T18:02:31.733701"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T18:06:31.858980"
       }
     ]
   },
@@ -9688,6 +9704,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T18:05:31.744480"
+      }
+    ]
+  },
+  "11ab53dda3875bdd97f7ed91c92c7ce5": {
+    "time": "2026/09/28 18:05:35",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市林園區工業三路",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T18:06:31.858980"
       }
     ]
   }
