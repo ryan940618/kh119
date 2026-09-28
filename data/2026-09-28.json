@@ -7195,7 +7195,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7208,6 +7208,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T14:33:31.289419"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T14:45:31.445994"
       }
     ]
   },
@@ -7249,11 +7253,15 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T14:40:31.375917"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T14:45:31.445994"
       }
     ]
   },
@@ -7263,11 +7271,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區經武路",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T14:42:31.378692"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T14:45:31.445994"
       }
     ]
   },
@@ -7277,11 +7289,15 @@
     "sub_category": "車禍",
     "location": "高雄市新興區福建街",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-28T14:43:31.357057"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T14:45:31.445994"
       }
     ]
   }
