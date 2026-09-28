@@ -9281,7 +9281,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9294,6 +9294,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T17:56:31.707470"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T18:01:31.729870"
       }
     ]
   },
@@ -9545,11 +9549,29 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T18:00:31.617202"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T18:01:31.729870"
+      }
+    ]
+  },
+  "8ae504cac9eac9127335363e46f9e88c": {
+    "time": "2026/09/28 18:00:57",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T18:01:31.729870"
       }
     ]
   }
