@@ -9079,7 +9079,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9096,6 +9096,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T17:43:31.463834"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T17:58:31.584326"
       }
     ]
   },
@@ -9475,11 +9479,29 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區保生路",
     "units": "阿蓮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T17:56:31.707470"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T17:58:31.584326"
+      }
+    ]
+  },
+  "43e0ad4959e83de7035573f5073b3d5e": {
+    "time": "2026/09/28 17:57:38",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區富民路和新下街",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T17:58:31.584326"
       }
     ]
   }
