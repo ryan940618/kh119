@@ -11873,7 +11873,7 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區信義路",
     "units": "湖內分隊,茄萣分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11890,6 +11890,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T22:26:31.318917"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T22:48:31.455207"
       }
     ]
   },
@@ -12251,11 +12255,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T22:45:31.549325"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T22:48:31.455207"
       }
     ]
   },
