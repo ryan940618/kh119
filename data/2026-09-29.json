@@ -1513,7 +1513,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1526,6 +1526,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T06:18:31.352871"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T06:39:31.454194"
       }
     ]
   },
@@ -1642,6 +1646,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T06:38:31.469611"
+      }
+    ]
+  },
+  "a06090eef9b3c4da86b08882fa3b5762": {
+    "time": "2026/09/29 06:38:29",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T06:39:31.454194"
       }
     ]
   }
