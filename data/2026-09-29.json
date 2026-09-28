@@ -1863,7 +1863,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -1872,6 +1872,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T07:00:31.514922"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T07:12:31.654173"
       }
     ]
   },
@@ -1899,11 +1903,15 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T07:10:31.672762"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T07:12:31.654173"
       }
     ]
   },
@@ -1918,6 +1926,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T07:11:31.651099"
+      }
+    ]
+  },
+  "e7a3f7525eb0cb42056ec791ee7f2b18": {
+    "time": "2026/09/29 07:09:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大樹區井腳路",
+    "units": "大樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T07:12:31.654173"
       }
     ]
   }
