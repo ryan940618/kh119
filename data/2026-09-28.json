@@ -9071,7 +9071,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9084,6 +9084,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T17:20:31.547953"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T17:43:31.463834"
       }
     ]
   },
@@ -9227,7 +9231,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9236,6 +9240,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T17:42:31.487511"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T17:43:31.463834"
       }
     ]
   },
@@ -9299,11 +9307,29 @@
     "sub_category": "其他",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T17:42:31.487511"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T17:43:31.463834"
+      }
+    ]
+  },
+  "3b85f1d2d033a4be0a1eeac3223d8352": {
+    "time": "2026/09/28 17:41:00",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區大裕路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T17:43:31.463834"
       }
     ]
   }
