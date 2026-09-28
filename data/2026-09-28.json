@@ -4367,7 +4367,7 @@
     "sub_category": "車禍",
     "location": "高雄市旗山區旗甲路",
     "units": "旗山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4384,6 +4384,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T10:49:31.046573"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T10:54:49.861415"
       }
     ]
   },
@@ -4489,7 +4493,7 @@
     "sub_category": "車禍",
     "location": "高雄市鹽埕區新樂街",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4502,6 +4506,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T10:49:31.046573"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T10:54:49.861415"
       }
     ]
   },
@@ -4565,11 +4573,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T10:53:31.185577"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T10:54:49.861415"
+      }
+    ]
+  },
+  "d387ea6f69507c3667f3bb6ac6b07fed": {
+    "time": "2026/09/28 10:53:15",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T10:54:49.861415"
       }
     ]
   }
