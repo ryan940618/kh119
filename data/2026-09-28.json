@@ -7405,7 +7405,7 @@
     "sub_category": "溺水",
     "location": "高雄市湖內區",
     "units": "湖內分隊,茄萣分隊,路竹分隊,阿蓮分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已到達",
@@ -7418,6 +7418,10 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T16:04:31.888298"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T16:19:31.142080"
       }
     ]
   },
@@ -8143,7 +8147,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8156,6 +8160,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T16:15:31.083584"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T16:19:31.142080"
       }
     ]
   },
@@ -8224,6 +8232,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T16:15:31.083584"
+      }
+    ]
+  },
+  "be5b340306c04bccfbf1a660c6469382": {
+    "time": "2026/09/28 16:18:30",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T16:19:31.142080"
       }
     ]
   }
