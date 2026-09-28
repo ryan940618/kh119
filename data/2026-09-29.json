@@ -1901,7 +1901,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1918,6 +1918,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T07:20:31.751058"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T07:29:31.747610"
       }
     ]
   },
@@ -2025,7 +2029,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區應安街",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2034,6 +2038,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T07:23:31.841417"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T07:29:31.747610"
       }
     ]
   },
