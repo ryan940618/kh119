@@ -12149,7 +12149,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區翠華路",
     "units": "左營小隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12166,6 +12166,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T22:53:31.762535"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T23:01:31.592391"
       }
     ]
   },
@@ -12359,11 +12363,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "中華分隊,十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T22:58:31.412462"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T23:01:31.592391"
       }
     ]
   }
