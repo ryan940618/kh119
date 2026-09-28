@@ -6005,7 +6005,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6022,6 +6022,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T13:04:31.740640"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T13:18:31.802572"
       }
     ]
   },
@@ -6191,7 +6195,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6200,6 +6204,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T13:12:31.846707"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T13:18:31.802572"
       }
     ]
   },
@@ -6246,6 +6254,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T13:17:31.918264"
+      }
+    ]
+  },
+  "6e7298b483c8747e996a88effa76993e": {
+    "time": "2026/09/28 13:17:37",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T13:18:31.802572"
       }
     ]
   }
