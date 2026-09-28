@@ -4641,7 +4641,7 @@
     "sub_category": "急病",
     "location": "高雄市彌陀區",
     "units": "彌陀分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4658,6 +4658,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T11:17:31.318169"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T11:21:31.354106"
       }
     ]
   },
@@ -4855,7 +4859,7 @@
     "sub_category": "車禍",
     "location": "高雄市前金區河東路",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4868,6 +4872,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T11:10:31.140401"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T11:21:31.354106"
       }
     ]
   },
@@ -5006,6 +5014,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T11:20:31.349471"
+      }
+    ]
+  },
+  "57525b01ad3c0eb7eb8bbf1df9c6f4a7": {
+    "time": "2026/09/28 11:20:33",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T11:21:31.354106"
       }
     ]
   }
