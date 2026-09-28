@@ -1599,7 +1599,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區大學南路",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1616,6 +1616,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T07:07:31.552171"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T07:22:31.744803"
       }
     ]
   },
@@ -1955,11 +1959,15 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區井腳路",
     "units": "大樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-29T07:12:31.654173"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T07:22:31.744803"
       }
     ]
   },
@@ -1992,6 +2000,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T07:20:31.751058"
+      }
+    ]
+  },
+  "f7fc0db9a91ff080e3fbb233dc9591fa": {
+    "time": "2026/09/29 07:21:30",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區應安街",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T07:22:31.744803"
       }
     ]
   }
