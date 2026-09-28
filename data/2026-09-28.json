@@ -11407,7 +11407,7 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區崗山中街",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -11420,6 +11420,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T21:25:31.828185"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T21:31:31.891148"
       }
     ]
   },
@@ -11511,7 +11515,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11524,6 +11528,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T21:26:31.935183"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T21:31:31.891148"
       }
     ]
   },
@@ -11552,6 +11560,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T21:29:31.898054"
+      }
+    ]
+  },
+  "da0f75cf11e3fe132a567822f7c84440": {
+    "time": "2026/09/28 21:31:01",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區瑞田街",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T21:31:31.891148"
       }
     ]
   }
