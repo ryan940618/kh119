@@ -5585,7 +5585,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5602,6 +5602,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T12:12:31.510304"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T12:33:31.476789"
       }
     ]
   },
@@ -5767,11 +5771,15 @@
     "sub_category": "創傷",
     "location": "高雄市鳥松區大仁北路",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-28T12:28:31.749934"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T12:33:31.476789"
       }
     ]
   },
@@ -5799,11 +5807,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T12:31:31.463206"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T12:33:31.476789"
       }
     ]
   }
