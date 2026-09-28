@@ -2139,7 +2139,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -2148,6 +2148,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T07:38:32.013598"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T07:49:32.023690"
       }
     ]
   },
@@ -2259,7 +2263,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "林園分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2272,6 +2276,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T07:45:32.006121"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T07:49:32.023690"
       }
     ]
   },
@@ -2416,6 +2424,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T07:48:31.939070"
+      }
+    ]
+  },
+  "4c3ca605cc7374cf34e60f7028e279b3": {
+    "time": "2026/09/29 07:48:59",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T07:49:32.023690"
       }
     ]
   }
