@@ -4651,7 +4651,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區五甲三路",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4660,6 +4660,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T10:59:31.107799"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T11:02:31.108404"
       }
     ]
   },
@@ -4747,11 +4751,29 @@
     "sub_category": "路倒",
     "location": "高雄市三民區鼎山街",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T11:01:31.110022"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T11:02:31.108404"
+      }
+    ]
+  },
+  "7ff97e65b2a67eebee69b40c3951f9be": {
+    "time": "2026/09/28 11:01:35",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T11:02:31.108404"
       }
     ]
   }
