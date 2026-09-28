@@ -9847,7 +9847,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9864,6 +9864,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T18:28:31.908051"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T18:31:32.266447"
       }
     ]
   },
@@ -9917,7 +9921,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區二聖二路",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9930,6 +9934,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T18:20:31.888290"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T18:31:32.266447"
       }
     ]
   },
@@ -10027,11 +10035,29 @@
     "sub_category": "車禍",
     "location": "高雄市茄萣區仁愛路",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T18:28:31.908051"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T18:31:32.266447"
+      }
+    ]
+  },
+  "e357658149860b5a10d9f57cdf389e89": {
+    "time": "2026/09/28 18:30:45",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區三山街",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T18:31:32.266447"
       }
     ]
   }
