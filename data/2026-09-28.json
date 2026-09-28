@@ -6635,7 +6635,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6652,6 +6652,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T13:48:31.325495"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T14:12:31.215480"
       }
     ]
   },
@@ -7012,6 +7016,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T14:10:31.235212"
+      }
+    ]
+  },
+  "fc9b6b7301f8da6b7c0e5b5c5fa4bbce": {
+    "time": "2026/09/28 14:11:11",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區洲仔東街",
+    "units": "左營分隊,後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T14:12:31.215480"
       }
     ]
   }
