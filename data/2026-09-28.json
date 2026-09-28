@@ -8277,7 +8277,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8290,6 +8290,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T16:26:30.997723"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T16:29:31.025960"
       }
     ]
   },
@@ -8343,7 +8347,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區藍田路",
     "units": "橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8352,6 +8356,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T16:24:30.932483"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T16:29:31.025960"
       }
     ]
   },
@@ -8416,6 +8424,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T16:28:31.040832"
+      }
+    ]
+  },
+  "a8f6f2ab55d07eb65f992bcf2c2799dd": {
+    "time": "2026/09/28 16:28:37",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市阿蓮區中正路",
+    "units": "阿蓮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T16:29:31.025960"
+      }
+    ]
+  },
+  "158b4e526a22802ac82cbee9028680d7": {
+    "time": "2026/09/28 16:27:45",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區中平路",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T16:29:31.025960"
       }
     ]
   }
