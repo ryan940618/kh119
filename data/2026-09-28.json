@@ -5821,7 +5821,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5838,6 +5838,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T12:43:31.538345"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T12:49:31.919536"
       }
     ]
   },
@@ -5937,11 +5941,29 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區寶米路",
     "units": "梓官分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T12:48:31.872665"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T12:49:31.919536"
+      }
+    ]
+  },
+  "2138cb86381484211a6c51323d4b70bc": {
+    "time": "2026/09/28 12:48:46",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市桃源區",
+    "units": "桃源分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T12:49:31.919536"
       }
     ]
   }
