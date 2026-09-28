@@ -12143,7 +12143,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12156,6 +12156,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T22:30:31.563813"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T22:37:31.307838"
       }
     ]
   },
@@ -12183,11 +12187,15 @@
     "sub_category": "其他",
     "location": "高雄市茄萣區",
     "units": "",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T22:36:31.420978"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T22:37:31.307838"
       }
     ]
   }
