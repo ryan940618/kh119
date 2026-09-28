@@ -4043,7 +4043,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區美術東二路",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4056,6 +4056,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T10:15:31.867215"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T10:18:31.808162"
       }
     ]
   },
@@ -4070,6 +4074,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T10:17:31.941451"
+      }
+    ]
+  },
+  "c55c5c8ffa25c392f6c8bb07bb923921": {
+    "time": "2026/09/28 10:17:35",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市湖內區和平路",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T10:18:31.808162"
       }
     ]
   }
