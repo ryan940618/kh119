@@ -4701,7 +4701,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "五甲分隊,鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -4714,6 +4714,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T11:15:31.363375"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T11:22:31.420630"
       }
     ]
   },
@@ -4763,7 +4767,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4780,6 +4784,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T11:16:31.201100"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T11:22:31.420630"
       }
     ]
   },
@@ -4973,11 +4981,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-28T11:15:31.363375"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T11:22:31.420630"
       }
     ]
   },
@@ -5028,6 +5040,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T11:21:31.354106"
+      }
+    ]
+  },
+  "8e160df61189d606ef24e8d1c1ca1855": {
+    "time": "2026/09/28 11:21:39",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T11:22:31.420630"
+      }
+    ]
+  },
+  "c510332a50e7e52e0cbe624debf89334": {
+    "time": "2026/09/28 11:21:17",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區南福街",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T11:22:31.420630"
       }
     ]
   }
