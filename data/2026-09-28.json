@@ -5629,7 +5629,7 @@
     "sub_category": "路倒",
     "location": "高雄市左營區榮總路",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5638,6 +5638,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T12:15:31.684229"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T12:20:31.729092"
       }
     ]
   },
@@ -5669,11 +5673,15 @@
     "sub_category": "其他",
     "location": "高雄市美濃區中山路",
     "units": "美濃分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T12:19:31.596387"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T12:20:31.729092"
       }
     ]
   }
