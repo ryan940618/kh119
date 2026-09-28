@@ -6787,7 +6787,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6804,6 +6804,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T14:02:31.173038"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T14:10:31.235212"
       }
     ]
   },
@@ -6986,6 +6990,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T14:08:31.370179"
+      }
+    ]
+  },
+  "c5ccd4868e5ced420f486d5f292783e1": {
+    "time": "2026/09/28 14:09:54",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市楠梓區大學東路",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T14:10:31.235212"
       }
     ]
   }
