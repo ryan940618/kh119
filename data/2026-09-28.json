@@ -6285,7 +6285,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6302,6 +6302,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T13:28:31.801124"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T13:33:32.104282"
       }
     ]
   },
@@ -6465,7 +6469,7 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6474,6 +6478,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T13:30:31.935161"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T13:33:32.104282"
       }
     ]
   },
@@ -6483,11 +6491,57 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T13:32:31.995270"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T13:33:32.104282"
+      }
+    ]
+  },
+  "fca650220c0662491bae361a2da5cfd5": {
+    "time": "2026/09/28 13:33:15",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區自由二路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T13:33:32.104282"
+      }
+    ]
+  },
+  "042fbc32e675bd2cdc025a3eeaba686d": {
+    "time": "2026/09/28 13:33:01",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T13:33:32.104282"
+      }
+    ]
+  },
+  "8cd4baae2bbcd3b2c16ba3b0a84890d9": {
+    "time": "2026/09/28 13:31:31",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市湖內區",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-28T13:33:32.104282"
       }
     ]
   }
