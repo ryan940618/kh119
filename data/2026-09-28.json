@@ -10383,7 +10383,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區凱得街",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -10396,6 +10396,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T19:22:31.160862"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T19:31:31.170368"
       }
     ]
   },
@@ -10405,7 +10409,7 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10418,6 +10422,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T19:22:31.160862"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T19:31:31.170368"
       }
     ]
   },
@@ -10593,7 +10601,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10602,6 +10610,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T19:26:31.181749"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T19:31:31.170368"
       }
     ]
   },
@@ -10629,11 +10641,15 @@
     "sub_category": "創傷",
     "location": "高雄市三民區新民路",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-28T19:28:31.248756"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T19:31:31.170368"
       }
     ]
   }
