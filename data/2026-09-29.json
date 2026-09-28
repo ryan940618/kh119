@@ -1437,7 +1437,7 @@
     "sub_category": "路倒",
     "location": "高雄市路竹區仁愛路",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1446,6 +1446,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T06:11:31.122062"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T06:14:31.228862"
       }
     ]
   },
@@ -1455,7 +1459,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區三誠路和福誠一街",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1464,6 +1468,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T06:09:31.183549"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T06:14:31.228862"
       }
     ]
   },
@@ -1482,6 +1490,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T06:11:31.122062"
+      }
+    ]
+  },
+  "2c6607836098128afd956958f77e9806": {
+    "time": "2026/09/29 06:13:28",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T06:14:31.228862"
       }
     ]
   }
