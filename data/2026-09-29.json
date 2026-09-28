@@ -1653,7 +1653,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區橋都路",
     "units": "橋頭分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1666,6 +1666,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T06:45:31.489893"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T06:57:31.531438"
       }
     ]
   },
@@ -1697,7 +1701,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營小隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1710,6 +1714,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T06:50:31.510580"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T06:57:31.531438"
       }
     ]
   },
@@ -1745,7 +1753,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區大埤路",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1758,6 +1766,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T06:48:31.466628"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T06:57:31.531438"
       }
     ]
   },
