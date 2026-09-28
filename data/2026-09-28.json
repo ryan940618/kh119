@@ -7079,11 +7079,15 @@
     "sub_category": "其他",
     "location": "高雄市左營區",
     "units": "",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-28T14:14:31.407066"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T14:23:31.229499"
       }
     ]
   },
@@ -7093,11 +7097,43 @@
     "sub_category": "車禍",
     "location": "高雄市林園區沿海三路",
     "units": "大林分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T14:22:31.130437"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T14:23:31.229499"
+      }
+    ]
+  },
+  "1aeedc303dd169b7c50ac9809b8845be": {
+    "time": "2026/09/28 14:22:28",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區翠華路",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T14:23:31.229499"
+      }
+    ]
+  },
+  "d4b90e290cd35548427ed508c30cd3f3": {
+    "time": "2026/09/28 14:21:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區文衡路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T14:23:31.229499"
       }
     ]
   }
