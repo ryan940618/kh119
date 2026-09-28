@@ -2411,7 +2411,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區九如三路",
     "units": "鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2420,6 +2420,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T07:51:31.151027"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T07:56:30.962822"
       }
     ]
   },
@@ -2465,7 +2469,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2474,6 +2478,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T07:50:31.282524"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T07:56:30.962822"
       }
     ]
   },
@@ -2483,7 +2491,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2492,6 +2500,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T07:52:31.309861"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T07:56:30.962822"
       }
     ]
   },
@@ -2552,6 +2564,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T07:54:31.033627"
+      }
+    ]
+  },
+  "fb3de87a3ef3d8ab5d5577168fc42887": {
+    "time": "2026/09/29 07:55:26",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區成功路和大成街",
+    "units": "彌陀分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T07:56:30.962822"
       }
     ]
   }
