@@ -2433,7 +2433,7 @@
     "sub_category": "車禍",
     "location": "高雄市旗山區旗甲路",
     "units": "旗山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2442,6 +2442,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T07:50:31.282524"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T07:57:31.154438"
       }
     ]
   },
@@ -2513,11 +2517,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T07:51:31.151027"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T07:57:31.154438"
       }
     ]
   },
@@ -2545,11 +2553,15 @@
     "sub_category": "創傷",
     "location": "高雄市仁武區仁心路",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T07:53:31.260569"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T07:57:31.154438"
       }
     ]
   },
@@ -2559,11 +2571,15 @@
     "sub_category": "車禍",
     "location": "高雄市大社區中山路",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T07:54:31.033627"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T07:57:31.154438"
       }
     ]
   },
@@ -2573,11 +2589,43 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區成功路和大成街",
     "units": "彌陀分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T07:56:30.962822"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T07:57:31.154438"
+      }
+    ]
+  },
+  "ea2a6b9e9a97ec8a5bb4dc16a7623568": {
+    "time": "2026/09/29 07:56:46",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區金鋁街",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T07:57:31.154438"
+      }
+    ]
+  },
+  "37d0659c6ed6f6f61fdbe141795d5aa4": {
+    "time": "2026/09/29 07:56:39",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區成功二路",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T07:57:31.154438"
       }
     ]
   }
