@@ -11835,7 +11835,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11848,6 +11848,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T22:08:31.050003"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T22:17:31.205016"
       }
     ]
   },
@@ -11923,7 +11927,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11932,6 +11936,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T22:15:31.130385"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T22:17:31.205016"
       }
     ]
   },
@@ -11960,6 +11968,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T22:16:31.174511"
+      }
+    ]
+  },
+  "8af186423b56d62bbe9d6902947b4988": {
+    "time": "2026/09/28 22:16:47",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鹽埕區",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T22:17:31.205016"
       }
     ]
   }
