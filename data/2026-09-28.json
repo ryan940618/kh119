@@ -11021,7 +11021,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11038,6 +11038,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T20:18:31.313353"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T20:30:31.670190"
       }
     ]
   },
@@ -11113,7 +11117,7 @@
     "sub_category": "創傷",
     "location": "高雄市那瑪夏區",
     "units": "那瑪夏分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11122,6 +11126,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T20:18:31.313353"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T20:30:31.670190"
       }
     ]
   },
@@ -11171,11 +11179,15 @@
     "sub_category": "急病",
     "location": "高雄市桃源區",
     "units": "寶來分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T20:26:31.432713"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T20:30:31.670190"
       }
     ]
   }
