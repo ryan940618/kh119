@@ -6705,7 +6705,7 @@
     "sub_category": "溺水",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已到達",
+    "current_status": "已派遣",
     "status_history": [
       {
         "status": "已派遣",
@@ -6722,6 +6722,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T14:02:31.173038"
+      },
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T14:21:31.218953"
       }
     ]
   },
@@ -6995,11 +6999,15 @@
     "sub_category": "急病",
     "location": "高雄市永安區",
     "units": "永安分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已到達",
         "timestamp": "2026-09-28T14:06:31.129070"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T14:21:31.218953"
       }
     ]
   },
@@ -7031,7 +7039,7 @@
     "sub_category": "其他",
     "location": "高雄市楠梓區大學東路",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "火已滅",
     "status_history": [
       {
         "status": "已派遣",
@@ -7044,6 +7052,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T14:20:31.153364"
+      },
+      {
+        "status": "火已滅",
+        "timestamp": "2026-09-28T14:21:31.218953"
       }
     ]
   },
