@@ -7407,7 +7407,7 @@
     "sub_category": "路倒",
     "location": "高雄市鼓山區蓬萊路",
     "units": "鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7416,6 +7416,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T15:01:31.663927"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T15:04:31.476166"
       }
     ]
   },
@@ -7425,11 +7429,29 @@
     "sub_category": "車禍",
     "location": "高雄市新興區同心路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T15:03:31.467932"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T15:04:31.476166"
+      }
+    ]
+  },
+  "74a8ab77b6cc38d73912d8d3a6eb04ec": {
+    "time": "2026/09/28 15:04:16",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T15:04:31.476166"
       }
     ]
   }
