@@ -8937,7 +8937,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區飛機路",
     "units": "高桂分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8954,6 +8954,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T17:22:31.419643"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T17:25:31.360196"
       }
     ]
   },
@@ -9007,7 +9011,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9024,6 +9028,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T17:20:31.547953"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T17:25:31.360196"
       }
     ]
   },
@@ -9033,7 +9041,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9046,6 +9054,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T17:18:31.575732"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T17:25:31.360196"
       }
     ]
   },
@@ -9139,11 +9151,29 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區凱旋四路|前鎮街",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T17:24:31.382250"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T17:25:31.360196"
+      }
+    ]
+  },
+  "3cd76753d58b82ec59e5d8c697555f73": {
+    "time": "2026/09/28 17:24:30",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區重吉路",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T17:25:31.360196"
       }
     ]
   }
