@@ -6701,7 +6701,7 @@
     "sub_category": "溺水",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6714,6 +6714,10 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T13:59:31.360279"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T14:02:31.173038"
       }
     ]
   },
@@ -6723,7 +6727,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6740,6 +6744,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T13:53:31.172932"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T14:02:31.173038"
       }
     ]
   },
@@ -6779,7 +6787,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6792,6 +6800,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T13:50:31.315756"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T14:02:31.173038"
       }
     ]
   },
@@ -6880,6 +6892,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T14:00:31.328991"
+      }
+    ]
+  },
+  "b2a87c1f9e88bc61e4fd12ddf8f11642": {
+    "time": "2026/09/28 14:01:53",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T14:02:31.173038"
+      }
+    ]
+  },
+  "95e056d1db15a4104bdd388abcf9a8ed": {
+    "time": "2026/09/28 14:01:22",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T14:02:31.173038"
       }
     ]
   }
