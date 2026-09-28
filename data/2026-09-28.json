@@ -4805,7 +4805,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4814,6 +4814,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T11:03:31.244471"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T11:10:31.140401"
       }
     ]
   },
@@ -4823,7 +4827,7 @@
     "sub_category": "車禍",
     "location": "高雄市前金區河東路",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4832,6 +4836,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T11:05:31.297747"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T11:10:31.140401"
       }
     ]
   },
@@ -4859,11 +4867,29 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T11:09:31.251987"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T11:10:31.140401"
+      }
+    ]
+  },
+  "69a25f95e9efd339a337f2849579a838": {
+    "time": "2026/09/28 11:09:51",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區水管路",
+    "units": "後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T11:10:31.140401"
       }
     ]
   }
