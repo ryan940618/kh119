@@ -5161,7 +5161,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5170,6 +5170,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T11:24:31.266495"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T11:33:31.369234"
       }
     ]
   },
@@ -5206,6 +5210,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T11:30:31.260342"
+      }
+    ]
+  },
+  "7e4da8310a392ab460df80f0204567f5": {
+    "time": "2026/09/28 11:33:11",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T11:33:31.369234"
+      }
+    ]
+  },
+  "35422e153e1a20b3f570151c2abb8a20": {
+    "time": "2026/09/28 11:32:38",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市湖內區",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T11:33:31.369234"
       }
     ]
   }
