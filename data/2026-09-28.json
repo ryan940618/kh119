@@ -3899,7 +3899,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3912,6 +3912,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T10:00:31.608374"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T10:11:31.836489"
       }
     ]
   },
@@ -3975,7 +3979,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3984,6 +3988,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T10:09:31.785250"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T10:11:31.836489"
       }
     ]
   },
@@ -3993,11 +4001,29 @@
     "sub_category": "車禍",
     "location": "高雄市三民區金鼎路",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T10:10:31.727994"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T10:11:31.836489"
+      }
+    ]
+  },
+  "72997ce98e18ae4f7026f4fe670980b4": {
+    "time": "2026/09/28 10:10:37",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區美術東二路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T10:11:31.836489"
       }
     ]
   }
