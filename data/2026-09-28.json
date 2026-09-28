@@ -2949,7 +2949,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2958,6 +2958,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T08:22:31.026086"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T08:25:31.194093"
       }
     ]
   },
@@ -2980,6 +2984,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T08:24:31.101782"
+      }
+    ]
+  },
+  "abc2b72fbf18f8c3aa5fbbb21c87eaf1": {
+    "time": "2026/09/28 08:24:52",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鳳山區忠誠路",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T08:25:31.194093"
       }
     ]
   }
