@@ -5699,7 +5699,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中山二路",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5712,6 +5712,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T12:31:31.463206"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T12:39:31.813452"
       }
     ]
   },
@@ -5779,7 +5783,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳥松區大仁北路",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -5788,6 +5792,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T12:33:31.476789"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T12:39:31.813452"
       }
     ]
   },
@@ -5850,6 +5858,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T12:38:31.827662"
+      }
+    ]
+  },
+  "7dfc1d53724c2cd7e809b3c311095745": {
+    "time": "2026/09/28 12:30:49",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市左營區果峰街",
+    "units": "左營分隊",
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T12:39:31.813452"
       }
     ]
   }
