@@ -11347,11 +11347,15 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-28T21:01:31.642788"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T21:09:31.802339"
       }
     ]
   },
@@ -11392,6 +11396,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T21:06:31.610111"
+      }
+    ]
+  },
+  "3b7a83656c801ced8d99b91d847a78b7": {
+    "time": "2026/09/28 21:08:41",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T21:09:31.802339"
+      }
+    ]
+  },
+  "3cec01b929b37c664a78828a141b7234": {
+    "time": "2026/09/28 21:08:20",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市新興區復興一路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T21:09:31.802339"
       }
     ]
   }
