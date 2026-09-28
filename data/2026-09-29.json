@@ -91,7 +91,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -108,6 +108,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T00:30:31.051068"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T00:37:31.291967"
       }
     ]
   },
@@ -117,11 +121,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-29T00:31:31.198114"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T00:37:31.291967"
       }
     ]
   },
@@ -131,11 +139,15 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T00:36:31.226514"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T00:37:31.291967"
       }
     ]
   }
