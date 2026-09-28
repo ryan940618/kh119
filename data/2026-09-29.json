@@ -2439,11 +2439,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區德祥路",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-29T07:48:31.939070"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T07:53:31.260569"
       }
     ]
   },
@@ -2494,6 +2498,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T07:51:31.151027"
+      }
+    ]
+  },
+  "a5d239e6765865fdd1038f54706b7d7a": {
+    "time": "2026/09/29 07:52:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T07:53:31.260569"
+      }
+    ]
+  },
+  "15e6f3546f2aafba0fb425fe8befb56c": {
+    "time": "2026/09/29 07:52:13",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市仁武區仁心路",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T07:53:31.260569"
       }
     ]
   }
