@@ -5445,11 +5445,15 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T11:53:31.458911"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T11:55:31.443027"
       }
     ]
   },
@@ -5464,6 +5468,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T11:54:31.372374"
+      }
+    ]
+  },
+  "a08ec1758db212502769b2e3bc79cad8": {
+    "time": "2026/09/28 11:55:02",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區維新街",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T11:55:31.443027"
+      }
+    ]
+  },
+  "5f12131997dd157cd7a28a1c5e4ea480": {
+    "time": "2026/09/28 11:54:34",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T11:55:31.443027"
       }
     ]
   }
