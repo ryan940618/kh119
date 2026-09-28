@@ -11211,7 +11211,7 @@
     "sub_category": "急病",
     "location": "高雄市桃源區",
     "units": "寶來分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11228,6 +11228,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T20:42:31.653391"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T21:23:31.790489"
       }
     ]
   },
@@ -11487,11 +11491,15 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T21:22:31.812797"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T21:23:31.790489"
       }
     ]
   }
