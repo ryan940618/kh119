@@ -1243,7 +1243,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1260,6 +1260,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T05:32:31.020041"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T05:36:31.077464"
       }
     ]
   },
@@ -1278,6 +1282,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T05:34:31.082228"
+      }
+    ]
+  },
+  "3eca183ef7d246026ef7aa298fdc87d6": {
+    "time": "2026/09/29 05:34:58",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區山隙路",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T05:36:31.077464"
       }
     ]
   }
