@@ -2405,11 +2405,15 @@
     "sub_category": "車禍",
     "location": "高雄市旗山區旗甲路",
     "units": "旗山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T07:48:31.939070"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T07:50:31.282524"
       }
     ]
   },
@@ -2433,11 +2437,29 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T07:49:32.023690"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T07:50:31.282524"
+      }
+    ]
+  },
+  "61d8aa6da0344ac37e53691c2ee56543": {
+    "time": "2026/09/29 07:49:57",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大社區",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T07:50:31.282524"
       }
     ]
   }
