@@ -9273,7 +9273,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9282,6 +9282,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T17:41:31.680870"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T17:56:31.707470"
       }
     ]
   },
@@ -9317,7 +9321,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9330,6 +9334,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T17:47:31.580280"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T17:56:31.707470"
       }
     ]
   },
@@ -9450,6 +9458,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T17:55:31.573768"
+      }
+    ]
+  },
+  "ad96aee300ae18ae48104fc3bb2b68a0": {
+    "time": "2026/09/28 17:55:56",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市湖內區保生路",
+    "units": "阿蓮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T17:56:31.707470"
       }
     ]
   }
