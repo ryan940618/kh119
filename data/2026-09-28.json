@@ -7895,7 +7895,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7912,6 +7912,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T15:49:33.871419"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T15:54:31.951011"
       }
     ]
   },
@@ -7980,6 +7984,48 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T15:53:31.809177"
+      }
+    ]
+  },
+  "103d88c7a3fda63c5f6c88fd3edf300d": {
+    "time": "2026/09/28 15:54:08",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市阿蓮區民權路",
+    "units": "阿蓮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T15:54:31.951011"
+      }
+    ]
+  },
+  "815c58eb4e0528898c4588d1e86bcfb4": {
+    "time": "2026/09/28 15:53:52",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區台機路",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T15:54:31.951011"
+      }
+    ]
+  },
+  "65ba29c5b7f251a9b41e93dd4c44063a": {
+    "time": "2026/09/28 15:53:23",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區台機路",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T15:54:31.951011"
       }
     ]
   }
