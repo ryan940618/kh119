@@ -4629,7 +4629,7 @@
     "sub_category": "急病",
     "location": "高雄市彌陀區",
     "units": "彌陀分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4638,6 +4638,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T10:58:31.232253"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T11:01:31.110022"
       }
     ]
   },
@@ -4707,11 +4711,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T11:00:31.154195"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T11:01:31.110022"
       }
     ]
   },
@@ -4721,11 +4729,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T11:00:31.154195"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T11:01:31.110022"
+      }
+    ]
+  },
+  "a2e8482864c9c755dda242bb714b314c": {
+    "time": "2026/09/28 11:00:11",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區鼎山街",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T11:01:31.110022"
       }
     ]
   }
