@@ -9291,7 +9291,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區九如三路",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9304,6 +9304,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T17:47:31.580280"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T17:54:31.547855"
       }
     ]
   },
@@ -9410,6 +9414,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T17:50:31.641474"
+      }
+    ]
+  },
+  "3bea9263f942a7137519cf9f58026100": {
+    "time": "2026/09/28 17:53:36",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區北忠街",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T17:54:31.547855"
+      }
+    ]
+  },
+  "aa2ebc42a3a1cc2c0be4a4c58dd130ba": {
+    "time": "2026/09/28 17:53:28",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T17:54:31.547855"
       }
     ]
   }
