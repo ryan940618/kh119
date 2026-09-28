@@ -8569,7 +8569,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區灣復街",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8586,6 +8586,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T16:41:31.285129"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T16:57:31.421494"
       }
     ]
   },
@@ -8625,7 +8629,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8642,6 +8646,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T16:47:31.263970"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T16:57:31.421494"
       }
     ]
   },
@@ -8735,7 +8743,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區榮總路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8744,6 +8752,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T16:55:31.282125"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T16:57:31.421494"
       }
     ]
   },
@@ -8781,11 +8793,29 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區鳳松路",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T16:56:31.167153"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T16:57:31.421494"
+      }
+    ]
+  },
+  "aa96c70b5d27d154c85d545f95872967": {
+    "time": "2026/09/28 16:56:48",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市林園區中門路",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T16:57:31.421494"
       }
     ]
   }
