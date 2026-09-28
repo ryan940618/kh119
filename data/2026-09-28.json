@@ -7571,7 +7571,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7584,6 +7584,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T15:31:31.630955"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T15:36:31.742033"
       }
     ]
   },
@@ -7749,7 +7753,7 @@
     "sub_category": "其他",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7762,6 +7766,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T15:31:31.630955"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T15:36:31.742033"
       }
     ]
   },
@@ -7807,11 +7815,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T15:35:31.763714"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T15:36:31.742033"
+      }
+    ]
+  },
+  "6a722275c5f5780ac374d98a2047306f": {
+    "time": "2026/09/28 15:35:39",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T15:36:31.742033"
       }
     ]
   }
