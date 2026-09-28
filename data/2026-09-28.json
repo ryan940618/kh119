@@ -7295,7 +7295,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區經武路",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7308,6 +7308,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T14:51:31.486331"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T15:01:31.663927"
       }
     ]
   },
@@ -7399,11 +7403,15 @@
     "sub_category": "路倒",
     "location": "高雄市鼓山區蓬萊路",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T14:59:31.840310"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T15:01:31.663927"
       }
     ]
   }
