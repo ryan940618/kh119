@@ -3325,7 +3325,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3338,6 +3338,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T09:17:31.415295"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T09:23:31.521307"
       }
     ]
   },
@@ -3387,7 +3391,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3396,6 +3400,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T09:20:31.597161"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T09:23:31.521307"
       }
     ]
   },
@@ -3414,6 +3422,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T09:22:31.366275"
+      }
+    ]
+  },
+  "d45b992fb324bac29962f689a21d1398": {
+    "time": "2026/09/28 09:22:16",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T09:23:31.521307"
       }
     ]
   }
