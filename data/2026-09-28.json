@@ -4109,7 +4109,7 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4122,6 +4122,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T10:26:31.969733"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T10:45:31.112767"
       }
     ]
   },
@@ -4217,7 +4221,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4234,6 +4238,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T10:36:32.030169"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T10:45:31.112767"
       }
     ]
   },
@@ -4299,7 +4307,7 @@
     "sub_category": "路倒",
     "location": "高雄市小港區二苓路",
     "units": "小港分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4316,6 +4324,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-28T10:42:31.007292"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-28T10:45:31.112767"
       }
     ]
   },
@@ -4413,7 +4425,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4426,6 +4438,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T10:41:30.951488"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-28T10:45:31.112767"
       }
     ]
   },
@@ -4449,11 +4465,15 @@
     "sub_category": "車禍",
     "location": "高雄市鹽埕區新樂街",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T10:43:31.025602"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T10:45:31.112767"
       }
     ]
   },
