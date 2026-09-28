@@ -1697,7 +1697,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營小隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1706,6 +1706,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T06:44:31.422857"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T06:50:31.510580"
       }
     ]
   },
@@ -1759,7 +1763,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1768,6 +1772,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T06:46:31.570576"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T06:50:31.510580"
       }
     ]
   },
@@ -1777,11 +1785,29 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T06:49:31.430209"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T06:50:31.510580"
+      }
+    ]
+  },
+  "d58b3ea5d131ea93b9e15c09af3e4799": {
+    "time": "2026/09/29 06:49:12",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "後勁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T06:50:31.510580"
       }
     ]
   }
