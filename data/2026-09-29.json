@@ -2949,7 +2949,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2958,6 +2958,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T08:20:31.241309"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T08:25:31.415485"
       }
     ]
   },
@@ -3003,11 +3007,15 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T08:24:31.340367"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T08:25:31.415485"
       }
     ]
   },
@@ -3017,11 +3025,15 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區澄觀路",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T08:24:31.340367"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T08:25:31.415485"
       }
     ]
   },
@@ -3031,11 +3043,29 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區光遠路",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T08:24:31.340367"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T08:25:31.415485"
+      }
+    ]
+  },
+  "54d18c571ac0f1e004322904bfc6211b": {
+    "time": "2026/09/29 08:24:46",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T08:25:31.415485"
       }
     ]
   }
