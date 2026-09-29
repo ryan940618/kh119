@@ -3987,7 +3987,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3996,6 +3996,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T09:17:31.795889"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T09:21:31.748809"
       }
     ]
   },
@@ -4065,11 +4069,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區河堤路",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T09:20:31.840299"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T09:21:31.748809"
       }
     ]
   }
