@@ -8317,7 +8317,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8334,6 +8334,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T14:15:32.033836"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T14:21:31.490471"
       }
     ]
   },
@@ -8343,7 +8347,7 @@
     "sub_category": "急病",
     "location": "高雄市橋頭區",
     "units": "橋頭分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -8352,6 +8356,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T14:13:31.809497"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T14:21:31.490471"
       }
     ]
   },
@@ -8401,11 +8409,43 @@
     "sub_category": "創傷",
     "location": "高雄市小港區飛機路",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T14:19:31.484812"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T14:21:31.490471"
+      }
+    ]
+  },
+  "f7bed3c1c1e71c9f568b29f4230dec50": {
+    "time": "2026/09/29 14:20:26",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市湖內區",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T14:21:31.490471"
+      }
+    ]
+  },
+  "913cea83eca7a3dfeb71249f8a7a8e61": {
+    "time": "2026/09/29 14:20:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T14:21:31.490471"
       }
     ]
   }
