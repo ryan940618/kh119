@@ -5799,7 +5799,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區鳳松路",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5812,6 +5812,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T11:03:31.403368"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T11:16:31.610508"
       }
     ]
   },
@@ -6025,11 +6029,15 @@
     "sub_category": "創傷",
     "location": "高雄市岡山區灣裡路",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T11:13:31.612005"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T11:16:31.610508"
       }
     ]
   },
@@ -6066,6 +6074,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T11:15:31.648516"
+      }
+    ]
+  },
+  "2ec570c776cbe7f0b1e0d30e61fd2827": {
+    "time": "2026/09/29 11:15:52",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市旗山區延平一路",
+    "units": "旗山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T11:16:31.610508"
+      }
+    ]
+  },
+  "8d496a7299fcf9e6e9c8a0f59ede2490": {
+    "time": "2026/09/29 11:15:07",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳥松區",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T11:16:31.610508"
       }
     ]
   }
