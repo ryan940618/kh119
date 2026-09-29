@@ -8641,7 +8641,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區鳳甲路",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8654,6 +8654,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T14:44:31.765709"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T14:52:31.680220"
       }
     ]
   },
@@ -8663,7 +8667,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8672,6 +8676,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T14:47:31.681315"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T14:52:31.680220"
       }
     ]
   },
@@ -8712,6 +8720,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T14:51:31.881557"
+      }
+    ]
+  },
+  "69a52e3265eda29e0fcfeb1fe8340eb3": {
+    "time": "2026/09/29 14:52:05",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區苓雅二路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T14:52:31.680220"
       }
     ]
   }
