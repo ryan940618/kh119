@@ -2587,7 +2587,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2600,6 +2600,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T07:59:31.175418"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T08:12:31.459161"
       }
     ]
   },
@@ -2609,7 +2613,7 @@
     "sub_category": "創傷",
     "location": "高雄市仁武區仁心路",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2622,6 +2626,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T08:00:31.194411"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T08:12:31.459161"
       }
     ]
   },
@@ -2798,6 +2806,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T08:09:31.225177"
+      }
+    ]
+  },
+  "3e17345c33816171d017f2861334a20c": {
+    "time": "2026/09/29 08:11:23",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市楠梓區樂群路",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T08:12:31.459161"
       }
     ]
   }
