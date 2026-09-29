@@ -9655,7 +9655,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9668,6 +9668,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T16:25:31.348290"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T16:28:31.517068"
       }
     ]
   },
@@ -9779,11 +9783,29 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區鳳仁路",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T16:26:31.581530"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T16:28:31.517068"
+      }
+    ]
+  },
+  "e9488f0c76906933c8d892ad2d5e9ed5": {
+    "time": "2026/09/29 16:28:10",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區左營大路",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T16:28:31.517068"
       }
     ]
   }
