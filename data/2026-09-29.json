@@ -10091,7 +10091,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10104,6 +10104,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T16:49:31.673824"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T16:56:31.650452"
       }
     ]
   },
@@ -10206,6 +10210,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T16:51:31.581808"
+      }
+    ]
+  },
+  "c86b3c3b527044179d3c49e29eeceb69": {
+    "time": "2026/09/29 16:54:52",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市左營區",
+    "units": "後勁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T16:56:31.650452"
       }
     ]
   }
