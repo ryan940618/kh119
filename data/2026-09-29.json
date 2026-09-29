@@ -9911,7 +9911,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9924,6 +9924,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T16:38:31.488031"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T17:03:31.674532"
       }
     ]
   },
@@ -10320,6 +10324,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T17:01:31.848790"
+      }
+    ]
+  },
+  "19d37b233e87dddf0812a06368e4758b": {
+    "time": "2026/09/29 17:02:32",
+    "category": "緊急救護",
+    "sub_category": "燒燙傷",
+    "location": "高雄市左營區新庄仔路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T17:03:31.674532"
+      }
+    ]
+  },
+  "97373be5ba5a41528a82258f02b2ae8d": {
+    "time": "2026/09/29 17:02:17",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區五福三路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T17:03:31.674532"
       }
     ]
   }
