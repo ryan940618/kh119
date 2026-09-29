@@ -13139,7 +13139,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區文享街",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -13156,6 +13156,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T20:42:31.127303"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T20:45:31.105630"
       }
     ]
   },
@@ -13262,6 +13266,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T20:41:31.094964"
+      }
+    ]
+  },
+  "ca0acb390a773f5a39804b7f27a3b891": {
+    "time": "2026/09/29 20:44:30",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-29T20:45:31.105630"
       }
     ]
   }
