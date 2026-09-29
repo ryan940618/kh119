@@ -71,7 +71,7 @@
     "sub_category": "創傷",
     "location": "高雄市新興區五福二路",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -84,6 +84,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T00:23:31.260621"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T00:33:31.378289"
       }
     ]
   },
@@ -168,6 +172,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T00:32:31.443785"
+      }
+    ]
+  },
+  "30b836696c16ed19e0b80935c76338a0": {
+    "time": "2026/09/30 00:31:30",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市前鎮區凱旋四路",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T00:33:31.378289"
       }
     ]
   }
