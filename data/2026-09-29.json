@@ -11193,7 +11193,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11210,6 +11210,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T17:53:32.237487"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T18:04:31.304530"
       }
     ]
   },
@@ -11550,6 +11554,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T18:01:31.257584"
+      }
+    ]
+  },
+  "24e96615bc62dc057cd698c08c274c8b": {
+    "time": "2026/09/29 18:04:00",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市鳳山區",
+    "units": "",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T18:04:31.304530"
+      }
+    ]
+  },
+  "dc83f655bf848840bdbebd0aa21de754": {
+    "time": "2026/09/29 18:03:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T18:04:31.304530"
       }
     ]
   }
