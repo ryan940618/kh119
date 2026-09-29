@@ -10271,7 +10271,7 @@
     "sub_category": "路倒",
     "location": "高雄市左營區",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -10280,6 +10280,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T17:01:31.848790"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T17:10:32.135235"
       }
     ]
   },
@@ -10289,7 +10293,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區武營路",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10302,6 +10306,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T17:06:31.794622"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T17:10:32.135235"
       }
     ]
   },
@@ -10391,7 +10399,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區五福三路",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10400,6 +10408,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T17:06:31.794622"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T17:10:32.135235"
       }
     ]
   },
@@ -10427,11 +10439,15 @@
     "sub_category": "車禍",
     "location": "高雄市小港區南星路",
     "units": "大林分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-29T17:05:31.715990"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T17:10:32.135235"
       }
     ]
   },
@@ -10505,11 +10521,15 @@
     "sub_category": "創傷",
     "location": "高雄市左營區翠華路",
     "units": "左營小隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T17:08:31.872724"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T17:10:32.135235"
       }
     ]
   },
@@ -10537,11 +10557,15 @@
     "sub_category": "其他",
     "location": "高雄市大寮區拷潭路",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T17:09:31.825668"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T17:10:32.135235"
       }
     ]
   }
