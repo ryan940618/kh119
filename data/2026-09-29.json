@@ -11647,7 +11647,7 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11664,6 +11664,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T18:23:31.325094"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T18:32:31.375837"
       }
     ]
   },
@@ -11803,7 +11807,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11816,6 +11820,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T18:21:31.241264"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T18:32:31.375837"
       }
     ]
   },
@@ -11869,7 +11877,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11882,6 +11890,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T18:27:31.355959"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T18:32:31.375837"
       }
     ]
   },
@@ -11931,11 +11943,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-29T18:22:31.414299"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T18:32:31.375837"
       }
     ]
   },
@@ -11977,11 +11993,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T18:30:31.491254"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T18:32:31.375837"
       }
     ]
   },
@@ -12009,11 +12029,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T18:31:31.237645"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T18:32:31.375837"
       }
     ]
   }
