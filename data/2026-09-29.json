@@ -7673,7 +7673,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區澄清路和文享街",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7686,6 +7686,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T13:10:31.237981"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T13:20:31.543307"
       }
     ]
   },
@@ -7757,7 +7761,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7770,6 +7774,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T13:16:31.278224"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T13:20:31.543307"
       }
     ]
   },
@@ -7819,11 +7827,15 @@
     "sub_category": "其他",
     "location": "高雄市左營區左營大路",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T13:19:31.359636"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T13:20:31.543307"
       }
     ]
   }
