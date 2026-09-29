@@ -10833,7 +10833,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10842,6 +10842,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T17:24:32.275906"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T17:36:32.131792"
       }
     ]
   },
@@ -10979,7 +10983,7 @@
     "sub_category": "其他",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已到達",
+    "current_status": "火已滅",
     "status_history": [
       {
         "status": "已出動",
@@ -10988,6 +10992,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T17:27:32.210014"
+      },
+      {
+        "status": "火已滅",
+        "timestamp": "2026-09-29T17:36:32.131792"
       }
     ]
   },
@@ -11059,11 +11067,15 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T17:34:32.208868"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T17:36:32.131792"
       }
     ]
   },
@@ -11073,11 +11085,43 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T17:35:32.232827"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T17:36:32.131792"
+      }
+    ]
+  },
+  "55c7d6d5ed82c22c876006cb75e185f9": {
+    "time": "2026/09/29 17:35:40",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市燕巢區中興路",
+    "units": "田寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T17:36:32.131792"
+      }
+    ]
+  },
+  "62fae1854d982ad78b382ef9e067bacd": {
+    "time": "2026/09/29 17:35:22",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T17:36:32.131792"
       }
     ]
   }
