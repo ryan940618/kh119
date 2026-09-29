@@ -4681,7 +4681,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區美山路",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4694,6 +4694,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T10:04:32.009709"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T10:09:32.224623"
       }
     ]
   },
@@ -4767,11 +4771,29 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T10:07:32.105633"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T10:09:32.224623"
+      }
+    ]
+  },
+  "e6d446c4e2aa5fa5800abfba68deb12d": {
+    "time": "2026/09/29 10:08:22",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區二聖二路",
+    "units": "瑞隆分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T10:09:32.224623"
       }
     ]
   }
