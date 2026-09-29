@@ -5217,7 +5217,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區橋科八路",
     "units": "燕巢分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -5230,6 +5230,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T10:48:31.547880"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T10:58:31.225547"
       }
     ]
   },
@@ -5551,7 +5555,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區加昌路",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5564,6 +5568,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T10:50:31.468391"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T10:58:31.225547"
       }
     ]
   },
@@ -5595,7 +5603,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5604,6 +5612,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T10:56:31.518669"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T10:58:31.225547"
       }
     ]
   },
@@ -5631,7 +5643,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區鳳南路和南江街",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5640,6 +5652,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T10:55:31.321096"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T10:58:31.225547"
       }
     ]
   },
@@ -5703,11 +5719,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區鳳松路",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T10:57:31.380904"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T10:58:31.225547"
       }
     ]
   },
@@ -5722,6 +5742,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T10:57:31.380904"
+      }
+    ]
+  },
+  "ed8a3016d80f2c1a092d4831603f6d08": {
+    "time": "2026/09/29 10:57:20",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市苓雅區武營路",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T10:58:31.225547"
       }
     ]
   }
