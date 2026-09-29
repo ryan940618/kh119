@@ -3199,7 +3199,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3212,6 +3212,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T08:36:31.780137"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T08:50:31.603642"
       }
     ]
   },
@@ -3295,7 +3299,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中山四路",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3308,6 +3312,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T08:42:31.759637"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T08:50:31.603642"
       }
     ]
   },
@@ -3375,7 +3383,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區水管路",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3384,6 +3392,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T08:44:31.920183"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T08:50:31.603642"
       }
     ]
   },
@@ -3461,11 +3473,15 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T08:47:31.742542"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T08:50:31.603642"
       }
     ]
   },
@@ -3498,6 +3514,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T08:49:31.524989"
+      }
+    ]
+  },
+  "c14e986179088a3aa958ab443c64ba3f": {
+    "time": "2026/09/29 08:49:57",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大社區",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T08:50:31.603642"
       }
     ]
   }
