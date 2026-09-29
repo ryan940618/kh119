@@ -4521,11 +4521,15 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區公園路",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T09:54:31.870861"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T09:56:31.870831"
       }
     ]
   },
@@ -4549,11 +4553,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T09:55:32.119131"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T09:56:31.870831"
       }
     ]
   },
@@ -4568,6 +4576,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T09:55:32.119131"
+      }
+    ]
+  },
+  "f5dbd435c3450c86ee40e4964ff5fcae": {
+    "time": "2026/09/29 09:55:17",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市桃源區",
+    "units": "桃源分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T09:56:31.870831"
+      }
+    ]
+  },
+  "d62b5c97e992e85dea2271e6dbf014d9": {
+    "time": "2026/09/29 09:54:52",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區建國一路",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T09:56:31.870831"
       }
     ]
   }
