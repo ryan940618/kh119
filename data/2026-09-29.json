@@ -7055,11 +7055,15 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區永義街",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-29T12:18:32.071192"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T12:25:32.049816"
       }
     ]
   },
@@ -7087,7 +7091,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7096,6 +7100,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T12:20:31.917370"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T12:25:32.049816"
       }
     ]
   },
@@ -7154,6 +7162,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T12:23:31.990974"
+      }
+    ]
+  },
+  "a723e609f23f9d16f605ba0b7c4bd248": {
+    "time": "2026/09/29 12:24:23",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T12:25:32.049816"
+      }
+    ]
+  },
+  "6ec5d7d40c9152442b88c877ca6ba171": {
+    "time": "2026/09/29 12:24:15",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T12:25:32.049816"
       }
     ]
   }
