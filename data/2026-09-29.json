@@ -12401,7 +12401,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區博愛路",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12418,6 +12418,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T19:06:31.660627"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T19:10:31.957648"
       }
     ]
   },
@@ -12471,7 +12475,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區美術東二路",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12480,6 +12484,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T19:07:31.697604"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T19:10:31.957648"
       }
     ]
   },
@@ -12494,6 +12502,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T19:09:32.064783"
+      }
+    ]
+  },
+  "f9a2ca2d8518b8c534521c0ba4341cd6": {
+    "time": "2026/09/29 19:09:00",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市燕巢區瓊林路",
+    "units": "燕巢分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T19:10:31.957648"
       }
     ]
   }
