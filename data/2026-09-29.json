@@ -10671,7 +10671,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區仁心路",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10688,6 +10688,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T17:27:32.210014"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T17:39:32.082798"
       }
     ]
   },
@@ -10771,7 +10775,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區褒揚東街",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10788,6 +10792,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T17:34:32.208868"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T17:39:32.082798"
       }
     ]
   },
@@ -11158,6 +11166,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T17:37:32.183725"
+      }
+    ]
+  },
+  "1a21570836899feac6cbb456794cfba6": {
+    "time": "2026/09/29 17:38:18",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市茄萣區",
+    "units": "湖內分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T17:39:32.082798"
       }
     ]
   }
