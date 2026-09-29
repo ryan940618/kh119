@@ -2733,7 +2733,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區天祥二路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2742,6 +2742,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T08:04:31.157098"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T08:08:31.219582"
       }
     ]
   },
@@ -2760,6 +2764,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T08:04:31.157098"
+      }
+    ]
+  },
+  "e32350e5514a39b29cd4065935da7587": {
+    "time": "2026/09/29 08:07:16",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區壽昌路",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T08:08:31.219582"
       }
     ]
   }
