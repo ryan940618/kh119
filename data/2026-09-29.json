@@ -4807,7 +4807,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4824,6 +4824,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T10:30:31.516839"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T10:34:31.506915"
       }
     ]
   },
@@ -4833,7 +4837,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區二聖二路",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -4846,6 +4850,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T10:25:31.258729"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T10:34:31.506915"
       }
     ]
   },
@@ -5151,7 +5159,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5164,6 +5172,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T10:31:31.393431"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T10:34:31.506915"
       }
     ]
   },
@@ -5258,6 +5270,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T10:33:31.519368"
+      }
+    ]
+  },
+  "44710911af2ec566f416ab707b7f0c74": {
+    "time": "2026/09/29 10:33:40",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市阿蓮區",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T10:34:31.506915"
       }
     ]
   }
