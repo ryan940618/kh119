@@ -5861,7 +5861,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區新大路",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已到達",
@@ -5870,6 +5870,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T11:05:31.455786"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T11:12:31.386958"
       }
     ]
   },
@@ -5901,11 +5905,15 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-29T11:01:31.436308"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T11:12:31.386958"
       }
     ]
   },
@@ -5982,6 +5990,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T11:11:31.437262"
+      }
+    ]
+  },
+  "6f7268e9db52db332ec7797bd8b4c8fc": {
+    "time": "2026/09/29 11:11:09",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市大寮區翁園路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T11:12:31.386958"
       }
     ]
   }
