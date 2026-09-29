@@ -2847,7 +2847,7 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區樂群路",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2856,6 +2856,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T08:13:31.268524"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T08:19:31.267817"
       }
     ]
   },
@@ -2883,11 +2887,29 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T08:18:31.313354"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T08:19:31.267817"
+      }
+    ]
+  },
+  "c386a468f73b8e20b125cc59f8388c13": {
+    "time": "2026/09/29 08:18:41",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市茄萣區",
+    "units": "茄萣分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T08:19:31.267817"
       }
     ]
   }
