@@ -5,7 +5,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -22,6 +22,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T00:12:31.226812"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T00:16:31.244259"
       }
     ]
   },
@@ -50,6 +54,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T00:15:31.289949"
+      }
+    ]
+  },
+  "b80553d74959f90760b20ec570eaef46": {
+    "time": "2026/09/30 00:15:53",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市新興區五福二路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T00:16:31.244259"
       }
     ]
   }
