@@ -713,7 +713,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -730,6 +730,24 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T02:50:31.214010"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T02:55:31.228399"
+      }
+    ]
+  },
+  "6e04ee5365e12ad70804109107794e08": {
+    "time": "2026/09/30 02:54:35",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T02:55:31.228399"
       }
     ]
   }
