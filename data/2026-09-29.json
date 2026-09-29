@@ -6783,7 +6783,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6792,6 +6792,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T11:57:31.945384"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T12:06:31.827975"
       }
     ]
   },
@@ -6815,7 +6819,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區德惠路",
     "units": "右昌分隊,後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6824,6 +6828,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T11:59:31.735890"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T12:06:31.827975"
       }
     ]
   },
@@ -6833,7 +6841,7 @@
     "sub_category": "車禍",
     "location": "高雄市前金區中山一路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6842,6 +6850,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T12:01:31.759934"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T12:06:31.827975"
       }
     ]
   },
@@ -6864,6 +6876,20 @@
       {
         "status": "已受理",
         "timestamp": "2026-09-29T12:03:31.905929"
+      }
+    ]
+  },
+  "67b599db9d42720c53b1f5c9f8246445": {
+    "time": "2026/09/29 12:05:16",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T12:06:31.827975"
       }
     ]
   }
