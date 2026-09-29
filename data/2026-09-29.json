@@ -6351,7 +6351,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6364,6 +6364,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T11:26:31.743056"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T11:39:31.880332"
       }
     ]
   },
@@ -6458,6 +6462,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T11:37:31.651238"
+      }
+    ]
+  },
+  "65ff4b4cbd25c4917a4210a14a9c6cd0": {
+    "time": "2026/09/29 11:38:31",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T11:39:31.880332"
       }
     ]
   }
