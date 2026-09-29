@@ -3269,7 +3269,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3282,6 +3282,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T08:38:31.418885"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T08:49:31.524989"
       }
     ]
   },
@@ -3421,11 +3425,15 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區文學三街",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T08:46:31.939507"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T08:49:31.524989"
       }
     ]
   },
@@ -3481,11 +3489,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區美庄路",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T08:48:31.811753"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T08:49:31.524989"
       }
     ]
   }
