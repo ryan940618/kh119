@@ -10445,7 +10445,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區光華東路",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10458,6 +10458,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T17:12:31.832816"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T17:20:31.968548"
       }
     ]
   },
@@ -10637,7 +10641,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區大學六十街",
     "units": "橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10646,6 +10650,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T17:15:31.905542"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T17:20:31.968548"
       }
     ]
   },
@@ -10719,11 +10727,15 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區創新路",
     "units": "楠梓分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T17:19:32.068564"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T17:20:31.968548"
       }
     ]
   },
@@ -10738,6 +10750,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T17:19:32.068564"
+      }
+    ]
+  },
+  "1cbcd7e91651905a8caffc5b4edf8d8a": {
+    "time": "2026/09/29 17:19:25",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T17:20:31.968548"
       }
     ]
   }
