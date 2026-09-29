@@ -10475,7 +10475,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區南星路",
     "units": "大林分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -10488,6 +10488,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T17:14:31.905832"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T17:23:32.334340"
       }
     ]
   },
@@ -10591,7 +10595,7 @@
     "sub_category": "創傷",
     "location": "高雄市燕巢區橋科10路",
     "units": "燕巢分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10604,6 +10608,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T17:14:31.905832"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T17:23:32.334340"
       }
     ]
   },
@@ -10829,11 +10837,57 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區美山路",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T17:22:32.009003"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T17:23:32.334340"
+      }
+    ]
+  },
+  "63790d1fcd16e097a7e6b5624d4e09a5": {
+    "time": "2026/09/29 17:22:25",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區褒揚東街",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T17:23:32.334340"
+      }
+    ]
+  },
+  "5e663bb5f0b9411511b44e8cc09e4f28": {
+    "time": "2026/09/29 17:22:25",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區中安路",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T17:23:32.334340"
+      }
+    ]
+  },
+  "7defd8dc6dfe57482bc6aa0a8016f8d4": {
+    "time": "2026/09/29 17:20:47",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市茄萣區",
+    "units": "茄萣分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T17:23:32.334340"
       }
     ]
   }
