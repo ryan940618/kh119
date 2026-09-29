@@ -5777,7 +5777,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5790,6 +5790,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T11:04:31.448865"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T11:18:33.137285"
       }
     ]
   },
@@ -6156,6 +6160,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T11:17:31.627880"
+      }
+    ]
+  },
+  "48c3f113a4d4d04bea608b20f4ee6c3b": {
+    "time": "2026/09/29 11:17:32",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T11:18:33.137285"
+      }
+    ]
+  },
+  "04aecf4161f6300164909b45d23bc4c4": {
+    "time": "2026/09/29 11:16:37",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市旗山區中山路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-29T11:18:33.137285"
       }
     ]
   }
