@@ -4357,7 +4357,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "大樹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4370,6 +4370,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T09:43:31.952962"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T09:50:31.834631"
       }
     ]
   },
@@ -4450,6 +4454,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T09:47:31.877278"
+      }
+    ]
+  },
+  "bb2c3cf07568f2bda717b8f95d76c98c": {
+    "time": "2026/09/29 09:49:17",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區武仁街",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T09:50:31.834631"
       }
     ]
   }
