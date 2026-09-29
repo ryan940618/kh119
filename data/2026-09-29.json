@@ -6275,7 +6275,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6292,6 +6292,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T11:44:31.729872"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T11:52:31.622736"
       }
     ]
   },
@@ -6676,6 +6680,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T11:51:31.791213"
+      }
+    ]
+  },
+  "4e54965d08f7b9057890cd5b3ace58ee": {
+    "time": "2026/09/29 11:51:24",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T11:52:31.622736"
+      }
+    ]
+  },
+  "7d5d71e27718ce464c4a81fa870e8572": {
+    "time": "2026/09/29 11:51:13",
+    "category": "緊急救護",
+    "sub_category": "生物咬螫傷",
+    "location": "高雄市路竹區平海路",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T11:52:31.622736"
       }
     ]
   }
