@@ -12755,11 +12755,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T19:40:31.873877"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T19:42:31.908932"
       }
     ]
   },
@@ -12778,6 +12782,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T19:41:31.581643"
+      }
+    ]
+  },
+  "b449c01e29056f43045f010ac6cb6e58": {
+    "time": "2026/09/29 19:41:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳥松區",
+    "units": "鳥松分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T19:42:31.908932"
       }
     ]
   }
