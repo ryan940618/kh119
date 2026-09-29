@@ -5495,7 +5495,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區健民街",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5512,6 +5512,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T10:51:31.342517"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T10:55:31.321096"
       }
     ]
   },
@@ -5619,11 +5623,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區鳳南路和南江街",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T10:52:31.278713"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T10:55:31.321096"
       }
     ]
   },
@@ -5656,6 +5664,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T10:53:31.530276"
+      }
+    ]
+  },
+  "27f24bd73045f7ed24e5660d952a3520": {
+    "time": "2026/09/29 10:54:42",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T10:55:31.321096"
       }
     ]
   }
