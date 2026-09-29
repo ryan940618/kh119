@@ -10375,7 +10375,7 @@
     "sub_category": "路倒",
     "location": "高雄市仁武區仁孝路",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10388,6 +10388,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T17:08:31.872724"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T17:21:31.983999"
       }
     ]
   },
@@ -10511,7 +10515,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區八德一路",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10520,6 +10524,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T17:11:32.331932"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T17:21:31.983999"
       }
     ]
   },
@@ -10663,11 +10671,15 @@
     "sub_category": "車禍",
     "location": "高雄市梓官區光明路",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-29T17:14:31.905832"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T17:21:31.983999"
       }
     ]
   },
@@ -10677,11 +10689,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區德民路",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-29T17:14:31.905832"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T17:21:31.983999"
       }
     ]
   },
@@ -10764,6 +10780,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T17:20:31.968548"
+      }
+    ]
+  },
+  "c038e550b685acca2eaea6d8c81bee25": {
+    "time": "2026/09/29 17:20:47",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市茄萣區二仁溪橋南岸[高雄市茄萣區濱海路",
+    "units": "茄萣分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T17:21:31.983999"
+      }
+    ]
+  },
+  "4145c818dfa1450d1e34e410f545ee94": {
+    "time": "2026/09/29 17:20:19",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區九如一路",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T17:21:31.983999"
       }
     ]
   }
