@@ -12529,7 +12529,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -12538,6 +12538,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T19:17:31.970379"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T19:28:31.548353"
       }
     ]
   },
@@ -12680,6 +12684,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T19:27:31.460146"
+      }
+    ]
+  },
+  "1f4fae99513581867783f526ea2b3f09": {
+    "time": "2026/09/29 19:27:30",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市前金區六合二路",
+    "units": "前金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T19:28:31.548353"
       }
     ]
   }
