@@ -3907,7 +3907,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區德惠路",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -3916,6 +3916,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T09:11:31.812514"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T09:25:31.790866"
       }
     ]
   },
@@ -4071,11 +4075,15 @@
     "sub_category": "其他",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-29T09:19:31.660747"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T09:25:31.790866"
       }
     ]
   },
@@ -4126,6 +4134,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T09:22:31.837905"
+      }
+    ]
+  },
+  "2b9be87e2c4716498b73bbc4c4fec533": {
+    "time": "2026/09/29 09:24:34",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T09:25:31.790866"
       }
     ]
   }
