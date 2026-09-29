@@ -4771,7 +4771,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4780,6 +4780,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T10:09:32.224623"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T10:11:31.499049"
       }
     ]
   },
@@ -4794,6 +4798,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T10:09:32.224623"
+      }
+    ]
+  },
+  "09fe8f0e1feae46f1463d86a1e588cbb": {
+    "time": "2026/09/29 10:09:43",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市新興區八德二路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T10:11:31.499049"
       }
     ]
   }
