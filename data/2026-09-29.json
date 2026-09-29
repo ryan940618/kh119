@@ -3017,7 +3017,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3030,6 +3030,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T08:29:31.510762"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T08:42:31.759637"
       }
     ]
   },
@@ -3087,7 +3091,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區光遠路",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3100,6 +3104,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T08:31:31.444631"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T08:42:31.759637"
       }
     ]
   },
@@ -3271,7 +3279,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中山四路",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3280,6 +3288,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T08:37:31.534417"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T08:42:31.759637"
       }
     ]
   },
@@ -3303,7 +3315,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3312,6 +3324,38 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T08:36:31.780137"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T08:42:31.759637"
+      }
+    ]
+  },
+  "c763b26b22179b304728c72e32e843bb": {
+    "time": "2026/09/29 08:41:56",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區同安路",
+    "units": "前鎮分隊,小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T08:42:31.759637"
+      }
+    ]
+  },
+  "77470ae3997e2d9999a9ff8f7741539d": {
+    "time": "2026/09/29 08:41:24",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區水管路",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T08:42:31.759637"
       }
     ]
   }
