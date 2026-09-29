@@ -3631,7 +3631,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3648,6 +3648,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T09:07:31.858886"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T09:15:32.015854"
       }
     ]
   },
@@ -3657,7 +3661,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3670,6 +3674,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T09:02:31.725632"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T09:15:32.015854"
       }
     ]
   },
@@ -3907,7 +3915,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3916,6 +3924,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T09:13:31.780914"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T09:15:32.015854"
       }
     ]
   },
@@ -3925,11 +3937,29 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T09:13:31.780914"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T09:15:32.015854"
+      }
+    ]
+  },
+  "0cd189de1f9fa309041a1e8bd772d932": {
+    "time": "2026/09/29 09:15:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳥松區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T09:15:32.015854"
       }
     ]
   }
