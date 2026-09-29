@@ -13959,11 +13959,15 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區瑞春街",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已到達",
         "timestamp": "2026-09-29T22:32:32.475061"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T22:58:31.923597"
       }
     ]
   },
@@ -14000,6 +14004,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T22:56:31.782851"
+      }
+    ]
+  },
+  "b794b04a90ed486a399e7591115f511f": {
+    "time": "2026/09/29 22:58:03",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區左楠路",
+    "units": "後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T22:58:31.923597"
       }
     ]
   }
