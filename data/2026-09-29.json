@@ -4997,7 +4997,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5014,6 +5014,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T10:35:31.605678"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T10:48:31.547880"
       }
     ]
   },
@@ -5201,7 +5205,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區橋科八路",
     "units": "燕巢分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -5210,6 +5214,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T10:39:31.789742"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T10:48:31.547880"
       }
     ]
   },
@@ -5279,7 +5287,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5288,6 +5296,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T10:29:31.472992"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T10:48:31.547880"
       }
     ]
   },
@@ -5525,11 +5537,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區金福路",
     "units": "前鎮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T10:45:31.415477"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T10:48:31.547880"
       }
     ]
   }
