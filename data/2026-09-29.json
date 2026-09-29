@@ -7343,7 +7343,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區正忠路",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7352,6 +7352,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T12:37:32.177740"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T12:41:32.214761"
       }
     ]
   },
@@ -7366,6 +7370,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T12:40:32.381973"
+      }
+    ]
+  },
+  "ab8c636beb0d984dbbec13062e378b5a": {
+    "time": "2026/09/29 12:40:24",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區平等路",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T12:41:32.214761"
+      }
+    ]
+  },
+  "49f6957e5e48ef9a578c59c6ba0f14be": {
+    "time": "2026/09/29 12:39:27",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T12:41:32.214761"
       }
     ]
   }
