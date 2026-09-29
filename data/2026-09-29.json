@@ -13019,7 +13019,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區鳳林二路",
     "units": "大寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -13032,6 +13032,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T20:21:31.998681"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T20:31:32.013995"
       }
     ]
   },
@@ -13111,7 +13115,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區文享街",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -13120,6 +13124,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T20:22:31.999757"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T20:31:32.013995"
       }
     ]
   },
@@ -13138,6 +13146,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T20:29:32.074360"
+      }
+    ]
+  },
+  "adb0649b38b5e73460630d22ef63f32f": {
+    "time": "2026/09/29 20:30:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗津區",
+    "units": "旗津分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T20:31:32.013995"
       }
     ]
   }
