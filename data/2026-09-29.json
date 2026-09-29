@@ -7595,7 +7595,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中安路",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7608,6 +7608,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T13:03:31.225640"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T13:10:31.237981"
       }
     ]
   },
@@ -7657,7 +7661,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區澄清路和文享街",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7666,6 +7670,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T13:04:31.271298"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T13:10:31.237981"
       }
     ]
   },
@@ -7711,11 +7719,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T13:07:31.225686"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T13:10:31.237981"
       }
     ]
   },
@@ -7725,11 +7737,29 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T13:09:31.335043"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T13:10:31.237981"
+      }
+    ]
+  },
+  "8b8279dd3044f0eb31691ae76f361f97": {
+    "time": "2026/09/29 13:09:31",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鼓山區西藏街",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T13:10:31.237981"
       }
     ]
   }
