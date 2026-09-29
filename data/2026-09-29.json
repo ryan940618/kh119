@@ -7127,7 +7127,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7144,6 +7144,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T12:31:32.139734"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T12:44:32.160380"
       }
     ]
   },
@@ -7355,7 +7359,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區正忠路",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7372,6 +7376,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T12:43:32.152472"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T12:44:32.160380"
       }
     ]
   },
@@ -7422,6 +7430,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T12:42:32.151218"
+      }
+    ]
+  },
+  "7a5eaf0c7c88bb8ca41cbc6d13964750": {
+    "time": "2026/09/29 12:42:50",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區保安二街",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T12:44:32.160380"
       }
     ]
   }
