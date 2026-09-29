@@ -3147,7 +3147,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3160,6 +3160,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T08:33:31.651168"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T08:43:31.788431"
       }
     ]
   },
@@ -3301,11 +3305,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區鼎山街",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-29T08:35:31.979163"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T08:43:31.788431"
       }
     ]
   },
@@ -3356,6 +3364,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T08:42:31.759637"
+      }
+    ]
+  },
+  "214c6e23f5c185b144f86c5ca52be4a0": {
+    "time": "2026/09/29 08:42:39",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區新衙路",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T08:43:31.788431"
+      }
+    ]
+  },
+  "bf61e652e59161a12172d344512e42fb": {
+    "time": "2026/09/29 08:42:24",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區金鼎路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T08:43:31.788431"
       }
     ]
   }
