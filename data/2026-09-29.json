@@ -7073,7 +7073,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區褒揚街",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7082,6 +7082,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T12:20:31.917370"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T12:26:32.210018"
       }
     ]
   },
@@ -7185,11 +7189,29 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T12:25:32.049816"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T12:26:32.210018"
+      }
+    ]
+  },
+  "527d8b3377391e19359ee28391238e51": {
+    "time": "2026/09/29 12:25:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T12:26:32.210018"
       }
     ]
   }
