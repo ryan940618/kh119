@@ -11971,7 +11971,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -11980,6 +11980,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T18:32:31.375837"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T18:50:31.514740"
       }
     ]
   },
@@ -12055,7 +12059,7 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區鳳屏一路",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12072,6 +12076,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T18:40:31.504034"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T18:50:31.514740"
       }
     ]
   },
@@ -12213,7 +12221,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區高楠公路",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12226,6 +12234,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T18:42:31.382028"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T18:50:31.514740"
       }
     ]
   },
@@ -12235,11 +12247,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T18:48:31.429770"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T18:50:31.514740"
       }
     ]
   }
