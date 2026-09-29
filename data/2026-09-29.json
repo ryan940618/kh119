@@ -10981,7 +10981,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區美山路",
     "units": "中庄分隊",
-    "current_status": "已到院",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11002,6 +11002,10 @@
       {
         "status": "已到院",
         "timestamp": "2026-09-29T17:41:32.380177"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T17:51:32.279986"
       }
     ]
   },
@@ -11113,7 +11117,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區瑞南街",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11126,6 +11130,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T17:38:32.335516"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T17:51:32.279986"
       }
     ]
   },
@@ -11357,11 +11365,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區光遠路",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T17:48:32.281239"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T17:51:32.279986"
       }
     ]
   },
@@ -11390,6 +11402,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T17:50:32.277553"
+      }
+    ]
+  },
+  "94af97c70668ff9a6789b8f6c16d19ad": {
+    "time": "2026/09/29 17:50:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市六龜區",
+    "units": "美濃分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T17:51:32.279986"
       }
     ]
   }
