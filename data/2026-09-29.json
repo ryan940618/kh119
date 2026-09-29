@@ -10195,7 +10195,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區中林路",
     "units": "大林分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10208,6 +10208,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T16:55:31.806655"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T16:59:31.616985"
       }
     ]
   },
@@ -10249,11 +10253,29 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區武營路",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T16:58:31.885558"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T16:59:31.616985"
+      }
+    ]
+  },
+  "4b0f01df780cfab34bd80bfc849dfd2f": {
+    "time": "2026/09/29 16:58:32",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區光復路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T16:59:31.616985"
       }
     ]
   }
