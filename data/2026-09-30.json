@@ -205,7 +205,7 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區凱旋四路",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -222,6 +222,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T00:47:31.368913"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T00:54:31.478505"
       }
     ]
   },
@@ -244,6 +248,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T00:53:31.476863"
+      }
+    ]
+  },
+  "fa1d4f6d3a8836ae7941975e44a7698a": {
+    "time": "2026/09/30 00:53:21",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市茄萣區",
+    "units": "茄萣分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T00:54:31.478505"
       }
     ]
   }
