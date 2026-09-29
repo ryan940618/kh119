@@ -11751,7 +11751,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11760,6 +11760,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T18:22:31.414299"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T18:31:31.237645"
       }
     ]
   },
@@ -11843,7 +11847,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -11852,6 +11856,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T18:26:31.349248"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T18:31:31.237645"
       }
     ]
   },
@@ -11937,11 +11945,15 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T18:29:31.386904"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T18:31:31.237645"
       }
     ]
   },
@@ -11979,11 +11991,29 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區鳳屏一路",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T18:30:31.491254"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T18:31:31.237645"
+      }
+    ]
+  },
+  "5f255e203bc5ea13f58836b9d7aa5726": {
+    "time": "2026/09/29 18:30:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T18:31:31.237645"
       }
     ]
   }
