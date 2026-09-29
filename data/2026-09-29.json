@@ -8821,7 +8821,7 @@
     "sub_category": "其他",
     "location": "高雄市前金區",
     "units": "",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8834,6 +8834,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T15:09:31.850564"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T15:48:31.117772"
       }
     ]
   },
@@ -9129,11 +9133,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-29T15:40:30.948984"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T15:48:31.117772"
       }
     ]
   },
@@ -9143,7 +9151,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9152,6 +9160,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T15:42:30.996795"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T15:48:31.117772"
       }
     ]
   },
@@ -9219,11 +9231,15 @@
     "sub_category": "車禍",
     "location": "高雄市左營區自由三路",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T15:45:31.055916"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T15:48:31.117772"
       }
     ]
   },
