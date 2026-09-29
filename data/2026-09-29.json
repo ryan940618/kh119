@@ -6691,7 +6691,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6700,6 +6700,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T11:51:31.791213"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T11:58:31.734333"
       }
     ]
   },
@@ -6782,6 +6786,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T11:57:31.945384"
+      }
+    ]
+  },
+  "2dcf30567d38fa43556e3e0160c9a352": {
+    "time": "2026/09/29 11:56:28",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區德惠路",
+    "units": "右昌分隊,後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T11:58:31.734333"
       }
     ]
   }
