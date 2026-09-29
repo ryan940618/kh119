@@ -2633,7 +2633,7 @@
     "sub_category": "創傷",
     "location": "高雄市仁武區仁心路",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2650,6 +2650,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T08:12:31.459161"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T08:21:31.219581"
       }
     ]
   },
@@ -2785,7 +2789,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區天祥二路",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2798,6 +2802,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T08:08:31.219582"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T08:21:31.219581"
       }
     ]
   },
@@ -2807,7 +2815,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2820,6 +2828,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T08:09:31.225177"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T08:21:31.219581"
       }
     ]
   },
@@ -2918,6 +2930,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T08:20:31.241309"
+      }
+    ]
+  },
+  "a5f4a4a949d306c2328ab4a00989707a": {
+    "time": "2026/09/29 08:19:55",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區永泰路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T08:21:31.219581"
       }
     ]
   }
