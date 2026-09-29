@@ -821,7 +821,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區本工路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -838,6 +838,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T03:29:31.509352"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T03:33:31.446367"
       }
     ]
   },
@@ -873,7 +877,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -886,6 +890,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T03:22:31.424320"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T03:33:31.446367"
       }
     ]
   },
@@ -895,11 +903,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T03:31:31.430463"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T03:33:31.446367"
       }
     ]
   }
