@@ -3327,7 +3327,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中山四路",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3344,6 +3344,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T08:50:31.603642"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T09:06:31.749569"
       }
     ]
   },
@@ -3545,7 +3549,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3562,6 +3566,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T08:59:31.625271"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T09:06:31.749569"
       }
     ]
   },
@@ -3806,6 +3814,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T09:04:31.642408"
+      }
+    ]
+  },
+  "6320325dd88f83f0e3f1699ca13e4810": {
+    "time": "2026/09/29 09:05:27",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區德惠路",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T09:06:31.749569"
       }
     ]
   }
