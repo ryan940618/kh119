@@ -9515,7 +9515,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -9524,6 +9524,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T16:09:31.387275"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T16:17:31.449010"
       }
     ]
   },
@@ -9605,11 +9609,15 @@
     "sub_category": "路倒",
     "location": "高雄市楠梓區樂群路",
     "units": "後勁分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T16:16:31.402514"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T16:17:31.449010"
       }
     ]
   }
