@@ -2313,7 +2313,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2330,6 +2330,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T07:58:31.401372"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T08:20:31.241309"
       }
     ]
   },
@@ -2905,11 +2909,15 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T08:19:31.267817"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T08:20:31.241309"
       }
     ]
   }
