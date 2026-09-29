@@ -9797,7 +9797,7 @@
     "sub_category": "創傷",
     "location": "高雄市美濃區永安路",
     "units": "美濃分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -9810,6 +9810,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T16:31:31.447567"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T16:39:31.499105"
       }
     ]
   },
@@ -9962,6 +9966,34 @@
       {
         "status": "已受理",
         "timestamp": "2026-09-29T16:37:31.475800"
+      }
+    ]
+  },
+  "ddcf9efabf217d4a2f0968773ec65cf7": {
+    "time": "2026/09/29 16:38:33",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市新興區",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T16:39:31.499105"
+      }
+    ]
+  },
+  "53d01063531f617c143cac9f8cdd0c21": {
+    "time": "2026/09/29 16:38:25",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T16:39:31.499105"
       }
     ]
   }
