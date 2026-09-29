@@ -2927,7 +2927,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2940,6 +2940,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T08:23:31.281389"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T08:28:31.375356"
       }
     ]
   },
@@ -3106,6 +3110,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T08:27:31.739508"
+      }
+    ]
+  },
+  "7d48d1ac4578080bf23ee54e2c1b8a4f": {
+    "time": "2026/09/29 08:27:46",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T08:28:31.375356"
+      }
+    ]
+  },
+  "85877046cd0ed110e87c228f24e3b751": {
+    "time": "2026/09/29 08:27:46",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區文鳳路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T08:28:31.375356"
+      }
+    ]
+  },
+  "f032ec2b094209c8ea9fbc954d72d2b1": {
+    "time": "2026/09/29 08:27:07",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區福德街",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T08:28:31.375356"
       }
     ]
   }
