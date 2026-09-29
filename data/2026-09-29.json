@@ -4747,7 +4747,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區神農路和瓦厝街",
     "units": "大寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4760,6 +4760,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T10:14:31.280952"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T10:22:31.171480"
       }
     ]
   },
@@ -4915,7 +4919,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4924,6 +4928,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T10:18:31.105597"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T10:22:31.171480"
       }
     ]
   },
@@ -4933,7 +4941,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4942,6 +4950,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T10:17:31.330852"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T10:22:31.171480"
       }
     ]
   },
@@ -4974,6 +4986,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T10:21:31.163188"
+      }
+    ]
+  },
+  "a21ddb44d9dd8ed6d0351f168eafdfb7": {
+    "time": "2026/09/29 10:22:01",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前金區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T10:22:31.171480"
       }
     ]
   }
