@@ -8575,7 +8575,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區澄清路",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8592,6 +8592,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T14:46:31.761777"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T14:51:31.881557"
       }
     ]
   },
@@ -8699,11 +8703,15 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T14:50:31.631354"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T14:51:31.881557"
       }
     ]
   }
