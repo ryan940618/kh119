@@ -6175,7 +6175,7 @@
     "sub_category": "車禍",
     "location": "高雄市旗山區延平一路",
     "units": "旗山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6192,6 +6192,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T11:29:31.785749"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T11:40:31.695844"
       }
     ]
   },
@@ -6227,7 +6231,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "內門分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6244,6 +6248,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T11:37:31.651238"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T11:40:31.695844"
       }
     ]
   },
@@ -6476,6 +6484,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T11:39:31.880332"
+      }
+    ]
+  },
+  "898c80345cd9fbd43498568ad8fa92e5": {
+    "time": "2026/09/29 11:39:42",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T11:40:31.695844"
+      }
+    ]
+  },
+  "af03b777e9e05fed93106c3d8dac90bf": {
+    "time": "2026/09/29 11:39:41",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區",
+    "units": "後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T11:40:31.695844"
       }
     ]
   }
