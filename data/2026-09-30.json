@@ -1527,7 +1527,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1540,6 +1540,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T06:38:31.751609"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T06:58:31.781754"
       }
     ]
   },
@@ -1579,7 +1583,7 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區九大路",
     "units": "大樹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1592,6 +1596,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T06:50:31.716719"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T06:58:31.781754"
       }
     ]
   },
@@ -1631,7 +1639,7 @@
     "sub_category": "創傷",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1644,6 +1652,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T06:55:31.672590"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T06:58:31.781754"
       }
     ]
   },
@@ -1680,6 +1692,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T06:57:31.874822"
+      }
+    ]
+  },
+  "1e2960fa38bf714357e4da3bb82f8fa0": {
+    "time": "2026/09/30 06:56:50",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市苓雅區四維二路和福建街",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T06:58:31.781754"
       }
     ]
   }
