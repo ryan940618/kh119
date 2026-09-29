@@ -13337,7 +13337,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區楠梓新路",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -13354,6 +13354,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T21:10:31.116576"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T21:15:31.240339"
       }
     ]
   },
@@ -13372,6 +13376,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T21:06:31.068246"
+      }
+    ]
+  },
+  "f5f2569a11a70fac2aac6cb829172e5a": {
+    "time": "2026/09/29 21:13:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T21:15:31.240339"
       }
     ]
   }
