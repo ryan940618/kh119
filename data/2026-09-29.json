@@ -2253,7 +2253,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區華東路",
     "units": "和發分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2270,6 +2270,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T07:47:31.932172"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T08:02:31.171807"
       }
     ]
   },
@@ -2647,7 +2651,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區金鋁街",
     "units": "高桂分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2656,6 +2660,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T07:58:31.401372"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T08:02:31.171807"
       }
     ]
   },
@@ -2710,6 +2718,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T08:01:31.233375"
+      }
+    ]
+  },
+  "6c961b79ccbf326ab0dfedb5a9fea763": {
+    "time": "2026/09/29 08:02:04",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T08:02:31.171807"
       }
     ]
   }
