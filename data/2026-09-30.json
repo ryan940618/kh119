@@ -1109,7 +1109,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1126,6 +1126,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T04:50:30.964957"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T05:05:31.214982"
       }
     ]
   },
@@ -1187,7 +1191,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1196,6 +1200,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T05:02:31.080253"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T05:05:31.214982"
+      }
+    ]
+  },
+  "410d7204a0a07447037a8a0da60f4241": {
+    "time": "2026/09/30 05:05:02",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區過昌街",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T05:05:31.214982"
       }
     ]
   }
