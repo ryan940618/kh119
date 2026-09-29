@@ -8953,11 +8953,15 @@
     "sub_category": "雜草(含廢棄物、墓地)",
     "location": "高雄市鳳山區中崙一路",
     "units": "鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-29T15:25:32.177697"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T15:45:31.055916"
       }
     ]
   },
@@ -9087,7 +9091,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區光遠路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9096,6 +9100,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T15:40:30.948984"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T15:45:31.055916"
       }
     ]
   },
@@ -9137,11 +9145,15 @@
     "sub_category": "車禍",
     "location": "高雄市旗山區延平一路",
     "units": "旗山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-29T15:41:31.153488"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T15:45:31.055916"
       }
     ]
   },
@@ -9169,11 +9181,29 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T15:43:31.068119"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T15:45:31.055916"
+      }
+    ]
+  },
+  "e6c539b0e375e973a480e161ee3bf213": {
+    "time": "2026/09/29 15:44:27",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區自由三路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T15:45:31.055916"
       }
     ]
   }
