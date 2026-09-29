@@ -7583,7 +7583,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中安路",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7592,6 +7592,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T12:56:31.324339"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T13:03:31.225640"
       }
     ]
   },
@@ -7628,6 +7632,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T12:57:31.199381"
+      }
+    ]
+  },
+  "6f54170525e135d065d9da8ece83e476": {
+    "time": "2026/09/29 13:02:50",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區澄清路和文享街",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T13:03:31.225640"
       }
     ]
   }
