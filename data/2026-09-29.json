@@ -10345,7 +10345,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10354,6 +10354,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T17:01:31.848790"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T17:14:31.905832"
       }
     ]
   },
@@ -10455,7 +10459,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區南星路",
     "units": "大林分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -10464,6 +10468,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T17:10:32.135235"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T17:14:31.905832"
       }
     ]
   },
@@ -10559,7 +10567,7 @@
     "sub_category": "創傷",
     "location": "高雄市燕巢區橋科10路",
     "units": "燕巢分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10568,6 +10576,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T17:09:31.825668"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T17:14:31.905832"
       }
     ]
   },
@@ -10586,6 +10598,62 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T17:10:32.135235"
+      }
+    ]
+  },
+  "be65962e7b6ef1864eb5498f5c76dca2": {
+    "time": "2026/09/29 17:13:50",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區仁心路",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T17:14:31.905832"
+      }
+    ]
+  },
+  "703cfb680d3877c5d3c33a87788d8a5a": {
+    "time": "2026/09/29 17:13:34",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區大學六十街",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T17:14:31.905832"
+      }
+    ]
+  },
+  "86cad84074d9a3849b66496af3bbfc1d": {
+    "time": "2026/09/29 17:13:17",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市梓官區光明路",
+    "units": "梓官分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T17:14:31.905832"
+      }
+    ]
+  },
+  "10cf82176f5822fbf0201576f93c3499": {
+    "time": "2026/09/29 17:13:10",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區德民路",
+    "units": "後勁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T17:14:31.905832"
       }
     ]
   }
