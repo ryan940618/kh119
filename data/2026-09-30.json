@@ -1815,7 +1815,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1828,6 +1828,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T07:25:30.927209"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T07:28:30.987849"
       }
     ]
   },
@@ -1917,11 +1921,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區立志街",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T07:27:30.994492"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T07:28:30.987849"
       }
     ]
   }
