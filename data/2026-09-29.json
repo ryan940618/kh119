@@ -4825,7 +4825,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區二聖二路",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -4834,6 +4834,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T10:15:31.118128"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T10:25:31.258729"
       }
     ]
   },
@@ -4905,7 +4909,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區克武路",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4918,6 +4922,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T10:24:31.214940"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T10:25:31.258729"
       }
     ]
   },
@@ -5039,11 +5047,29 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區八德中路",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T10:24:31.214940"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T10:25:31.258729"
+      }
+    ]
+  },
+  "683c1bbb6441b1b810ad53bc9789c622": {
+    "time": "2026/09/29 10:24:25",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市路竹區環球路",
+    "units": "永安分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T10:25:31.258729"
       }
     ]
   }
