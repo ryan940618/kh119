@@ -9911,7 +9911,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9928,6 +9928,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T17:03:31.674532"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T17:08:31.872724"
       }
     ]
   },
@@ -10343,7 +10347,7 @@
     "sub_category": "路倒",
     "location": "高雄市仁武區仁孝路",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10352,6 +10356,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T17:01:31.848790"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T17:08:31.872724"
       }
     ]
   },
@@ -10361,7 +10369,7 @@
     "sub_category": "燒燙傷",
     "location": "高雄市左營區新庄仔路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10370,6 +10378,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T17:05:31.715990"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T17:08:31.872724"
       }
     ]
   },
@@ -10480,6 +10492,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T17:07:31.889100"
+      }
+    ]
+  },
+  "32b6bdc53ff26fdf213ffcece5d5628d": {
+    "time": "2026/09/29 17:07:51",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市左營區翠華路",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T17:08:31.872724"
+      }
+    ]
+  },
+  "68954319c710d65fd9feef49e763d14f": {
+    "time": "2026/09/29 17:06:07",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市燕巢區橋科10路",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T17:08:31.872724"
       }
     ]
   }
