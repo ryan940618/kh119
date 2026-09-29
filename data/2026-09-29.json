@@ -2971,7 +2971,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區永泰路",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2980,6 +2980,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T08:22:31.344642"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T08:26:31.430769"
       }
     ]
   },
@@ -3061,11 +3065,43 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T08:25:31.415485"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T08:26:31.430769"
+      }
+    ]
+  },
+  "d388e5deb5b5b46eb2252cb77eb8e448": {
+    "time": "2026/09/29 08:25:50",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T08:26:31.430769"
+      }
+    ]
+  },
+  "61e111f430fb6ec7492ae6db4d35ad6c": {
+    "time": "2026/09/29 08:25:31",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市前鎮區瑞忠街",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T08:26:31.430769"
       }
     ]
   }
