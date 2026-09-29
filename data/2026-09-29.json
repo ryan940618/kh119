@@ -10743,7 +10743,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區創新路",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10752,6 +10752,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T17:20:31.968548"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T17:22:32.009003"
       }
     ]
   },
@@ -10789,11 +10793,15 @@
     "sub_category": "其他",
     "location": "高雄市茄萣區二仁溪橋南岸[高雄市茄萣區濱海路",
     "units": "茄萣分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T17:21:31.983999"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T17:22:32.009003"
       }
     ]
   },
@@ -10803,11 +10811,29 @@
     "sub_category": "車禍",
     "location": "高雄市三民區九如一路",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T17:21:31.983999"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T17:22:32.009003"
+      }
+    ]
+  },
+  "373040261ca3936fbec00d191b90a505": {
+    "time": "2026/09/29 17:21:14",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區美山路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T17:22:32.009003"
       }
     ]
   }
