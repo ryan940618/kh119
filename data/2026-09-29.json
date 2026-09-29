@@ -12967,11 +12967,15 @@
     "sub_category": "車禍",
     "location": "高雄市旗山區旗屏一路",
     "units": "旗山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-29T20:11:31.822549"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T20:16:32.056738"
       }
     ]
   },
@@ -12999,11 +13003,15 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區鳳林二路",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T20:13:31.845032"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T20:16:32.056738"
       }
     ]
   },
@@ -13013,11 +13021,29 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T20:15:31.934222"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T20:16:32.056738"
+      }
+    ]
+  },
+  "139c9595a4b87be0e90081b4d31e3ddb": {
+    "time": "2026/09/29 20:15:22",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市左營區",
+    "units": "",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T20:16:32.056738"
       }
     ]
   }
