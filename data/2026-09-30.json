@@ -265,7 +265,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -274,6 +274,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T00:55:31.541848"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T00:59:31.551013"
       }
     ]
   },
@@ -297,11 +301,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T00:57:31.528740"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T00:59:31.551013"
       }
     ]
   }
