@@ -49,7 +49,7 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區武慶三路",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -62,6 +62,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T00:30:31.386417"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T00:35:31.389522"
       }
     ]
   },
@@ -181,11 +185,15 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區凱旋四路",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T00:33:31.378289"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T00:35:31.389522"
       }
     ]
   }
