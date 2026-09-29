@@ -8229,7 +8229,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區建國二路",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8242,6 +8242,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T14:01:31.468663"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T14:22:31.667788"
       }
     ]
   },
@@ -8273,7 +8277,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8286,6 +8290,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T14:04:31.610536"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T14:22:31.667788"
       }
     ]
   },
@@ -8427,11 +8435,15 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T14:21:31.490471"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T14:22:31.667788"
       }
     ]
   },
@@ -8446,6 +8458,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T14:21:31.490471"
+      }
+    ]
+  },
+  "fab07376931e57a602f61139d88fe5e1": {
+    "time": "2026/09/29 14:21:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T14:22:31.667788"
       }
     ]
   }
