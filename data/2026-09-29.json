@@ -3501,7 +3501,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區文學三街",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3518,6 +3518,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T09:09:31.765657"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T09:17:31.795889"
       }
     ]
   },
@@ -3779,7 +3783,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3796,6 +3800,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T09:11:31.812514"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T09:17:31.795889"
       }
     ]
   },
@@ -3955,11 +3963,43 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T09:15:32.015854"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T09:17:31.795889"
+      }
+    ]
+  },
+  "11a8bdaeaa4de6659cad197f84fa769c": {
+    "time": "2026/09/29 09:16:38",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T09:17:31.795889"
+      }
+    ]
+  },
+  "d3da3bf4f72529e91004e979340e8aa4": {
+    "time": "2026/09/29 09:16:34",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T09:17:31.795889"
       }
     ]
   }
