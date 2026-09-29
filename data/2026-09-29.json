@@ -6851,7 +6851,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區德惠路",
     "units": "右昌分隊,後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6868,6 +6868,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T12:10:31.872614"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T12:17:31.835284"
       }
     ]
   },
@@ -6970,6 +6974,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T12:14:31.949856"
+      }
+    ]
+  },
+  "dbc845ce17684c76efcaa6af0a81ceed": {
+    "time": "2026/09/29 12:16:50",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T12:17:31.835284"
+      }
+    ]
+  },
+  "5c8df9212025c988d954ff95a0217315": {
+    "time": "2026/09/29 12:16:29",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗津區",
+    "units": "旗津分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T12:17:31.835284"
       }
     ]
   }
