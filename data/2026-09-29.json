@@ -9703,7 +9703,7 @@
     "sub_category": "急病",
     "location": "高雄市橋頭區",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9712,6 +9712,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T16:20:31.399563"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T16:29:31.416568"
       }
     ]
   },
@@ -9801,11 +9805,29 @@
     "sub_category": "車禍",
     "location": "高雄市左營區左營大路",
     "units": "左營小隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T16:28:31.517068"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T16:29:31.416568"
+      }
+    ]
+  },
+  "d897c730b7aa312ebbddf42d76a1be33": {
+    "time": "2026/09/29 16:29:03",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T16:29:31.416568"
       }
     ]
   }
