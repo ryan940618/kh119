@@ -5691,7 +5691,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區鳳南路和南江街",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5708,6 +5708,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T11:06:31.710315"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T11:09:31.418225"
       }
     ]
   },
@@ -5739,7 +5743,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5752,6 +5756,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T11:04:31.448865"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T11:09:31.418225"
       }
     ]
   },
@@ -5940,6 +5948,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T11:07:31.704300"
+      }
+    ]
+  },
+  "fd312c4c8eab5293ffd0c8481728a94f": {
+    "time": "2026/09/29 11:08:26",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區孟子路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T11:09:31.418225"
       }
     ]
   }
