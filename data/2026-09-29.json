@@ -6489,7 +6489,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區澄清路",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -6498,6 +6498,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T11:41:31.770692"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T11:50:31.701135"
       }
     ]
   },
@@ -6619,7 +6623,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6628,6 +6632,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T11:48:31.764753"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T11:50:31.701135"
       }
     ]
   },
@@ -6637,11 +6645,29 @@
     "sub_category": "其他",
     "location": "高雄市路竹區大同路",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T11:48:31.764753"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T11:50:31.701135"
+      }
+    ]
+  },
+  "9c13fd2fa8027e37fe847f4b2a1907de": {
+    "time": "2026/09/29 11:49:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市美濃區",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T11:50:31.701135"
       }
     ]
   }
