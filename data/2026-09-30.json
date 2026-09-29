@@ -1755,7 +1755,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1768,6 +1768,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T07:13:31.840970"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T07:20:30.944181"
       }
     ]
   },
@@ -1799,11 +1803,15 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T07:16:31.843287"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T07:20:30.944181"
       }
     ]
   },
@@ -1831,11 +1839,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區延吉街",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T07:19:30.930204"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T07:20:30.944181"
       }
     ]
   }
