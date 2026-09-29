@@ -3479,7 +3479,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區金鼎路",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3492,6 +3492,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T08:53:31.459032"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T09:18:31.960590"
       }
     ]
   },
@@ -3861,7 +3865,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3874,6 +3878,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T09:09:31.765657"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T09:18:31.960590"
       }
     ]
   },
@@ -4000,6 +4008,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T09:17:31.795889"
+      }
+    ]
+  },
+  "4ab6f377445a3de9cbf691d1247ae8d6": {
+    "time": "2026/09/29 09:16:38",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區藍昌路",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T09:18:31.960590"
       }
     ]
   }
