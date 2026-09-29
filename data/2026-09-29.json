@@ -13937,7 +13937,7 @@
     "sub_category": "路倒",
     "location": "高雄市大寮區開封街",
     "units": "和發分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -13950,6 +13950,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T22:39:31.669243"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T23:04:31.935464"
       }
     ]
   },
@@ -14017,7 +14021,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區左楠路",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -14026,6 +14030,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T22:59:31.821963"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T23:04:31.935464"
+      }
+    ]
+  },
+  "3fb7260c489e9e42ab1a7cdc9bb99bf3": {
+    "time": "2026/09/29 23:03:42",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大社區大社路",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T23:04:31.935464"
       }
     ]
   }
