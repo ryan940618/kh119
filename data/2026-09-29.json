@@ -4421,7 +4421,7 @@
     "sub_category": "其他",
     "location": "高雄市楠梓區",
     "units": "",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4434,6 +4434,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T09:44:31.877004"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T10:05:32.088039"
       }
     ]
   },
@@ -4465,7 +4469,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區實踐路",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -4474,6 +4478,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T09:53:31.895943"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T10:05:32.088039"
       }
     ]
   },
@@ -4720,6 +4728,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T10:04:32.009709"
+      }
+    ]
+  },
+  "bff898dcfb44ebf730dcd3629618f61a": {
+    "time": "2026/09/29 10:05:05",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T10:05:32.088039"
       }
     ]
   }
