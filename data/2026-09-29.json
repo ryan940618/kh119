@@ -4193,7 +4193,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區中正路",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已到達",
@@ -4202,6 +4202,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T09:35:31.914248"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T09:45:31.828285"
       }
     ]
   },
@@ -4391,11 +4395,15 @@
     "sub_category": "路倒",
     "location": "高雄市苓雅區中山二路",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T09:42:31.843327"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T09:45:31.828285"
       }
     ]
   }
