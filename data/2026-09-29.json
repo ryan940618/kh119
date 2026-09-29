@@ -4241,7 +4241,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4254,6 +4254,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T09:37:32.026040"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T09:47:31.877278"
       }
     ]
   },
@@ -4293,7 +4297,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4306,6 +4310,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T09:40:31.748945"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T09:47:31.877278"
       }
     ]
   },
@@ -4408,6 +4416,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T09:45:31.828285"
+      }
+    ]
+  },
+  "1b3806af5d2b69d8034b6f58f933bafd": {
+    "time": "2026/09/29 09:45:57",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區實踐路",
+    "units": "左營分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T09:47:31.877278"
       }
     ]
   }
