@@ -11547,7 +11547,7 @@
     "sub_category": "急病",
     "location": "高雄市六龜區",
     "units": "美濃分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -11560,6 +11560,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T18:15:31.204912"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T18:29:31.386904"
       }
     ]
   },
@@ -11669,7 +11673,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11686,6 +11690,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T18:15:31.204912"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T18:29:31.386904"
       }
     ]
   },
@@ -11920,6 +11928,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T18:22:31.414299"
+      }
+    ]
+  },
+  "56f1d8dbb82658040ba1f4f2fedb1df5": {
+    "time": "2026/09/29 18:28:42",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T18:29:31.386904"
+      }
+    ]
+  },
+  "dbf8cd7c211389e93ff550038fb87b20": {
+    "time": "2026/09/29 18:28:14",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市大寮區新光高中(原育樂高中)[高雄市大寮區鳳屏一路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T18:29:31.386904"
       }
     ]
   }
