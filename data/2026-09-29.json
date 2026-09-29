@@ -3371,7 +3371,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3388,6 +3388,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T08:55:31.796974"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T09:00:31.775318"
       }
     ]
   },
@@ -3671,7 +3675,7 @@
     "sub_category": "路倒",
     "location": "高雄市前金區六合二路",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3680,6 +3684,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T08:56:31.613752"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T09:00:31.775318"
       }
     ]
   },
@@ -3703,11 +3711,15 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T08:57:31.500959"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T09:00:31.775318"
       }
     ]
   },
