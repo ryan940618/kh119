@@ -8931,7 +8931,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8944,6 +8944,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T15:31:31.002928"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T15:47:31.155537"
       }
     ]
   },
@@ -9037,7 +9041,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區復興西路",
     "units": "梓官分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9050,6 +9054,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T15:36:30.905686"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T15:47:31.155537"
       }
     ]
   },
@@ -9230,6 +9238,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T15:46:31.054062"
+      }
+    ]
+  },
+  "1730acb0be2916d1c9a9a24db6c9c8f4": {
+    "time": "2026/09/29 15:46:33",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市大寮區",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T15:47:31.155537"
+      }
+    ]
+  },
+  "cb3d727dce9d4b6c1c6a37a13a76a8e6": {
+    "time": "2026/09/29 15:46:06",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市小港區桂陽路",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T15:47:31.155537"
       }
     ]
   }
