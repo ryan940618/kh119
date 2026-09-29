@@ -493,7 +493,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -510,6 +510,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T01:38:31.946127"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T01:50:30.914797"
       }
     ]
   },
@@ -519,7 +523,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -536,6 +540,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T01:49:32.582848"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T01:50:30.914797"
       }
     ]
   },
@@ -581,11 +589,29 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T01:49:32.582848"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T01:50:30.914797"
+      }
+    ]
+  },
+  "cf58ba8b2d74ebf6cbc1e51b3e631fc0": {
+    "time": "2026/09/30 01:49:02",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T01:50:30.914797"
       }
     ]
   }
