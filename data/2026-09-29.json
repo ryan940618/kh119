@@ -10877,7 +10877,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "橋頭分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10894,6 +10894,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T17:42:32.071092"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T18:00:31.237610"
       }
     ]
   },
@@ -10981,7 +10985,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區美山路",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11010,6 +11014,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T17:54:32.210022"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T18:00:31.237610"
       }
     ]
   },
@@ -11211,7 +11219,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區中興路",
     "units": "田寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11224,6 +11232,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T17:50:32.277553"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T18:00:31.237610"
       }
     ]
   },
@@ -11299,7 +11311,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11316,6 +11328,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T17:55:31.256890"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T18:00:31.237610"
       }
     ]
   },
@@ -11494,6 +11510,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T17:54:32.210022"
+      }
+    ]
+  },
+  "1c4393dc65097502fbb501929158a500": {
+    "time": "2026/09/29 17:59:22",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區楠梓路",
+    "units": "右昌分隊,大社分隊,橋頭分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T18:00:31.237610"
       }
     ]
   }
