@@ -6533,7 +6533,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6542,6 +6542,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T11:41:31.770692"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T11:51:31.791213"
       }
     ]
   },
@@ -6663,11 +6667,15 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T11:50:31.701135"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T11:51:31.791213"
       }
     ]
   }
