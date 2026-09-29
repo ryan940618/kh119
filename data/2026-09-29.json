@@ -7187,7 +7187,7 @@
     "sub_category": "其他",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7200,6 +7200,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T12:24:32.096729"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T12:51:31.222001"
       }
     ]
   },
@@ -7538,6 +7542,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T12:50:31.285108"
+      }
+    ]
+  },
+  "03cbbee389082a130c3ed2e8f0c2b431": {
+    "time": "2026/09/29 12:49:05",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區中安路",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T12:51:31.222001"
       }
     ]
   }
