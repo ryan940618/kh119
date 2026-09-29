@@ -8771,7 +8771,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區三民街",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8780,6 +8780,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T14:57:31.764851"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T15:04:31.710850"
       }
     ]
   },
@@ -8789,11 +8793,15 @@
     "sub_category": "其他",
     "location": "高雄市前金區",
     "units": "",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T15:00:31.752947"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T15:04:31.710850"
       }
     ]
   },
@@ -8808,6 +8816,20 @@
       {
         "status": "已受理",
         "timestamp": "2026-09-29T15:02:31.758341"
+      }
+    ]
+  },
+  "4bff2e512857fc7f55f43a1b500269ce": {
+    "time": "2026/09/29 14:31:05",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "小港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T15:04:31.710850"
       }
     ]
   }
