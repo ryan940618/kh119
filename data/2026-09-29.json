@@ -14029,7 +14029,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區左楠路",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -14042,6 +14042,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T23:04:31.935464"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T23:16:30.871170"
       }
     ]
   },
@@ -14073,11 +14077,29 @@
     "sub_category": "路倒",
     "location": "高雄市左營區博愛三路",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T23:15:31.074357"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T23:16:30.871170"
+      }
+    ]
+  },
+  "11ba37f7ef2b82dfba66d5ffff86c2e4": {
+    "time": "2026/09/29 23:15:11",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市林園區沿海路",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T23:16:30.871170"
       }
     ]
   }
