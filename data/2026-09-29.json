@@ -2591,7 +2591,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2608,6 +2608,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T08:12:31.459161"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T08:14:31.313349"
       }
     ]
   },
@@ -2695,7 +2699,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區金鋁街",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2708,6 +2712,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T08:02:31.171807"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T08:14:31.313349"
       }
     ]
   },
