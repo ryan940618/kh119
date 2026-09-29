@@ -10125,7 +10125,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區立信路",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10138,6 +10138,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T16:51:31.581808"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T16:58:31.885558"
       }
     ]
   },
@@ -10236,6 +10240,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T16:56:31.650452"
+      }
+    ]
+  },
+  "f4e1d46fd480de5c0597a15fcd33d5ef": {
+    "time": "2026/09/29 16:57:30",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區武營路",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T16:58:31.885558"
       }
     ]
   }
