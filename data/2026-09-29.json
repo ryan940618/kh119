@@ -11811,7 +11811,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11828,6 +11828,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T18:32:31.375837"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T18:36:31.432815"
       }
     ]
   },
@@ -11925,7 +11929,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11942,6 +11946,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T18:34:31.431108"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T18:36:31.432815"
       }
     ]
   },
@@ -12109,11 +12117,15 @@
     "sub_category": "其他",
     "location": "高雄市三民區建工路",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T18:35:31.306199"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T18:36:31.432815"
       }
     ]
   },
@@ -12137,11 +12149,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區高楠公路",
     "units": "後勁分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T18:35:31.306199"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T18:36:31.432815"
       }
     ]
   }
