@@ -4051,7 +4051,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4064,6 +4064,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T09:23:31.743854"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T09:30:31.754005"
       }
     ]
   },
@@ -4190,6 +4194,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T09:28:31.688571"
+      }
+    ]
+  },
+  "fb2156f357593098dc3d4cfaadbcfd27": {
+    "time": "2026/09/29 09:29:24",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區義華路和清華街",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T09:30:31.754005"
       }
     ]
   }
