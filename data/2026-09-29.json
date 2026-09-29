@@ -2283,7 +2283,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2300,6 +2300,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T07:49:32.023690"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T08:17:31.369814"
       }
     ]
   },
@@ -2861,11 +2865,15 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區成功路",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T08:16:31.339966"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T08:17:31.369814"
       }
     ]
   }
