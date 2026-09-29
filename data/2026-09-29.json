@@ -3367,7 +3367,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3380,6 +3380,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T08:42:31.759637"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T08:55:31.796974"
       }
     ]
   },
@@ -3411,7 +3415,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區水管路",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3424,6 +3428,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T08:50:31.603642"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T08:55:31.796974"
       }
     ]
   },
@@ -3580,6 +3588,62 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T08:54:31.536182"
+      }
+    ]
+  },
+  "b609b4272c40e69d0a64d8e62df3a24d": {
+    "time": "2026/09/29 08:54:56",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T08:55:31.796974"
+      }
+    ]
+  },
+  "cd2c19bad62a81e059b0b802974b6272": {
+    "time": "2026/09/29 08:54:47",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T08:55:31.796974"
+      }
+    ]
+  },
+  "9befbdd3ff53fcbf46236d04912a23b7": {
+    "time": "2026/09/29 08:54:46",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T08:55:31.796974"
+      }
+    ]
+  },
+  "510d949a4de2514afb8daa76b4df288f": {
+    "time": "2026/09/29 08:54:10",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市前金區六合二路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T08:55:31.796974"
       }
     ]
   }
