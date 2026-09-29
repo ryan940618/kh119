@@ -8203,7 +8203,7 @@
     "sub_category": "車禍",
     "location": "高雄市梓官區光明路",
     "units": "梓官分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8220,6 +8220,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T14:15:32.033836"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T14:24:31.462543"
       }
     ]
   },
@@ -8255,7 +8259,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8268,6 +8272,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T14:05:31.487428"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T14:24:31.462543"
       }
     ]
   },
@@ -8457,11 +8465,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T14:21:31.490471"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T14:24:31.462543"
       }
     ]
   },
