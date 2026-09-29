@@ -3497,7 +3497,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區文學三街",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3510,6 +3510,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T08:56:31.613752"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T09:09:31.765657"
       }
     ]
   },
@@ -3671,7 +3675,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3684,6 +3688,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T09:02:31.725632"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T09:09:31.765657"
       }
     ]
   },
@@ -3809,7 +3817,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3818,6 +3826,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T09:04:31.642408"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T09:09:31.765657"
       }
     ]
   },
@@ -3841,11 +3853,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T09:08:31.772981"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T09:09:31.765657"
       }
     ]
   }
