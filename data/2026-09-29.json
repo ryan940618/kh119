@@ -6123,7 +6123,7 @@
     "sub_category": "路倒",
     "location": "高雄市仁武區八德北路",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6140,6 +6140,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T11:31:31.948999"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T11:37:31.651238"
       }
     ]
   },
@@ -6223,7 +6227,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "內門分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6236,6 +6240,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T11:28:31.567221"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T11:37:31.651238"
       }
     ]
   },
@@ -6419,11 +6427,29 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區國昌街",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-29T11:34:31.727713"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T11:37:31.651238"
+      }
+    ]
+  },
+  "ec0b9a38ae4e990d45793775d3929341": {
+    "time": "2026/09/29 11:36:21",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區澄清路",
+    "units": "鳥松分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T11:37:31.651238"
       }
     ]
   }
