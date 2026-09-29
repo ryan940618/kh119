@@ -11223,7 +11223,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區中興路",
     "units": "田寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11240,6 +11240,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T18:00:31.237610"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T18:06:31.199343"
       }
     ]
   },
@@ -11549,11 +11553,15 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區四維一路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-29T18:01:31.257584"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T18:06:31.199343"
       }
     ]
   },
@@ -11563,11 +11571,15 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T18:04:31.304530"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T18:06:31.199343"
       }
     ]
   },
@@ -11596,6 +11608,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T18:05:31.160308"
+      }
+    ]
+  },
+  "2214319dd5dabf2f7e5abad9ad1d56bb": {
+    "time": "2026/09/29 18:05:12",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市前鎮區英德街",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T18:06:31.199343"
       }
     ]
   }
