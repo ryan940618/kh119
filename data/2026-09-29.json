@@ -5657,7 +5657,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區軍校路",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5670,6 +5670,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T10:59:31.321748"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-29T11:03:31.403368"
       }
     ]
   },
@@ -5759,7 +5763,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區鳳松路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5768,6 +5772,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T10:58:31.225547"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T11:03:31.403368"
       }
     ]
   },
@@ -5846,6 +5854,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T11:01:31.436308"
+      }
+    ]
+  },
+  "ed31bd7355fb44f6b6989eeeb7134a43": {
+    "time": "2026/09/29 11:02:40",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區中華一路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T11:03:31.403368"
       }
     ]
   }
