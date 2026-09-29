@@ -10557,7 +10557,7 @@
     "sub_category": "車禍",
     "location": "高雄市茄萣區仁愛路",
     "units": "茄萣分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -10570,6 +10570,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T17:30:32.218006"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T17:50:32.277553"
       }
     ]
   },
@@ -11175,7 +11179,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區中興路",
     "units": "田寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11184,6 +11188,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T17:38:32.335516"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T17:50:32.277553"
       }
     ]
   },
@@ -11273,7 +11281,7 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區樂仁路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11282,6 +11290,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T17:43:32.089973"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T17:50:32.277553"
       }
     ]
   },
@@ -11364,6 +11376,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T17:49:32.372855"
+      }
+    ]
+  },
+  "d7943bcee7c5dff3e7c28a516237617d": {
+    "time": "2026/09/29 17:50:01",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區美山路",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T17:50:32.277553"
       }
     ]
   }
