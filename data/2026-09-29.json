@@ -11499,7 +11499,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區黃埔路",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11516,6 +11516,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T18:12:31.179110"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T18:21:31.241264"
       }
     ]
   },
@@ -11605,7 +11609,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區四維一路",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -11618,6 +11622,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T18:16:31.329921"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T18:21:31.241264"
       }
     ]
   },
@@ -11759,7 +11767,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11768,6 +11776,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T18:17:31.152482"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T18:21:31.241264"
       }
     ]
   },
@@ -11814,6 +11826,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T18:19:31.246218"
+      }
+    ]
+  },
+  "0ad512698cd96c3b693ea3eb6d33a636": {
+    "time": "2026/09/29 18:20:12",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區德民路",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T18:21:31.241264"
       }
     ]
   }
