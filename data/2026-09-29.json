@@ -5541,7 +5541,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區公園路",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5558,6 +5558,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T10:59:31.321748"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T11:00:31.336502"
       }
     ]
   },
@@ -5776,6 +5780,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T10:58:31.225547"
+      }
+    ]
+  },
+  "fb49993c747535d8a765e5ee21a87596": {
+    "time": "2026/09/29 10:44:28",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區新大路",
+    "units": "前鎮分隊",
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T11:00:31.336502"
       }
     ]
   }
