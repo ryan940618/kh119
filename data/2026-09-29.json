@@ -3477,7 +3477,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區文學三街",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3486,6 +3486,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T08:49:31.524989"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T08:56:31.613752"
       }
     ]
   },
@@ -3597,11 +3601,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T08:55:31.796974"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T08:56:31.613752"
       }
     ]
   },
@@ -3611,11 +3619,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T08:55:31.796974"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T08:56:31.613752"
       }
     ]
   },
@@ -3639,11 +3651,29 @@
     "sub_category": "路倒",
     "location": "高雄市前金區六合二路",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T08:55:31.796974"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T08:56:31.613752"
+      }
+    ]
+  },
+  "d87760c5f13832fc8c2d95b5861a7ee2": {
+    "time": "2026/09/29 08:54:46",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區武昌路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T08:56:31.613752"
       }
     ]
   }
