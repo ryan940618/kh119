@@ -13639,7 +13639,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區鼎山街",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -13652,6 +13652,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-29T22:13:31.639016"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-29T22:23:31.793191"
       }
     ]
   },
@@ -13770,6 +13774,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T22:21:31.708611"
+      }
+    ]
+  },
+  "c0ced3055b06d79627e1ea3f924f6560": {
+    "time": "2026/09/29 22:22:38",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T22:23:31.793191"
       }
     ]
   }
