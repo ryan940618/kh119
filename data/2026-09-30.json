@@ -5825,11 +5825,15 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "大林分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已到達",
         "timestamp": "2026-09-30T13:07:45.664487"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T13:16:31.290072"
       }
     ]
   },
@@ -5974,6 +5978,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T13:15:31.449768"
+      }
+    ]
+  },
+  "2ec3aa58c72a682102fe32113eb6f62e": {
+    "time": "2026/09/30 13:15:30",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區復華一街",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T13:16:31.290072"
       }
     ]
   }
