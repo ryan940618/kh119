@@ -6865,11 +6865,15 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T15:00:32.150981"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T15:03:32.176901"
       }
     ]
   },
@@ -6884,6 +6888,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T15:02:32.071405"
+      }
+    ]
+  },
+  "12a4682af0ec838db6475b5577880734": {
+    "time": "2026/09/30 15:02:53",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗山區",
+    "units": "內門分隊,旗山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T15:03:32.176901"
       }
     ]
   }
