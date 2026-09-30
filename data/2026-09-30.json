@@ -8651,11 +8651,15 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區大豐街",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T17:31:32.195306"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T17:39:32.260561"
       }
     ]
   },
@@ -8687,7 +8691,7 @@
     "sub_category": "路倒",
     "location": "高雄市湖內區長春四街",
     "units": "湖內分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8696,6 +8700,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T17:34:32.567834"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T17:39:32.260561"
       }
     ]
   },
@@ -8705,11 +8713,15 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T17:36:32.025310"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T17:39:32.260561"
       }
     ]
   },
@@ -8751,11 +8763,43 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區福安二街",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T17:38:32.165407"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T17:39:32.260561"
+      }
+    ]
+  },
+  "16300a9db1062d3fd19a6d8e740e2cab": {
+    "time": "2026/09/30 17:38:38",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區加昌路",
+    "units": "後勁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T17:39:32.260561"
+      }
+    ]
+  },
+  "74305f1b9504e4e6e9ac4096cc09d754": {
+    "time": "2026/09/30 17:37:21",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區內坑路",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T17:39:32.260561"
       }
     ]
   }
