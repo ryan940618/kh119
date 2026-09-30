@@ -1765,7 +1765,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1778,6 +1778,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T07:15:31.838759"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T07:27:31.874091"
       }
     ]
   },
@@ -1879,7 +1883,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1892,6 +1896,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T07:21:31.889594"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T07:27:31.874091"
       }
     ]
   },
@@ -1901,7 +1909,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區中山東路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1910,6 +1918,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T07:21:31.889594"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T07:27:31.874091"
       }
     ]
   },
@@ -1919,7 +1931,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區南華路",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1928,6 +1940,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T07:20:31.892704"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T07:27:31.874091"
       }
     ]
   },
@@ -1937,11 +1953,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區民族一路和鐵道二街",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-01T07:21:31.889594"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T07:27:31.874091"
       }
     ]
   },
@@ -1987,11 +2007,29 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T07:25:31.818037"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T07:27:31.874091"
+      }
+    ]
+  },
+  "96702e72f5e935c8ff6aea96fdb1874a": {
+    "time": "2026/10/01 07:26:49",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區武漢街",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T07:27:31.874091"
       }
     ]
   }
