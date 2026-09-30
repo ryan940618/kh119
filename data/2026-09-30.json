@@ -5265,7 +5265,7 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -5278,6 +5278,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T12:18:31.863259"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T12:23:31.877103"
       }
     ]
   },
@@ -5554,6 +5558,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T12:21:31.859472"
+      }
+    ]
+  },
+  "b65ebe074d22fb7b2b1a066af6005ac1": {
+    "time": "2026/09/30 12:22:08",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T12:23:31.877103"
       }
     ]
   }
