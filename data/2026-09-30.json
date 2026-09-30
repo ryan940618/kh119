@@ -9053,7 +9053,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳥松區本舘路",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9070,6 +9070,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T18:13:31.707421"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T18:22:31.830440"
       }
     ]
   },
@@ -9109,7 +9113,7 @@
     "sub_category": "其他",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -9118,6 +9122,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T18:01:31.706695"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T18:22:31.830440"
       }
     ]
   },
@@ -9323,7 +9331,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9332,6 +9340,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T18:18:31.469988"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T18:22:31.830440"
       }
     ]
   },
@@ -9441,11 +9453,43 @@
     "sub_category": "車禍",
     "location": "高雄市三民區鼎山街",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T18:21:31.299225"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T18:22:31.830440"
+      }
+    ]
+  },
+  "edd0a2c510dcfca1dfeb1637dc6da8bb": {
+    "time": "2026/09/30 18:22:04",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市旗山區僅稱【旗山夜市/近河堤旁的小路",
+    "units": "旗山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T18:22:31.830440"
+      }
+    ]
+  },
+  "194ba7cd02fdf1be4f28f56e17d07ed6": {
+    "time": "2026/09/30 18:21:21",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區新富路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T18:22:31.830440"
       }
     ]
   }
