@@ -5811,7 +5811,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已到達",
@@ -5820,6 +5820,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T13:12:31.187900"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T13:23:31.353527"
       }
     ]
   },
@@ -5927,7 +5931,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已到達",
@@ -5936,6 +5940,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T13:12:31.187900"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T13:23:31.353527"
       }
     ]
   },
@@ -5977,7 +5985,7 @@
     "sub_category": "路倒",
     "location": "高雄市大寮區開封街",
     "units": "和發分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5986,6 +5994,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T13:15:31.449768"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T13:23:31.353527"
       }
     ]
   },
@@ -6017,7 +6029,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6026,6 +6038,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T13:19:31.339541"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T13:23:31.353527"
       }
     ]
   },
@@ -6062,6 +6078,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T13:22:31.351400"
+      }
+    ]
+  },
+  "e1d01b9959fd3e465541876da6bbedb2": {
+    "time": "2026/09/30 13:21:54",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區高楠公路",
+    "units": "楠梓分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T13:23:31.353527"
       }
     ]
   }
