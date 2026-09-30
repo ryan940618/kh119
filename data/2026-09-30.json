@@ -8741,7 +8741,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8754,6 +8754,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T17:42:32.136530"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T17:54:31.309324"
       }
     ]
   },
@@ -8879,7 +8883,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -8888,6 +8892,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T17:44:32.182147"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T17:54:31.309324"
       }
     ]
   },
@@ -8955,11 +8963,29 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T17:51:31.181782"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T17:54:31.309324"
+      }
+    ]
+  },
+  "e069d06a57fec990a3f260a435c41b6d": {
+    "time": "2026/09/30 17:53:08",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳥松區本舘路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T17:54:31.309324"
       }
     ]
   }
