@@ -5529,7 +5529,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區臨海街",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5538,6 +5538,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T12:15:31.824260"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T13:07:45.664487"
       }
     ]
   },
@@ -5569,7 +5573,7 @@
     "sub_category": "急病",
     "location": "高雄市六龜區",
     "units": "茂林分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -5578,6 +5582,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T12:29:32.088231"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T13:07:45.664487"
       }
     ]
   },
@@ -5609,7 +5617,7 @@
     "sub_category": "公共場所(機場、車站)",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已到達",
+    "current_status": "火已控",
     "status_history": [
       {
         "status": "已派遣",
@@ -5622,6 +5630,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T12:33:31.241026"
+      },
+      {
+        "status": "火已控",
+        "timestamp": "2026-09-30T13:07:45.664487"
       }
     ]
   },
@@ -5653,7 +5665,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5666,6 +5678,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T12:33:31.241026"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T13:07:45.664487"
       }
     ]
   },
@@ -5675,7 +5691,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5684,6 +5700,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T12:34:31.181752"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T13:07:45.664487"
       }
     ]
   },
@@ -5747,11 +5767,155 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區林森二路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T12:37:31.135093"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T13:07:45.664487"
+      }
+    ]
+  },
+  "73d42b2795a58fab068f0b4177dee662": {
+    "time": "2026/09/30 12:58:26",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區北屋北街",
+    "units": "鼎金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T13:07:45.664487"
+      }
+    ]
+  },
+  "3e9bcce90eacc023cf0cb67575df5132": {
+    "time": "2026/09/30 12:55:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "仁武分隊",
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T13:07:45.664487"
+      }
+    ]
+  },
+  "09aeefc1aef2c3860cac46f26551b5fd": {
+    "time": "2026/09/30 12:54:38",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "大林分隊",
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T13:07:45.664487"
+      }
+    ]
+  },
+  "28d7e8cd81e9c30951b4b30badca439d": {
+    "time": "2026/09/30 12:53:38",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區崇德路",
+    "units": "左營小隊",
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T13:07:45.664487"
+      }
+    ]
+  },
+  "5b6b801e97cc4fc51f5abbbcf346d24f": {
+    "time": "2026/09/30 12:52:33",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區大順二路",
+    "units": "十全分隊",
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T13:07:45.664487"
+      }
+    ]
+  },
+  "553ec7d42544e94fe1b49b0cb8df4e5e": {
+    "time": "2026/09/30 12:47:29",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "中華分隊",
+    "current_status": "送醫中",
+    "status_history": [
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T13:07:45.664487"
+      }
+    ]
+  },
+  "824c9019b278cc45c445fdbac4933002": {
+    "time": "2026/09/30 12:46:20",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區明誠二路",
+    "units": "新莊分隊",
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T13:07:45.664487"
+      }
+    ]
+  },
+  "37793688cedb98001d7bf39096ce55d0": {
+    "time": "2026/09/30 12:44:41",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T13:07:45.664487"
+      }
+    ]
+  },
+  "8011bbef57a503e0c2f6f4819d2406aa": {
+    "time": "2026/09/30 12:44:38",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區高楠公路",
+    "units": "新莊分隊",
+    "current_status": "送醫中",
+    "status_history": [
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T13:07:45.664487"
+      }
+    ]
+  },
+  "d616c9d51eabecb29596f5983129533f": {
+    "time": "2026/09/30 12:39:35",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "新興分隊",
+    "current_status": "已到院",
+    "status_history": [
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T13:07:45.664487"
       }
     ]
   }
