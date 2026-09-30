@@ -10563,7 +10563,7 @@
     "sub_category": "其他",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10576,6 +10576,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T19:44:31.890698"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T19:58:31.801384"
       }
     ]
   },
@@ -10739,7 +10743,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區光明路",
     "units": "和發分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10748,6 +10752,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T19:53:32.184634"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T19:58:31.801384"
       }
     ]
   },
@@ -10762,6 +10770,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T19:54:32.135294"
+      }
+    ]
+  },
+  "f16e50290d3530722ef5bea65c30f1b7": {
+    "time": "2026/09/30 19:57:11",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "和發分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T19:58:31.801384"
       }
     ]
   }
