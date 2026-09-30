@@ -12835,7 +12835,7 @@
     "sub_category": "車禍",
     "location": "高雄市茄萣區濱海路",
     "units": "茄萣分隊",
-    "current_status": "已出動",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -12848,6 +12848,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T00:00:31.104122"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T00:02:31.193876"
       }
     ]
   },
@@ -12889,11 +12893,15 @@
     "sub_category": "動物救援",
     "location": "高雄市鳳山區南正二路",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T23:59:31.091206"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T00:02:31.193876"
       }
     ]
   }
