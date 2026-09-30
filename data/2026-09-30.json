@@ -10167,7 +10167,7 @@
     "sub_category": "車禍",
     "location": "高雄市新興區復橫一路",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10184,6 +10184,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T19:31:31.767166"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T19:35:31.813015"
       }
     ]
   },
@@ -10361,7 +10365,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10374,6 +10378,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T19:29:31.677014"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T19:35:31.813015"
       }
     ]
   },
@@ -10459,11 +10467,29 @@
     "sub_category": "路倒",
     "location": "高雄市鼓山區臨海三路",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T19:34:32.095163"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T19:35:31.813015"
+      }
+    ]
+  },
+  "d34038928efc90d32d3eb555c0268270": {
+    "time": "2026/09/30 19:34:37",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T19:35:31.813015"
       }
     ]
   }
