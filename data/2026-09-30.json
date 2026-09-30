@@ -11091,7 +11091,7 @@
     "sub_category": "創傷",
     "location": "高雄市仁武區工業一路",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11108,6 +11108,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T20:37:32.087251"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T20:38:32.259420"
       }
     ]
   },
@@ -11257,7 +11261,7 @@
     "sub_category": "車禍",
     "location": "高雄市旗山區中山路",
     "units": "旗山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11266,6 +11270,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T20:35:32.213089"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T20:38:32.259420"
       }
     ]
   },
@@ -11284,6 +11292,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T20:37:32.087251"
+      }
+    ]
+  },
+  "ea77df4bed6f8c65930192123fc7ddd0": {
+    "time": "2026/09/30 20:37:57",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區嘉新東路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T20:38:32.259420"
       }
     ]
   }
