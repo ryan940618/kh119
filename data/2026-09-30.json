@@ -4819,11 +4819,15 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T11:14:31.552539"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T11:16:31.453921"
       }
     ]
   },
@@ -4838,6 +4842,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T11:15:31.479440"
+      }
+    ]
+  },
+  "2f63ee6a6a886e9bd0df7704a4f2cb67": {
+    "time": "2026/09/30 11:15:19",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳥松區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T11:16:31.453921"
+      }
+    ]
+  },
+  "8b20886b267c6ce53c09930abb1df086": {
+    "time": "2026/09/30 11:15:10",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區平和南路",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T11:16:31.453921"
       }
     ]
   }
