@@ -10995,7 +10995,7 @@
     "sub_category": "創傷",
     "location": "高雄市鼓山區蓮海路",
     "units": "鼓山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11012,6 +11012,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T20:27:32.114766"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T20:40:31.999362"
       }
     ]
   },
@@ -11203,7 +11207,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -11212,6 +11216,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T20:33:33.116787"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T20:40:31.999362"
       }
     ]
   },
@@ -11287,7 +11295,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區過埤路",
     "units": "鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11296,6 +11304,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T20:37:32.087251"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T20:40:31.999362"
       }
     ]
   },
@@ -11305,11 +11317,15 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區嘉新東路",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T20:38:32.259420"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T20:40:31.999362"
       }
     ]
   }
