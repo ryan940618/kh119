@@ -9635,7 +9635,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9652,6 +9652,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T18:43:31.408902"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T18:53:31.530587"
       }
     ]
   },
@@ -9683,7 +9687,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9700,6 +9704,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T18:48:31.526205"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T18:53:31.530587"
       }
     ]
   },
@@ -9735,7 +9743,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "梓官分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9752,6 +9760,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T18:46:31.586743"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T18:53:31.530587"
       }
     ]
   },
@@ -9937,7 +9949,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區鳳仁路",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9946,6 +9958,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T18:50:31.588101"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T18:53:31.530587"
       }
     ]
   },
@@ -9964,6 +9980,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T18:51:31.463735"
+      }
+    ]
+  },
+  "70ccd1f780e410620acb8f40de0aeaf1": {
+    "time": "2026/09/30 18:52:46",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市新興區中正三路",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T18:53:31.530587"
       }
     ]
   }
