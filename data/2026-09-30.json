@@ -3907,7 +3907,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區民族一路",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3920,6 +3920,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T09:59:31.135430"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T10:02:31.004541"
       }
     ]
   },
@@ -3956,6 +3960,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T10:00:31.088026"
+      }
+    ]
+  },
+  "d69a1ce768a5f54b52d7c429594386f9": {
+    "time": "2026/09/30 10:01:47",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區鼓山三路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T10:02:31.004541"
       }
     ]
   }
