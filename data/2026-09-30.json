@@ -5785,7 +5785,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區北屋北街",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -5798,6 +5798,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T13:13:31.388005"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T13:19:31.339541"
       }
     ]
   },
@@ -6001,11 +6005,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T13:18:31.304590"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T13:19:31.339541"
+      }
+    ]
+  },
+  "92997e84ac5332e4d490c23b2a990722": {
+    "time": "2026/09/30 13:18:52",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市大寮區鳳林一路",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T13:19:31.339541"
       }
     ]
   }
