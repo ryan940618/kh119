@@ -6011,7 +6011,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區復華一街",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6024,6 +6024,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T13:22:31.351400"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T13:26:31.483993"
       }
     ]
   },
@@ -6142,6 +6146,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T13:24:31.578165"
+      }
+    ]
+  },
+  "4811d77e23cf1a37a8a93cf5f7ec9e6a": {
+    "time": "2026/09/30 13:26:09",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市彌陀區",
+    "units": "彌陀分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T13:26:31.483993"
+      }
+    ]
+  },
+  "2b84cebc4f17f113c5b3283f5a6ecb6e": {
+    "time": "2026/09/30 13:25:51",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區南京路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T13:26:31.483993"
       }
     ]
   }
