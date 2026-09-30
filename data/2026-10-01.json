@@ -2015,7 +2015,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2028,6 +2028,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T07:29:31.994097"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T07:42:32.166840"
       }
     ]
   },
@@ -2241,7 +2245,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2250,6 +2254,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T07:38:32.134778"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T07:42:32.166840"
+      }
+    ]
+  },
+  "421c5e31a01288fe312cda4d80408f88": {
+    "time": "2026/10/01 07:40:58",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區褒揚街",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T07:42:32.166840"
       }
     ]
   }
