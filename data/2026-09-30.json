@@ -4103,7 +4103,7 @@
     "sub_category": "車禍",
     "location": "高雄市梓官區中崙路",
     "units": "梓官分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -4112,6 +4112,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T10:14:31.182024"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T10:22:31.372059"
       }
     ]
   },
@@ -4171,7 +4175,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4180,6 +4184,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T10:14:31.182024"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T10:22:31.372059"
       }
     ]
   },
@@ -4265,11 +4273,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T10:21:31.320314"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T10:22:31.372059"
       }
     ]
   },
@@ -4279,11 +4291,15 @@
     "sub_category": "車禍",
     "location": "高雄市左營區修明街",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T10:21:31.320314"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T10:22:31.372059"
       }
     ]
   },
@@ -4298,6 +4314,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T10:21:31.320314"
+      }
+    ]
+  },
+  "b00c5a1a22fd6ca7b65527b33d69eda8": {
+    "time": "2026/09/30 10:22:04",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市林園區鳳林路",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T10:22:31.372059"
+      }
+    ]
+  },
+  "181153392597a4645740a7c8d12db358": {
+    "time": "2026/09/30 10:18:45",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市新興區復興街",
+    "units": "前金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T10:22:31.372059"
       }
     ]
   }
