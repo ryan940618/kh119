@@ -6297,7 +6297,7 @@
     "sub_category": "藥物、食物中毒",
     "location": "高雄市前鎮區鎮中路",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -6310,6 +6310,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T13:56:31.440889"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T14:04:31.555231"
       }
     ]
   },
@@ -6478,6 +6482,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T14:03:31.820835"
+      }
+    ]
+  },
+  "aa1aab57708b6b65c898dbe31edd70b2": {
+    "time": "2026/09/30 14:03:31",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T14:04:31.555231"
       }
     ]
   }
