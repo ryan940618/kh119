@@ -9045,7 +9045,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳥松區本舘路",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9058,6 +9058,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T18:00:31.447489"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T18:13:31.707421"
       }
     ]
   },
@@ -9115,7 +9119,7 @@
     "sub_category": "其他",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9124,6 +9128,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T18:09:31.198116"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T18:13:31.707421"
       }
     ]
   },
@@ -9210,6 +9218,20 @@
       {
         "status": "已受理",
         "timestamp": "2026-09-30T18:12:31.296637"
+      }
+    ]
+  },
+  "16b40858dbbb89d0f061c7db78a50b19": {
+    "time": "2026/09/30 18:12:36",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市三民區同盟二路",
+    "units": "中華分隊,十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T18:13:31.707421"
       }
     ]
   }
