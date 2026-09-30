@@ -12489,7 +12489,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區忠水街",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12506,6 +12506,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T23:27:38.132160"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T23:28:32.243447"
       }
     ]
   },
@@ -12598,6 +12602,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T23:27:38.132160"
+      }
+    ]
+  },
+  "4d806bd13ec2c02a45de53d3edb1a69b": {
+    "time": "2026/09/30 23:27:56",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T23:28:32.243447"
+      }
+    ]
+  },
+  "837035d0259ced990f01c940485804f0": {
+    "time": "2026/09/30 23:27:51",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鼓山區美賢街",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T23:28:32.243447"
       }
     ]
   }
