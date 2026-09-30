@@ -8035,7 +8035,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區五權街",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8052,6 +8052,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T16:49:31.894447"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T16:54:31.672841"
       }
     ]
   },
@@ -8168,6 +8172,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T16:51:31.612941"
+      }
+    ]
+  },
+  "01fb76a7c1c83e834d3690e0665fd0eb": {
+    "time": "2026/09/30 16:53:18",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區大順三路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T16:54:31.672841"
       }
     ]
   }
