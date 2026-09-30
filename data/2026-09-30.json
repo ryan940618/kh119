@@ -9031,7 +9031,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9044,6 +9044,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T18:04:31.613734"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T18:25:31.421481"
       }
     ]
   },
@@ -9419,7 +9423,7 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區民揚路",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9432,6 +9436,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T18:23:31.599271"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T18:25:31.421481"
       }
     ]
   },
@@ -9441,11 +9449,15 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區大社路",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T18:21:31.299225"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T18:25:31.421481"
       }
     ]
   },
@@ -9523,11 +9535,43 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T18:24:31.978690"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T18:25:31.421481"
+      }
+    ]
+  },
+  "54e87aee45fd5791eeb7d0bdf558f4ac": {
+    "time": "2026/09/30 18:24:58",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市路竹區中正路",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T18:25:31.421481"
+      }
+    ]
+  },
+  "42629c44c0c059bf830af10b210fa4de": {
+    "time": "2026/09/30 18:24:57",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T18:25:31.421481"
       }
     ]
   }
