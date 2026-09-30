@@ -11223,7 +11223,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -11236,6 +11236,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T20:40:31.999362"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T20:56:31.320896"
       }
     ]
   },
@@ -11541,11 +11545,29 @@
     "sub_category": "其他",
     "location": "高雄市岡山區河華路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T20:53:31.818165"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T20:56:31.320896"
+      }
+    ]
+  },
+  "a05a98f9a4f8cd16afe2fffa0c479d5c": {
+    "time": "2026/09/30 20:55:22",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市梓官區平安街",
+    "units": "梓官分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T20:56:31.320896"
       }
     ]
   }
