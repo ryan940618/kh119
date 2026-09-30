@@ -8975,7 +8975,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8988,6 +8988,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T17:59:31.108222"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T18:18:31.469988"
       }
     ]
   },
@@ -9299,11 +9303,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T18:17:31.353067"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T18:18:31.469988"
       }
     ]
   },
@@ -9313,11 +9321,57 @@
     "sub_category": "車禍",
     "location": "高雄市三民區建國二路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T18:17:31.353067"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T18:18:31.469988"
+      }
+    ]
+  },
+  "b45f2e6845d388b1ade091fde999014a": {
+    "time": "2026/09/30 18:17:51",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市三民區青島街",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T18:18:31.469988"
+      }
+    ]
+  },
+  "0a6c35dd53e2574e333c6a3812dadaf7": {
+    "time": "2026/09/30 18:17:32",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T18:18:31.469988"
+      }
+    ]
+  },
+  "c6a6ebbd9bf8823af5e65275b6dc06ef": {
+    "time": "2026/09/30 18:16:48",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市大寮區民揚路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T18:18:31.469988"
       }
     ]
   }
