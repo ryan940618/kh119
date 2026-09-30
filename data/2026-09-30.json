@@ -9723,7 +9723,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "梓官分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9736,6 +9736,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T18:37:31.929896"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T18:46:31.586743"
       }
     ]
   },
@@ -9794,6 +9798,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T18:44:31.363759"
+      }
+    ]
+  },
+  "106af53d25f8ebdf2b862c37c21890f3": {
+    "time": "2026/09/30 18:45:19",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市新興區民生一路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-30T18:46:31.586743"
+      }
+    ]
+  },
+  "b64cc8d1dc4cef6ace34a067ffc2228d": {
+    "time": "2026/09/30 18:45:12",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市新興區民生一路和德順街",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T18:46:31.586743"
       }
     ]
   }
