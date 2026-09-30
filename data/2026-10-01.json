@@ -57,7 +57,7 @@
     "sub_category": "車禍",
     "location": "高雄市田寮區",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -74,6 +74,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T01:06:31.474705"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T01:51:31.930558"
       }
     ]
   },
@@ -400,6 +404,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T01:47:32.322625"
+      }
+    ]
+  },
+  "a046394dfcc53af67edf104bd750eb6d": {
+    "time": "2026/10/01 01:50:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T01:51:31.930558"
       }
     ]
   }
