@@ -2035,7 +2035,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2052,6 +2052,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T07:59:31.137228"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T08:06:31.198697"
       }
     ]
   },
@@ -2147,7 +2151,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區",
     "units": "鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2156,6 +2160,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T07:47:31.084356"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T08:06:31.198697"
       }
     ]
   },
@@ -2303,11 +2311,29 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區五甲一路",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T08:05:31.214805"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T08:06:31.198697"
+      }
+    ]
+  },
+  "898e665613cbc55acf101d75da38abb9": {
+    "time": "2026/09/30 08:05:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區山明路",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T08:06:31.198697"
       }
     ]
   }
