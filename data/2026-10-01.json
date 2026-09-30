@@ -537,7 +537,7 @@
     "sub_category": "其他",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -546,6 +546,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T02:43:31.276143"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T03:05:31.436480"
       }
     ]
   },
@@ -656,6 +660,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T03:03:31.224779"
+      }
+    ]
+  },
+  "f80b63d5baa252ab7ec4f3f758810839": {
+    "time": "2026/10/01 02:59:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市湖內區和平路",
+    "units": "湖內分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T03:05:31.436480"
       }
     ]
   }
