@@ -3877,7 +3877,7 @@
     "sub_category": "創傷",
     "location": "高雄市田寮區",
     "units": "田寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3894,6 +3894,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T10:18:31.229336"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T10:33:31.179247"
       }
     ]
   },
@@ -4447,11 +4451,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T10:30:31.247443"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T10:33:31.179247"
+      }
+    ]
+  },
+  "15cb473a8d971a39df12871d25cf71a7": {
+    "time": "2026/09/30 10:32:39",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T10:33:31.179247"
       }
     ]
   }
