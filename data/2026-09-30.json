@@ -2681,7 +2681,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區新莊一路",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2694,6 +2694,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T08:24:31.377346"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T08:42:31.390910"
       }
     ]
   },
@@ -2876,6 +2880,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T08:40:31.540792"
+      }
+    ]
+  },
+  "68578acf3f6f6d7c666a24fa82cfa142": {
+    "time": "2026/09/30 08:42:02",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T08:42:31.390910"
+      }
+    ]
+  },
+  "22a8d29033c123bed546b434141326ca": {
+    "time": "2026/09/30 08:41:13",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T08:42:31.390910"
       }
     ]
   }
