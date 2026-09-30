@@ -7491,7 +7491,7 @@
     "sub_category": "急病",
     "location": "高雄市六龜區",
     "units": "六龜分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -7504,6 +7504,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T16:31:31.744618"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T17:03:31.644150"
       }
     ]
   },
@@ -8219,11 +8223,15 @@
     "sub_category": "車禍",
     "location": "高雄市小港區學府路",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T17:00:31.668791"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T17:03:31.644150"
       }
     ]
   },
