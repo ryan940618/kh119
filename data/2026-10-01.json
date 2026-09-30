@@ -1657,7 +1657,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區宏中街",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1674,6 +1674,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T07:13:31.631530"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T07:25:31.818037"
       }
     ]
   },
@@ -1849,7 +1853,7 @@
     "sub_category": "急病",
     "location": "高雄市橋頭區",
     "units": "橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1858,6 +1862,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T07:16:31.733785"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T07:25:31.818037"
       }
     ]
   },
@@ -1939,11 +1947,15 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T07:22:31.916648"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T07:25:31.818037"
       }
     ]
   },
@@ -1953,11 +1965,29 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T07:24:31.944447"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T07:25:31.818037"
+      }
+    ]
+  },
+  "7656ddb1f543ed3d896a9fff5c6de79d": {
+    "time": "2026/10/01 07:24:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T07:25:31.818037"
       }
     ]
   }
