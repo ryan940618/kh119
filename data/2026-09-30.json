@@ -1987,7 +1987,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2004,6 +2004,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T07:56:31.305259"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T08:09:31.132830"
       }
     ]
   },
@@ -2349,7 +2353,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區山明路",
     "units": "高桂分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2358,6 +2362,38 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T08:07:31.241906"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T08:09:31.132830"
+      }
+    ]
+  },
+  "eaa512f2be493ef2b3e7c55d8541c857": {
+    "time": "2026/09/30 08:08:26",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T08:09:31.132830"
+      }
+    ]
+  },
+  "aab089df4108bb58ccddada0200485f2": {
+    "time": "2026/09/30 08:08:04",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區新生路",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T08:09:31.132830"
       }
     ]
   }
