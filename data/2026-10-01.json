@@ -1839,7 +1839,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區五甲二路",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1852,6 +1852,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T07:19:31.792612"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T07:29:31.994097"
       }
     ]
   },
@@ -1971,7 +1975,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1980,6 +1984,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T07:25:31.818037"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T07:29:31.994097"
       }
     ]
   },
@@ -2034,6 +2042,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T07:28:31.866177"
+      }
+    ]
+  },
+  "451d238c72c388460820f191585b54b0": {
+    "time": "2026/10/01 07:28:55",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區文衡路",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T07:29:31.994097"
       }
     ]
   }
