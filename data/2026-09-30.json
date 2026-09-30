@@ -8333,7 +8333,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區經武路",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8346,6 +8346,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T17:17:31.822341"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T17:25:31.898374"
       }
     ]
   },
@@ -8521,11 +8525,29 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區成功南路",
     "units": "楠梓分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T17:24:32.035640"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T17:25:31.898374"
+      }
+    ]
+  },
+  "07c9e7b56e815df69700b42e424da990": {
+    "time": "2026/09/30 17:24:14",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市大社區",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T17:25:31.898374"
       }
     ]
   }
