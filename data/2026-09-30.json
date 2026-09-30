@@ -11159,7 +11159,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11176,6 +11176,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T20:32:32.088061"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T20:41:32.351533"
       }
     ]
   },
@@ -11229,7 +11233,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區建工路",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11242,6 +11246,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T20:30:31.937537"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T20:41:32.351533"
       }
     ]
   },
@@ -11326,6 +11334,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T20:40:31.999362"
+      }
+    ]
+  },
+  "a8e2eaa03b3d1255663f29e980123a88": {
+    "time": "2026/09/30 20:40:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T20:41:32.351533"
+      }
+    ]
+  },
+  "6c100e4d40e05864e47487095f8f2937": {
+    "time": "2026/09/30 20:40:29",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T20:41:32.351533"
       }
     ]
   }
