@@ -10529,7 +10529,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10542,6 +10542,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T19:41:31.721249"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T19:47:31.930266"
       }
     ]
   },
@@ -10664,6 +10668,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T19:46:31.908150"
+      }
+    ]
+  },
+  "9fe41c72cbb35a68101a3b90d1be0b27": {
+    "time": "2026/09/30 19:47:13",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市新興區中山一路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T19:47:31.930266"
       }
     ]
   }
