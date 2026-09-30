@@ -8677,7 +8677,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8690,6 +8690,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T17:36:32.025310"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T17:42:32.136530"
       }
     ]
   },
@@ -8721,7 +8725,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8730,6 +8734,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T17:39:32.260561"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T17:42:32.136530"
       }
     ]
   },
@@ -8844,6 +8852,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T17:40:32.181822"
+      }
+    ]
+  },
+  "9f851d738014c1f2b2793eda792425f4": {
+    "time": "2026/09/30 17:40:48",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市大社區新生街",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T17:42:32.136530"
       }
     ]
   }
