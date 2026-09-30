@@ -4509,7 +4509,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4518,6 +4518,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T10:37:31.615422"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T10:41:31.292201"
       }
     ]
   },
@@ -4577,11 +4581,15 @@
     "sub_category": "車禍",
     "location": "高雄市小港區小港路",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T10:38:31.313270"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T10:41:31.292201"
       }
     ]
   },
@@ -4596,6 +4604,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T10:39:31.333645"
+      }
+    ]
+  },
+  "ad204a233a26b3278b3a18c02929fd42": {
+    "time": "2026/09/30 10:40:28",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區楠梓西巷和旗楠路",
+    "units": "楠梓分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T10:41:31.292201"
       }
     ]
   }
