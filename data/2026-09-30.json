@@ -12277,7 +12277,7 @@
     "sub_category": "路倒",
     "location": "高雄市左營區左營大路",
     "units": "左營小隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12286,6 +12286,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T22:33:35.726517"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T22:37:31.673035"
       }
     ]
   },
@@ -12313,11 +12317,29 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T22:35:31.882526"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T22:37:31.673035"
+      }
+    ]
+  },
+  "d8d30890916e24e83174767ab6e93b1c": {
+    "time": "2026/09/30 22:36:20",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市林園區林園北路",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T22:37:31.673035"
       }
     ]
   }
