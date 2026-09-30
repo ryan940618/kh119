@@ -7393,7 +7393,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "梓官分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7406,6 +7406,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T16:02:31.587637"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T16:12:31.683109"
       }
     ]
   },
@@ -7415,7 +7419,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區高楠公路",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7436,6 +7440,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T16:03:31.438589"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T16:12:31.683109"
       }
     ]
   },
@@ -7595,7 +7603,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區柳橋西路",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7608,6 +7616,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T16:06:31.562556"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T16:12:31.683109"
       }
     ]
   },
@@ -7662,6 +7674,20 @@
       {
         "status": "已受理",
         "timestamp": "2026-09-30T16:08:31.630672"
+      }
+    ]
+  },
+  "713b40a8ea599f009482bf561c7da7bc": {
+    "time": "2026/09/30 16:11:52",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區鼎義街",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T16:12:31.683109"
       }
     ]
   }
