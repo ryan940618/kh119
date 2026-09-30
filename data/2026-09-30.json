@@ -7411,7 +7411,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區高楠公路",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7428,6 +7428,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T15:59:31.580779"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T16:03:31.438589"
       }
     ]
   },
@@ -7491,11 +7495,15 @@
     "sub_category": "車禍",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T15:58:31.337381"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T16:03:31.438589"
       }
     ]
   },
@@ -7559,11 +7567,29 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區柳橋西路",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T16:02:31.587637"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T16:03:31.438589"
+      }
+    ]
+  },
+  "fed745e396bfa601d8ce52c0aecc11e1": {
+    "time": "2026/09/30 16:02:50",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市湖內區中山路",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T16:03:31.438589"
       }
     ]
   }
