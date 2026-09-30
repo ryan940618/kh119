@@ -6627,7 +6627,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6644,6 +6644,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T14:31:31.919035"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T14:44:31.744842"
       }
     ]
   },
@@ -6710,6 +6714,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T14:41:31.968591"
+      }
+    ]
+  },
+  "7342fd36d49a97e72e79af86186de6bc": {
+    "time": "2026/09/30 14:43:46",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T14:44:31.744842"
       }
     ]
   }
