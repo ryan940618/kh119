@@ -3911,7 +3911,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區民族一路",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3928,6 +3928,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T10:02:31.004541"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T10:05:31.131843"
       }
     ]
   },
@@ -3937,7 +3941,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3946,6 +3950,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T10:01:31.066419"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T10:05:31.131843"
       }
     ]
   },
@@ -3955,7 +3963,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區新康街",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3964,6 +3972,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T10:00:31.088026"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T10:05:31.131843"
       }
     ]
   },
@@ -3991,11 +4003,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "橋頭分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T10:04:31.194390"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T10:05:31.131843"
       }
     ]
   }
