@@ -2579,11 +2579,15 @@
     "sub_category": "路倒",
     "location": "高雄市苓雅區四維三路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T08:17:31.236712"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T08:23:31.397620"
       }
     ]
   },
@@ -2602,6 +2606,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T08:19:31.346138"
+      }
+    ]
+  },
+  "313cac4c04ea85ce3f22818dfcab31d4": {
+    "time": "2026/09/30 08:23:06",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區明潭路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T08:23:31.397620"
+      }
+    ]
+  },
+  "8cedf02aed23cb10fee79d2289136d67": {
+    "time": "2026/09/30 08:22:48",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大社區金龍路",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T08:23:31.397620"
+      }
+    ]
+  },
+  "b0536ad78ea18f959a6d51dc0abe193f": {
+    "time": "2026/09/30 08:22:17",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "鼎金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T08:23:31.397620"
       }
     ]
   }
