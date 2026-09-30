@@ -7491,7 +7491,7 @@
     "sub_category": "急病",
     "location": "高雄市六龜區",
     "units": "六龜分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -7500,6 +7500,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T16:05:31.646555"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T16:31:31.744618"
       }
     ]
   },
@@ -7853,7 +7857,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區中山南路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -7866,6 +7870,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T16:29:31.756886"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T16:31:31.744618"
       }
     ]
   },
@@ -7875,7 +7883,7 @@
     "sub_category": "路倒",
     "location": "高雄市鼓山區輕軌C16文武聖殿[高雄市鼓山區大公路",
     "units": "鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7884,6 +7892,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T16:29:31.756886"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T16:31:31.744618"
       }
     ]
   },
@@ -7944,6 +7956,20 @@
       {
         "status": "已受理",
         "timestamp": "2026-09-30T16:29:31.756886"
+      }
+    ]
+  },
+  "651288d12e2aa440a133b950ce5dbafa": {
+    "time": "2026/09/30 16:28:51",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市湖內區",
+    "units": "湖內分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T16:31:31.744618"
       }
     ]
   }
