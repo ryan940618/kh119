@@ -5157,7 +5157,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5170,6 +5170,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T11:54:31.721230"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T12:08:31.887960"
       }
     ]
   },
@@ -5303,7 +5307,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5312,6 +5316,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T12:01:31.734722"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T12:08:31.887960"
       }
     ]
   },
@@ -5362,6 +5370,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T12:07:31.828132"
+      }
+    ]
+  },
+  "7d1566bb7787be7175614081a5bf184f": {
+    "time": "2026/09/30 12:08:05",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T12:08:31.887960"
       }
     ]
   }
