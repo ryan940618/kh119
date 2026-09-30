@@ -12579,7 +12579,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12596,6 +12596,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T23:32:32.130367"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T23:45:30.950618"
       }
     ]
   },
@@ -12776,6 +12780,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T23:43:31.003522"
+      }
+    ]
+  },
+  "d9692d5f41c9c113380336a62b75ffdb": {
+    "time": "2026/09/30 23:44:46",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市茄萣區茄萣路",
+    "units": "茄萣分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T23:45:30.950618"
       }
     ]
   }
