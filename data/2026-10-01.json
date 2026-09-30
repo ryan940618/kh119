@@ -455,7 +455,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區三多三路",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -472,6 +472,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T02:44:31.205572"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T02:53:31.138931"
       }
     ]
   },
@@ -578,6 +582,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T02:47:31.147206"
+      }
+    ]
+  },
+  "11286385c8349b4c00da32f83a5a99fe": {
+    "time": "2026/10/01 02:53:03",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前金區",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-01T02:53:31.138931"
       }
     ]
   }
