@@ -4589,7 +4589,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4602,6 +4602,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T10:49:31.355741"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T10:53:31.465246"
       }
     ]
   },
@@ -4700,6 +4704,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T10:50:31.429178"
+      }
+    ]
+  },
+  "436e267f35712063702424551d61d929": {
+    "time": "2026/09/30 10:51:07",
+    "category": "火災",
+    "sub_category": "雜草(含廢棄物、墓地)",
+    "location": "高雄市茄萣區濱海路",
+    "units": "茄萣分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T10:53:31.465246"
       }
     ]
   }
