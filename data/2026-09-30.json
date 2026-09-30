@@ -5707,11 +5707,15 @@
     "sub_category": "路倒",
     "location": "高雄市鼓山區鼓山三路",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T12:35:31.108668"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T12:37:31.135093"
       }
     ]
   },
@@ -5721,11 +5725,29 @@
     "sub_category": "其他",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T12:36:30.988558"
+      },
+      {
+        "status": "",
+        "timestamp": "2026-09-30T12:37:31.135093"
+      }
+    ]
+  },
+  "3727bc0437d7ba4a8b72f231d37443ea": {
+    "time": "2026/09/30 12:35:54",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區林森二路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T12:37:31.135093"
       }
     ]
   }
