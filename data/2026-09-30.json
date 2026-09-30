@@ -4219,11 +4219,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T10:15:31.343754"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T10:25:31.213715"
       }
     ]
   },
@@ -4233,7 +4237,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4246,6 +4250,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T10:18:31.229336"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T10:25:31.213715"
       }
     ]
   },
@@ -4359,11 +4367,15 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區霞海路",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T10:24:31.254982"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T10:25:31.213715"
       }
     ]
   }
