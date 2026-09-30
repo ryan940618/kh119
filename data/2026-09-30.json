@@ -11271,7 +11271,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營小隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11288,6 +11288,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T20:44:30.987855"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T20:53:31.818165"
       }
     ]
   },
@@ -11508,6 +11512,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T20:51:32.014157"
+      }
+    ]
+  },
+  "65a309775bfeef9754b9e7192791d127": {
+    "time": "2026/09/30 20:49:50",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市岡山區河華路",
+    "units": "岡山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T20:53:31.818165"
       }
     ]
   }
