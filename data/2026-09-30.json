@@ -5269,7 +5269,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區里林東路",
     "units": "橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5278,6 +5278,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T11:56:31.776788"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T12:02:31.777731"
       }
     ]
   },
@@ -5296,6 +5300,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T12:01:31.734722"
+      }
+    ]
+  },
+  "9bb12ed0bda1647e8da6b80405f8115a": {
+    "time": "2026/09/30 12:01:53",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市林園區龔厝路",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T12:02:31.777731"
       }
     ]
   }
