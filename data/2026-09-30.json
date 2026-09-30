@@ -9675,7 +9675,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9688,6 +9688,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T18:36:31.424149"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T18:48:31.526205"
       }
     ]
   },
@@ -9767,7 +9771,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9776,6 +9780,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T18:37:31.929896"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T18:48:31.526205"
       }
     ]
   },
@@ -9839,11 +9847,15 @@
     "sub_category": "其他",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T18:47:31.733475"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T18:48:31.526205"
       }
     ]
   },
@@ -9858,6 +9870,48 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T18:47:31.733475"
+      }
+    ]
+  },
+  "a15a34382516a1f437ea299514aba2c1": {
+    "time": "2026/09/30 18:48:10",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市楠梓區捷運R21都會公園站[高雄市楠梓區高楠青農路",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T18:48:31.526205"
+      }
+    ]
+  },
+  "3e18d88118793922ac0c7dfbdb65d463": {
+    "time": "2026/09/30 18:47:00",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市楠梓區捷運R21都會公園站[高雄市楠梓區高楠青農路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-30T18:48:31.526205"
+      }
+    ]
+  },
+  "0badbd0c5b09819f06a94c1cd49d7c6e": {
+    "time": "2026/09/30 18:46:30",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市路竹區路",
+    "units": "永安分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T18:48:31.526205"
       }
     ]
   }
