@@ -10955,7 +10955,7 @@
     "sub_category": "創傷",
     "location": "高雄市鼓山區蓮海路",
     "units": "鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10964,6 +10964,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T20:09:32.392372"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T20:14:32.164320"
       }
     ]
   },
@@ -10973,11 +10977,15 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊,大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T20:11:31.947301"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T20:14:32.164320"
       }
     ]
   },
@@ -10987,11 +10995,43 @@
     "sub_category": "車禍",
     "location": "高雄市小港區學府路",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T20:13:31.935369"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T20:14:32.164320"
+      }
+    ]
+  },
+  "41c860f24ab9b8f251e6b3772127c987": {
+    "time": "2026/09/30 20:13:18",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市彌陀區",
+    "units": "彌陀分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T20:14:32.164320"
+      }
+    ]
+  },
+  "75dd3a9b47ffcb8cfa2618392a2f7b31": {
+    "time": "2026/09/30 20:12:59",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市仁武區工業一路",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T20:14:32.164320"
       }
     ]
   }
