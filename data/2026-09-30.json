@@ -5075,7 +5075,7 @@
     "sub_category": "其他",
     "location": "高雄市楠梓區創新路",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5084,6 +5084,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T11:47:31.664261"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T11:55:31.755664"
       }
     ]
   },
@@ -5173,7 +5177,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區大寮路",
     "units": "和發分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5182,6 +5186,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T11:51:31.690309"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T11:55:31.755664"
       }
     ]
   },
@@ -5232,6 +5240,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T11:54:31.721230"
+      }
+    ]
+  },
+  "4adb6f06adf116c07cea224e79de7263": {
+    "time": "2026/09/30 11:54:02",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市橋頭區里林東路",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T11:55:31.755664"
       }
     ]
   }
