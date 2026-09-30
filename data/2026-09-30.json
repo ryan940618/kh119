@@ -9331,7 +9331,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區鎮東街",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9344,6 +9344,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T18:24:31.978690"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T18:32:31.457227"
       }
     ]
   },
@@ -9645,11 +9649,15 @@
     "sub_category": "路倒",
     "location": "高雄市旗山區旗山夜市/近河堤旁的小路",
     "units": "旗山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T18:27:31.299914"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T18:32:31.457227"
       }
     ]
   },
@@ -9659,11 +9667,15 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "梓官分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T18:30:31.426001"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T18:32:31.457227"
       }
     ]
   }
