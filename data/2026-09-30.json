@@ -11931,7 +11931,7 @@
     "sub_category": "車禍",
     "location": "高雄市甲仙區忠孝路",
     "units": "甲仙分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11940,6 +11940,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T21:56:31.713369"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T21:59:31.660760"
       }
     ]
   },
@@ -12004,6 +12008,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T21:58:31.435643"
+      }
+    ]
+  },
+  "6e8c7e3624a2c7cb1b55554ca37b1e05": {
+    "time": "2026/09/30 21:58:39",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市林園區鳳林路",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T21:59:31.660760"
+      }
+    ]
+  },
+  "c4c2def3bb8e7f55d44af42f7ede2aa3": {
+    "time": "2026/09/30 21:58:04",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區正忠路",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T21:59:31.660760"
       }
     ]
   }
