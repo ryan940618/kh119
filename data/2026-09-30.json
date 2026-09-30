@@ -3501,7 +3501,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -3514,6 +3514,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T09:45:30.923033"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T09:50:30.966637"
       }
     ]
   },
@@ -3689,11 +3693,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區安東街",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T09:48:31.009454"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T09:50:30.966637"
       }
     ]
   },
@@ -3750,6 +3758,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T09:49:30.978763"
+      }
+    ]
+  },
+  "63eda61facf2aae890452386d4dfce35": {
+    "time": "2026/09/30 09:49:40",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市前鎮區瑞興街",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T09:50:30.966637"
       }
     ]
   }
