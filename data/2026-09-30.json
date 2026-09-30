@@ -12029,7 +12029,7 @@
     "sub_category": "創傷",
     "location": "高雄市林園區鳳林路",
     "units": "林園分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12042,6 +12042,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T22:05:31.631769"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T22:12:31.711260"
       }
     ]
   },
@@ -12128,6 +12132,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T22:07:31.638572"
+      }
+    ]
+  },
+  "eece758aa5c79b5815ca24316ade61b0": {
+    "time": "2026/09/30 22:11:10",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T22:12:31.711260"
       }
     ]
   }
