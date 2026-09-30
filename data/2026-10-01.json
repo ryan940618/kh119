@@ -1455,7 +1455,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區文奇路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1464,6 +1464,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T06:50:31.671460"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T06:55:31.695044"
       }
     ]
   },
@@ -1495,7 +1499,7 @@
     "sub_category": "車禍",
     "location": "高雄市大社區中正路",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1504,6 +1508,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T06:52:31.610527"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T06:55:31.695044"
       }
     ]
   },
@@ -1513,11 +1521,15 @@
     "sub_category": "車禍",
     "location": "高雄市小港區松福街",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T06:50:31.671460"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T06:55:31.695044"
       }
     ]
   },
@@ -1558,6 +1570,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T06:54:31.551599"
+      }
+    ]
+  },
+  "e3c452fc70096ad6568f1556f03045a3": {
+    "time": "2026/10/01 06:54:52",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T06:55:31.695044"
       }
     ]
   }
