@@ -4515,7 +4515,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -4528,6 +4528,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T10:46:31.433804"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T10:58:31.478203"
       }
     ]
   },
@@ -4752,6 +4756,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T10:56:31.353331"
+      }
+    ]
+  },
+  "926da3979b647434fa01f10b5f2bb0fb": {
+    "time": "2026/09/30 10:57:23",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市林園區潭頭路",
+    "units": "林園分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T10:58:31.478203"
       }
     ]
   }
