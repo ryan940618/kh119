@@ -11063,7 +11063,7 @@
     "sub_category": "創傷",
     "location": "高雄市仁武區工業一路",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11072,6 +11072,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T20:17:32.055757"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T20:25:32.110935"
       }
     ]
   },
@@ -11120,6 +11124,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T20:20:31.932222"
+      }
+    ]
+  },
+  "d239388ca312965205a267543fd8d9b8": {
+    "time": "2026/09/30 20:24:46",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T20:25:32.110935"
+      }
+    ]
+  },
+  "0d47fbf637829096dc4b9b465eff9ee5": {
+    "time": "2026/09/30 20:24:38",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市茄萣區",
+    "units": "茄萣分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T20:25:32.110935"
       }
     ]
   }
