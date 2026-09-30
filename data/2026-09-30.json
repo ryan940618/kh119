@@ -8065,7 +8065,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8078,6 +8078,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T16:41:31.922823"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T17:00:31.668791"
       }
     ]
   },
@@ -8190,6 +8194,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T16:54:31.672841"
+      }
+    ]
+  },
+  "f12bbef55938fa0e58da937fb2a179a6": {
+    "time": "2026/09/30 16:59:35",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區學府路",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T17:00:31.668791"
       }
     ]
   }
