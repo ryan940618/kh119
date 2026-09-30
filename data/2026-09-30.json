@@ -6145,7 +6145,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區高楠公路",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6158,6 +6158,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T13:31:31.506172"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T13:40:31.372236"
       }
     ]
   },
@@ -6284,6 +6288,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T13:37:31.495254"
+      }
+    ]
+  },
+  "2761a869878c59cb766d9346d14821cb": {
+    "time": "2026/09/30 13:39:10",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區澄清路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T13:40:31.372236"
       }
     ]
   }
