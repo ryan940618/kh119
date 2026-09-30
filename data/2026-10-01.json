@@ -2123,7 +2123,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區文衡路",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2140,6 +2140,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T07:43:32.151200"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T07:49:32.040964"
       }
     ]
   },
@@ -2299,7 +2303,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區褒揚街",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2308,6 +2312,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T07:43:32.151200"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T07:49:32.040964"
       }
     ]
   },
@@ -2399,11 +2407,15 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區中華一路",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T07:48:32.839867"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T07:49:32.040964"
       }
     ]
   }
