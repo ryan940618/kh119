@@ -7463,11 +7463,15 @@
     "sub_category": "急病",
     "location": "高雄市六龜區",
     "units": "六龜分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T15:56:31.501278"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T16:05:31.646555"
       }
     ]
   },
@@ -7598,6 +7602,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T16:04:31.644035"
+      }
+    ]
+  },
+  "bf012c91862757647c24425bfa3db0c2": {
+    "time": "2026/09/30 16:05:13",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區仁智街",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T16:05:31.646555"
       }
     ]
   }
