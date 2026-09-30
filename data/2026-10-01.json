@@ -1645,7 +1645,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區宏中街",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1654,6 +1654,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T07:02:31.568974"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T07:08:31.802355"
       }
     ]
   },
@@ -1710,6 +1714,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T07:07:31.664654"
+      }
+    ]
+  },
+  "2ebb148de805f80b9c5a931f44e75e37": {
+    "time": "2026/10/01 07:07:25",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T07:08:31.802355"
       }
     ]
   }
