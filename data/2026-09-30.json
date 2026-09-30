@@ -10281,7 +10281,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區義大二路",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10294,6 +10294,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T19:26:31.749196"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T19:42:31.887389"
       }
     ]
   },
@@ -10544,6 +10548,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T19:38:31.902679"
+      }
+    ]
+  },
+  "67bc2e759b2283288761623b91d4adea": {
+    "time": "2026/09/30 19:41:38",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T19:42:31.887389"
+      }
+    ]
+  },
+  "cf073ea474927798b61732c17c7a6fb2": {
+    "time": "2026/09/30 19:41:06",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市燕巢區",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T19:42:31.887389"
       }
     ]
   }
