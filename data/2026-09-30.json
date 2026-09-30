@@ -3529,7 +3529,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -3538,6 +3538,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T09:31:32.026085"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T09:41:32.135587"
       }
     ]
   },
@@ -3595,11 +3599,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區本舘路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T09:30:32.252914"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T09:41:32.135587"
       }
     ]
   },
