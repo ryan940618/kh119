@@ -10913,7 +10913,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10926,6 +10926,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T20:13:31.935369"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T20:26:32.177874"
       }
     ]
   },
@@ -11001,7 +11005,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊,大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11010,6 +11014,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T20:14:32.164320"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T20:26:32.177874"
       }
     ]
   },
@@ -11152,6 +11160,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T20:25:32.110935"
+      }
+    ]
+  },
+  "c8b31c1547e77204f63ba712b0936090": {
+    "time": "2026/09/30 20:25:26",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區建工路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T20:26:32.177874"
       }
     ]
   }
