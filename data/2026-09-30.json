@@ -6935,7 +6935,7 @@
     "sub_category": "路倒",
     "location": "高雄市旗山區旗南一路",
     "units": "旗山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -6948,6 +6948,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T15:11:31.489734"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T15:17:31.755163"
       }
     ]
   },
@@ -7151,11 +7155,29 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區大仁路",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T15:15:31.488683"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T15:17:31.755163"
+      }
+    ]
+  },
+  "05786f98e51a7aa3f6a5e3a190b14c73": {
+    "time": "2026/09/30 15:17:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T15:17:31.755163"
       }
     ]
   }
