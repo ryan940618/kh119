@@ -3161,11 +3161,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區文濱路",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T09:00:31.687369"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T09:07:31.844674"
       }
     ]
   },
@@ -3175,7 +3179,7 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區永明街",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3184,6 +3188,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T09:02:31.640524"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T09:07:31.844674"
       }
     ]
   },
@@ -3193,7 +3201,7 @@
     "sub_category": "創傷",
     "location": "高雄市岡山區岡燕路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3202,6 +3210,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T09:03:31.859406"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T09:07:31.844674"
       }
     ]
   },
@@ -3220,6 +3232,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T09:04:31.765569"
+      }
+    ]
+  },
+  "e15e8cbf7cc9992cce96e0b2c370b99a": {
+    "time": "2026/09/30 09:06:21",
+    "category": "其他",
+    "sub_category": "受困",
+    "location": "高雄市新興區中正三路",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T09:07:31.844674"
       }
     ]
   }
