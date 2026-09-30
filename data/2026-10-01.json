@@ -789,7 +789,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -798,6 +798,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T03:48:31.393150"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T03:52:31.381510"
       }
     ]
   },
@@ -843,11 +847,15 @@
     "sub_category": "其他",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T03:49:31.348095"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T03:52:31.381510"
       }
     ]
   }
