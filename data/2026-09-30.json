@@ -2229,7 +2229,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2246,6 +2246,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T08:08:31.194812"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T08:15:31.285885"
       }
     ]
   },
@@ -2409,7 +2413,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區新生路",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2418,6 +2422,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T08:10:31.224058"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T08:15:31.285885"
       }
     ]
   },
@@ -2427,11 +2435,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T08:10:31.224058"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T08:15:31.285885"
       }
     ]
   },
