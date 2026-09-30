@@ -9177,7 +9177,7 @@
     "sub_category": "車禍",
     "location": "高雄市大社區中山路",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9186,6 +9186,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T18:11:31.358841"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T18:14:31.612300"
       }
     ]
   },
@@ -9227,11 +9231,29 @@
     "sub_category": "其他",
     "location": "高雄市三民區同盟二路",
     "units": "中華分隊,十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T18:13:31.707421"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T18:14:31.612300"
+      }
+    ]
+  },
+  "c4d3b4b15485d2170d07c583778ad1b2": {
+    "time": "2026/09/30 18:13:32",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區高楠公路",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T18:14:31.612300"
       }
     ]
   }
