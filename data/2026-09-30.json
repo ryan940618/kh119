@@ -12579,7 +12579,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12592,6 +12592,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T23:24:32.041593"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T23:32:32.130367"
       }
     ]
   },
@@ -12646,6 +12650,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T23:29:33.442704"
+      }
+    ]
+  },
+  "960a0cdfa21ea42c7af2b9648f59c49c": {
+    "time": "2026/09/30 23:31:18",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市前鎮區遠東SOGO百貨[高雄市前鎮區三多三路",
+    "units": "前金分隊,苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T23:32:32.130367"
       }
     ]
   }
