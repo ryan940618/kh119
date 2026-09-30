@@ -3455,7 +3455,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3464,6 +3464,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T09:20:31.994178"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T09:31:32.026085"
       }
     ]
   },
@@ -3509,11 +3513,15 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T09:25:31.872174"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T09:31:32.026085"
       }
     ]
   },
@@ -3523,7 +3531,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3532,6 +3540,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T09:28:31.994102"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T09:31:32.026085"
       }
     ]
   },
@@ -3564,6 +3576,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T09:30:32.252914"
+      }
+    ]
+  },
+  "d96ea78bdb09e1c35d26fbdc08c9eaa0": {
+    "time": "2026/09/30 09:30:20",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前金區中華三路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T09:31:32.026085"
       }
     ]
   }
