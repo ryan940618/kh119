@@ -2711,7 +2711,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區明潭路",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2728,6 +2728,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T08:40:31.540792"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T08:47:32.336700"
       }
     ]
   },
@@ -2737,7 +2741,7 @@
     "sub_category": "車禍",
     "location": "高雄市大社區金龍路",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2754,6 +2758,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T08:38:31.556307"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T08:47:32.336700"
       }
     ]
   },
@@ -2958,6 +2966,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T08:46:31.838202"
+      }
+    ]
+  },
+  "240dc2804ce813aac8597e18332b8dfd": {
+    "time": "2026/09/30 08:45:20",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市仁武區京吉二路",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T08:47:32.336700"
       }
     ]
   }
