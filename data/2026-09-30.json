@@ -5263,7 +5263,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5276,6 +5276,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T11:57:31.686454"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T12:10:31.790093"
       }
     ]
   },
@@ -5329,7 +5333,7 @@
     "sub_category": "車禍",
     "location": "高雄市林園區龔厝路",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5338,6 +5342,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T12:03:31.776692"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T12:10:31.790093"
       }
     ]
   },
@@ -5383,11 +5391,57 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T12:08:31.887960"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T12:10:31.790093"
+      }
+    ]
+  },
+  "a4c26609403e2e48244459a60df11224": {
+    "time": "2026/09/30 12:09:45",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區民益路",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T12:10:31.790093"
+      }
+    ]
+  },
+  "3af79b7e87e0c714a8a8315a0e9bcb2b": {
+    "time": "2026/09/30 12:09:30",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市旗山區",
+    "units": "旗山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T12:10:31.790093"
+      }
+    ]
+  },
+  "c8fe6c08e686174ba19f997489dbfc91": {
+    "time": "2026/09/30 12:09:22",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區臨海街",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T12:10:31.790093"
       }
     ]
   }
