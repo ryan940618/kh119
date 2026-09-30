@@ -8475,7 +8475,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8488,6 +8488,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T17:28:31.876086"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T17:36:32.025310"
       }
     ]
   },
@@ -8573,7 +8577,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區成功南路",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8586,6 +8590,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T17:28:31.876086"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T17:36:32.025310"
       }
     ]
   },
@@ -8649,7 +8657,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8658,6 +8666,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T17:34:32.567834"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T17:36:32.025310"
       }
     ]
   },
@@ -8676,6 +8688,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T17:34:32.567834"
+      }
+    ]
+  },
+  "58ee754d7352957cc72a62b85673cb73": {
+    "time": "2026/09/30 17:35:34",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T17:36:32.025310"
+      }
+    ]
+  },
+  "9250055752bec7b7d20217636a6ade8b": {
+    "time": "2026/09/30 17:35:29",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市大社區中華路",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T17:36:32.025310"
       }
     ]
   }
