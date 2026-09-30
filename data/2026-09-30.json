@@ -11241,7 +11241,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區建工路",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11258,6 +11258,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T20:41:32.351533"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T20:49:31.427248"
       }
     ]
   },
@@ -11293,7 +11297,7 @@
     "sub_category": "車禍",
     "location": "高雄市旗山區中山路",
     "units": "旗山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11306,6 +11310,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T20:38:32.259420"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T20:49:31.427248"
       }
     ]
   },
@@ -11385,7 +11393,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11394,6 +11402,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T20:42:31.151171"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T20:49:31.427248"
       }
     ]
   },
@@ -11439,11 +11451,15 @@
     "sub_category": "生物咬螫傷",
     "location": "高雄市前金區中華四路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T20:48:31.150578"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T20:49:31.427248"
       }
     ]
   }
