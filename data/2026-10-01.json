@@ -1549,7 +1549,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區松福街",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1562,6 +1562,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T06:58:31.555759"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T07:12:31.640345"
       }
     ]
   },
@@ -1667,11 +1671,15 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-01T07:01:31.560390"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T07:12:31.640345"
       }
     ]
   },
@@ -1744,6 +1752,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T07:10:31.801625"
+      }
+    ]
+  },
+  "85a05ba52a6a4dadd0f0858aa1be54ee": {
+    "time": "2026/10/01 07:11:27",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T07:12:31.640345"
       }
     ]
   }
