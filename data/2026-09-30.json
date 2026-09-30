@@ -3709,7 +3709,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區安東街",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3726,6 +3726,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T10:07:31.350721"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T10:12:31.354363"
       }
     ]
   },
@@ -3957,7 +3961,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3970,6 +3974,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T10:05:31.131843"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T10:12:31.354363"
       }
     ]
   },
@@ -4068,6 +4076,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T10:10:31.151176"
+      }
+    ]
+  },
+  "f016bacbb4f3e720f1c2d1ffc892abde": {
+    "time": "2026/09/30 10:11:52",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市梓官區中崙路",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T10:12:31.354363"
+      }
+    ]
+  },
+  "52a9fb68ca70be6dea8ed724a56adc92": {
+    "time": "2026/09/30 10:11:39",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T10:12:31.354363"
+      }
+    ]
+  },
+  "9d52e97c78b315435b95ef203d7036c2": {
+    "time": "2026/09/30 10:10:25",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市梓官區中崙路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-30T10:12:31.354363"
       }
     ]
   }
