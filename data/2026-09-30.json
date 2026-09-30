@@ -3409,11 +3409,15 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T09:19:31.878978"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T09:21:31.868373"
       }
     ]
   },
@@ -3432,6 +3436,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T09:20:31.994178"
+      }
+    ]
+  },
+  "daf9f34d7480bc5846864a1766c01783": {
+    "time": "2026/09/30 09:20:37",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "左營分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T09:21:31.868373"
       }
     ]
   }
