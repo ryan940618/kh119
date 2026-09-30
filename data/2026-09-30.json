@@ -10593,7 +10593,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10610,6 +10610,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T19:56:31.749904"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T20:04:31.968792"
       }
     ]
   },
@@ -10681,7 +10685,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10698,6 +10702,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T19:53:32.184634"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T20:04:31.968792"
       }
     ]
   },
@@ -10729,7 +10737,7 @@
     "sub_category": "車禍",
     "location": "高雄市新興區中山一路",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10742,6 +10750,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T19:53:32.184634"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T20:04:31.968792"
       }
     ]
   },
@@ -10809,7 +10821,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區同盟一路",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10818,6 +10830,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T20:00:31.968645"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T20:04:31.968792"
       }
     ]
   },
@@ -10827,11 +10843,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區國泰路",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T20:01:32.078547"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T20:04:31.968792"
       }
     ]
   },
@@ -10841,11 +10861,15 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T20:02:31.939324"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T20:04:31.968792"
       }
     ]
   },
@@ -10855,11 +10879,29 @@
     "sub_category": "其他",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T20:03:31.918758"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T20:04:31.968792"
+      }
+    ]
+  },
+  "f8fae7428a18e45a5ab19b7c65ce5395": {
+    "time": "2026/09/30 20:03:13",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊,瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T20:04:31.968792"
       }
     ]
   }
