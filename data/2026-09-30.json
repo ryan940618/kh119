@@ -5617,7 +5617,7 @@
     "sub_category": "公共場所(機場、車站)",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "火已控",
+    "current_status": "火已滅",
     "status_history": [
       {
         "status": "已派遣",
@@ -5634,6 +5634,10 @@
       {
         "status": "火已控",
         "timestamp": "2026-09-30T13:07:45.664487"
+      },
+      {
+        "status": "火已滅",
+        "timestamp": "2026-09-30T13:54:31.689018"
       }
     ]
   },
@@ -6368,6 +6372,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T13:48:31.461514"
+      }
+    ]
+  },
+  "b7fda9a1d682a8be106571040e2045b2": {
+    "time": "2026/09/30 13:53:16",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區新光路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T13:54:31.689018"
       }
     ]
   }
