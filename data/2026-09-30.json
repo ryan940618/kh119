@@ -6483,7 +6483,7 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區保生路",
     "units": "湖內分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -6496,6 +6496,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T14:05:31.684695"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T14:25:31.760797"
       }
     ]
   },
@@ -6624,6 +6628,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T14:22:31.655045"
+      }
+    ]
+  },
+  "212f1f107d01439d8fccce9a944a7b89": {
+    "time": "2026/09/30 14:24:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T14:25:31.760797"
       }
     ]
   }
