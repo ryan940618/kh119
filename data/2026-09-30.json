@@ -7333,7 +7333,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區永豐路",
     "units": "五甲分隊,瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7350,6 +7350,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T15:58:31.337381"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T16:08:31.630672"
       }
     ]
   },
@@ -7627,11 +7631,29 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區仁智街",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T16:05:31.646555"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T16:08:31.630672"
+      }
+    ]
+  },
+  "e93b84cf94061e76b3553d7afec8e214": {
+    "time": "2026/09/30 16:07:41",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區班超路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-30T16:08:31.630672"
       }
     ]
   }
