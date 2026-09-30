@@ -2399,7 +2399,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2408,6 +2408,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T08:10:31.224058"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T08:17:31.236712"
       }
     ]
   },
@@ -2457,11 +2461,15 @@
     "sub_category": "車禍",
     "location": "高雄市大社區翠屏路",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T08:14:31.261452"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T08:17:31.236712"
       }
     ]
   },
@@ -2518,6 +2526,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T08:16:31.390372"
+      }
+    ]
+  },
+  "8727800c2edaec84ef8c1f8b9d99eda7": {
+    "time": "2026/09/30 08:16:12",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市苓雅區四維三路",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T08:17:31.236712"
       }
     ]
   }
