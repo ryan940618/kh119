@@ -2929,7 +2929,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2946,6 +2946,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T08:57:31.712736"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T09:10:31.819533"
       }
     ]
   },
@@ -3075,7 +3079,7 @@
     "sub_category": "車禍",
     "location": "高雄市新興區八德一路",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -3088,6 +3092,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T09:05:32.141960"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T09:10:31.819533"
       }
     ]
   },
@@ -3262,6 +3270,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T09:08:31.705074"
+      }
+    ]
+  },
+  "60ef61217e1031d5e1ee85fdf0c77376": {
+    "time": "2026/09/30 09:09:05",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "鼎金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T09:10:31.819533"
       }
     ]
   }
