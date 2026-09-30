@@ -4993,7 +4993,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區力行路",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5006,6 +5006,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T11:40:31.564631"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T11:49:31.608846"
       }
     ]
   },
@@ -5033,7 +5037,7 @@
     "sub_category": "路倒",
     "location": "高雄市小港區民益路",
     "units": "小港分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5042,6 +5046,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T11:45:31.600056"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T11:49:31.608846"
       }
     ]
   },
@@ -5069,11 +5077,15 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T11:47:31.664261"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T11:49:31.608846"
       }
     ]
   },
@@ -5083,11 +5095,15 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T11:47:31.664261"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T11:49:31.608846"
       }
     ]
   },
@@ -5097,11 +5113,15 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T11:47:31.664261"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T11:49:31.608846"
       }
     ]
   },
@@ -5116,6 +5136,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T11:48:31.654564"
+      }
+    ]
+  },
+  "d7ff22f07a35f77c120dbecb95ff6d00": {
+    "time": "2026/09/30 11:47:55",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區大寮路",
+    "units": "和發分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T11:49:31.608846"
       }
     ]
   }
