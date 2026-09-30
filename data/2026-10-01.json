@@ -1441,7 +1441,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1458,6 +1458,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T06:56:31.539057"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T06:59:31.681061"
       }
     ]
   },
@@ -1608,6 +1612,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T06:56:31.539057"
+      }
+    ]
+  },
+  "76778064d15e0d1bc363118a7770c070": {
+    "time": "2026/10/01 06:59:06",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區宏中街",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T06:59:31.681061"
       }
     ]
   }
