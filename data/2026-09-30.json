@@ -10015,7 +10015,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10032,6 +10032,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T19:15:31.769288"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T19:26:31.749196"
       }
     ]
   },
@@ -10257,7 +10261,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區義大二路",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10266,6 +10270,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T19:19:31.709426"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T19:26:31.749196"
       }
     ]
   },
@@ -10334,6 +10342,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T19:25:31.479884"
+      }
+    ]
+  },
+  "970d50f9c732aafc7ad7a8a21e19d49e": {
+    "time": "2026/09/30 19:25:24",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T19:26:31.749196"
       }
     ]
   }
