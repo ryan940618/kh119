@@ -8013,7 +8013,7 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -8022,6 +8022,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T16:37:31.813990"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T16:50:31.859895"
       }
     ]
   },
@@ -8079,7 +8083,7 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區瓦厝街",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8088,6 +8092,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T16:39:31.609288"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T16:50:31.859895"
       }
     ]
   },
@@ -8119,11 +8127,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T16:45:31.769927"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T16:50:31.859895"
       }
     ]
   },
