@@ -2955,7 +2955,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2968,6 +2968,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T08:49:31.598548"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T08:58:31.711117"
       }
     ]
   },
@@ -3063,11 +3067,15 @@
     "sub_category": "車禍",
     "location": "高雄市新興區八德一路",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T08:52:31.804011"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T08:58:31.711117"
       }
     ]
   },
