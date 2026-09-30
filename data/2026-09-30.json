@@ -8457,7 +8457,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8474,6 +8474,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T17:44:32.182147"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T17:50:32.354407"
       }
     ]
   },
@@ -8916,6 +8920,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T17:49:32.182030"
+      }
+    ]
+  },
+  "798e2894c3b55eec8b35160e3a3629c1": {
+    "time": "2026/09/30 17:50:00",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T17:50:32.354407"
       }
     ]
   }
