@@ -11665,7 +11665,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11674,6 +11674,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T21:06:31.695398"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T21:11:31.765338"
       }
     ]
   },
@@ -11725,11 +11729,15 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T21:09:32.025736"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T21:11:31.765338"
       }
     ]
   }
