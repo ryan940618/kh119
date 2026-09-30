@@ -10737,7 +10737,7 @@
     "sub_category": "車禍",
     "location": "高雄市新興區中山一路",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10754,6 +10754,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T20:04:31.968792"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T20:07:32.058751"
       }
     ]
   },
@@ -10906,6 +10910,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T20:05:32.166319"
+      }
+    ]
+  },
+  "5bc0c4aaeb67a7547d33e8dbe6952c35": {
+    "time": "2026/09/30 20:06:01",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鼓山區蓮海路",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T20:07:32.058751"
       }
     ]
   }
