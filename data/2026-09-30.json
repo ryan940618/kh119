@@ -6859,7 +6859,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6868,6 +6868,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T15:02:32.071405"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T15:07:32.012392"
       }
     ]
   },
@@ -6926,6 +6930,48 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T15:05:32.150854"
+      }
+    ]
+  },
+  "0360472ff1f81083c49c62b561cd5ef6": {
+    "time": "2026/09/30 15:06:47",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T15:07:32.012392"
+      }
+    ]
+  },
+  "d856100f425e9842917d71d71e4516ad": {
+    "time": "2026/09/30 15:06:23",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "仁武分隊,大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T15:07:32.012392"
+      }
+    ]
+  },
+  "89ffa9bc6a736d0a249ab2735642481e": {
+    "time": "2026/09/30 15:06:11",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區柳橋西路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T15:07:32.012392"
       }
     ]
   }
