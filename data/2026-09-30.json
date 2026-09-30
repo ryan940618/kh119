@@ -2453,7 +2453,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區新生路",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2470,6 +2470,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T08:22:31.343108"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T08:30:31.413266"
       }
     ]
   },
@@ -2479,7 +2483,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -2488,6 +2492,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T08:15:31.285885"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T08:30:31.413266"
       }
     ]
   },
@@ -2677,7 +2685,7 @@
     "sub_category": "車禍",
     "location": "高雄市大社區金龍路",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2686,6 +2694,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T08:25:31.335026"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T08:30:31.413266"
       }
     ]
   },
@@ -2746,6 +2758,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T08:29:31.449269"
+      }
+    ]
+  },
+  "4537f8fcac8614a8196b96696ed6f153": {
+    "time": "2026/09/30 08:28:21",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市林園區清水岩路",
+    "units": "林園分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T08:30:31.413266"
       }
     ]
   }
