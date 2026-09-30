@@ -7853,7 +7853,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區中山南路",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -7862,6 +7862,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T16:26:31.520310"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T16:29:31.756886"
       }
     ]
   },
@@ -7871,11 +7875,71 @@
     "sub_category": "路倒",
     "location": "高雄市鼓山區輕軌C16文武聖殿[高雄市鼓山區大公路",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T16:26:31.520310"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T16:29:31.756886"
+      }
+    ]
+  },
+  "3773cd0e295f442d23d98b80b4b7b526": {
+    "time": "2026/09/30 16:28:51",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市湖內區中山路",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T16:29:31.756886"
+      }
+    ]
+  },
+  "feb1fc4cb22ff241a6c4ba5d6d93ad44": {
+    "time": "2026/09/30 16:28:05",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大社區",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T16:29:31.756886"
+      }
+    ]
+  },
+  "c03c843deaadf2c8d0a15e81fb6717e6": {
+    "time": "2026/09/30 16:28:02",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鹽埕區瀨南街",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T16:29:31.756886"
+      }
+    ]
+  },
+  "5fc6e3878f7fcd565615c73380b1d0d5": {
+    "time": "2026/09/30 16:24:42",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市湖內區中山路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-30T16:29:31.756886"
       }
     ]
   }
