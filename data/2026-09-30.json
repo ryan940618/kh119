@@ -7393,7 +7393,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "梓官分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7410,6 +7410,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T16:12:31.683109"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T16:17:31.428472"
       }
     ]
   },
@@ -7711,7 +7715,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區鼎義街",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7720,6 +7724,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T16:13:31.432561"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T16:17:31.428472"
+      }
+    ]
+  },
+  "af8e5896d7a8a6b6338f6edda2368c24": {
+    "time": "2026/09/30 16:16:38",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鳳山區王生明路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T16:17:31.428472"
       }
     ]
   }
