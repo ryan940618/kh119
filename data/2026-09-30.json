@@ -4819,7 +4819,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4836,6 +4836,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T11:29:31.435299"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T11:34:31.538797"
       }
     ]
   },
@@ -4942,6 +4946,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T11:33:31.496609"
+      }
+    ]
+  },
+  "e172422537d849b10438f20119227585": {
+    "time": "2026/09/30 11:33:31",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T11:34:31.538797"
+      }
+    ]
+  },
+  "5aa508f79101cbe525b7176169c064ac": {
+    "time": "2026/09/30 11:33:27",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區力行路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T11:34:31.538797"
       }
     ]
   }
