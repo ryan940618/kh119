@@ -2573,7 +2573,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2590,6 +2590,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T08:37:31.497521"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T08:46:31.838202"
       }
     ]
   },
@@ -2759,7 +2763,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -2772,6 +2776,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T08:45:31.873565"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T08:46:31.838202"
       }
     ]
   },
@@ -2781,7 +2789,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區中林路",
     "units": "大林分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -2794,6 +2802,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T08:37:31.497521"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T08:46:31.838202"
       }
     ]
   },
@@ -2932,6 +2944,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T08:43:31.450553"
+      }
+    ]
+  },
+  "669b189bb5ac3b62509f69bbb48333a9": {
+    "time": "2026/09/30 08:45:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T08:46:31.838202"
       }
     ]
   }
