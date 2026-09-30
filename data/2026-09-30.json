@@ -6859,7 +6859,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6872,6 +6872,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T15:07:32.012392"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T15:11:31.489734"
       }
     ]
   },
@@ -6903,7 +6907,7 @@
     "sub_category": "路倒",
     "location": "高雄市旗山區旗南一路",
     "units": "旗山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -6912,6 +6916,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T15:06:32.140799"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T15:11:31.489734"
       }
     ]
   },
@@ -7015,11 +7023,43 @@
     "sub_category": "車禍",
     "location": "高雄市左營區博愛二路",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T15:09:31.655532"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T15:11:31.489734"
+      }
+    ]
+  },
+  "38fe4eb27e7c1097a2ec8c6c3cd64d48": {
+    "time": "2026/09/30 15:11:07",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗山區",
+    "units": "旗山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T15:11:31.489734"
+      }
+    ]
+  },
+  "6d22b14558295b0c93252977341b60a2": {
+    "time": "2026/09/30 15:10:53",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區博愛二路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T15:11:31.489734"
       }
     ]
   }
