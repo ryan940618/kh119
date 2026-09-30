@@ -2573,7 +2573,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2586,6 +2586,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T08:25:31.335026"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T08:37:31.497521"
       }
     ]
   },
@@ -2761,7 +2765,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區中林路",
     "units": "大林分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -2770,6 +2774,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T08:29:31.449269"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T08:37:31.497521"
       }
     ]
   },
@@ -2820,6 +2828,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T08:35:31.505264"
+      }
+    ]
+  },
+  "1a55e50df6625d7e718d924ee5031df7": {
+    "time": "2026/09/30 08:36:35",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T08:37:31.497521"
       }
     ]
   }
