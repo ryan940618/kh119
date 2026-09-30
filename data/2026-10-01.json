@@ -1795,11 +1795,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區五甲二路",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T07:14:32.119396"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T07:17:31.796912"
       }
     ]
   },
@@ -1832,6 +1836,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T07:16:31.733785"
+      }
+    ]
+  },
+  "3785bc73547447f9e1f1bcaf5db25f67": {
+    "time": "2026/10/01 07:17:00",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區中山東路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T07:17:31.796912"
       }
     ]
   }
