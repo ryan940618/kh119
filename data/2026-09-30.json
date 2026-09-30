@@ -7617,7 +7617,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7634,6 +7634,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T16:15:31.780950"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T16:26:31.520310"
       }
     ]
   },
@@ -7739,7 +7743,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區鼎義街",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7756,6 +7760,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T16:23:31.950908"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T16:26:31.520310"
       }
     ]
   },
@@ -7829,11 +7837,29 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區中山南路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T16:23:31.950908"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T16:26:31.520310"
+      }
+    ]
+  },
+  "e012fca59afd5c1c637bfa18b9ca149e": {
+    "time": "2026/09/30 16:25:07",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鼓山區輕軌C16文武聖殿[高雄市鼓山區大公路",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T16:26:31.520310"
       }
     ]
   }
