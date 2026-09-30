@@ -6787,7 +6787,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區文樂街",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -6800,6 +6800,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T15:12:31.492259"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T15:15:31.488683"
       }
     ]
   },
@@ -6905,7 +6909,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6918,6 +6922,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T15:10:31.632253"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T15:15:31.488683"
       }
     ]
   },
@@ -7019,7 +7027,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區柳橋西路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7036,6 +7044,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T15:14:31.688724"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T15:15:31.488683"
       }
     ]
   },
@@ -7045,7 +7057,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7054,6 +7066,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T15:12:31.492259"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T15:15:31.488683"
       }
     ]
   },
@@ -7118,6 +7134,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T15:14:31.688724"
+      }
+    ]
+  },
+  "d7203c244e1988f2c33854bb0153f9a5": {
+    "time": "2026/09/30 15:14:58",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市路竹區大仁路",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T15:15:31.488683"
       }
     ]
   }
