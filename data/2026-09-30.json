@@ -10313,7 +10313,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區正心街",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10322,6 +10322,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T19:23:31.691116"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T19:30:31.985618"
       }
     ]
   },
@@ -10380,6 +10384,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T19:27:31.592531"
+      }
+    ]
+  },
+  "da92c7520587fa98c5eb6fbd24747f65": {
+    "time": "2026/09/30 19:29:42",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T19:30:31.985618"
+      }
+    ]
+  },
+  "31503f2fd9bea841e395abd97906a07b": {
+    "time": "2026/09/30 19:28:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市六龜區",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-30T19:30:31.985618"
       }
     ]
   }
