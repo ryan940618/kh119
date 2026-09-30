@@ -7941,7 +7941,7 @@
     "sub_category": "車禍",
     "location": "高雄市鹽埕區瀨南街",
     "units": "鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7950,6 +7950,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T16:32:31.701902"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T16:35:31.729284"
       }
     ]
   },
@@ -7978,6 +7982,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T16:31:31.744618"
+      }
+    ]
+  },
+  "7544133e9bb1c24246037e81da1dc874": {
+    "time": "2026/09/30 16:35:12",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區五權街",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T16:35:31.729284"
+      }
+    ]
+  },
+  "804a2a235c9a59345eb232d5ede4f524": {
+    "time": "2026/09/30 16:34:26",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T16:35:31.729284"
       }
     ]
   }
