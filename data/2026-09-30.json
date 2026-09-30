@@ -5991,11 +5991,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區復華一街",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T13:16:31.290072"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T13:20:31.385359"
       }
     ]
   },
@@ -6023,11 +6027,29 @@
     "sub_category": "路倒",
     "location": "高雄市大寮區鳳林一路",
     "units": "林園分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T13:19:31.339541"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T13:20:31.385359"
+      }
+    ]
+  },
+  "11de29ce39e0a01b14bced71a5a78635": {
+    "time": "2026/09/30 13:19:38",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鼓山區明誠三路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T13:20:31.385359"
       }
     ]
   }
