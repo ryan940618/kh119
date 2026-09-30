@@ -6019,7 +6019,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區復華一街",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6036,6 +6036,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T13:26:31.483993"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T13:35:31.460151"
       }
     ]
   },
@@ -6246,6 +6250,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T13:33:31.543009"
+      }
+    ]
+  },
+  "3879507babeddcd285b4e87f797cd83d": {
+    "time": "2026/09/30 13:35:07",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區漢民路",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T13:35:31.460151"
       }
     ]
   }
