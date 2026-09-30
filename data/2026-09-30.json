@@ -2483,7 +2483,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -2496,6 +2496,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T08:30:31.413266"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T08:31:31.411536"
       }
     ]
   },
@@ -2505,7 +2509,7 @@
     "sub_category": "車禍",
     "location": "高雄市大社區翠屏路",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2522,6 +2526,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T08:25:31.335026"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T08:31:31.411536"
       }
     ]
   },
@@ -2627,7 +2635,7 @@
     "sub_category": "路倒",
     "location": "高雄市苓雅區四維三路",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -2636,6 +2644,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T08:23:31.397620"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T08:31:31.411536"
       }
     ]
   },
@@ -2707,11 +2719,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T08:23:31.397620"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T08:31:31.411536"
       }
     ]
   },
@@ -2739,11 +2755,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區澄清湖-三亭攬勝[高雄市鳥松區文前路",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T08:28:31.536118"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T08:31:31.411536"
       }
     ]
   },
