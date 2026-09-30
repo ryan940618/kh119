@@ -11685,7 +11685,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11702,6 +11702,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T21:22:31.201795"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T21:34:31.517333"
       }
     ]
   },
@@ -11823,11 +11827,15 @@
     "sub_category": "路倒",
     "location": "高雄市苓雅區憲政路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T21:27:31.624028"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T21:34:31.517333"
       }
     ]
   },
@@ -11850,6 +11858,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T21:32:31.344763"
+      }
+    ]
+  },
+  "2d8e67341eeb43fae63562259fe0b510": {
+    "time": "2026/09/30 21:33:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊,梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T21:34:31.517333"
       }
     ]
   }
