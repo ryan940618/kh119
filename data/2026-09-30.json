@@ -4119,7 +4119,7 @@
     "sub_category": "車禍",
     "location": "高雄市梓官區中崙路",
     "units": "梓官分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -4132,6 +4132,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T10:22:31.372059"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T10:38:31.313270"
       }
     ]
   },
@@ -4387,7 +4391,7 @@
     "sub_category": "車禍",
     "location": "高雄市林園區鳳林路",
     "units": "林園分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4400,6 +4404,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T10:29:31.363634"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T10:38:31.313270"
       }
     ]
   },
@@ -4544,6 +4552,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T10:37:31.615422"
+      }
+    ]
+  },
+  "33d3797b8f903d2128683681e412d94c": {
+    "time": "2026/09/30 10:36:44",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區小港路",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T10:38:31.313270"
       }
     ]
   }
