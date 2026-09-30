@@ -2063,7 +2063,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2076,6 +2076,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T07:31:31.996967"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T07:44:32.166242"
       }
     ]
   },
@@ -2217,7 +2221,7 @@
     "sub_category": "受困",
     "location": "高雄市鹽埕區必忠街",
     "units": "鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2226,6 +2230,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T07:37:31.976845"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T07:44:32.166242"
       }
     ]
   },
@@ -2235,11 +2243,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-01T07:37:31.976845"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T07:44:32.166242"
       }
     ]
   },
@@ -2280,6 +2292,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T07:43:32.151200"
+      }
+    ]
+  },
+  "607fc05efd33c523c2254a40c51ef172": {
+    "time": "2026/10/01 07:43:46",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市岡山區介壽西路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T07:44:32.166242"
+      }
+    ]
+  },
+  "d53b17247c82b7683a9e33311d96282e": {
+    "time": "2026/10/01 07:43:10",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區捷西路",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T07:44:32.166242"
       }
     ]
   }
