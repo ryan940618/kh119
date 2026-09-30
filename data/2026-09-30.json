@@ -5447,7 +5447,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5464,6 +5464,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T12:22:31.997663"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T12:33:31.241026"
       }
     ]
   },
@@ -5601,7 +5605,7 @@
     "sub_category": "公共場所(機場、車站)",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5610,6 +5614,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T12:27:32.062484"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T12:33:31.241026"
       }
     ]
   },
@@ -5641,7 +5649,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5650,6 +5658,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T12:29:32.088231"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T12:33:31.241026"
+      }
+    ]
+  },
+  "66aca705886a58c728c17b69235aa9ca": {
+    "time": "2026/09/30 12:32:38",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市梓官區",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T12:33:31.241026"
       }
     ]
   }
