@@ -5373,7 +5373,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5382,6 +5382,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T12:07:31.828132"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T12:12:31.808885"
       }
     ]
   },
@@ -5409,11 +5413,15 @@
     "sub_category": "車禍",
     "location": "高雄市小港區民益路",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T12:10:31.790093"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T12:12:31.808885"
       }
     ]
   },
@@ -5446,6 +5454,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T12:10:31.790093"
+      }
+    ]
+  },
+  "df1309140e17f562fe91113e6251c280": {
+    "time": "2026/09/30 12:11:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區經武路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T12:12:31.808885"
       }
     ]
   }
