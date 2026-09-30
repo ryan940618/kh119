@@ -10633,7 +10633,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10650,6 +10650,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T19:55:32.400616"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T20:01:32.078547"
       }
     ]
   },
@@ -10814,6 +10818,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T20:00:31.968645"
+      }
+    ]
+  },
+  "d5f1c554b794588b0c51d0c88c1aa2d0": {
+    "time": "2026/09/30 20:00:27",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區國泰路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T20:01:32.078547"
       }
     ]
   }
