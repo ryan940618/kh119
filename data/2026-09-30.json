@@ -6881,7 +6881,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6890,6 +6890,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T15:03:32.176901"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T15:10:31.632253"
       }
     ]
   },
@@ -6939,7 +6943,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "",
+    "current_status": "已派遣",
     "status_history": [
       {
         "status": "已派遣",
@@ -6948,6 +6952,10 @@
       {
         "status": "",
         "timestamp": "2026-09-30T15:09:31.655532"
+      },
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T15:10:31.632253"
       }
     ]
   },
@@ -6975,11 +6983,15 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區柳橋西路",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T15:07:32.012392"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T15:10:31.632253"
       }
     ]
   },
