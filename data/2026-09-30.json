@@ -3973,7 +3973,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3990,6 +3990,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-09-30T10:12:31.354363"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-09-30T10:21:31.320314"
       }
     ]
   },
@@ -4073,7 +4077,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4086,6 +4090,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T10:13:31.169403"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T10:21:31.320314"
       }
     ]
   },
@@ -4181,7 +4189,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區典昌路",
     "units": "右昌分隊,橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4190,6 +4198,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T10:16:31.170603"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T10:21:31.320314"
       }
     ]
   },
@@ -4235,11 +4247,57 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T10:19:31.263225"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T10:21:31.320314"
+      }
+    ]
+  },
+  "1d80c602348aa269dad7971e1e26acde": {
+    "time": "2026/09/30 10:21:18",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T10:21:31.320314"
+      }
+    ]
+  },
+  "007ed881244574961434124113679bc6": {
+    "time": "2026/09/30 10:20:53",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區修明街",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T10:21:31.320314"
+      }
+    ]
+  },
+  "82b3c0b01c507d3dd56ef429d5a30cea": {
+    "time": "2026/09/30 10:20:46",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市湖內區中山路",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T10:21:31.320314"
       }
     ]
   }
