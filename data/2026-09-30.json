@@ -6447,11 +6447,29 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區保生路",
     "units": "湖內分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T14:00:31.695571"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T14:02:31.551582"
+      }
+    ]
+  },
+  "cd87f215881239d5b040ef3bba52cb06": {
+    "time": "2026/09/30 14:02:02",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T14:02:31.551582"
       }
     ]
   }
