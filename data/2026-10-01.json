@@ -1501,7 +1501,7 @@
     "sub_category": "急病",
     "location": "高雄市永安區",
     "units": "永安分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1514,6 +1514,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T06:54:31.551599"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T07:07:31.664654"
       }
     ]
   },
@@ -1678,6 +1682,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T07:06:31.753974"
+      }
+    ]
+  },
+  "850bae95bf42579255ed87aef23957cc": {
+    "time": "2026/10/01 07:06:41",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區凱旋一路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T07:07:31.664654"
+      }
+    ]
+  },
+  "d3da4cb42808e23a934b0f6582929e7d": {
+    "time": "2026/10/01 07:05:59",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T07:07:31.664654"
       }
     ]
   }
