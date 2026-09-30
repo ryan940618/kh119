@@ -7727,7 +7727,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區鼎義街",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7740,6 +7740,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T16:17:31.428472"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-09-30T16:23:31.950908"
       }
     ]
   },
@@ -7786,6 +7790,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T16:22:31.702772"
+      }
+    ]
+  },
+  "88771c9ab287dd4d5981495c13c7db8a": {
+    "time": "2026/09/30 16:22:32",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市新興區民族二路",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T16:23:31.950908"
+      }
+    ]
+  },
+  "669ac8ec839a5bfebb6c69b8eacf36e3": {
+    "time": "2026/09/30 16:21:34",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區中山南路",
+    "units": "岡山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T16:23:31.950908"
       }
     ]
   }
