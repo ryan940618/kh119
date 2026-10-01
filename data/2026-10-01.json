@@ -3895,7 +3895,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3908,6 +3908,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T09:50:32.115756"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T09:58:31.827982"
       }
     ]
   },
@@ -4165,11 +4169,15 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-01T09:53:31.913796"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T09:58:31.827982"
       }
     ]
   },
@@ -4197,11 +4205,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T09:56:31.849176"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T09:58:31.827982"
       }
     ]
   },
@@ -4229,11 +4241,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T09:57:32.455316"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T09:58:31.827982"
       }
     ]
   }
