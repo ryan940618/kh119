@@ -13251,7 +13251,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -13268,6 +13268,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T23:36:31.884085"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T23:40:32.049069"
       }
     ]
   },
@@ -13321,7 +13325,7 @@
     "sub_category": "其他",
     "location": "高雄市前鎮區后平路",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -13330,6 +13334,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T23:32:31.863304"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T23:40:32.049069"
       }
     ]
   },
@@ -13339,11 +13347,15 @@
     "sub_category": "路倒",
     "location": "高雄市苓雅區三多二路",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T23:39:32.026067"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T23:40:32.049069"
       }
     ]
   }
