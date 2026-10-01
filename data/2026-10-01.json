@@ -2903,7 +2903,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區光復路",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -2916,6 +2916,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T08:34:31.368029"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T08:39:31.525728"
       }
     ]
   },
@@ -3087,7 +3091,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3100,6 +3104,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T08:34:31.368029"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T08:39:31.525728"
       }
     ]
   },
@@ -3176,6 +3184,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T08:35:31.994657"
+      }
+    ]
+  },
+  "8779a0d78a02cd02581f6d33fbead137": {
+    "time": "2026/10/01 08:38:34",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T08:39:31.525728"
+      }
+    ]
+  },
+  "84c29e8a2b79a99365c1a5476ae7fa40": {
+    "time": "2026/10/01 08:38:33",
+    "category": "緊急救護",
+    "sub_category": "藥物、食物中毒",
+    "location": "高雄市三民區大連街",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T08:39:31.525728"
       }
     ]
   }
