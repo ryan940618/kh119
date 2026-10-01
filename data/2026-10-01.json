@@ -9755,7 +9755,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區三多一路",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9768,6 +9768,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T17:27:31.549709"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T17:38:31.912711"
       }
     ]
   },
@@ -9799,7 +9803,7 @@
     "sub_category": "藥物、食物中毒",
     "location": "高雄市左營區曾子路",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9816,6 +9820,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T17:30:31.711883"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T17:38:31.912711"
       }
     ]
   },
@@ -9986,6 +9994,48 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T17:37:31.644155"
+      }
+    ]
+  },
+  "0b2dea9ce3d66025d0f86f2918a67300": {
+    "time": "2026/10/01 17:37:49",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前金區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T17:38:31.912711"
+      }
+    ]
+  },
+  "497fbea7255d35068527d5d4a25179a2": {
+    "time": "2026/10/01 17:37:50",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區友情路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T17:38:31.912711"
+      }
+    ]
+  },
+  "10e5bce86df8244a85b05de166843236": {
+    "time": "2026/10/01 17:37:40",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市路竹區中山路",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T17:38:31.912711"
       }
     ]
   }
