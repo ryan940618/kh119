@@ -935,7 +935,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -948,6 +948,24 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T03:42:31.373043"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T03:50:31.096195"
+      }
+    ]
+  },
+  "8f026d291804528d15aa15c3f9123c6b": {
+    "time": "2026/10/02 03:49:20",
+    "category": "緊急救護",
+    "sub_category": "燒燙傷",
+    "location": "高雄市大樹區統嶺路",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T03:50:31.096195"
       }
     ]
   }
