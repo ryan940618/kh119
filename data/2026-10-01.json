@@ -7269,7 +7269,7 @@
     "sub_category": "急病",
     "location": "高雄市那瑪夏區",
     "units": "那瑪夏分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7282,6 +7282,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T13:43:31.212085"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T15:01:31.468021"
       }
     ]
   },
@@ -8027,11 +8031,15 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T15:00:31.654113"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T15:01:31.468021"
       }
     ]
   }
