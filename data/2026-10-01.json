@@ -3981,7 +3981,7 @@
     "sub_category": "急病",
     "location": "高雄市甲仙區",
     "units": "甲仙分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3994,6 +3994,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T09:49:31.787358"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T10:06:32.017651"
       }
     ]
   },
@@ -4003,7 +4007,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4020,6 +4024,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T10:03:32.124364"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T10:06:32.017651"
       }
     ]
   },
@@ -4065,7 +4073,7 @@
     "sub_category": "創傷",
     "location": "高雄市仁武區新祥街",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -4078,6 +4086,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T09:56:31.849176"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T10:06:32.017651"
       }
     ]
   },
@@ -4303,7 +4315,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區南衙路",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4312,6 +4324,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T10:02:31.889937"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T10:06:32.017651"
       }
     ]
   },
@@ -4358,6 +4374,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T10:03:32.124364"
+      }
+    ]
+  },
+  "f39650fc04adad55f5e47c5ae8f41b3f": {
+    "time": "2026/10/01 10:06:19",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區中山南路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T10:06:32.017651"
       }
     ]
   }
