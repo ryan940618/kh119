@@ -10965,7 +10965,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10982,6 +10982,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T19:06:31.449953"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T19:11:31.407839"
       }
     ]
   },
@@ -11021,7 +11025,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11034,6 +11038,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T18:56:31.511903"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T19:11:31.407839"
       }
     ]
   },
@@ -11314,6 +11322,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T19:10:31.411354"
+      }
+    ]
+  },
+  "5393220d2aadbe49987465fddb257d9c": {
+    "time": "2026/10/01 19:11:11",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區瑞興路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T19:11:31.407839"
       }
     ]
   }
