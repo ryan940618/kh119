@@ -7829,7 +7829,7 @@
     "sub_category": "受困",
     "location": "高雄市新興區南台路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7838,6 +7838,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T14:37:31.468530"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T14:44:31.711270"
       }
     ]
   },
@@ -7869,11 +7873,29 @@
     "sub_category": "車禍",
     "location": "高雄市鹽埕區五福四路",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T14:40:31.503392"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T14:44:31.711270"
+      }
+    ]
+  },
+  "3b2f6c7ffcaed9a81dac723cc8748d92": {
+    "time": "2026/10/01 14:43:08",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "前金分隊,成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T14:44:31.711270"
       }
     ]
   }
