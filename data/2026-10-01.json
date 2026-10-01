@@ -11393,7 +11393,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區瑞祥街",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11410,6 +11410,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T19:23:31.182491"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T19:31:31.220690"
       }
     ]
   },
@@ -11656,6 +11660,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T19:30:31.403650"
+      }
+    ]
+  },
+  "402f4825fecb7ca25dba2182f6562308": {
+    "time": "2026/10/01 19:30:36",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區加昌路",
+    "units": "後勁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T19:31:31.220690"
       }
     ]
   }
