@@ -7339,7 +7339,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7356,6 +7356,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T13:51:31.323205"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T14:00:31.409418"
       }
     ]
   },
@@ -7391,7 +7395,7 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區樂群路",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7404,6 +7408,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T13:50:31.190510"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T14:00:31.409418"
       }
     ]
   },
@@ -7457,7 +7465,7 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區井腳路",
     "units": "大樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7466,6 +7474,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T13:54:31.599531"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T14:00:31.409418"
       }
     ]
   },
