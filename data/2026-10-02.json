@@ -5,7 +5,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -22,6 +22,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T00:17:31.932148"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T00:25:31.033511"
       }
     ]
   },
@@ -128,6 +132,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T00:23:30.930831"
+      }
+    ]
+  },
+  "1af5d8f8033428f2d9fef0fd2dfdd873": {
+    "time": "2026/10/02 00:24:36",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區建工路",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T00:25:31.033511"
       }
     ]
   }
