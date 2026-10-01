@@ -10445,7 +10445,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中四路",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10458,6 +10458,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T18:20:31.902247"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T18:25:31.960375"
       }
     ]
   },
@@ -10567,11 +10571,15 @@
     "sub_category": "車禍",
     "location": "高雄市新興區民族二路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-01T18:21:32.165102"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T18:25:31.960375"
       }
     ]
   },
@@ -10599,11 +10607,15 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區中華一路",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T18:24:31.977679"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T18:25:31.960375"
       }
     ]
   }
