@@ -5125,7 +5125,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區體育路與立志街",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5142,6 +5142,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T11:23:31.652857"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T11:29:31.234043"
       }
     ]
   },
@@ -5337,11 +5341,15 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區三多二路",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T11:28:31.393286"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T11:29:31.234043"
       }
     ]
   },
@@ -5351,11 +5359,15 @@
     "sub_category": "路倒",
     "location": "高雄市楠梓區樂群路",
     "units": "右昌分隊,後勁分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T11:28:31.393286"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T11:29:31.234043"
       }
     ]
   },
@@ -5370,6 +5382,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T11:28:31.393286"
+      }
+    ]
+  },
+  "e2ef84a9a2d3c7616a1585ff5eb891ed": {
+    "time": "2026/10/01 11:25:34",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "屏東縣高樹鄉高美大橋旁工地",
+    "units": "美濃分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T11:29:31.234043"
       }
     ]
   }
