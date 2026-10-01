@@ -1709,7 +1709,7 @@
     "sub_category": "其他",
     "location": "高雄市苓雅區",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1718,6 +1718,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T07:07:31.690358"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T07:12:31.749903"
       }
     ]
   },
@@ -1776,6 +1780,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T07:10:31.696260"
+      }
+    ]
+  },
+  "058210e6d766e055beb2c04dd523f6f0": {
+    "time": "2026/10/02 07:10:43",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T07:12:31.749903"
       }
     ]
   }
