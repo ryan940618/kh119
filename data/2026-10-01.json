@@ -7871,7 +7871,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營小隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7884,6 +7884,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T14:42:31.660157"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T15:02:31.616624"
       }
     ]
   },
@@ -7949,11 +7953,15 @@
     "sub_category": "其他",
     "location": "高雄市湖內區民族街",
     "units": "湖內分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T14:47:31.584234"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T15:02:31.616624"
       }
     ]
   },
@@ -7985,11 +7993,15 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區苓雅一路和仁智街",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-01T14:53:31.889299"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T15:02:31.616624"
       }
     ]
   },
@@ -8040,6 +8052,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T15:01:31.468021"
+      }
+    ]
+  },
+  "c48b83b0fdeb27a48bac276167b12246": {
+    "time": "2026/10/01 15:00:08",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "左營分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T15:02:31.616624"
       }
     ]
   }
