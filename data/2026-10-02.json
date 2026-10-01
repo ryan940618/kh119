@@ -1239,7 +1239,7 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區國慶二街",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1252,6 +1252,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T06:13:31.092806"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T06:30:31.382068"
       }
     ]
   },
@@ -1367,7 +1371,7 @@
     "sub_category": "急病",
     "location": "高雄市橋頭區",
     "units": "橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1376,6 +1380,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T06:28:31.187573"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T06:30:31.382068"
       }
     ]
   },
@@ -1404,6 +1412,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T06:29:31.222663"
+      }
+    ]
+  },
+  "0f84984b7e456c506ecdf37dcce4b292": {
+    "time": "2026/10/02 06:30:04",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市橋頭區甲樹路",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T06:30:31.382068"
+      }
+    ]
+  },
+  "cfb5f4140d78e288955226e8e464a3f8": {
+    "time": "2026/10/02 06:28:54",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T06:30:31.382068"
       }
     ]
   }
