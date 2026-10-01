@@ -4831,7 +4831,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4848,6 +4848,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T11:04:31.202411"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T11:08:31.368174"
       }
     ]
   },
@@ -4975,7 +4979,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4988,6 +4992,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T10:59:31.478926"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T11:08:31.368174"
       }
     ]
   },
@@ -5069,7 +5077,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區體育路與立志街",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5078,6 +5086,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T11:03:31.371841"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T11:08:31.368174"
       }
     ]
   },
@@ -5087,11 +5099,15 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T11:07:31.161666"
+      },
+      {
+        "status": "",
+        "timestamp": "2026-10-01T11:08:31.368174"
       }
     ]
   }
