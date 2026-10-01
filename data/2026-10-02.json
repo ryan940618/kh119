@@ -1569,7 +1569,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中華五路",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1586,6 +1586,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T07:06:31.557140"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T07:09:31.740603"
       }
     ]
   },
@@ -1733,11 +1737,29 @@
     "sub_category": "車禍",
     "location": "高雄市阿蓮區中正路",
     "units": "阿蓮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T07:07:31.690358"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T07:09:31.740603"
+      }
+    ]
+  },
+  "dde7119ce14342a67e67851fa8201da3": {
+    "time": "2026/10/02 07:08:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T07:09:31.740603"
       }
     ]
   }
