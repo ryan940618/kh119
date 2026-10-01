@@ -5571,7 +5571,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區豐漁三路",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5588,6 +5588,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T11:52:31.472985"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T12:02:31.570760"
       }
     ]
   },
@@ -5689,7 +5693,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5702,6 +5706,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T11:59:31.611925"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T12:02:31.570760"
       }
     ]
   },
@@ -5831,7 +5839,7 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區民壽街",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5840,6 +5848,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T11:59:31.611925"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T12:02:31.570760"
       }
     ]
   },
@@ -5858,6 +5870,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T12:01:31.593590"
+      }
+    ]
+  },
+  "cbc637d0f09a4586195bfcf637bc6579": {
+    "time": "2026/10/01 12:00:53",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T12:02:31.570760"
       }
     ]
   }
