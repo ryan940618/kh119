@@ -6249,11 +6249,15 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T12:28:34.088921"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T12:31:31.932270"
       }
     ]
   },
@@ -6295,11 +6299,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T12:30:32.087880"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T12:31:31.932270"
+      }
+    ]
+  },
+  "abb039efb2b3bb0ad7c1234cedf1750a": {
+    "time": "2026/10/01 12:29:53",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鼓山區裕誠路",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T12:31:31.932270"
       }
     ]
   }
