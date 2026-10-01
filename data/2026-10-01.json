@@ -8105,7 +8105,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -8118,6 +8118,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T15:08:31.658489"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T15:17:31.610647"
       }
     ]
   },
@@ -8190,6 +8194,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T15:16:31.511831"
+      }
+    ]
+  },
+  "56a4b64ec9f66a0a65b1ba6aa22f1b42": {
+    "time": "2026/10/01 15:16:50",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區喜峰街",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T15:17:31.610647"
       }
     ]
   }
