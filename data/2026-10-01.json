@@ -6275,7 +6275,7 @@
     "sub_category": "急病",
     "location": "高雄市內門區",
     "units": "內門分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6288,6 +6288,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T12:37:32.092487"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T12:51:31.950222"
       }
     ]
   },
@@ -6487,11 +6491,15 @@
     "sub_category": "其他",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-01T12:46:31.898436"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T12:51:31.950222"
       }
     ]
   },
