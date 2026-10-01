@@ -12323,7 +12323,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12340,6 +12340,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T21:01:31.852762"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T21:06:31.812341"
       }
     ]
   },
@@ -12517,11 +12521,15 @@
     "sub_category": "路倒",
     "location": "高雄市新興區南華一路",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T21:04:31.947217"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T21:06:31.812341"
       }
     ]
   }
