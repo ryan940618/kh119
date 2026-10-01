@@ -3843,7 +3843,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "永安分隊,路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3856,6 +3856,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T09:37:31.625727"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T09:48:31.863886"
       }
     ]
   },
@@ -3981,7 +3985,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3990,6 +3994,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T09:45:31.682717"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T09:48:31.863886"
       }
     ]
   },
@@ -4018,6 +4026,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T09:45:31.682717"
+      }
+    ]
+  },
+  "0f85515baa11b610b5b0b0cf2175744b": {
+    "time": "2026/10/01 09:47:41",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T09:48:31.863886"
+      }
+    ]
+  },
+  "0b8a5a26e418211b5886a8f2340da914": {
+    "time": "2026/10/01 09:47:37",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T09:48:31.863886"
+      }
+    ]
+  },
+  "cc3971d20f3370495c260e23c3d87364": {
+    "time": "2026/10/01 09:47:25",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市六龜區",
+    "units": "六龜分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T09:48:31.863886"
       }
     ]
   }
