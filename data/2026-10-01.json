@@ -5859,7 +5859,7 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區民壽街",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5876,6 +5876,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T12:13:31.601716"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T12:18:31.862519"
       }
     ]
   },
@@ -6051,11 +6055,15 @@
     "sub_category": "創傷",
     "location": "高雄市橋頭區三仙路",
     "units": "橋頭分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T12:17:31.877043"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T12:18:31.862519"
       }
     ]
   },
@@ -6070,6 +6078,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T12:17:31.877043"
+      }
+    ]
+  },
+  "ca05a315ab0374f84db131fa0f379b41": {
+    "time": "2026/10/01 12:17:27",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區五甲一路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T12:18:31.862519"
+      }
+    ]
+  },
+  "910fddb29bd75a570e24fc4f71fdda89": {
+    "time": "2026/10/01 12:17:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T12:18:31.862519"
       }
     ]
   }
