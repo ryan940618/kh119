@@ -6735,7 +6735,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6752,6 +6752,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T13:06:32.204110"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T13:23:32.346005"
       }
     ]
   },
@@ -6817,7 +6821,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6834,6 +6838,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T13:19:32.235986"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T13:23:32.346005"
       }
     ]
   },
@@ -6949,11 +6957,15 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區大學西路",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-01T13:16:31.993245"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T13:23:32.346005"
       }
     ]
   },
@@ -7022,6 +7034,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T13:22:32.313647"
+      }
+    ]
+  },
+  "eabfc57748e86be440b5dd0c93de102b": {
+    "time": "2026/10/01 13:22:22",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T13:23:32.346005"
       }
     ]
   }
