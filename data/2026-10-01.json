@@ -9451,7 +9451,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9460,6 +9460,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T17:08:32.050980"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T17:15:32.393920"
       }
     ]
   },
@@ -9554,6 +9558,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T17:14:31.654629"
+      }
+    ]
+  },
+  "8794880153b25b64c2cb8a062bf003da": {
+    "time": "2026/10/01 17:13:28",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "後勁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T17:15:32.393920"
       }
     ]
   }
