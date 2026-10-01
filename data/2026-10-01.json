@@ -5503,7 +5503,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5516,6 +5516,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T11:43:31.508958"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T11:53:31.652255"
       }
     ]
   },
@@ -5591,7 +5595,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區河東路",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5600,6 +5604,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T11:44:31.501606"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T11:53:31.652255"
       }
     ]
   },
@@ -5685,11 +5693,43 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T11:52:31.472985"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T11:53:31.652255"
+      }
+    ]
+  },
+  "af225970e3a4405884c9d207cdaa9984": {
+    "time": "2026/10/01 11:52:18",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T11:53:31.652255"
+      }
+    ]
+  },
+  "58995add90998b4116b50ed34156a33a": {
+    "time": "2026/10/01 11:52:03",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T11:53:31.652255"
       }
     ]
   }
