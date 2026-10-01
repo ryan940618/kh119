@@ -8587,7 +8587,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區瑞隆東路",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8600,6 +8600,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T16:19:30.985843"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T16:26:31.331992"
       }
     ]
   },
@@ -8699,11 +8703,15 @@
     "sub_category": "車禍",
     "location": "高雄市六龜區",
     "units": "茂林分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T16:25:31.266597"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T16:26:31.331992"
       }
     ]
   },
@@ -8718,6 +8726,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T16:25:31.266597"
+      }
+    ]
+  },
+  "f7c7b4688a3b7a66f8a8c4c896e58e86": {
+    "time": "2026/10/01 16:25:56",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市楠梓區",
+    "units": "",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T16:26:31.331992"
       }
     ]
   }
