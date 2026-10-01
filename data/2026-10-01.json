@@ -2625,7 +2625,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2634,6 +2634,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T08:03:31.582365"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T08:13:31.119210"
       }
     ]
   },
@@ -2669,7 +2673,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區華山街",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2678,6 +2682,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T08:07:31.437701"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T08:13:31.119210"
       }
     ]
   },
@@ -2714,6 +2722,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T08:12:31.605609"
+      }
+    ]
+  },
+  "f018ac408829276dd1a5ea1b2feee346": {
+    "time": "2026/10/01 08:12:23",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市仁武區正安街",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T08:13:31.119210"
       }
     ]
   }
