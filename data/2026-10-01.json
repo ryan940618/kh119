@@ -3069,7 +3069,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區九如二路",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3086,6 +3086,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T08:37:31.316766"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T08:42:31.381857"
       }
     ]
   },
@@ -3223,11 +3227,15 @@
     "sub_category": "藥物、食物中毒",
     "location": "高雄市三民區大連街",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T08:39:31.525728"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T08:42:31.381857"
       }
     ]
   }
