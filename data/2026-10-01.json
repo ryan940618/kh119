@@ -12015,7 +12015,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12032,6 +12032,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T20:21:31.676946"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T20:28:31.377738"
       }
     ]
   },
@@ -12117,11 +12121,15 @@
     "sub_category": "創傷",
     "location": "高雄市三民區義華路",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T20:27:31.476761"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T20:28:31.377738"
       }
     ]
   }
