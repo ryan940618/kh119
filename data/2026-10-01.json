@@ -2695,7 +2695,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區武慶二路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2704,6 +2704,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T08:08:31.501424"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T08:14:31.307015"
       }
     ]
   },
@@ -2731,11 +2735,29 @@
     "sub_category": "創傷",
     "location": "高雄市仁武區正安街",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T08:13:31.119210"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T08:14:31.307015"
+      }
+    ]
+  },
+  "4a6a97f58f0bde9c2ff2a30468ee8a19": {
+    "time": "2026/10/01 08:14:09",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市杉林區司馬路",
+    "units": "杉林分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T08:14:31.307015"
       }
     ]
   }
