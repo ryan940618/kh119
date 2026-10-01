@@ -12197,7 +12197,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12214,6 +12214,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T20:45:31.636146"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T20:52:31.636204"
       }
     ]
   },
@@ -12237,7 +12241,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12250,6 +12254,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T20:45:31.636146"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T20:52:31.636204"
       }
     ]
   },
@@ -12259,7 +12267,7 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區福德三路",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -12268,6 +12276,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T20:47:31.575589"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T20:52:31.636204"
       }
     ]
   },
@@ -12321,7 +12333,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12330,6 +12342,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T20:47:31.575589"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T20:52:31.636204"
       }
     ]
   },
@@ -12362,6 +12378,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T20:50:31.647136"
+      }
+    ]
+  },
+  "b8b2ce685cbf7f46580d182d267ade1d": {
+    "time": "2026/10/01 20:51:15",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T20:52:31.636204"
       }
     ]
   }
