@@ -6963,7 +6963,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6976,6 +6976,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T13:22:32.313647"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T13:43:31.212085"
       }
     ]
   },
@@ -7221,7 +7225,7 @@
     "sub_category": "急病",
     "location": "高雄市那瑪夏區",
     "units": "那瑪夏分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7230,6 +7234,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T13:31:31.040031"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T13:43:31.212085"
       }
     ]
   },
@@ -7280,6 +7288,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T13:41:31.304424"
+      }
+    ]
+  },
+  "bacf2990b9fa92469b37667f62a4cd58": {
+    "time": "2026/10/01 13:42:51",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區管仲路和民裕街",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T13:43:31.212085"
       }
     ]
   }
