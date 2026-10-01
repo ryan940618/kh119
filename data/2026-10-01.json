@@ -10967,7 +10967,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區新庄仔路",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10980,6 +10980,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T18:52:31.380329"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T18:59:31.472571"
       }
     ]
   },
@@ -11128,6 +11132,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T18:58:31.116232"
+      }
+    ]
+  },
+  "cdc161e16edda43059b35a1531ac64c1": {
+    "time": "2026/10/01 18:57:58",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T18:59:31.472571"
       }
     ]
   }
