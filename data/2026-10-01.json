@@ -4251,7 +4251,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區中崙路",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4268,6 +4268,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T10:19:32.267192"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T10:31:32.188982"
       }
     ]
   },
@@ -4644,6 +4648,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T10:28:32.338674"
+      }
+    ]
+  },
+  "12faa4ac31a5c17d385db55b78fe760e": {
+    "time": "2026/10/01 10:30:30",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "前金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T10:31:32.188982"
+      }
+    ]
+  },
+  "c62f1e0c642cd7e265020167d9dd908c": {
+    "time": "2026/10/01 10:30:27",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T10:31:32.188982"
       }
     ]
   }
