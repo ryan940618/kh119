@@ -4041,7 +4041,7 @@
     "sub_category": "創傷",
     "location": "高雄市仁武區新祥街",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -4050,6 +4050,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T09:52:32.213734"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T09:56:31.849176"
       }
     ]
   },
@@ -4180,6 +4184,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T09:55:32.077355"
+      }
+    ]
+  },
+  "38d20fe6c996791900f745226e87b655": {
+    "time": "2026/10/01 09:55:36",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T09:56:31.849176"
+      }
+    ]
+  },
+  "ceca1573e867e34d216a6a5b5c117cdd": {
+    "time": "2026/10/01 09:55:31",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T09:56:31.849176"
       }
     ]
   }
