@@ -9917,7 +9917,7 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9926,6 +9926,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T17:32:31.765996"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T17:39:32.149551"
       }
     ]
   },
@@ -9989,11 +9993,15 @@
     "sub_category": "路倒",
     "location": "高雄市前金區允文街",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T17:37:31.644155"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T17:39:32.149551"
       }
     ]
   },
@@ -10031,11 +10039,29 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區中山路",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T17:38:31.912711"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T17:39:32.149551"
+      }
+    ]
+  },
+  "2a8689686c3d8202327ae143bf6084d9": {
+    "time": "2026/10/01 17:38:27",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區德山街",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T17:39:32.149551"
       }
     ]
   }
