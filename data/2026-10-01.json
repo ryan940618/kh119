@@ -9439,7 +9439,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "高桂分隊",
-    "current_status": "已出動",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9456,6 +9456,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T17:22:31.709436"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T17:41:31.882824"
       }
     ]
   },
@@ -9899,7 +9903,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9908,6 +9912,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T17:34:31.718115"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T17:41:31.882824"
       }
     ]
   },
@@ -9961,7 +9969,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9970,6 +9978,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T17:37:31.644155"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T17:41:31.882824"
       }
     ]
   },
@@ -10015,11 +10027,15 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T17:38:31.912711"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T17:41:31.882824"
       }
     ]
   },
@@ -10047,7 +10063,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區中山路",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10056,6 +10072,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T17:39:32.149551"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T17:41:31.882824"
       }
     ]
   },
@@ -10070,6 +10090,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T17:39:32.149551"
+      }
+    ]
+  },
+  "5fb34e5fbe5f6db5a268ef06b09137ee": {
+    "time": "2026/10/01 17:40:30",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T17:41:31.882824"
       }
     ]
   }
