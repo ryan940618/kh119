@@ -1863,7 +1863,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1876,6 +1876,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T07:49:32.213530"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T07:52:32.604060"
       }
     ]
   },
@@ -2079,7 +2083,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2096,6 +2100,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T07:45:31.988183"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T07:52:32.604060"
       }
     ]
   },
@@ -2353,7 +2361,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2366,6 +2374,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T07:46:31.897352"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T07:52:32.604060"
       }
     ]
   },
@@ -2425,7 +2437,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區濱山街",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2434,6 +2446,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T07:48:32.190112"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T07:52:32.604060"
       }
     ]
   },
@@ -2443,7 +2459,7 @@
     "sub_category": "創傷",
     "location": "高雄市前金區民生二路",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2452,6 +2468,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T07:49:32.213530"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T07:52:32.604060"
       }
     ]
   },
@@ -2479,11 +2499,15 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區岡山北路",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T07:49:32.213530"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T07:52:32.604060"
       }
     ]
   },
@@ -2493,11 +2517,15 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "永安分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T07:50:32.126492"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T07:52:32.604060"
       }
     ]
   },
@@ -2507,11 +2535,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區中山東路",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T07:51:32.034190"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T07:52:32.604060"
       }
     ]
   }
