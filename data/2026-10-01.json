@@ -9201,7 +9201,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9218,6 +9218,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T17:00:31.600278"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T17:10:31.658240"
       }
     ]
   },
@@ -9449,11 +9453,15 @@
     "sub_category": "車禍",
     "location": "高雄市小港區明聖街",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T17:08:32.050980"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T17:10:31.658240"
       }
     ]
   },
@@ -9495,11 +9503,15 @@
     "sub_category": "一般(集合)住宅",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T17:09:31.609955"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T17:10:31.658240"
       }
     ]
   },
@@ -9509,11 +9521,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區中山東路",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T17:09:31.609955"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T17:10:31.658240"
       }
     ]
   }
