@@ -6033,11 +6033,43 @@
     "sub_category": "急病",
     "location": "高雄市桃源區",
     "units": "桃源分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-01T12:16:31.824769"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T12:17:31.877043"
+      }
+    ]
+  },
+  "3a75a04e5c524ec8035d329a9e9f0784": {
+    "time": "2026/10/01 12:16:01",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市橋頭區三仙路",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T12:17:31.877043"
+      }
+    ]
+  },
+  "2a1998247efe34b7474d79e7ab45fe60": {
+    "time": "2026/10/01 12:15:50",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市杉林區清水路",
+    "units": "杉林分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T12:17:31.877043"
       }
     ]
   }
