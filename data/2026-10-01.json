@@ -10879,7 +10879,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區民族一路",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10892,6 +10892,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T18:45:32.186405"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T18:56:31.511903"
       }
     ]
   },
@@ -10985,7 +10989,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10994,6 +10998,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T18:50:31.130758"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T18:56:31.511903"
       }
     ]
   },
@@ -11066,6 +11074,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T18:53:31.167026"
+      }
+    ]
+  },
+  "72aabc26a993632c6e279817585aad5d": {
+    "time": "2026/10/01 18:55:35",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區凱旋四路",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T18:56:31.511903"
       }
     ]
   }
