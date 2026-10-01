@@ -6511,7 +6511,7 @@
     "sub_category": "其他",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -6520,6 +6520,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T12:51:31.950222"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T13:02:32.120575"
       }
     ]
   },
@@ -6631,7 +6635,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6640,6 +6644,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T12:57:31.892773"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T13:02:32.120575"
       }
     ]
   },
@@ -6649,7 +6657,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區九如一路",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6658,6 +6666,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T12:59:32.115599"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T13:02:32.120575"
       }
     ]
   },
@@ -6676,6 +6688,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T12:59:32.115599"
+      }
+    ]
+  },
+  "7a231cad43e5c10ef6b9c437086f323c": {
+    "time": "2026/10/01 13:01:29",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T13:02:32.120575"
       }
     ]
   }
