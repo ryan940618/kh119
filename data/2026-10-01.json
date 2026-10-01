@@ -3901,7 +3901,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3910,6 +3910,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T09:42:31.700125"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T09:45:31.682717"
       }
     ]
   },
@@ -3973,11 +3977,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T09:44:31.765310"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T09:45:31.682717"
       }
     ]
   },
@@ -3992,6 +4000,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T09:44:31.765310"
+      }
+    ]
+  },
+  "c25ddeed87f44fe945c99926b6b5a848": {
+    "time": "2026/10/01 09:44:00",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市仁武區新祥街",
+    "units": "仁武分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T09:45:31.682717"
       }
     ]
   }
