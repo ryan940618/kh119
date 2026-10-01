@@ -3347,11 +3347,15 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T08:52:31.399554"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T08:53:31.625600"
       }
     ]
   },
@@ -3361,11 +3365,29 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區成功路",
     "units": "橋頭分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T08:52:31.399554"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T08:53:31.625600"
+      }
+    ]
+  },
+  "0dd7567cb4143f856e39113e7d76e627": {
+    "time": "2026/10/01 08:52:38",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市六龜區",
+    "units": "六龜分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T08:53:31.625600"
       }
     ]
   }
