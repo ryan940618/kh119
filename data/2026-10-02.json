@@ -1825,7 +1825,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1842,6 +1842,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T07:22:31.711882"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T07:30:31.780944"
       }
     ]
   },
@@ -2078,6 +2082,48 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T07:29:31.780792"
+      }
+    ]
+  },
+  "e280ab0128dd0af3d5058d9c16f33561": {
+    "time": "2026/10/02 07:29:48",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區大學十六街",
+    "units": "橋頭分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T07:30:31.780944"
+      }
+    ]
+  },
+  "9c6efd871b6676386d11c39037adc92a": {
+    "time": "2026/10/02 07:28:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市茄萣區中正路",
+    "units": "茄萣分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T07:30:31.780944"
+      }
+    ]
+  },
+  "93b50d63f5d5782d5bbc4a26be7c39be": {
+    "time": "2026/10/02 07:28:10",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓加工區西七街",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T07:30:31.780944"
       }
     ]
   }
