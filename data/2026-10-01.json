@@ -5625,7 +5625,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "崇德駐地",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5638,6 +5638,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T11:52:31.472985"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T11:59:31.611925"
       }
     ]
   },
@@ -5673,7 +5677,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5682,6 +5686,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T11:51:31.557533"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T11:59:31.611925"
       }
     ]
   },
@@ -5795,11 +5803,29 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區民壽街",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T11:56:31.578855"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T11:59:31.611925"
+      }
+    ]
+  },
+  "405c52f8c5c59d16be3cbba130ff4a79": {
+    "time": "2026/10/01 11:58:47",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市橋頭區",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T11:59:31.611925"
       }
     ]
   }
