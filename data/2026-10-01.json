@@ -11869,7 +11869,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11882,6 +11882,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T20:02:31.680018"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T20:15:31.473956"
       }
     ]
   },
@@ -11973,7 +11977,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11982,6 +11986,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T20:08:31.637001"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T20:15:31.473956"
       }
     ]
   },
@@ -12018,6 +12026,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T20:12:31.645431"
+      }
+    ]
+  },
+  "271fcddce8d07bd192a2135432ac2ff2": {
+    "time": "2026/10/01 20:14:44",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市阿蓮區峰山路",
+    "units": "阿蓮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T20:15:31.473956"
       }
     ]
   }
