@@ -4917,7 +4917,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區站西路和鐵道三街",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4930,6 +4930,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T11:01:31.446163"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T11:16:32.136426"
       }
     ]
   },
@@ -5021,7 +5025,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "阿蓮分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -5030,6 +5034,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T11:05:31.098004"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T11:16:32.136426"
       }
     ]
   },
@@ -5140,6 +5148,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T11:09:31.196382"
+      }
+    ]
+  },
+  "d1cf3d2b37f394479a1de748c67056e9": {
+    "time": "2026/10/01 11:15:02",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "鼎金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T11:16:32.136426"
       }
     ]
   }
