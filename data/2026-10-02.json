@@ -1781,7 +1781,7 @@
     "sub_category": "車禍",
     "location": "高雄市阿蓮區中正路",
     "units": "阿蓮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1798,6 +1798,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T07:18:31.843560"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T07:31:31.884390"
       }
     ]
   },
@@ -2105,11 +2109,15 @@
     "sub_category": "車禍",
     "location": "高雄市茄萣區中正路",
     "units": "茄萣分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T07:30:31.780944"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T07:31:31.884390"
       }
     ]
   },
@@ -2119,11 +2127,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓加工區西七街",
     "units": "左營小隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T07:30:31.780944"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T07:31:31.884390"
       }
     ]
   }
