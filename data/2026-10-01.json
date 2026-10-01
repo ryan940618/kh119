@@ -12437,7 +12437,7 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區和平一路",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -12450,6 +12450,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T21:04:31.947217"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T21:10:31.852211"
       }
     ]
   },
@@ -12459,7 +12463,7 @@
     "sub_category": "車禍",
     "location": "高雄市旗津區旗津二路",
     "units": "旗津分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12476,6 +12480,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T21:07:32.275526"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T21:10:31.852211"
       }
     ]
   },
@@ -12507,7 +12515,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12516,6 +12524,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T21:04:31.947217"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T21:10:31.852211"
       }
     ]
   },
@@ -12543,11 +12555,15 @@
     "sub_category": "車禍",
     "location": "高雄市左營區富民路和安吉街",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T21:08:32.281761"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T21:10:31.852211"
       }
     ]
   }
