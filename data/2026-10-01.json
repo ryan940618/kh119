@@ -4121,7 +4121,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4138,6 +4138,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T10:11:31.866730"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T10:13:32.115563"
       }
     ]
   },
@@ -4147,7 +4151,7 @@
     "sub_category": "其他",
     "location": "高雄市六龜區",
     "units": "六龜分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4156,6 +4160,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T09:49:31.787358"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T10:13:32.115563"
       }
     ]
   },
@@ -4450,6 +4458,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T10:11:31.866730"
+      }
+    ]
+  },
+  "3fc9c91e16d73f42154e74d77b6c1783": {
+    "time": "2026/10/01 10:12:12",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T10:13:32.115563"
       }
     ]
   }
