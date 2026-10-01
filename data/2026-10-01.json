@@ -11491,7 +11491,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區鼎中路",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11504,6 +11504,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T19:21:31.430040"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T19:26:31.236535"
       }
     ]
   },
@@ -11589,11 +11593,29 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區竹圍西街",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T19:24:31.384451"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T19:26:31.236535"
+      }
+    ]
+  },
+  "e8007b437f0a281818f8a23ded34cdee": {
+    "time": "2026/10/01 19:25:28",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區旗楠路",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T19:26:31.236535"
       }
     ]
   }
