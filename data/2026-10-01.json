@@ -6533,7 +6533,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區萬丹路",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6550,6 +6550,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T12:59:32.115599"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T13:06:32.204110"
       }
     ]
   },
@@ -6695,7 +6699,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6708,6 +6712,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T13:03:31.918852"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T13:06:32.204110"
       }
     ]
   },
@@ -6735,11 +6743,15 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T13:05:32.257600"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T13:06:32.204110"
       }
     ]
   },
@@ -6749,11 +6761,15 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T13:05:32.257600"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T13:06:32.204110"
       }
     ]
   }
