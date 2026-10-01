@@ -6377,7 +6377,7 @@
     "sub_category": "路倒",
     "location": "高雄市鼓山區裕誠路",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6390,6 +6390,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T12:37:32.092487"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T12:47:32.196355"
       }
     ]
   },
@@ -6484,6 +6488,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T12:46:31.898436"
+      }
+    ]
+  },
+  "e451d162eaddcd065dcc931fd8c612c0": {
+    "time": "2026/10/01 12:45:50",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區萬丹路",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T12:47:32.196355"
       }
     ]
   }
