@@ -5865,7 +5865,7 @@
     "sub_category": "其他",
     "location": "高雄市橋頭區",
     "units": "橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5874,6 +5874,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T12:01:31.593590"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T12:07:31.676747"
       }
     ]
   },
@@ -5938,6 +5942,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T12:05:31.495230"
+      }
+    ]
+  },
+  "023c90b303ece0623b481679c6dcdf07": {
+    "time": "2026/10/01 12:06:22",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市新興區六合一路",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T12:07:31.676747"
       }
     ]
   }
