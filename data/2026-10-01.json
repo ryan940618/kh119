@@ -8557,7 +8557,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區澄清路",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8570,6 +8570,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T16:20:31.007270"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T16:24:31.024934"
       }
     ]
   },
@@ -8664,6 +8668,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T16:21:31.206350"
+      }
+    ]
+  },
+  "985717d1b5d4b1095ed0ab86d6b044a5": {
+    "time": "2026/10/01 16:23:36",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區育英街",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T16:24:31.024934"
       }
     ]
   }
