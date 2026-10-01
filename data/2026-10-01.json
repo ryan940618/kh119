@@ -10877,7 +10877,7 @@
     "sub_category": "急病",
     "location": "高雄市桃源區",
     "units": "桃源分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10886,6 +10886,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T18:44:32.461557"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T18:49:31.298398"
       }
     ]
   },
@@ -10960,6 +10964,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T18:48:31.009979"
+      }
+    ]
+  },
+  "4b785ae1f991a13de8c3e4a6037b8ca1": {
+    "time": "2026/10/01 18:48:23",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區瑞隆路",
+    "units": "瑞隆分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T18:49:31.298398"
       }
     ]
   }
