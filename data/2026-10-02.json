@@ -53,7 +53,7 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -62,6 +62,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T00:16:31.931593"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T00:22:30.825722"
       }
     ]
   },
@@ -102,6 +106,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T00:20:31.890993"
+      }
+    ]
+  },
+  "24d02c944a56bb35f4ebc8af9b0a99d8": {
+    "time": "2026/10/02 00:21:02",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區大豐二路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T00:22:30.825722"
       }
     ]
   }
