@@ -5487,7 +5487,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5496,6 +5496,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T11:38:31.430158"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T11:43:31.508958"
       }
     ]
   },
@@ -5550,6 +5554,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T11:42:31.593899"
+      }
+    ]
+  },
+  "150cae7ad2173649ed25d02328f1253c": {
+    "time": "2026/10/01 11:41:17",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區河東路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T11:43:31.508958"
       }
     ]
   }
