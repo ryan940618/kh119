@@ -2851,11 +2851,15 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區光復路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-01T08:16:31.520344"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T08:25:31.485793"
       }
     ]
   },
@@ -2883,7 +2887,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區自立一路和三德西街",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2892,6 +2896,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T08:19:31.335987"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T08:25:31.485793"
       }
     ]
   },
@@ -2933,11 +2941,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區瑞誠街",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-01T08:21:31.625942"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T08:25:31.485793"
       }
     ]
   },
@@ -2952,6 +2964,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T08:22:31.651331"
+      }
+    ]
+  },
+  "ba93d54a466c96db46fb835698cf3766": {
+    "time": "2026/10/01 08:24:27",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區九如二路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T08:25:31.485793"
       }
     ]
   }
