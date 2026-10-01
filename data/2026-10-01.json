@@ -5783,7 +5783,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5792,6 +5792,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T12:00:31.437336"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T12:28:34.088921"
       }
     ]
   },
@@ -5935,7 +5939,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5948,6 +5952,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T12:10:31.699252"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T12:28:34.088921"
       }
     ]
   },
@@ -6206,6 +6214,62 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T12:27:31.956725"
+      }
+    ]
+  },
+  "cf094edf6c30db3eb70e3ceb31b078cf": {
+    "time": "2026/10/01 12:28:13",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市內門區",
+    "units": "內門分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T12:28:34.088921"
+      }
+    ]
+  },
+  "9ba607a808f377ab2923357fd9ff2f9a": {
+    "time": "2026/10/01 12:27:40",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T12:28:34.088921"
+      }
+    ]
+  },
+  "d03aa039b4e6ed77bed287dd7fa6dac8": {
+    "time": "2026/10/01 12:27:07",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市三民區臥龍路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T12:28:34.088921"
+      }
+    ]
+  },
+  "8f87adf91bb325076096f8c2226bbf2c": {
+    "time": "2026/10/01 12:26:44",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市三民區臥龍路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T12:28:34.088921"
       }
     ]
   }
