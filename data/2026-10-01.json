@@ -11731,7 +11731,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區鎮南街",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -11744,6 +11744,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T19:55:31.477269"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T20:07:31.612092"
       }
     ]
   },
@@ -11883,7 +11887,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區嘉華路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11900,6 +11904,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T19:59:35.711238"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T20:07:31.612092"
       }
     ]
   },
@@ -11909,7 +11917,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區忠言路",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11922,6 +11930,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T19:58:32.309650"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T20:07:31.612092"
       }
     ]
   },
@@ -11936,6 +11948,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T20:03:31.758790"
+      }
+    ]
+  },
+  "349ab884f8ca2b3a1b7d5ca44a37537c": {
+    "time": "2026/10/01 20:06:50",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T20:07:31.612092"
       }
     ]
   }
