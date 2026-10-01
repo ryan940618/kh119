@@ -11171,7 +11171,7 @@
     "sub_category": "創傷",
     "location": "高雄市美濃區八德街",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11180,6 +11180,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T19:00:31.097275"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T19:08:31.672021"
       }
     ]
   },
@@ -11189,7 +11193,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -11198,6 +11202,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T19:04:31.214904"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T19:08:31.672021"
       }
     ]
   },
@@ -11225,11 +11233,15 @@
     "sub_category": "其他",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-01T19:03:31.091556"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T19:08:31.672021"
       }
     ]
   },
@@ -11248,6 +11260,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T19:06:31.449953"
+      }
+    ]
+  },
+  "96ffbfbf2b073ff9254673e7c29c0d49": {
+    "time": "2026/10/01 19:07:33",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T19:08:31.672021"
+      }
+    ]
+  },
+  "33039163934239af717ae1d255c5b6e3": {
+    "time": "2026/10/01 19:06:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T19:08:31.672021"
       }
     ]
   }
