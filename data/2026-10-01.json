@@ -12805,11 +12805,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區鼎中路",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T21:59:31.220366"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T22:01:31.110876"
       }
     ]
   },
@@ -12828,6 +12832,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T22:00:31.313028"
+      }
+    ]
+  },
+  "39bbbb97632d18333a4620c346049b87": {
+    "time": "2026/10/01 22:00:30",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T22:01:31.110876"
       }
     ]
   }
