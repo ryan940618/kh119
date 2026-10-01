@@ -9219,7 +9219,7 @@
     "sub_category": "車禍",
     "location": "高雄市前金區成功一路",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9232,6 +9232,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T16:55:31.378912"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T17:06:31.490029"
       }
     ]
   },
@@ -9299,7 +9303,7 @@
     "sub_category": "車禍",
     "location": "高雄市林園區大義路",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9308,6 +9312,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T16:59:31.604881"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T17:06:31.490029"
       }
     ]
   },
@@ -9339,11 +9347,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區瑞隆路",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-01T17:02:31.466801"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T17:06:31.490029"
       }
     ]
   },
@@ -9367,11 +9379,29 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T17:05:31.513643"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T17:06:31.490029"
+      }
+    ]
+  },
+  "88fce67efea910609898f3f61d953d89": {
+    "time": "2026/10/01 17:05:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T17:06:31.490029"
       }
     ]
   }
