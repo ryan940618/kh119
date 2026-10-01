@@ -1569,7 +1569,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中華五路",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1582,6 +1582,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T06:54:31.711875"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T07:06:31.557140"
       }
     ]
   },
@@ -1694,6 +1698,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T07:02:31.465605"
+      }
+    ]
+  },
+  "21c1e9258b41013c5e7369787a9cf0fd": {
+    "time": "2026/10/02 07:04:27",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市岡山區筧橋路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T07:06:31.557140"
       }
     ]
   }
