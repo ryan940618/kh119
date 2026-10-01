@@ -1761,7 +1761,7 @@
     "sub_category": "車禍",
     "location": "高雄市阿蓮區中正路",
     "units": "阿蓮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1774,6 +1774,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T07:10:31.696260"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T07:18:31.843560"
       }
     ]
   },
@@ -1801,7 +1805,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1810,6 +1814,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T07:13:31.599350"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T07:18:31.843560"
       }
     ]
   },
@@ -1837,11 +1845,15 @@
     "sub_category": "車禍",
     "location": "高雄市左營區自由二路和新吉街",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T07:16:31.605848"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T07:18:31.843560"
       }
     ]
   },
@@ -1851,11 +1863,29 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T07:17:31.806387"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T07:18:31.843560"
+      }
+    ]
+  },
+  "2e626330fe3d702d3bdf0abb80958c2a": {
+    "time": "2026/10/02 07:18:02",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區民權二路",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T07:18:31.843560"
       }
     ]
   }
