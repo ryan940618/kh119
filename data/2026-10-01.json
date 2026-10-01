@@ -2749,7 +2749,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2762,6 +2762,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T08:15:31.434486"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T08:30:31.603081"
       }
     ]
   },
@@ -3059,11 +3063,15 @@
     "sub_category": "車禍",
     "location": "高雄市大社區大新路",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T08:27:31.393488"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T08:30:31.603081"
       }
     ]
   }
