@@ -3873,7 +3873,7 @@
     "sub_category": "創傷",
     "location": "高雄市茄萣區濱海路",
     "units": "茄萣分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -3886,6 +3886,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T09:39:31.697017"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T10:00:31.979253"
       }
     ]
   },
@@ -3943,7 +3947,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區鳳仁路",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3956,6 +3960,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T09:51:31.666160"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T10:00:31.979253"
       }
     ]
   },
@@ -4191,7 +4199,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區中崙路",
     "units": "鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4200,6 +4208,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T09:57:32.455316"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T10:00:31.979253"
       }
     ]
   },
@@ -4227,7 +4239,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4236,6 +4248,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T09:57:32.455316"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T10:00:31.979253"
       }
     ]
   },
@@ -4254,6 +4270,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T09:58:31.827982"
+      }
+    ]
+  },
+  "ea72a956ff4aa3f53878cc23dd728d9d": {
+    "time": "2026/10/01 09:59:31",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區南衙路",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T10:00:31.979253"
       }
     ]
   }
