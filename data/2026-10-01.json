@@ -2327,7 +2327,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區褒揚街",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2340,6 +2340,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T07:49:32.040964"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T08:04:31.243552"
       }
     ]
   },
@@ -2571,7 +2575,7 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已受理",
@@ -2580,6 +2584,10 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T08:02:31.895608"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T08:04:31.243552"
       }
     ]
   },
@@ -2607,11 +2615,15 @@
     "sub_category": "車禍",
     "location": "高雄市小港區沿海二路和永光街",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T08:03:31.582365"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T08:04:31.243552"
       }
     ]
   }
