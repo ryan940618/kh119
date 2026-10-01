@@ -4405,7 +4405,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區瑞北路和瑞恩街",
     "units": "五甲分隊,成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4418,6 +4418,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T10:10:32.055033"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T10:16:32.108739"
       }
     ]
   },
@@ -4494,6 +4498,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T10:15:32.095244"
+      }
+    ]
+  },
+  "fd8aa3078fe2731896c1eb960b1c8c89": {
+    "time": "2026/10/01 10:15:08",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市岡山區",
+    "units": "",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T10:16:32.108739"
       }
     ]
   }
