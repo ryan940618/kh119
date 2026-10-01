@@ -3219,7 +3219,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中山三路和民瑞街",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3232,6 +3232,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T08:51:31.359295"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T08:55:31.636788"
       }
     ]
   },
@@ -3241,7 +3245,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3254,6 +3258,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T08:45:31.324792"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T08:55:31.636788"
       }
     ]
   },
@@ -3406,6 +3414,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T08:54:31.629536"
+      }
+    ]
+  },
+  "d4f6b5e755c4bc06cf792204c7378b33": {
+    "time": "2026/10/01 08:53:56",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T08:55:31.636788"
       }
     ]
   }
