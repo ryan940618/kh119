@@ -10947,7 +10947,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -10960,6 +10960,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T19:04:31.214904"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T19:15:31.158212"
       }
     ]
   },
@@ -11077,7 +11081,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區瑞隆路",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -11086,6 +11090,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T18:54:31.282754"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T19:15:31.158212"
       }
     ]
   },
@@ -11121,7 +11129,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -11130,6 +11138,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T19:07:31.257802"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T19:15:31.158212"
       }
     ]
   },
@@ -11374,6 +11386,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T19:13:31.297757"
+      }
+    ]
+  },
+  "718f1ab658d763e2b67cf64ddad5823a": {
+    "time": "2026/10/01 19:14:30",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T19:15:31.158212"
       }
     ]
   }
