@@ -2917,7 +2917,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "新莊分隊,鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已派遣",
     "status_history": [
       {
         "status": "已派遣",
@@ -2926,6 +2926,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T08:23:31.637471"
+      },
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T08:27:31.393488"
       }
     ]
   },
@@ -2999,11 +3003,15 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T08:26:31.494006"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T08:27:31.393488"
       }
     ]
   },
@@ -3013,11 +3021,29 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區大樹路",
     "units": "大樹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T08:26:31.494006"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T08:27:31.393488"
+      }
+    ]
+  },
+  "41c3982737f137025c9f11b86eef21a5": {
+    "time": "2026/10/01 08:26:22",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大社區大新路",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T08:27:31.393488"
       }
     ]
   }
