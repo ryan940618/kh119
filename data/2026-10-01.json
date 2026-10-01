@@ -5693,7 +5693,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5710,6 +5710,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T12:02:31.570760"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T12:08:31.540298"
       }
     ]
   },
@@ -5905,7 +5909,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區文聖街",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5914,6 +5918,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T12:05:31.495230"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T12:08:31.540298"
       }
     ]
   },
