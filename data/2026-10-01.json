@@ -11473,7 +11473,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11482,6 +11482,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T19:19:31.274858"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T19:27:31.458866"
       }
     ]
   },
@@ -11557,7 +11561,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11566,6 +11570,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T19:24:31.384451"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T19:27:31.458866"
       }
     ]
   },
@@ -11611,11 +11619,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區旗楠路",
     "units": "楠梓分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T19:26:31.236535"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T19:27:31.458866"
       }
     ]
   }
