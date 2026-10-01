@@ -7215,7 +7215,7 @@
     "sub_category": "創傷",
     "location": "高雄市美濃區信義街",
     "units": "美濃分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7228,6 +7228,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T13:38:31.711887"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T13:45:31.182410"
       }
     ]
   },
@@ -7259,7 +7263,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7268,6 +7272,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T13:39:31.516704"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T13:45:31.182410"
       }
     ]
   },
@@ -7277,7 +7285,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7286,6 +7294,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T13:41:31.304424"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T13:45:31.182410"
       }
     ]
   },
@@ -7313,11 +7325,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區管仲路和民裕街",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T13:43:31.212085"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T13:45:31.182410"
       }
     ]
   }
