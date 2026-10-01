@@ -9655,7 +9655,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -9668,6 +9668,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T17:44:31.888326"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T17:48:32.107549"
       }
     ]
   },
@@ -9985,7 +9989,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9998,6 +10002,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T17:41:31.882824"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T17:48:32.107549"
       }
     ]
   },
@@ -10185,11 +10193,15 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區新富路",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T17:46:31.870995"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T17:48:32.107549"
       }
     ]
   },
@@ -10204,6 +10216,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T17:47:31.891472"
+      }
+    ]
+  },
+  "88e63d886c673f1bb1719244bccbaa19": {
+    "time": "2026/10/01 17:46:32",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市梓官區嘉好路",
+    "units": "梓官分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T17:48:32.107549"
       }
     ]
   }
