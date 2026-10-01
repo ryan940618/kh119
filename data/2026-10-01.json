@@ -2475,7 +2475,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區中華一路",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2488,6 +2488,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T07:53:32.195256"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T08:08:31.501424"
       }
     ]
   },
@@ -2631,7 +2635,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區沿海二路和永光街",
     "units": "高桂分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2640,6 +2644,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T08:04:31.243552"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T08:08:31.501424"
       }
     ]
   },
@@ -2667,11 +2675,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區武慶二路",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T08:07:31.437701"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T08:08:31.501424"
       }
     ]
   }
