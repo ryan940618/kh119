@@ -12085,7 +12085,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區五甲一路",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12098,6 +12098,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T20:25:31.489181"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T20:41:31.619733"
       }
     ]
   },
@@ -12125,7 +12129,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區義華路",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12138,6 +12142,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T20:33:31.488518"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T20:41:31.619733"
       }
     ]
   },
@@ -12205,11 +12213,29 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T20:40:31.566058"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T20:41:31.619733"
+      }
+    ]
+  },
+  "e0ad7a001a441da611422a4a64fd87dd": {
+    "time": "2026/10/01 20:39:34",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區福德三路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T20:41:31.619733"
       }
     ]
   }
