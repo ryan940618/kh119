@@ -1755,7 +1755,7 @@
     "sub_category": "創傷",
     "location": "高雄市岡山區筧橋路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1772,6 +1772,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T07:20:31.618763"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T07:35:31.932113"
       }
     ]
   },
@@ -1925,7 +1929,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區民權二路",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1938,6 +1942,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T07:26:31.737281"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T07:35:31.932113"
       }
     ]
   },
@@ -1991,7 +1999,7 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2004,6 +2012,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T07:27:31.723604"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T07:35:31.932113"
       }
     ]
   },
@@ -2121,7 +2133,7 @@
     "sub_category": "車禍",
     "location": "高雄市茄萣區中正路",
     "units": "茄萣分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2130,6 +2142,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T07:31:31.884390"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T07:35:31.932113"
       }
     ]
   },
@@ -2180,6 +2196,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T07:34:31.712692"
+      }
+    ]
+  },
+  "7d9015b71183373e3743f5b0bef3044d": {
+    "time": "2026/10/02 07:34:07",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區永豐路和崗山南街",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T07:35:31.932113"
       }
     ]
   }
