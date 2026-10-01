@@ -5727,7 +5727,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5744,6 +5744,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T12:11:31.883549"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T12:20:32.022826"
       }
     ]
   },
@@ -6021,7 +6025,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6030,6 +6034,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T12:15:31.930614"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T12:20:32.022826"
       }
     ]
   },
@@ -6103,11 +6111,15 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區五甲一路",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T12:18:31.862519"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T12:20:32.022826"
       }
     ]
   },
