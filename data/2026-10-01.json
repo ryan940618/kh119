@@ -6195,7 +6195,7 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區中山路",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6204,6 +6204,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T12:23:32.030748"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T12:30:32.087880"
       }
     ]
   },
@@ -6282,6 +6286,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T12:29:32.022570"
+      }
+    ]
+  },
+  "aead50cd8052ef9a2b67a82925ed934b": {
+    "time": "2026/10/01 12:29:43",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T12:30:32.087880"
       }
     ]
   }
