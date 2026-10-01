@@ -1115,7 +1115,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區佛西街",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1132,6 +1132,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T05:19:31.760032"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T05:28:31.994379"
       }
     ]
   },
@@ -1163,11 +1167,15 @@
     "sub_category": "急病",
     "location": "高雄市六龜區",
     "units": "茂林分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T05:26:31.712963"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T05:28:31.994379"
       }
     ]
   }
