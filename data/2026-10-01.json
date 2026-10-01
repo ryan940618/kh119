@@ -10355,7 +10355,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10372,6 +10372,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T18:08:31.935414"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T18:15:31.846520"
       }
     ]
   },
@@ -10429,11 +10433,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中四路",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T18:13:31.923904"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T18:15:31.846520"
       }
     ]
   },
@@ -10457,11 +10465,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區中山一路",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T18:14:32.052839"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T18:15:31.846520"
       }
     ]
   },
@@ -10476,6 +10488,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T18:14:32.052839"
+      }
+    ]
+  },
+  "84983eba93b7f567c772c7ab20795ce8": {
+    "time": "2026/10/01 18:11:25",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "屏東縣萬丹鄉台88線12公里[台88](193849,2498991)",
+    "units": "和發分隊,大寮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T18:15:31.846520"
       }
     ]
   }
