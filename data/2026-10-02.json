@@ -1543,7 +1543,7 @@
     "sub_category": "路倒",
     "location": "高雄市阿蓮區玄中路",
     "units": "阿蓮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1560,6 +1560,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T07:01:31.603200"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T07:16:31.605848"
       }
     ]
   },
@@ -1824,6 +1828,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T07:15:31.919251"
+      }
+    ]
+  },
+  "8e769ef97634f48a55ef6a3786fd5b64": {
+    "time": "2026/10/02 07:15:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區自由二路和新吉街",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T07:16:31.605848"
       }
     ]
   }
