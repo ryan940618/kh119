@@ -9133,7 +9133,7 @@
     "sub_category": "路倒",
     "location": "高雄市苓雅區新光路",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9146,6 +9146,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T16:50:31.282940"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T17:02:31.466801"
       }
     ]
   },
@@ -9155,7 +9159,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -9164,6 +9168,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T16:50:31.282940"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T17:02:31.466801"
       }
     ]
   },
@@ -9221,7 +9229,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區圓山路",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9230,6 +9238,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T16:55:31.378912"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T17:02:31.466801"
       }
     ]
   },
@@ -9253,11 +9265,15 @@
     "sub_category": "急病",
     "location": "高雄市橋頭區",
     "units": "橋頭分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T16:58:31.428907"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T17:02:31.466801"
       }
     ]
   },
@@ -9290,6 +9306,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T17:00:31.600278"
+      }
+    ]
+  },
+  "710f238ab5191926a84eb0519de8733f": {
+    "time": "2026/10/01 17:01:29",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區瑞隆路",
+    "units": "瑞隆分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T17:02:31.466801"
       }
     ]
   }
