@@ -10535,7 +10535,7 @@
     "sub_category": "車禍",
     "location": "台88線約12公里往屏東(193849,2498991)",
     "units": "和發分隊,大寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -10544,6 +10544,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T18:20:31.902247"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T18:27:31.996977"
       }
     ]
   },
@@ -10625,11 +10629,29 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T18:26:32.226123"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T18:27:31.996977"
+      }
+    ]
+  },
+  "b6da6d50a7fa29b8d331e7fd06a082d0": {
+    "time": "2026/10/01 18:26:38",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區向榮街",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T18:27:31.996977"
       }
     ]
   }
