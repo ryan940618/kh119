@@ -7881,7 +7881,7 @@
     "sub_category": "車禍",
     "location": "高雄市鹽埕區五福四路",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7894,6 +7894,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T14:47:31.584234"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T14:52:31.605617"
       }
     ]
   },
@@ -7926,6 +7930,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T14:47:31.584234"
+      }
+    ]
+  },
+  "b44010170043ef9e16cbf7839dd02fa4": {
+    "time": "2026/10/01 14:51:08",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T14:52:31.605617"
       }
     ]
   }
