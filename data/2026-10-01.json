@@ -11081,7 +11081,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區瑞隆路",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -11094,6 +11094,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T19:15:31.158212"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T19:16:31.692011"
       }
     ]
   },
@@ -11199,7 +11203,7 @@
     "sub_category": "創傷",
     "location": "高雄市美濃區八德街",
     "units": "美濃分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11212,6 +11216,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T19:08:31.672021"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T19:16:31.692011"
       }
     ]
   },
@@ -11221,7 +11229,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -11234,6 +11242,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T19:08:31.672021"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T19:16:31.692011"
       }
     ]
   },
@@ -11287,7 +11299,7 @@
     "sub_category": "其他",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11296,6 +11308,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T19:06:31.449953"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T19:16:31.692011"
       }
     ]
   },
@@ -11395,11 +11411,29 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T19:15:31.158212"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T19:16:31.692011"
+      }
+    ]
+  },
+  "febf810ebd278f620faaf7233163c880": {
+    "time": "2026/10/01 19:15:16",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T19:16:31.692011"
       }
     ]
   }
