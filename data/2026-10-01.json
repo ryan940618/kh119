@@ -3949,7 +3949,7 @@
     "sub_category": "急病",
     "location": "高雄市甲仙區",
     "units": "甲仙分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3958,6 +3958,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T09:42:31.700125"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T09:49:31.787358"
       }
     ]
   },
@@ -4063,11 +4067,29 @@
     "sub_category": "其他",
     "location": "高雄市六龜區",
     "units": "六龜分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T09:48:31.863886"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T09:49:31.787358"
+      }
+    ]
+  },
+  "4cf81adb12a885e330dbeb27042e0f29": {
+    "time": "2026/10/01 09:48:55",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T09:49:31.787358"
       }
     ]
   }
