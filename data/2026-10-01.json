@@ -3351,7 +3351,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區中正一路",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3372,6 +3372,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T09:04:31.468013"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T09:06:31.530995"
       }
     ]
   },
@@ -3547,11 +3551,15 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T09:05:31.617643"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T09:06:31.530995"
       }
     ]
   },
