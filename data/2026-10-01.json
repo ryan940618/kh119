@@ -6263,7 +6263,7 @@
     "sub_category": "急病",
     "location": "高雄市內門區",
     "units": "內門分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6272,6 +6272,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T12:29:32.022570"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T12:37:32.092487"
       }
     ]
   },
@@ -6357,7 +6361,7 @@
     "sub_category": "路倒",
     "location": "高雄市鼓山區裕誠路",
     "units": "左營分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6366,6 +6370,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T12:32:31.885003"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T12:37:32.092487"
       }
     ]
   },
@@ -6406,6 +6414,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T12:34:31.785595"
+      }
+    ]
+  },
+  "a6535551e2fcf70644540fcf61ccbb28": {
+    "time": "2026/10/01 12:37:09",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區瑞大街",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T12:37:32.092487"
       }
     ]
   }
