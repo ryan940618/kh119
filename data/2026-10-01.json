@@ -4251,7 +4251,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區中崙路",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4264,6 +4264,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T10:00:31.979253"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T10:19:32.267192"
       }
     ]
   },
@@ -4537,11 +4541,15 @@
     "sub_category": "其他",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T10:18:32.432190"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T10:19:32.267192"
       }
     ]
   }
