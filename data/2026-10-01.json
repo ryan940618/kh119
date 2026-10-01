@@ -7451,7 +7451,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "大林分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7464,6 +7464,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T13:59:31.788788"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T14:07:31.351287"
       }
     ]
   },
@@ -7575,11 +7579,29 @@
     "sub_category": "急病",
     "location": "高雄市永安區",
     "units": "永安分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-01T14:05:31.416461"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T14:07:31.351287"
+      }
+    ]
+  },
+  "84d18309f6590888f48235ebfde1dc96": {
+    "time": "2026/10/01 14:06:59",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T14:07:31.351287"
       }
     ]
   }
