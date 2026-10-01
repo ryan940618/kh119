@@ -10617,7 +10617,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10630,6 +10630,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T18:30:31.999093"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T18:41:32.062897"
       }
     ]
   },
@@ -10661,7 +10665,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10674,6 +10678,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T18:33:32.057633"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T18:41:32.062897"
       }
     ]
   },
@@ -10705,7 +10713,7 @@
     "sub_category": "其他",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10714,6 +10722,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T18:34:32.139791"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T18:41:32.062897"
       }
     ]
   },
@@ -10792,6 +10804,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T18:40:32.087316"
+      }
+    ]
+  },
+  "d2fd1fe2940788e9747d1476c17543a9": {
+    "time": "2026/10/01 18:39:39",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區新莊一路",
+    "units": "左營小隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T18:41:32.062897"
       }
     ]
   }
