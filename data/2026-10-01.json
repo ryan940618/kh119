@@ -7673,7 +7673,7 @@
     "sub_category": "創傷",
     "location": "高雄市路竹區延平路",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7686,6 +7686,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T14:14:31.503571"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-01T14:33:31.448998"
       }
     ]
   },
@@ -7764,6 +7768,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T14:29:31.503707"
+      }
+    ]
+  },
+  "a0d72153311321eb69c597e5c4e62ead": {
+    "time": "2026/10/01 14:32:40",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T14:33:31.448998"
+      }
+    ]
+  },
+  "d78009c8d80876e5e36df2e5a944a270": {
+    "time": "2026/10/01 14:32:08",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市前鎮區凱旋四路",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T14:33:31.448998"
       }
     ]
   }
