@@ -7205,7 +7205,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -7218,6 +7218,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-01T13:44:31.248420"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-01T13:55:31.470098"
       }
     ]
   },
@@ -7473,11 +7477,29 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "旗山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T13:54:31.599531"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T13:55:31.470098"
+      }
+    ]
+  },
+  "51b0706e112be067d28039dd7003f691": {
+    "time": "2026/10/01 13:54:56",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市仁武區慈惠三街",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T13:55:31.470098"
       }
     ]
   }
