@@ -3713,7 +3713,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3726,6 +3726,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T09:12:31.464419"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T09:16:31.435456"
       }
     ]
   },
@@ -3784,6 +3788,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T09:15:31.470396"
+      }
+    ]
+  },
+  "6a638e62751c6999ca2d5ff67d1195e0": {
+    "time": "2026/10/02 09:15:34",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區鳳東路",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T09:16:31.435456"
+      }
+    ]
+  },
+  "cb302d56ec83b649db7ff674c24958d2": {
+    "time": "2026/10/02 09:15:09",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市燕巢區鳳東路",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T09:16:31.435456"
       }
     ]
   }
