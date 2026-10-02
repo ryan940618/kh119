@@ -9421,7 +9421,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區油管路",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9434,6 +9434,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T17:18:31.417576"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T17:26:32.291168"
       }
     ]
   },
@@ -9531,7 +9535,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9540,6 +9544,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T17:21:31.560681"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T17:26:32.291168"
       }
     ]
   },
@@ -9567,11 +9575,15 @@
     "sub_category": "創傷",
     "location": "高雄市左營區自由四路",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T17:24:31.720207"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T17:26:32.291168"
       }
     ]
   },
@@ -9581,11 +9593,29 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T17:25:31.606193"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T17:26:32.291168"
+      }
+    ]
+  },
+  "b5f0df1674bcc167ac887b37ec14bab9": {
+    "time": "2026/10/02 17:25:43",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市湖內區中山路",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T17:26:32.291168"
       }
     ]
   }
