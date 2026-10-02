@@ -9545,7 +9545,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -9554,6 +9554,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T17:27:31.448929"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T17:35:31.668132"
       }
     ]
   },
@@ -9749,11 +9753,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區民權二路",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T17:33:31.911006"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T17:35:31.668132"
       }
     ]
   },
