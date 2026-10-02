@@ -9753,7 +9753,7 @@
     "sub_category": "車禍",
     "location": "高雄市前金區光復二街",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9766,6 +9766,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T17:36:31.770576"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T17:46:31.646697"
       }
     ]
   },
@@ -9837,7 +9841,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9846,6 +9850,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T17:37:31.681131"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T17:46:31.646697"
       }
     ]
   },
@@ -9899,11 +9907,15 @@
     "sub_category": "路倒",
     "location": "高雄市苓雅區福德一路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-02T17:39:31.487039"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T17:46:31.646697"
       }
     ]
   },
