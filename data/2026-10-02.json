@@ -5249,7 +5249,7 @@
     "sub_category": "車禍",
     "location": "高雄市林園區前厝路",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -5262,6 +5262,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T11:08:33.388567"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T11:13:30.998457"
       }
     ]
   },
@@ -5351,11 +5355,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區復興一路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T11:12:32.743108"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T11:13:30.998457"
       }
     ]
   }
