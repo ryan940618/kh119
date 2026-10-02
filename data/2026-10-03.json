@@ -135,7 +135,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -148,6 +148,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T00:44:32.008425"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T00:57:31.008500"
       }
     ]
   },
@@ -319,7 +323,7 @@
     "sub_category": "其他",
     "location": "高雄市鼓山區美術南三路",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "火已滅",
     "status_history": [
       {
         "status": "已派遣",
@@ -332,6 +336,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T00:54:30.931889"
+      },
+      {
+        "status": "火已滅",
+        "timestamp": "2026-10-03T00:57:31.008500"
       }
     ]
   },
@@ -341,11 +349,29 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-03T00:50:31.922753"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T00:57:31.008500"
+      }
+    ]
+  },
+  "bde06bb9d641f7a6be58fed1595ef583": {
+    "time": "2026/10/03 00:51:29",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市苓雅區",
+    "units": "",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T00:57:31.008500"
       }
     ]
   }
