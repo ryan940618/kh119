@@ -6141,7 +6141,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區黃厝路",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6150,6 +6150,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T12:03:31.635815"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T12:07:31.525782"
       }
     ]
   },
@@ -6178,6 +6182,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T12:05:33.352521"
+      }
+    ]
+  },
+  "5185c076dd21aac35558c7ddf435b124": {
+    "time": "2026/10/02 12:06:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T12:07:31.525782"
       }
     ]
   }
