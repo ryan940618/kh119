@@ -12341,7 +12341,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12354,6 +12354,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T21:38:31.992876"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T21:49:31.947786"
       }
     ]
   },
@@ -12452,6 +12456,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T21:48:31.916696"
+      }
+    ]
+  },
+  "e13a8e943815e956aebc2df250a1e5b3": {
+    "time": "2026/10/02 21:46:52",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市仁武區名湖街",
+    "units": "鼎金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T21:49:31.947786"
       }
     ]
   }
