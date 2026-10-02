@@ -5341,7 +5341,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5350,6 +5350,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T11:12:32.743108"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T11:15:31.337421"
       }
     ]
   },
@@ -5368,6 +5372,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T11:13:30.998457"
+      }
+    ]
+  },
+  "0f52069baeefbde1f238978d4ccdc7cf": {
+    "time": "2026/10/02 11:14:34",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市岡山區忠誠街",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T11:15:31.337421"
       }
     ]
   }
