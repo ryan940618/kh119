@@ -4645,7 +4645,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -4654,6 +4654,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T10:24:31.969493"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T10:38:32.196083"
       }
     ]
   },
@@ -4755,7 +4759,7 @@
     "sub_category": "路倒",
     "location": "高雄市左營區榮耀街",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4768,6 +4772,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T10:31:32.041729"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T10:38:32.196083"
       }
     ]
   },
@@ -4890,6 +4898,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T10:35:32.052156"
+      }
+    ]
+  },
+  "10fbbb6e497809e0746226dc16395994": {
+    "time": "2026/10/02 10:37:03",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市橋頭區",
+    "units": "",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T10:38:32.196083"
       }
     ]
   }
