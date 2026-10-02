@@ -2051,7 +2051,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2064,6 +2064,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T07:53:31.587761"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T07:55:31.508197"
       }
     ]
   },
@@ -2171,11 +2175,15 @@
     "sub_category": "車禍",
     "location": "高雄市林園區林內路",
     "units": "林園分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T07:54:31.729288"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T07:55:31.508197"
       }
     ]
   }
