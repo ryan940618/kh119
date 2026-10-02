@@ -8657,7 +8657,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區中林路",
     "units": "大林分隊,高桂分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8674,6 +8674,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T16:39:32.167860"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T16:52:31.256474"
       }
     ]
   },
@@ -8713,7 +8717,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8730,6 +8734,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T16:43:31.948812"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T16:52:31.256474"
       }
     ]
   },
@@ -8957,7 +8965,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8970,6 +8978,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T16:45:31.334402"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T16:52:31.256474"
       }
     ]
   },
@@ -9063,11 +9075,15 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區鳳林二路",
     "units": "和發分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T16:51:31.328302"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T16:52:31.256474"
       }
     ]
   }
