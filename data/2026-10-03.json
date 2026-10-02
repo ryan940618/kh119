@@ -1801,7 +1801,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1818,6 +1818,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T07:35:31.434207"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T07:40:31.455018"
       }
     ]
   },
@@ -1906,6 +1910,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T07:38:31.294391"
+      }
+    ]
+  },
+  "1dfa0acc25f2b54afe0c37d427ece62d": {
+    "time": "2026/10/03 07:39:57",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區明潭路",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T07:40:31.455018"
       }
     ]
   }
