@@ -3563,7 +3563,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊,橋頭分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3580,6 +3580,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T08:58:31.553468"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T09:06:31.406435"
       }
     ]
   },
@@ -3669,11 +3673,15 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T09:05:31.631074"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T09:06:31.406435"
       }
     ]
   }
