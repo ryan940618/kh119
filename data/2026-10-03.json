@@ -35,7 +35,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -52,6 +52,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T00:26:31.680170"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T00:38:31.880303"
       }
     ]
   },
@@ -177,11 +181,43 @@
     "sub_category": "其他",
     "location": "高雄市仁武區",
     "units": "仁武分隊,楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已派遣",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-03T00:37:31.900965"
+      },
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T00:38:31.880303"
+      }
+    ]
+  },
+  "915984b2343130047ce885e9e90fd666": {
+    "time": "2026/10/03 00:37:25",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T00:38:31.880303"
+      }
+    ]
+  },
+  "820b31dc89a34db5538e3c0da74e3bd1": {
+    "time": "2026/10/03 00:36:48",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市新興區南台路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T00:38:31.880303"
       }
     ]
   }
