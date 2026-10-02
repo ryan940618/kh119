@@ -5551,7 +5551,7 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5564,6 +5564,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T11:28:31.464595"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T11:33:31.339425"
       }
     ]
   },
@@ -5637,11 +5641,43 @@
     "sub_category": "創傷",
     "location": "高雄市左營區桃子園路",
     "units": "左營小隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T11:32:31.272069"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T11:33:31.339425"
+      }
+    ]
+  },
+  "941f88e4b1ffe9069c7bf9ba54724b76": {
+    "time": "2026/10/02 11:32:51",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區南進五街",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T11:33:31.339425"
+      }
+    ]
+  },
+  "3f9b90585df6d03b2f9549963873b759": {
+    "time": "2026/10/02 11:31:43",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區中山二路",
+    "units": "前金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T11:33:31.339425"
       }
     ]
   }
