@@ -6677,7 +6677,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6686,6 +6686,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T12:53:31.624156"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T13:02:31.851862"
       }
     ]
   },
@@ -6767,11 +6771,15 @@
     "sub_category": "路倒",
     "location": "高雄市前金區七賢二路和文武一街",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T13:00:31.837944"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T13:02:31.851862"
       }
     ]
   }
