@@ -4507,7 +4507,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區國光路",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4524,6 +4524,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T10:28:31.978849"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T10:31:32.041729"
       }
     ]
   },
@@ -4559,7 +4563,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區大學十一街",
     "units": "橋頭分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4576,6 +4580,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T10:24:31.969493"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T10:31:32.041729"
       }
     ]
   },
@@ -4669,7 +4677,7 @@
     "sub_category": "創傷",
     "location": "高雄市阿蓮區中正路",
     "units": "阿蓮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4682,6 +4690,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T10:29:31.903693"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T10:31:32.041729"
       }
     ]
   },
@@ -4731,7 +4743,7 @@
     "sub_category": "路倒",
     "location": "高雄市左營區榮耀街",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4740,6 +4752,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T10:29:31.903693"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T10:31:32.041729"
       }
     ]
   },
@@ -4768,6 +4784,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T10:30:31.722535"
+      }
+    ]
+  },
+  "77f3a68292f0a6ad6b1f7070d5bc7c16": {
+    "time": "2026/10/02 10:29:47",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大社區和平路",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T10:31:32.041729"
       }
     ]
   }
