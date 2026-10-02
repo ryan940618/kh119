@@ -8761,7 +8761,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8778,6 +8778,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T16:39:32.167860"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T16:45:31.334402"
       }
     ]
   },
@@ -8809,7 +8813,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區三民路",
     "units": "橋頭分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8822,6 +8826,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T16:41:32.185590"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T16:45:31.334402"
       }
     ]
   },
@@ -8831,7 +8839,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8844,6 +8852,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T16:35:32.390732"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T16:45:31.334402"
       }
     ]
   },
@@ -8933,7 +8945,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8942,6 +8954,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T16:43:31.948812"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T16:45:31.334402"
       }
     ]
   },
@@ -8978,6 +8994,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T16:43:31.948812"
+      }
+    ]
+  },
+  "a8e2db86dcd1947268482790455b1d82": {
+    "time": "2026/10/02 16:44:17",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區福德三路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T16:45:31.334402"
       }
     ]
   }
