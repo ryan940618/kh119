@@ -11887,7 +11887,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11904,6 +11904,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T20:50:31.582909"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T20:59:31.883367"
       }
     ]
   },
@@ -12109,11 +12113,15 @@
     "sub_category": "車禍",
     "location": "高雄市前金區瑞源路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-02T20:52:31.602302"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T20:59:31.883367"
       }
     ]
   },
@@ -12123,11 +12131,15 @@
     "sub_category": "創傷",
     "location": "高雄市梓官區港五街",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-02T20:53:31.694957"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T20:59:31.883367"
       }
     ]
   },
@@ -12137,11 +12149,15 @@
     "sub_category": "其他",
     "location": "高雄市小港區沿海三路",
     "units": "大林分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T20:58:31.627373"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T20:59:31.883367"
       }
     ]
   }
