@@ -3545,7 +3545,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區自由一路和熱河一街",
     "units": "十全分隊,大昌分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -3562,6 +3562,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T09:01:31.503106"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T09:09:31.689066"
       }
     ]
   },
@@ -3707,11 +3711,29 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T09:08:31.571229"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T09:09:31.689066"
+      }
+    ]
+  },
+  "fed24c5c2ab3b00bb2582473ff217837": {
+    "time": "2026/10/02 09:08:30",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T09:09:31.689066"
       }
     ]
   }
