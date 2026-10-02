@@ -3631,7 +3631,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區中山路",
     "units": "路竹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3648,6 +3648,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T09:03:31.613388"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T09:13:31.404417"
       }
     ]
   },
@@ -3750,6 +3754,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T09:10:31.378240"
+      }
+    ]
+  },
+  "1c7ab6d2acb3341ec8a4a3e4dd71a322": {
+    "time": "2026/10/02 09:12:29",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市鼓山區",
+    "units": "",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T09:13:31.404417"
       }
     ]
   }
