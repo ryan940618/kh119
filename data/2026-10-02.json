@@ -8739,7 +8739,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8752,6 +8752,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T16:36:32.218321"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T16:51:31.328302"
       }
     ]
   },
@@ -9037,7 +9041,7 @@
     "sub_category": "車禍",
     "location": "高雄市阿蓮區中正路",
     "units": "阿蓮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9046,6 +9050,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T16:48:31.167101"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T16:51:31.328302"
+      }
+    ]
+  },
+  "c92ed37bc15da11b72f83082ec32a4fe": {
+    "time": "2026/10/02 16:50:36",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區鳳林二路",
+    "units": "和發分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T16:51:31.328302"
       }
     ]
   }
