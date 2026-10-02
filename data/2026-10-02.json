@@ -9579,7 +9579,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9596,6 +9596,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T17:40:31.539202"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T17:45:31.763366"
       }
     ]
   },
@@ -9946,6 +9950,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T17:43:31.659503"
+      }
+    ]
+  },
+  "a42bab21465c923b762bf8c37c47b027": {
+    "time": "2026/10/02 17:44:29",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區大漢路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T17:45:31.763366"
       }
     ]
   }
