@@ -9127,7 +9127,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區鳳林二路",
     "units": "和發分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9140,6 +9140,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T17:01:31.333432"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T17:20:31.358187"
       }
     ]
   },
@@ -9471,11 +9475,15 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T17:17:31.469486"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T17:20:31.358187"
       }
     ]
   },
@@ -9490,6 +9498,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T17:19:31.269035"
+      }
+    ]
+  },
+  "4f85574fdcd9fea71bb29465d8735496": {
+    "time": "2026/10/02 17:20:12",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T17:20:31.358187"
       }
     ]
   }
