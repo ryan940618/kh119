@@ -87,7 +87,7 @@
     "sub_category": "其他",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -100,6 +100,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T00:33:31.891625"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T00:50:31.922753"
       }
     ]
   },
@@ -197,7 +201,7 @@
     "sub_category": "其他",
     "location": "高雄市仁武區",
     "units": "仁武分隊,楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "火已滅",
     "status_history": [
       {
         "status": "已出動",
@@ -214,6 +218,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T00:49:31.920111"
+      },
+      {
+        "status": "火已滅",
+        "timestamp": "2026-10-03T00:50:31.922753"
       }
     ]
   },
@@ -304,6 +312,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T00:49:31.920111"
+      }
+    ]
+  },
+  "cdee5ab073c7a3e65776dab38e21abbf": {
+    "time": "2026/10/03 00:49:24",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "仁武分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T00:50:31.922753"
       }
     ]
   }
