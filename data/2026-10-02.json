@@ -11493,7 +11493,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -11506,6 +11506,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T20:17:31.350967"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T20:33:31.699892"
       }
     ]
   },
@@ -11789,11 +11793,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區興楠路",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-02T20:27:31.403789"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T20:33:31.699892"
       }
     ]
   },
@@ -11803,11 +11811,29 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T20:32:31.495906"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T20:33:31.699892"
+      }
+    ]
+  },
+  "30bd1cbb6a2a5666be092c085d6951a2": {
+    "time": "2026/10/02 20:32:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳥松分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T20:33:31.699892"
       }
     ]
   }
