@@ -2659,7 +2659,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區承德街",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -2668,6 +2668,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T08:01:32.129934"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T08:12:32.075871"
       }
     ]
   },
@@ -2793,11 +2797,29 @@
     "sub_category": "車禍",
     "location": "高雄市三民區裕誠路",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T08:11:32.095238"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T08:12:32.075871"
+      }
+    ]
+  },
+  "8bce0023b53b061e3834f4be7a0ee7fd": {
+    "time": "2026/10/02 08:11:33",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T08:12:32.075871"
       }
     ]
   }
