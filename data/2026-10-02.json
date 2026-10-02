@@ -7619,11 +7619,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T14:38:31.904078"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T14:40:31.510920"
       }
     ]
   },
@@ -7656,6 +7660,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T14:39:31.621958"
+      }
+    ]
+  },
+  "cc9d8c0a1cc99ef95077c8777bb99661": {
+    "time": "2026/10/02 14:39:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區建國二路",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T14:40:31.510920"
       }
     ]
   }
