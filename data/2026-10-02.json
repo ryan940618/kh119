@@ -7785,7 +7785,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區博愛四路和重惠街",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7798,6 +7798,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T15:19:31.527953"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T15:26:31.564838"
       }
     ]
   },
@@ -7851,7 +7855,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7868,6 +7872,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T15:16:31.419896"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T15:26:31.564838"
       }
     ]
   },
@@ -7945,7 +7953,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區翠華路",
     "units": "左營小隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7954,6 +7962,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T15:10:31.486249"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T15:26:31.564838"
       }
     ]
   },
@@ -8007,7 +8019,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區旗楠路",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8020,6 +8032,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T15:17:32.099800"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T15:26:31.564838"
       }
     ]
   },
@@ -8057,7 +8073,7 @@
     "sub_category": "車禍",
     "location": "高雄市梓官區大舍西路",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8066,6 +8082,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T15:19:31.527953"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T15:26:31.564838"
       }
     ]
   },
@@ -8075,7 +8095,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區岡山北路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8084,6 +8104,38 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T15:19:31.527953"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T15:26:31.564838"
+      }
+    ]
+  },
+  "abe829ad38038ee7deb4899310007c05": {
+    "time": "2026/10/02 15:22:29",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區永年街",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T15:26:31.564838"
+      }
+    ]
+  },
+  "3095b779e2312ead864e6311a0e5113b": {
+    "time": "2026/10/02 15:20:54",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區四維二路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T15:26:31.564838"
       }
     ]
   }
