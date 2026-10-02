@@ -4529,7 +4529,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4542,6 +4542,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T10:19:31.866764"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T10:27:31.998049"
       }
     ]
   },
@@ -4671,11 +4675,15 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區國昌路",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T10:25:31.765729"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T10:27:31.998049"
       }
     ]
   }
