@@ -5415,7 +5415,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5424,6 +5424,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T11:17:31.164800"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T11:32:31.272069"
       }
     ]
   },
@@ -5459,7 +5463,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5472,6 +5476,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T11:26:31.379392"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T11:32:31.272069"
       }
     ]
   },
@@ -5597,11 +5605,43 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區和平路",
     "units": "湖內分隊,茄萣分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T11:31:31.326458"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T11:32:31.272069"
+      }
+    ]
+  },
+  "9931273e85545d19749b6b666f3c2a33": {
+    "time": "2026/10/02 11:31:43",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "前金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T11:32:31.272069"
+      }
+    ]
+  },
+  "40e220c55387bc6d1ef4eb6b6dbdb538": {
+    "time": "2026/10/02 11:31:34",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市左營區桃子園路",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T11:32:31.272069"
       }
     ]
   }
