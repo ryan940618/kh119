@@ -6331,7 +6331,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6348,6 +6348,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T12:27:31.645759"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T12:36:31.879496"
       }
     ]
   },
@@ -6541,7 +6545,7 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6550,6 +6554,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T12:30:31.708839"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T12:36:31.879496"
       }
     ]
   }
