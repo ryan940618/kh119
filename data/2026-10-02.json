@@ -9455,7 +9455,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9472,6 +9472,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T17:22:31.724180"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T17:31:31.796656"
       }
     ]
   },
@@ -9503,7 +9507,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9520,6 +9524,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T17:22:31.724180"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T17:31:31.796656"
       }
     ]
   },
@@ -9569,7 +9577,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9578,6 +9586,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T17:23:31.590034"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T17:31:31.796656"
       }
     ]
   },
@@ -9655,11 +9667,15 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T17:30:31.500154"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T17:31:31.796656"
       }
     ]
   },
@@ -9669,11 +9685,15 @@
     "sub_category": "車禍",
     "location": "高雄市前金區光復二街",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T17:30:31.500154"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T17:31:31.796656"
       }
     ]
   }
