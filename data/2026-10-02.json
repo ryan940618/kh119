@@ -9347,7 +9347,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9360,6 +9360,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T17:12:31.351792"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T17:28:31.482947"
       }
     ]
   },
@@ -9624,6 +9628,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T17:27:31.448929"
+      }
+    ]
+  },
+  "b994e74d72d4ca7000bcabfcd3934232": {
+    "time": "2026/10/02 17:27:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T17:28:31.482947"
       }
     ]
   }
