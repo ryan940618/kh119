@@ -2557,7 +2557,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "永安分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2566,6 +2566,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T07:52:32.604060"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T08:00:31.979674"
       }
     ]
   },
@@ -2647,11 +2651,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T07:59:31.978965"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T08:00:31.979674"
       }
     ]
   },
@@ -2666,6 +2674,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T07:59:31.978965"
+      }
+    ]
+  },
+  "a9c992d65433ae0d85ec99e04d8d62f4": {
+    "time": "2026/10/02 07:59:44",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區山隙路",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T08:00:31.979674"
       }
     ]
   }
