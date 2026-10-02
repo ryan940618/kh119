@@ -10089,7 +10089,7 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10102,6 +10102,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T17:56:31.770775"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T18:02:32.401328"
       }
     ]
   },
@@ -10173,7 +10177,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10182,6 +10186,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T17:52:31.780693"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T18:02:32.401328"
       }
     ]
   },
@@ -10272,6 +10280,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T18:00:32.055011"
+      }
+    ]
+  },
+  "bca55a2f8a6bfddeddf91f2efdf10ad6": {
+    "time": "2026/10/02 18:01:12",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T18:02:32.401328"
       }
     ]
   }
