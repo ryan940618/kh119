@@ -3063,7 +3063,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區光遠路",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3080,6 +3080,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T08:43:31.240774"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T08:45:31.216776"
       }
     ]
   },
@@ -3281,7 +3285,7 @@
     "sub_category": "創傷",
     "location": "高雄市小港區平和九路",
     "units": "小港分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3290,6 +3294,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T08:44:31.157278"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T08:45:31.216776"
       }
     ]
   },
@@ -3367,11 +3375,29 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T08:44:31.157278"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T08:45:31.216776"
+      }
+    ]
+  },
+  "9852e4a93d649808ae955c20f21aeea8": {
+    "time": "2026/10/02 08:44:47",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區台機路",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T08:45:31.216776"
       }
     ]
   }
