@@ -3187,7 +3187,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區高楠公路",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3204,6 +3204,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T08:46:31.383687"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T08:54:31.412778"
       }
     ]
   },
@@ -3349,7 +3353,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區和義街",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3362,6 +3366,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T08:47:31.225361"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T08:54:31.412778"
       }
     ]
   },
@@ -3535,11 +3543,15 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區中山路",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T08:52:31.156187"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T08:54:31.412778"
       }
     ]
   }
