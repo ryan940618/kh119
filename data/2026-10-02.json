@@ -5995,7 +5995,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區明哲路和明賢街",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6008,6 +6008,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T11:59:32.088177"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T12:04:31.752392"
       }
     ]
   },
@@ -6085,7 +6089,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區光華三路",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6094,6 +6098,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T12:01:31.655459"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T12:04:31.752392"
       }
     ]
   },
@@ -6126,6 +6134,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T12:03:31.635815"
+      }
+    ]
+  },
+  "94a18caf840a524d4d401384e5060edf": {
+    "time": "2026/10/02 12:02:43",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市路竹區新生路",
+    "units": "阿蓮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T12:04:31.752392"
       }
     ]
   }
