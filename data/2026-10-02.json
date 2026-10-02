@@ -11061,7 +11061,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區文慈路",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -11070,6 +11070,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T19:10:32.090430"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T19:18:32.279669"
       }
     ]
   },
@@ -11110,6 +11114,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T19:17:31.963102"
+      }
+    ]
+  },
+  "49153704806a3dcb866df878de13bf79": {
+    "time": "2026/10/02 19:17:10",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳥松區",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T19:18:32.279669"
       }
     ]
   }
