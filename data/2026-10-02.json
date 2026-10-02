@@ -8073,7 +8073,7 @@
     "sub_category": "車禍",
     "location": "高雄市梓官區大舍西路",
     "units": "梓官分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8086,6 +8086,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T15:26:31.564838"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T15:27:31.597565"
       }
     ]
   },
@@ -8136,6 +8140,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T15:26:31.564838"
+      }
+    ]
+  },
+  "9a606531e0e612ff7e15abe3bf0771bb": {
+    "time": "2026/10/02 15:26:15",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大社區",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T15:27:31.597565"
       }
     ]
   }
