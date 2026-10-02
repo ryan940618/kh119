@@ -5541,7 +5541,7 @@
     "sub_category": "創傷",
     "location": "高雄市路竹區路",
     "units": "永安分隊,路竹分隊,阿蓮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -5562,6 +5562,10 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T11:39:31.535420"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T11:42:31.369864"
       }
     ]
   },
@@ -5623,7 +5627,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5636,6 +5640,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T11:40:31.485752"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T11:42:31.369864"
       }
     ]
   },
@@ -5797,7 +5805,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區建楠路",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5806,6 +5814,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T11:40:31.485752"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T11:42:31.369864"
+      }
+    ]
+  },
+  "07c734c6a63b5b0b5fb581ad89c923a0": {
+    "time": "2026/10/02 11:41:50",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市楠梓區高楠公路",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T11:42:31.369864"
       }
     ]
   }
