@@ -6055,7 +6055,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區崗山東街",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -6064,6 +6064,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T12:00:32.315640"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T12:17:31.968348"
       }
     ]
   },
@@ -6295,7 +6299,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6304,6 +6308,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T12:13:31.859511"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T12:17:31.968348"
       }
     ]
   },
@@ -6331,11 +6339,29 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T12:16:31.555621"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T12:17:31.968348"
+      }
+    ]
+  },
+  "2de506a4813f8d5aee50eb3a42151dfd": {
+    "time": "2026/10/02 12:16:41",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T12:17:31.968348"
       }
     ]
   }
