@@ -13005,7 +13005,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -13022,6 +13022,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T23:37:31.522642"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T23:43:31.488823"
       }
     ]
   },
@@ -13253,7 +13257,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區鳳松路",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -13266,6 +13270,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T23:36:31.734379"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T23:43:31.488823"
       }
     ]
   },
@@ -13293,11 +13301,15 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T23:42:31.503078"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T23:43:31.488823"
       }
     ]
   }
