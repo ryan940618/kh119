@@ -7947,7 +7947,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -7956,6 +7956,38 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T15:12:31.771988"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T15:13:31.433159"
+      }
+    ]
+  },
+  "6d510af0b83ff18e154d75266ad247d9": {
+    "time": "2026/10/02 15:12:54",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大社區旗楠路",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T15:13:31.433159"
+      }
+    ]
+  },
+  "a3f43d750e07d33a2eb4dbe7fb3dea1a": {
+    "time": "2026/10/02 15:12:53",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區旗楠路",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T15:13:31.433159"
       }
     ]
   }
