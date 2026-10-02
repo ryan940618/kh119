@@ -13079,7 +13079,7 @@
     "sub_category": "其他",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -13092,6 +13092,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T23:18:31.890622"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T23:23:31.255757"
       }
     ]
   },
@@ -13164,6 +13168,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T23:20:31.546547"
+      }
+    ]
+  },
+  "dd77253e5cf194a30bba5becac194634": {
+    "time": "2026/10/02 23:22:09",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市小港區二苓路",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T23:23:31.255757"
       }
     ]
   }
