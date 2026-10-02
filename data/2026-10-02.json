@@ -12763,7 +12763,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12772,6 +12772,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T22:36:31.260407"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T22:40:31.150827"
       }
     ]
   },
@@ -12795,11 +12799,57 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T22:38:31.576532"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T22:40:31.150827"
+      }
+    ]
+  },
+  "aa19a0642c1f48fa7b6e48240374cf1d": {
+    "time": "2026/10/02 22:39:56",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市茄萣區",
+    "units": "茄萣分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T22:40:31.150827"
+      }
+    ]
+  },
+  "42292a64459bae108247cada7f22d07e": {
+    "time": "2026/10/02 22:39:25",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市鳳山區",
+    "units": "",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T22:40:31.150827"
+      }
+    ]
+  },
+  "00417e2dc939d9f0efebf5162eb0d51c": {
+    "time": "2026/10/02 22:39:13",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T22:40:31.150827"
       }
     ]
   }
