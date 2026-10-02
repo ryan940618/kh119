@@ -8141,7 +8141,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區永年街",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -8154,6 +8154,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T15:42:31.517462"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T15:48:31.815218"
       }
     ]
   },
@@ -8181,7 +8185,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8198,6 +8202,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T15:40:31.593670"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T15:48:31.815218"
       }
     ]
   },
@@ -8290,6 +8298,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T15:47:31.853458"
+      }
+    ]
+  },
+  "2f417dd5cc58b09137826f50a0153b54": {
+    "time": "2026/10/02 15:47:26",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市左營區文慈路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T15:48:31.815218"
       }
     ]
   }
