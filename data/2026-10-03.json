@@ -79,7 +79,7 @@
     "sub_category": "其他",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -88,6 +88,38 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T00:30:31.804960"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T00:33:31.891625"
+      }
+    ]
+  },
+  "50077554cc3b5e487fb126c45e4a55dd": {
+    "time": "2026/10/03 00:33:01",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市小港區中利街",
+    "units": "大林分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T00:33:31.891625"
+      }
+    ]
+  },
+  "d4c75812d72c73052e50c03fb2d55af3": {
+    "time": "2026/10/03 00:32:50",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T00:33:31.891625"
       }
     ]
   }
