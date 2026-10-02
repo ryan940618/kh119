@@ -9667,7 +9667,7 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區中山路",
     "units": "湖內分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9680,6 +9680,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T17:32:31.669353"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T17:39:31.487039"
       }
     ]
   },
@@ -9689,7 +9693,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -9698,6 +9702,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T17:32:31.669353"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T17:39:31.487039"
       }
     ]
   },
@@ -9823,11 +9831,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區鳳頂路",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T17:37:31.681131"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T17:39:31.487039"
       }
     ]
   },
@@ -9837,11 +9849,29 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T17:38:31.718082"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T17:39:31.487039"
+      }
+    ]
+  },
+  "aa11be02735e052a955c203cace2bd83": {
+    "time": "2026/10/02 17:38:44",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市苓雅區福德一路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T17:39:31.487039"
       }
     ]
   }
