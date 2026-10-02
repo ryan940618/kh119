@@ -443,7 +443,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -460,6 +460,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T01:15:31.184492"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T01:29:31.336386"
       }
     ]
   },
@@ -491,7 +495,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -504,6 +508,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T01:21:31.099384"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T01:29:31.336386"
       }
     ]
   }
