@@ -9241,7 +9241,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區四維三路",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9254,6 +9254,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T17:08:31.471052"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T17:13:31.414302"
       }
     ]
   },
@@ -9263,7 +9267,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區嘉興路",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9276,6 +9280,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T17:09:31.602354"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T17:13:31.414302"
       }
     ]
   },
@@ -9369,11 +9377,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區油管路",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T17:10:31.399187"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T17:13:31.414302"
       }
     ]
   },
@@ -9388,6 +9400,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T17:12:31.351792"
+      }
+    ]
+  },
+  "d90c1aa089de3ebdeb4bf404439efe53": {
+    "time": "2026/10/02 17:12:17",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區大學南路",
+    "units": "右昌分隊,橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T17:13:31.414302"
       }
     ]
   }
