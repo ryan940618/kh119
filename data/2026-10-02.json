@@ -2489,7 +2489,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區濱山街",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2506,6 +2506,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T08:11:32.095238"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T08:16:32.634321"
       }
     ]
   },
@@ -2844,6 +2848,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T08:14:32.272610"
+      }
+    ]
+  },
+  "563cd4b5102a41015090f693fe228c2b": {
+    "time": "2026/10/02 08:15:50",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T08:16:32.634321"
+      }
+    ]
+  },
+  "21c2b0e9f6dfee63140e73308657bb6b": {
+    "time": "2026/10/02 08:15:27",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T08:16:32.634321"
+      }
+    ]
+  },
+  "eea5443f7b66f132bf14ee58c8e76e18": {
+    "time": "2026/10/02 08:15:15",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳥松區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T08:16:32.634321"
       }
     ]
   }
