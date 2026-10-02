@@ -5101,7 +5101,7 @@
     "sub_category": "急病",
     "location": "高雄市彌陀區",
     "units": "彌陀分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5114,6 +5114,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T10:51:32.260451"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T10:59:32.453368"
       }
     ]
   },
@@ -5240,6 +5244,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T10:56:32.258554"
+      }
+    ]
+  },
+  "4129d346098d667f97cb6e38dd7983ee": {
+    "time": "2026/10/02 10:58:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T10:59:32.453368"
       }
     ]
   }
