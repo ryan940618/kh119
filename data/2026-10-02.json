@@ -3841,7 +3841,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區鳳東路",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3858,6 +3858,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T09:28:31.425111"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T09:42:31.857127"
       }
     ]
   },
@@ -4035,11 +4039,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區瑞恩街",
     "units": "瑞隆分隊,苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-02T09:37:31.546616"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T09:42:31.857127"
       }
     ]
   },
@@ -4049,7 +4057,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4058,6 +4066,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T09:39:31.552467"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T09:42:31.857127"
       }
     ]
   },
