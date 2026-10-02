@@ -5545,7 +5545,7 @@
     "sub_category": "創傷",
     "location": "高雄市路竹區路",
     "units": "永安分隊,路竹分隊,阿蓮分隊",
-    "current_status": "已出動",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5570,6 +5570,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T11:42:31.369864"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T11:45:32.606003"
       }
     ]
   },
@@ -5852,6 +5856,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T11:43:31.607359"
+      }
+    ]
+  },
+  "06d51060d98bfb14203dd55d181fe048": {
+    "time": "2026/10/02 11:44:04",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T11:45:32.606003"
       }
     ]
   }
