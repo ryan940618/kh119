@@ -4619,7 +4619,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4636,6 +4636,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T10:32:31.819619"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T10:39:31.857953"
       }
     ]
   },
@@ -4857,7 +4861,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區宏裕街",
     "units": "高桂分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4866,6 +4870,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T10:34:31.978801"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T10:39:31.857953"
       }
     ]
   },
@@ -4893,11 +4901,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區南進五街",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T10:35:32.052156"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T10:39:31.857953"
       }
     ]
   },
