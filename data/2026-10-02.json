@@ -10751,11 +10751,15 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-02T18:39:32.030207"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T18:49:31.769403"
       }
     ]
   },
@@ -10765,7 +10769,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區華山路",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10774,6 +10778,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T18:44:31.927149"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T18:49:31.769403"
       }
     ]
   },
@@ -10828,6 +10836,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T18:47:32.557887"
+      }
+    ]
+  },
+  "ddb4abc6585ea80b34569a507876df7d": {
+    "time": "2026/10/02 18:48:34",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大社區中山路",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T18:49:31.769403"
       }
     ]
   }
