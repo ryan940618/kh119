@@ -10785,7 +10785,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區華山路",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10798,6 +10798,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T18:49:31.769403"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T19:00:32.181833"
       }
     ]
   },
@@ -10961,11 +10965,15 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T18:57:32.082373"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T19:00:32.181833"
       }
     ]
   },
@@ -10975,11 +10983,15 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T18:58:32.336727"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T19:00:32.181833"
       }
     ]
   }
