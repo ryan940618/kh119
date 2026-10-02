@@ -2871,7 +2871,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2880,6 +2880,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T08:14:32.272610"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T08:21:32.066807"
       }
     ]
   },
@@ -2980,6 +2984,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T08:20:32.151195"
+      }
+    ]
+  },
+  "b29b2b308fdf6b1303483bb338bfb962": {
+    "time": "2026/10/02 08:20:21",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "中庄分隊,大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T08:21:32.066807"
       }
     ]
   }
