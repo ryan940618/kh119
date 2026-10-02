@@ -1099,7 +1099,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1108,6 +1108,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T04:18:31.259780"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T04:23:31.284023"
       }
     ]
   },
@@ -1131,11 +1135,15 @@
     "sub_category": "藥物、食物中毒",
     "location": "高雄市新興區七賢一路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T04:22:31.258420"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T04:23:31.284023"
       }
     ]
   }
