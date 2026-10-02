@@ -5719,7 +5719,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區南進五街",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5736,6 +5736,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T11:43:31.607359"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T11:47:31.613565"
       }
     ]
   },
@@ -5873,11 +5877,15 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T11:45:32.606003"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T11:47:31.613565"
       }
     ]
   }
