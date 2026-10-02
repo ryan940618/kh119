@@ -11273,7 +11273,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11286,6 +11286,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T19:35:31.125243"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T19:42:31.256663"
       }
     ]
   },
@@ -11328,6 +11332,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T19:41:31.270473"
+      }
+    ]
+  },
+  "1731cabec329b52ebd92d0b0e8e82fe3": {
+    "time": "2026/10/02 19:41:32",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區覺民路",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T19:42:31.256663"
       }
     ]
   }
