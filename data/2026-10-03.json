@@ -1633,7 +1633,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區草衙二路",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1650,6 +1650,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T06:56:31.024699"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T07:08:31.042929"
       }
     ]
   },
@@ -1707,7 +1711,7 @@
     "sub_category": "其他",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1716,6 +1720,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T07:01:31.127299"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T07:08:31.042929"
       }
     ]
   },
@@ -1734,6 +1742,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T07:06:31.050327"
+      }
+    ]
+  },
+  "a8b9138e279c23a0b11a29498b528d52": {
+    "time": "2026/10/03 07:08:06",
+    "category": "火災",
+    "sub_category": "一般(集合)住宅",
+    "location": "高雄市阿蓮區和平路",
+    "units": "阿蓮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T07:08:31.042929"
       }
     ]
   }
