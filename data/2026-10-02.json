@@ -3381,7 +3381,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區北平二街",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3390,6 +3390,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T08:47:31.225361"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T08:50:31.408262"
       }
     ]
   },
@@ -3399,7 +3403,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3408,6 +3412,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T08:45:31.216776"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T08:50:31.408262"
       }
     ]
   },
@@ -3417,7 +3425,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區台機路",
     "units": "小港分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3426,6 +3434,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T08:48:31.432157"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T08:50:31.408262"
       }
     ]
   },
@@ -3458,6 +3470,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T08:49:31.404813"
+      }
+    ]
+  },
+  "20bddf27d7215ea438e7cc114f7ac8b7": {
+    "time": "2026/10/02 08:49:17",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊,橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T08:50:31.408262"
+      }
+    ]
+  },
+  "67e27fe2de165e62da4b9058a49440db": {
+    "time": "2026/10/02 08:49:07",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "鼎金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T08:50:31.408262"
       }
     ]
   }
