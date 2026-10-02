@@ -6681,7 +6681,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6694,6 +6694,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T13:02:31.851862"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T13:15:32.041914"
       }
     ]
   },
@@ -6773,7 +6777,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區新富路",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -6782,6 +6786,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T13:01:31.761723"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T13:15:32.041914"
       }
     ]
   },
@@ -6898,6 +6906,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T13:14:31.981419"
+      }
+    ]
+  },
+  "9ae47728bd1c174d8a3c8ad3d7907d00": {
+    "time": "2026/10/02 13:13:57",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區仁孝路",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T13:15:32.041914"
       }
     ]
   }
