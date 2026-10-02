@@ -12471,7 +12471,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -12484,6 +12484,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T22:01:31.960755"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T22:10:31.181704"
       }
     ]
   },
@@ -12549,11 +12553,15 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區八德北路",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-02T21:57:32.198576"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T22:10:31.181704"
       }
     ]
   },
