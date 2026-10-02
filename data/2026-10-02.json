@@ -9357,7 +9357,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9370,6 +9370,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T17:11:31.679209"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T17:19:31.269035"
       }
     ]
   },
@@ -9445,7 +9449,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區大學南路",
     "units": "右昌分隊,橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9454,6 +9458,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T17:15:31.498320"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T17:19:31.269035"
       }
     ]
   },
@@ -9468,6 +9476,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T17:17:31.469486"
+      }
+    ]
+  },
+  "3db0030d979fccf84325e033e25cb2f7": {
+    "time": "2026/10/02 17:18:22",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "仁武分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T17:19:31.269035"
       }
     ]
   }
