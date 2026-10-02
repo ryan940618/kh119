@@ -12719,7 +12719,7 @@
     "sub_category": "急病",
     "location": "高雄市六龜區",
     "units": "寶來分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12728,6 +12728,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T22:28:31.439809"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T22:37:31.294845"
       }
     ]
   },
@@ -12768,6 +12772,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T22:36:31.260407"
+      }
+    ]
+  },
+  "b9c86a2d407e623eac1330cc549f7e2a": {
+    "time": "2026/10/02 22:35:04",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-02T22:37:31.294845"
       }
     ]
   }
