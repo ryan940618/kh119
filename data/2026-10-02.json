@@ -6031,11 +6031,15 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區崗山東街",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-02T11:56:31.717551"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T12:00:32.315640"
       }
     ]
   },
@@ -6063,11 +6067,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T11:57:31.468176"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T12:00:32.315640"
       }
     ]
   },
@@ -6082,6 +6090,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T11:58:31.803727"
+      }
+    ]
+  },
+  "4895883a994c93831200f890ac0000b4": {
+    "time": "2026/10/02 11:59:33",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市前鎮區德昌路",
+    "units": "前鎮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T12:00:32.315640"
       }
     ]
   }
