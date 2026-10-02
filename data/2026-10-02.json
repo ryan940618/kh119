@@ -10105,7 +10105,7 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10122,6 +10122,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T18:02:32.401328"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T18:22:31.900549"
       }
     ]
   },
@@ -10477,7 +10481,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "前鎮分隊",
-    "current_status": "",
+    "current_status": "已派遣",
     "status_history": [
       {
         "status": "已派遣",
@@ -10486,6 +10490,10 @@
       {
         "status": "",
         "timestamp": "2026-10-02T18:21:31.796777"
+      },
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T18:22:31.900549"
       }
     ]
   },
@@ -10500,6 +10508,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T18:21:31.796777"
+      }
+    ]
+  },
+  "95e5351ed7d921df898b0c291ef665f4": {
+    "time": "2026/10/02 18:20:46",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市楠梓區後勁南路",
+    "units": "後勁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T18:22:31.900549"
       }
     ]
   }
