@@ -3227,7 +3227,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3236,6 +3236,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T08:37:31.277949"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T08:44:31.157278"
       }
     ]
   },
@@ -3277,11 +3281,15 @@
     "sub_category": "創傷",
     "location": "高雄市小港區平和九路",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T08:41:31.188991"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T08:44:31.157278"
       }
     ]
   },
@@ -3291,11 +3299,15 @@
     "sub_category": "車禍",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T08:42:31.298981"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T08:44:31.157278"
       }
     ]
   },
@@ -3305,11 +3317,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區和義街",
     "units": "前鎮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T08:42:31.298981"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T08:44:31.157278"
       }
     ]
   },
@@ -3319,11 +3335,43 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T08:43:31.240774"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T08:44:31.157278"
+      }
+    ]
+  },
+  "2839985840dcb1223d1d35478cc85635": {
+    "time": "2026/10/02 08:43:28",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區北平二街",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T08:44:31.157278"
+      }
+    ]
+  },
+  "e27808fdb98a398dd86ece8c0f5be350": {
+    "time": "2026/10/02 08:43:18",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市梓官區",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T08:44:31.157278"
       }
     ]
   }
