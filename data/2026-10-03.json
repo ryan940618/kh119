@@ -1875,7 +1875,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1888,6 +1888,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T07:31:31.263610"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T07:47:31.452385"
       }
     ]
   },
@@ -1919,7 +1923,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區明潭路",
     "units": "左營小隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1928,6 +1932,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T07:41:31.327435"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T07:47:31.452385"
       }
     ]
   },
@@ -1937,11 +1945,15 @@
     "sub_category": "創傷",
     "location": "高雄市小港區漢民路和宮安街",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T07:43:31.460974"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T07:47:31.452385"
       }
     ]
   },
@@ -2016,6 +2028,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T07:46:31.428537"
+      }
+    ]
+  },
+  "b553574b40aaf36be28aedeacc084e27": {
+    "time": "2026/10/03 07:46:18",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區一心一路",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T07:47:31.452385"
+      }
+    ]
+  },
+  "41fbf01fd5a7b01fdfca4897995cd454": {
+    "time": "2026/10/03 07:46:03",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市橋頭區",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T07:47:31.452385"
       }
     ]
   }
