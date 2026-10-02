@@ -4815,7 +4815,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區高鐵路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4824,6 +4824,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T10:34:31.978801"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T10:43:32.245205"
       }
     ]
   },
@@ -4877,7 +4881,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區宏裕街",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4890,6 +4894,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T10:39:31.857953"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T10:43:32.245205"
       }
     ]
   },
@@ -4917,7 +4925,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區南進五街",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4926,6 +4934,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T10:39:31.857953"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T10:43:32.245205"
       }
     ]
   },
@@ -4971,11 +4983,29 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T10:41:31.942720"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T10:43:32.245205"
+      }
+    ]
+  },
+  "1c4b3551ddaa82374059ed54f7ad9508": {
+    "time": "2026/10/02 10:43:15",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T10:43:32.245205"
       }
     ]
   }
