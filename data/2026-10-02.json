@@ -9829,7 +9829,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區民權二路",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9846,6 +9846,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T17:49:32.041800"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T17:53:31.775560"
       }
     ]
   },
@@ -9877,7 +9881,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9890,6 +9894,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T17:46:31.646697"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T17:53:31.775560"
       }
     ]
   },
@@ -10081,11 +10089,15 @@
     "sub_category": "路倒",
     "location": "高雄市鼓山區博愛一路",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T17:50:31.745341"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T17:53:31.775560"
       }
     ]
   },
@@ -10122,6 +10134,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T17:52:31.780693"
+      }
+    ]
+  },
+  "33507ad29e25f9a07ea4ae889aac9168": {
+    "time": "2026/10/02 17:50:49",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區宏平路",
+    "units": "高桂分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T17:53:31.775560"
       }
     ]
   }
