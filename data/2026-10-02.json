@@ -9031,7 +9031,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區後昌新路",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -9044,6 +9044,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T17:29:31.428512"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T17:41:31.953983"
       }
     ]
   },
@@ -9884,6 +9888,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T17:39:31.487039"
+      }
+    ]
+  },
+  "aebd0d2155e3623970e821dd5defbf2e": {
+    "time": "2026/10/02 17:40:45",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T17:41:31.953983"
       }
     ]
   }
