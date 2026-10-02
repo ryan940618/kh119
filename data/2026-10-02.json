@@ -9227,7 +9227,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9244,6 +9244,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T17:07:31.227302"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T17:21:31.560681"
       }
     ]
   },
@@ -9475,7 +9479,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已派遣",
     "status_history": [
       {
         "status": "已派遣",
@@ -9484,6 +9488,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T17:20:31.358187"
+      },
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T17:21:31.560681"
       }
     ]
   },
@@ -9507,11 +9515,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T17:20:31.358187"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T17:21:31.560681"
       }
     ]
   }
