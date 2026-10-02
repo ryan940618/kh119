@@ -4295,7 +4295,7 @@
     "sub_category": "車禍",
     "location": "高雄市梓官區忠孝路",
     "units": "梓官分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -4308,6 +4308,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T09:56:31.481002"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T10:12:31.876428"
       }
     ]
   },
@@ -4373,7 +4377,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區二聖二路",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4386,6 +4390,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T10:04:31.534855"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T10:12:31.876428"
       }
     ]
   },
@@ -4461,7 +4469,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4470,6 +4478,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T10:07:31.780900"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T10:12:31.876428"
       }
     ]
   },
@@ -4510,6 +4522,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T10:11:31.977186"
+      }
+    ]
+  },
+  "fe1ee0dfc0e5cb6073763d0bbf8fe111": {
+    "time": "2026/10/02 10:12:12",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區大學十一街",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T10:12:31.876428"
+      }
+    ]
+  },
+  "af2cbf7ab207d895de3c49f443c9bf6d": {
+    "time": "2026/10/02 10:11:36",
+    "category": "火災",
+    "sub_category": "一般(集合)住宅",
+    "location": "高雄市鹽埕區新樂街",
+    "units": "鼓山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T10:12:31.876428"
       }
     ]
   }
