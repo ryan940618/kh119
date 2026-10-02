@@ -11477,7 +11477,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -11486,6 +11486,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T20:08:31.122667"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T20:17:31.350967"
       }
     ]
   },
@@ -11513,7 +11517,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區建國三路",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11522,6 +11526,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T20:11:31.272560"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T20:17:31.350967"
       }
     ]
   },
@@ -11531,7 +11539,7 @@
     "sub_category": "創傷",
     "location": "高雄市岡山區勵志二路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11540,6 +11548,38 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T20:15:31.203262"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T20:17:31.350967"
+      }
+    ]
+  },
+  "d6362a1297f91a1f7e9d54e30191a817": {
+    "time": "2026/10/02 20:17:17",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區大順二路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T20:17:31.350967"
+      }
+    ]
+  },
+  "3cdf811ba27ac220070b54fa0a994e0d": {
+    "time": "2026/10/02 20:16:15",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T20:17:31.350967"
       }
     ]
   }
