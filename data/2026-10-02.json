@@ -4927,7 +4927,7 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區光華一路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4936,6 +4936,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T10:35:32.052156"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T10:54:31.991133"
       }
     ]
   },
@@ -5153,11 +5157,43 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T10:53:32.272290"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T10:54:31.991133"
+      }
+    ]
+  },
+  "abefe751d1c72ea1ee34d8ee075dae21": {
+    "time": "2026/10/02 10:53:51",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "測試-寶來分隊",
+    "units": "寶來分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T10:54:31.991133"
+      }
+    ]
+  },
+  "8000c174795818c4e086905e0edf8aa2": {
+    "time": "2026/10/02 10:52:41",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市林園區前厝路",
+    "units": "林園分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T10:54:31.991133"
       }
     ]
   }
