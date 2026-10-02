@@ -5843,7 +5843,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區大豐二路",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5860,6 +5860,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T11:54:31.697425"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T11:59:32.088177"
       }
     ]
   },
@@ -5951,7 +5955,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5960,6 +5964,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T11:52:32.022909"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T11:59:32.088177"
       }
     ]
   },
@@ -5987,7 +5995,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區明哲路和明賢街",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5996,6 +6004,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T11:54:31.697425"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T11:59:32.088177"
       }
     ]
   },
@@ -6033,11 +6045,15 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T11:57:31.468176"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T11:59:32.088177"
       }
     ]
   },
