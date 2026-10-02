@@ -11069,7 +11069,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區文慈路",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -11082,6 +11082,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T19:18:32.279669"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T19:22:32.261557"
       }
     ]
   },
@@ -11149,11 +11153,29 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區仁雄路",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T19:21:32.182495"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T19:22:32.261557"
+      }
+    ]
+  },
+  "c926c985e1e9a05225e8e29739a0df90": {
+    "time": "2026/10/02 19:22:05",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T19:22:32.261557"
       }
     ]
   }
