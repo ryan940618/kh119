@@ -6967,7 +6967,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區仁孝路",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6980,6 +6980,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T13:22:32.147726"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T13:44:31.921422"
       }
     ]
   },
@@ -7115,7 +7119,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -7124,6 +7128,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T13:36:32.195982"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T13:44:31.921422"
       }
     ]
   },
@@ -7146,6 +7154,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T13:42:31.865842"
+      }
+    ]
+  },
+  "9712445fc727109d12c037d4d0d18e12": {
+    "time": "2026/10/02 13:44:01",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T13:44:31.921422"
       }
     ]
   }
