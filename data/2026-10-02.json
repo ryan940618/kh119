@@ -6269,7 +6269,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區高雄大學路",
     "units": "橋頭分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6286,6 +6286,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T12:20:31.735821"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T12:29:31.888513"
       }
     ]
   },
@@ -6441,7 +6445,7 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6450,6 +6454,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T12:21:31.521134"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T12:29:31.888513"
       }
     ]
   },
@@ -6491,11 +6499,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T12:27:31.645759"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T12:29:31.888513"
+      }
+    ]
+  },
+  "0200aba64680e2baff7d215a9b6ea7c9": {
+    "time": "2026/10/02 12:29:19",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗津區",
+    "units": "旗津分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T12:29:31.888513"
       }
     ]
   }
