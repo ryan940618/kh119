@@ -4705,7 +4705,7 @@
     "sub_category": "創傷",
     "location": "高雄市阿蓮區中正路",
     "units": "阿蓮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4722,6 +4722,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T10:31:32.041729"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T10:50:32.049118"
       }
     ]
   },
@@ -4955,7 +4959,7 @@
     "sub_category": "其他",
     "location": "高雄市橋頭區",
     "units": "",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4964,6 +4968,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T10:40:32.098247"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T10:50:32.049118"
       }
     ]
   },
@@ -5066,6 +5074,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T10:48:32.157973"
+      }
+    ]
+  },
+  "eb9e3b73977d3cc7b48fcf95bca6a618": {
+    "time": "2026/10/02 10:49:03",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區裕誠路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T10:50:32.049118"
       }
     ]
   }
