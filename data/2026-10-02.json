@@ -4433,7 +4433,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4450,6 +4450,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T10:11:31.977186"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T10:21:31.921223"
       }
     ]
   },
@@ -4569,7 +4573,7 @@
     "sub_category": "一般(集合)住宅",
     "location": "高雄市鹽埕區新樂街",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -4578,6 +4582,38 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T10:20:31.786482"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T10:21:31.921223"
+      }
+    ]
+  },
+  "21154ea93a4e0c32f5659f52ae5bcd47": {
+    "time": "2026/10/02 10:20:25",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市美濃區",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T10:21:31.921223"
+      }
+    ]
+  },
+  "1e6380823b7b42b7d5cb0177e85a0417": {
+    "time": "2026/10/02 10:20:23",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T10:21:31.921223"
       }
     ]
   }
