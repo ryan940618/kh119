@@ -2941,7 +2941,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -2954,6 +2954,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T08:39:31.067262"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T08:47:31.225361"
       }
     ]
   },
@@ -3329,7 +3333,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區和義街",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3338,6 +3342,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T08:44:31.157278"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T08:47:31.225361"
       }
     ]
   },
@@ -3365,11 +3373,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區北平二街",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T08:44:31.157278"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T08:47:31.225361"
       }
     ]
   },
@@ -3402,6 +3414,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T08:45:31.216776"
+      }
+    ]
+  },
+  "2940eef40959e718e5307292b339a455": {
+    "time": "2026/10/02 08:46:27",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市苓雅區仁智街",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T08:47:31.225361"
       }
     ]
   }
