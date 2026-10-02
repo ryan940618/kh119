@@ -10421,7 +10421,7 @@
     "sub_category": "創傷",
     "location": "高雄市鼓山區日昌路",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10438,6 +10438,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T18:26:31.949693"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T18:29:31.805595"
       }
     ]
   },
@@ -10580,6 +10584,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T18:24:31.890482"
+      }
+    ]
+  },
+  "425220f44c01631958275a798433848d": {
+    "time": "2026/10/02 18:28:50",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區大埤路",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T18:29:31.805595"
       }
     ]
   }
