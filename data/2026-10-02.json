@@ -4033,11 +4033,15 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T09:37:31.546616"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T09:39:31.552467"
       }
     ]
   },
@@ -4052,6 +4056,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T09:37:31.546616"
+      }
+    ]
+  },
+  "8fd739ec1fab0f7ecc6b76b0808ccf19": {
+    "time": "2026/10/02 09:38:58",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區沿海一路",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T09:39:31.552467"
       }
     ]
   }
