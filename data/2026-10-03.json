@@ -5,7 +5,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "湖內分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -22,6 +22,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T00:17:31.649416"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T00:35:31.859483"
       }
     ]
   },
@@ -124,6 +128,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T00:33:31.891625"
+      }
+    ]
+  },
+  "0d42672cd73645297c776def8d43dd07": {
+    "time": "2026/10/03 00:34:54",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市仁武區八德二路",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T00:35:31.859483"
       }
     ]
   }
