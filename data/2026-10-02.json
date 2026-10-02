@@ -3251,7 +3251,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3268,6 +3268,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T09:36:31.415744"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T09:41:31.649399"
       }
     ]
   },
@@ -3955,7 +3959,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -3964,6 +3968,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T09:36:31.415744"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T09:41:31.649399"
       }
     ]
   },
@@ -4087,11 +4095,29 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中山二路",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T09:40:31.430743"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T09:41:31.649399"
+      }
+    ]
+  },
+  "06e876aac9b3a4f02dd7d2bbe59a8ded": {
+    "time": "2026/10/02 09:38:58",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T09:41:31.649399"
       }
     ]
   }
