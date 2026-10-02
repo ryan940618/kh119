@@ -3885,7 +3885,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區站前南路",
     "units": "左營小隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3902,6 +3902,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T09:29:31.378261"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T09:37:31.546616"
       }
     ]
   },
@@ -4002,6 +4006,48 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T09:36:31.415744"
+      }
+    ]
+  },
+  "cf6f5230f4bacd68230377f80bb05d14": {
+    "time": "2026/10/02 09:36:30",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區瑞恩街",
+    "units": "瑞隆分隊,苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T09:37:31.546616"
+      }
+    ]
+  },
+  "6811d79e80360ff454e416cc0e99db74": {
+    "time": "2026/10/02 09:36:29",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前金區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T09:37:31.546616"
+      }
+    ]
+  },
+  "21bfdd5fa87e24104dd749d59547e8fe": {
+    "time": "2026/10/02 09:36:00",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區民族一路",
+    "units": "鼎金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T09:37:31.546616"
       }
     ]
   }
