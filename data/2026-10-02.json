@@ -2489,7 +2489,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區濱山街",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2502,6 +2502,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T07:52:32.604060"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T08:11:32.095238"
       }
     ]
   },
@@ -2780,6 +2784,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T08:10:31.919370"
+      }
+    ]
+  },
+  "855e1a311111ad71de03ae7ef6dd59cd": {
+    "time": "2026/10/02 08:10:47",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區裕誠路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T08:11:32.095238"
       }
     ]
   }
