@@ -10573,7 +10573,7 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區後勁南路",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -10582,6 +10582,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T18:26:31.949693"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T18:33:31.875920"
       }
     ]
   },
@@ -10613,7 +10617,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區大埤路",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10622,6 +10626,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T18:30:32.164774"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T18:33:31.875920"
+      }
+    ]
+  },
+  "eb8cd0ede15a3963a116520c532a2853": {
+    "time": "2026/10/02 18:32:39",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區民族一路和鐵道二街",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T18:33:31.875920"
       }
     ]
   }
