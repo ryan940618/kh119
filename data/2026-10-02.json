@@ -8099,7 +8099,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區岡山北路",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8112,6 +8112,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T15:26:31.564838"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T15:30:31.718390"
       }
     ]
   },
@@ -8157,7 +8161,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8166,6 +8170,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T15:28:31.558178"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T15:30:31.718390"
+      }
+    ]
+  },
+  "0d992a47e9a2def7d15c0d552aa08ce6": {
+    "time": "2026/10/02 15:28:47",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T15:30:31.718390"
       }
     ]
   }
