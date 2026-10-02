@@ -3381,7 +3381,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區和義街",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3398,6 +3398,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T08:54:31.412778"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T09:05:31.631074"
       }
     ]
   },
@@ -3656,6 +3660,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T09:02:31.315425"
+      }
+    ]
+  },
+  "d959a4ed488a4c84ae914534b8be03a9": {
+    "time": "2026/10/02 09:04:42",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T09:05:31.631074"
       }
     ]
   }
