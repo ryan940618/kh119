@@ -10655,7 +10655,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區民族一路和鐵道二街",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10664,6 +10664,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T18:34:31.860566"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T18:39:32.030207"
       }
     ]
   },
@@ -10705,11 +10709,29 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T18:38:32.093181"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T18:39:32.030207"
+      }
+    ]
+  },
+  "76c64ba7bfcdd1164b7fe025f0bece6b": {
+    "time": "2026/10/02 18:38:37",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區",
+    "units": "鼎金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T18:39:32.030207"
       }
     ]
   }
