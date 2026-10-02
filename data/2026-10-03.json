@@ -927,7 +927,7 @@
     "sub_category": "創傷",
     "location": "高雄市林園區龔厝路",
     "units": "林園分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -936,6 +936,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T03:38:30.910115"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T03:57:31.055375"
       }
     ]
   },
@@ -976,6 +980,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T03:51:31.024540"
+      }
+    ]
+  },
+  "2e97b5ab375a17a090a0389be8b8c6bb": {
+    "time": "2026/10/03 03:56:33",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T03:57:31.055375"
       }
     ]
   }
