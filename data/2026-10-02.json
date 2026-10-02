@@ -9669,7 +9669,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9686,6 +9686,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T17:50:31.745341"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T17:59:31.960307"
       }
     ]
   },
@@ -9863,7 +9867,7 @@
     "sub_category": "其他",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9876,6 +9880,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T17:49:32.041800"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T17:59:31.960307"
       }
     ]
   },
@@ -9915,7 +9923,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區鳳頂路",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9932,6 +9940,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T17:57:31.979171"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T17:59:31.960307"
       }
     ]
   },
@@ -10211,11 +10223,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T17:57:31.979171"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T17:59:31.960307"
       }
     ]
   },
@@ -10230,6 +10246,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T17:58:32.061357"
+      }
+    ]
+  },
+  "b097bda6868c7d4796892af4a721c951": {
+    "time": "2026/10/02 17:58:31",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T17:59:31.960307"
       }
     ]
   }
