@@ -3141,7 +3141,7 @@
     "sub_category": "急病",
     "location": "高雄市彌陀區",
     "units": "彌陀分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3158,6 +3158,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T08:32:32.460896"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T08:42:31.298981"
       }
     ]
   },
@@ -3189,7 +3193,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3202,6 +3206,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T08:33:31.098711"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T08:42:31.298981"
       }
     ]
   },
@@ -3262,6 +3270,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T08:41:31.188991"
+      }
+    ]
+  },
+  "e8b584c9247c81effc5f08a577bf75ad": {
+    "time": "2026/10/02 08:41:54",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大社區",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T08:42:31.298981"
+      }
+    ]
+  },
+  "01cac99eca755b0554ed0c9c476aa411": {
+    "time": "2026/10/02 08:41:45",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區和義街",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T08:42:31.298981"
       }
     ]
   }
