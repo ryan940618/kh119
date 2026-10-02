@@ -12561,7 +12561,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區八德北路",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -12574,6 +12574,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T22:15:31.112376"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T22:26:31.208029"
       }
     ]
   },
@@ -12583,7 +12587,7 @@
     "sub_category": "其他",
     "location": "高雄市小港區學府路",
     "units": "小港分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12592,6 +12596,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T22:25:31.278087"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T22:26:31.208029"
       }
     ]
   },
@@ -12696,6 +12704,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T22:25:31.278087"
+      }
+    ]
+  },
+  "2663a7a3f5435ea369b5b9516d6a775a": {
+    "time": "2026/10/02 22:25:32",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市杉林區",
+    "units": "杉林分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T22:26:31.208029"
       }
     ]
   }
