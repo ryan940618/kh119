@@ -10009,7 +10009,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10022,6 +10022,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T17:50:31.745341"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T18:06:31.921482"
       }
     ]
   },
@@ -10243,7 +10247,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10252,6 +10256,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T17:59:31.960307"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T18:06:31.921482"
       }
     ]
   },
@@ -10314,6 +10322,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T18:04:31.702229"
+      }
+    ]
+  },
+  "312c357295a73143cd5c5cf8d92f6a6e": {
+    "time": "2026/10/02 18:04:29",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區大順二路",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T18:06:31.921482"
       }
     ]
   }
