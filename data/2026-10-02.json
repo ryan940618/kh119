@@ -7773,11 +7773,15 @@
     "sub_category": "車禍",
     "location": "高雄市左營區博愛四路和重惠街",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T14:57:32.385157"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T15:05:31.386014"
       }
     ]
   },
@@ -7805,7 +7809,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7814,6 +7818,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T15:02:31.582437"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T15:05:31.386014"
       }
     ]
   },
@@ -7864,6 +7872,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T15:04:31.416548"
+      }
+    ]
+  },
+  "68188baf3f72a14af5721f24fb7cb760": {
+    "time": "2026/10/02 15:03:26",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區大埤路",
+    "units": "鳥松分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T15:05:31.386014"
       }
     ]
   }
