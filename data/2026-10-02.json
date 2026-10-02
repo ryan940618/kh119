@@ -4823,7 +4823,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區高鐵路",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4840,6 +4840,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T10:51:32.260451"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T10:56:32.258554"
       }
     ]
   },
@@ -4927,7 +4931,7 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區光華一路",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4940,6 +4944,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T10:54:31.991133"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T10:56:32.258554"
       }
     ]
   },
@@ -5019,7 +5027,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5032,6 +5040,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T10:53:32.272290"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T10:56:32.258554"
       }
     ]
   },
@@ -5129,7 +5141,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中安路",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5138,6 +5150,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T10:52:32.184479"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T10:56:32.258554"
       }
     ]
   },
@@ -5207,11 +5223,15 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T10:55:32.302353"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T10:56:32.258554"
       }
     ]
   }
