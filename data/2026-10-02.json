@@ -8653,7 +8653,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區中林路",
     "units": "大林分隊,高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8666,6 +8666,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T16:28:31.872550"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T16:39:32.167860"
       }
     ]
   },
@@ -8675,7 +8679,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8688,6 +8692,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T16:33:31.952512"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T16:39:32.167860"
       }
     ]
   },
@@ -8741,7 +8749,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8754,6 +8762,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T16:35:32.390732"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T16:39:32.167860"
       }
     ]
   },
@@ -8870,6 +8882,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T16:34:32.383592"
+      }
+    ]
+  },
+  "36d5bfbd4ec4db23957f286facac0664": {
+    "time": "2026/10/02 16:38:01",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區後紅路",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T16:39:32.167860"
       }
     ]
   }
