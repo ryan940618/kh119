@@ -5963,7 +5963,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5980,6 +5980,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-02T12:09:31.769269"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-02T12:16:31.555621"
       }
     ]
   },
@@ -6179,7 +6183,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區新生路",
     "units": "阿蓮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -6188,6 +6192,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T12:11:31.509953"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-02T12:16:31.555621"
       }
     ]
   },
@@ -6305,11 +6313,29 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T12:12:31.654449"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T12:16:31.555621"
+      }
+    ]
+  },
+  "d0fe7984019c2650330c94d9e2ee2d36": {
+    "time": "2026/10/02 12:15:30",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T12:16:31.555621"
       }
     ]
   }
