@@ -5969,11 +5969,15 @@
     "sub_category": "其他",
     "location": "高雄市前鎮區永豐路",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-02T11:51:31.905814"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T11:58:31.803727"
       }
     ]
   },
@@ -6048,6 +6052,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T11:57:31.468176"
+      }
+    ]
+  },
+  "5ff67f0872c02deeab5a18954f0c3c10": {
+    "time": "2026/10/02 11:57:21",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區光華三路",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T11:58:31.803727"
       }
     ]
   }
