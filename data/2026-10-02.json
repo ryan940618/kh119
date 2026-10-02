@@ -5107,7 +5107,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區裕誠路",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5116,6 +5116,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T10:51:32.260451"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T10:55:32.302353"
       }
     ]
   },
@@ -5194,6 +5198,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T10:54:31.991133"
+      }
+    ]
+  },
+  "2b56abd95997cf749910936a3952b318": {
+    "time": "2026/10/02 10:54:47",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T10:55:32.302353"
       }
     ]
   }
