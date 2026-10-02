@@ -1437,7 +1437,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區和平二路",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1454,6 +1454,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T06:08:31.916244"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T06:12:31.953174"
       }
     ]
   },
@@ -1557,7 +1561,7 @@
     "sub_category": "急病",
     "location": "高雄市內門區",
     "units": "內門分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1566,6 +1570,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T06:04:31.900410"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T06:12:31.953174"
       }
     ]
   }
