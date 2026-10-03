@@ -13199,11 +13199,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區民族一路",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T22:57:31.514471"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T23:02:31.657621"
       }
     ]
   },
@@ -13213,11 +13217,15 @@
     "sub_category": "其他",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T23:01:31.568365"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T23:02:31.657621"
       }
     ]
   },
@@ -13232,6 +13240,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T23:01:31.568365"
+      }
+    ]
+  },
+  "d85cd879a57a610194f60d836b530764": {
+    "time": "2026/10/03 23:01:59",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T23:02:31.657621"
+      }
+    ]
+  },
+  "7a32cfc42806411deeaf90b04d3a6abd": {
+    "time": "2026/10/03 23:01:28",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區褒忠街",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T23:02:31.657621"
       }
     ]
   }
