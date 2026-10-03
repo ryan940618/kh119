@@ -191,7 +191,7 @@
     "sub_category": "路倒",
     "location": "高雄市前金區五福三路",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -200,6 +200,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T01:05:31.437751"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T01:08:31.297017"
       }
     ]
   },
@@ -245,7 +249,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已受理",
@@ -254,6 +258,10 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T01:07:31.307041"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T01:08:31.297017"
       }
     ]
   },
@@ -272,6 +280,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T01:07:31.307041"
+      }
+    ]
+  },
+  "68a6e303d1b01ccf7ed1617b2ff0bcb6": {
+    "time": "2026/10/04 01:07:07",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市楠梓區德祥路",
+    "units": "後勁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T01:08:31.297017"
       }
     ]
   }
