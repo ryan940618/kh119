@@ -9151,7 +9151,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9168,6 +9168,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T17:01:31.253069"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T17:13:31.135041"
       }
     ]
   },
@@ -9399,7 +9403,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9408,6 +9412,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T17:08:31.198855"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T17:13:31.135041"
       }
     ]
   },
@@ -9454,6 +9462,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T17:10:31.213261"
+      }
+    ]
+  },
+  "9ea4d7410da306465771657a9749c132": {
+    "time": "2026/10/03 17:13:04",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市彌陀區中正北路",
+    "units": "彌陀分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T17:13:31.135041"
       }
     ]
   }
