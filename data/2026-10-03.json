@@ -6931,7 +6931,7 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區凱旋四路",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6944,6 +6944,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T14:13:31.968923"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T14:16:31.040980"
       }
     ]
   },
@@ -6953,7 +6957,7 @@
     "sub_category": "急病",
     "location": "高雄市六龜區",
     "units": "六龜分隊,茂林分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -6962,6 +6966,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T14:09:31.973089"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T14:16:31.040980"
       }
     ]
   },
@@ -7231,11 +7239,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營小隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T14:14:32.166817"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T14:16:31.040980"
       }
     ]
   },
