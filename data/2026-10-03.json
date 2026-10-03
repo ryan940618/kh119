@@ -11221,7 +11221,7 @@
     "sub_category": "創傷",
     "location": "高雄市鼓山區臨海三路",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11234,6 +11234,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T19:18:32.113216"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T19:23:32.082363"
       }
     ]
   },
@@ -11333,11 +11337,15 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T19:22:32.511826"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T19:23:32.082363"
       }
     ]
   }
