@@ -7049,7 +7049,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7062,6 +7062,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T14:03:32.163419"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T14:20:31.119292"
       }
     ]
   },
@@ -7199,7 +7203,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7208,6 +7212,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T14:10:32.056982"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T14:20:31.119292"
       }
     ]
   },
@@ -7316,6 +7324,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T14:18:31.146711"
+      }
+    ]
+  },
+  "b1de7efde17ba72261e6b289859f05a6": {
+    "time": "2026/10/03 14:19:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T14:20:31.119292"
       }
     ]
   }
