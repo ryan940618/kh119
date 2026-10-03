@@ -10899,7 +10899,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區九如二路13巷和鐵道二街",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10912,6 +10912,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T18:55:31.978721"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T19:07:32.079995"
       }
     ]
   },
@@ -11005,7 +11009,7 @@
     "sub_category": "創傷",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11014,6 +11018,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T18:59:32.261475"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T19:07:32.079995"
       }
     ]
   },
@@ -11036,6 +11044,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T19:05:32.187078"
+      }
+    ]
+  },
+  "854582661721543517b3ff8b6395f90f": {
+    "time": "2026/10/03 19:07:08",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T19:07:32.079995"
       }
     ]
   }
