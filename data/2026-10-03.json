@@ -3171,7 +3171,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區京吉五路",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3184,6 +3184,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T09:11:31.458074"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T09:21:31.490902"
       }
     ]
   },
@@ -3376,6 +3380,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T09:19:31.351723"
+      }
+    ]
+  },
+  "1f989a906d39a5d8eb168fef1176d501": {
+    "time": "2026/10/03 09:20:06",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T09:21:31.490902"
       }
     ]
   }
