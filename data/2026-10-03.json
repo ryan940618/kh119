@@ -5935,7 +5935,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5944,6 +5944,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T12:16:31.559084"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T12:22:31.332904"
       }
     ]
   },
@@ -5953,7 +5957,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5962,6 +5966,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T12:17:31.503551"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T12:22:31.332904"
       }
     ]
   },
@@ -6007,11 +6015,15 @@
     "sub_category": "其他",
     "location": "高雄市前金區",
     "units": "",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T12:19:31.551086"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T12:22:31.332904"
       }
     ]
   },
