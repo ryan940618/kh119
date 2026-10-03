@@ -9017,7 +9017,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9034,6 +9034,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T16:48:31.282696"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T16:57:31.119223"
       }
     ]
   },
@@ -9121,7 +9125,7 @@
     "sub_category": "雜草(含廢棄物、墓地)",
     "location": "高雄市大寮區鎮潭路",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9130,6 +9134,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T16:45:32.178531"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T16:57:31.119223"
       }
     ]
   },
@@ -9213,7 +9221,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區林森二路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9222,6 +9230,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T16:51:31.213908"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T16:57:31.119223"
       }
     ]
   },
@@ -9236,6 +9248,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T16:55:31.338840"
+      }
+    ]
+  },
+  "a9f21860ad61a8fffe39c8e323baa919": {
+    "time": "2026/10/03 16:56:54",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區裕誠路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T16:57:31.119223"
       }
     ]
   }
