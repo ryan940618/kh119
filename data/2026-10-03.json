@@ -11759,7 +11759,7 @@
     "sub_category": "路倒",
     "location": "高雄市燕巢區中興北路",
     "units": "燕巢分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11772,6 +11772,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T20:12:31.440733"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T20:17:31.620008"
       }
     ]
   },
@@ -11844,6 +11848,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T20:15:31.342101"
+      }
+    ]
+  },
+  "3db2bff4e518c397661e61a254100b6a": {
+    "time": "2026/10/03 20:13:04",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區站西路",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T20:17:31.620008"
       }
     ]
   }
