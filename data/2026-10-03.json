@@ -4925,7 +4925,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區仁愛路",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4938,6 +4938,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T11:13:32.567667"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T11:22:32.244822"
       }
     ]
   },
@@ -5037,11 +5041,43 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T11:21:31.998541"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T11:22:32.244822"
+      }
+    ]
+  },
+  "08b17b099be505f2d5312befb4aaeeea": {
+    "time": "2026/10/03 11:21:50",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區博愛路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T11:22:32.244822"
+      }
+    ]
+  },
+  "cfb969f246cfac56565cab5e8fbf583d": {
+    "time": "2026/10/03 11:20:30",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市六龜區",
+    "units": "茂林分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T11:22:32.244822"
       }
     ]
   }
