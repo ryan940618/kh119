@@ -2621,7 +2621,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2630,6 +2630,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T08:36:32.086606"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T08:41:32.415883"
       }
     ]
   },
@@ -2707,11 +2711,43 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區夢裡東巷和育英街",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T08:40:31.979493"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T08:41:32.415883"
+      }
+    ]
+  },
+  "29aad45a3694d1e1ea292f8fee31f965": {
+    "time": "2026/10/03 08:40:07",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T08:41:32.415883"
+      }
+    ]
+  },
+  "ab1b628dc78943db1359e58c408e4cdf": {
+    "time": "2026/10/03 08:39:47",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市阿蓮區",
+    "units": "阿蓮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T08:41:32.415883"
       }
     ]
   }
