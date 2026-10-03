@@ -12795,7 +12795,7 @@
     "sub_category": "急病",
     "location": "高雄市六龜區",
     "units": "六龜分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12808,6 +12808,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T22:29:31.229524"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T22:41:31.241846"
       }
     ]
   },
@@ -12817,7 +12821,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區天祥一路",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12830,6 +12834,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T22:27:31.372686"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T22:41:31.241846"
       }
     ]
   },
@@ -12867,7 +12875,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區水源東路",
     "units": "大昌分隊,苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -12876,6 +12884,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T22:37:31.138923"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T22:41:31.241846"
       }
     ]
   },
@@ -12996,6 +13008,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T22:40:31.126439"
+      }
+    ]
+  },
+  "5ae820af78e1d27b289b6661167c9565": {
+    "time": "2026/10/03 22:40:33",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T22:41:31.241846"
+      }
+    ]
+  },
+  "628fe864bc50bb4481c8596b4f0ae240": {
+    "time": "2026/10/03 22:40:09",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區平治街",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T22:41:31.241846"
       }
     ]
   }
