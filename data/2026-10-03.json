@@ -4171,7 +4171,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4180,6 +4180,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T10:07:31.787376"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T10:30:31.664834"
       }
     ]
   },
@@ -4293,11 +4297,29 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區永盛街",
     "units": "和發分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T10:29:31.764926"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T10:30:31.664834"
+      }
+    ]
+  },
+  "104450a56b290a03725a152d8f836351": {
+    "time": "2026/10/03 10:29:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前金區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T10:30:31.664834"
       }
     ]
   }
