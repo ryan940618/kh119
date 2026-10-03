@@ -2447,7 +2447,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2456,6 +2456,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T08:27:31.801714"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T08:32:31.877987"
       }
     ]
   },
@@ -2501,11 +2505,43 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-03T08:29:31.795901"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T08:32:31.877987"
+      }
+    ]
+  },
+  "37e7f86ac3723f75e7b788fcbb816be4": {
+    "time": "2026/10/03 08:31:47",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T08:32:31.877987"
+      }
+    ]
+  },
+  "05b43c3ef604ec963ecccb30a7737c55": {
+    "time": "2026/10/03 08:31:38",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市田寮區",
+    "units": "田寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T08:32:31.877987"
       }
     ]
   }
