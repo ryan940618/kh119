@@ -8785,7 +8785,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8802,6 +8802,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T16:17:32.052780"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T16:25:32.156657"
       }
     ]
   },
@@ -8811,7 +8815,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區三多二路",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8828,6 +8832,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T16:21:31.866419"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T16:25:32.156657"
       }
     ]
   },
@@ -8846,6 +8854,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T16:24:31.974083"
+      }
+    ]
+  },
+  "f1f62eb77171394b9ea3a4653cfb4203": {
+    "time": "2026/10/03 16:24:56",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T16:25:32.156657"
+      }
+    ]
+  },
+  "9f01f93ba0fbc5f1a01458244d048521": {
+    "time": "2026/10/03 16:24:42",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區大順二路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T16:25:32.156657"
       }
     ]
   }
