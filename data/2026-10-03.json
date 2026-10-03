@@ -6403,7 +6403,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6416,6 +6416,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T13:00:31.586660"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T13:21:31.907356"
       }
     ]
   },
@@ -6425,7 +6429,7 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區鳳屏二路",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -6438,6 +6442,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T13:09:31.747872"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T13:21:31.907356"
       }
     ]
   },
@@ -6591,7 +6599,7 @@
     "sub_category": "創傷",
     "location": "高雄市梓官區港九街",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6600,6 +6608,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T13:15:31.850991"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T13:21:31.907356"
       }
     ]
   },
