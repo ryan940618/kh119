@@ -4369,7 +4369,7 @@
     "sub_category": "車禍",
     "location": "高雄市六龜區新發公路",
     "units": "六龜分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -4378,6 +4378,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T10:35:31.624463"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T10:44:31.769849"
       }
     ]
   },
@@ -4527,11 +4531,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T10:43:31.718494"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T10:44:31.769849"
+      }
+    ]
+  },
+  "0e5e1bc8701e2b87bae91ac96f9aa1c9": {
+    "time": "2026/10/03 10:42:49",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T10:44:31.769849"
       }
     ]
   }
