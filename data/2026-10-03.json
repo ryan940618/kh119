@@ -9035,7 +9035,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區藍昌路和裕昌街",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -9048,6 +9048,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T16:44:32.057138"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T16:50:31.110865"
       }
     ]
   },
@@ -9141,7 +9145,7 @@
     "sub_category": "一般(集合)住宅",
     "location": "高雄市鳳山區三商街",
     "units": "五甲分隊,前鎮分隊,瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -9154,6 +9158,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T16:49:31.060038"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T16:50:31.110865"
       }
     ]
   },
@@ -9172,6 +9180,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T16:49:31.060038"
+      }
+    ]
+  },
+  "98088ec0e4932a0761af38d270416220": {
+    "time": "2026/10/03 16:49:49",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區林森二路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T16:50:31.110865"
       }
     ]
   }
