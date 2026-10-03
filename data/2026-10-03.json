@@ -8341,7 +8341,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區文東街",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8358,6 +8358,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T16:03:31.587280"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T16:07:31.733601"
       }
     ]
   },
@@ -8742,6 +8746,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T16:05:32.071645"
+      }
+    ]
+  },
+  "1c3f962779b07f193402981dc7f74e87": {
+    "time": "2026/10/03 16:07:07",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區三多二路",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T16:07:31.733601"
       }
     ]
   }
