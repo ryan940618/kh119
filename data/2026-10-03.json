@@ -7667,7 +7667,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7676,6 +7676,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T14:42:31.255711"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T14:44:31.116086"
       }
     ]
   },
@@ -7708,6 +7712,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T14:43:31.156527"
+      }
+    ]
+  },
+  "0a589802e27bb667add4329eec8132c0": {
+    "time": "2026/10/03 14:43:41",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區瑞田街",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T14:44:31.116086"
       }
     ]
   }
