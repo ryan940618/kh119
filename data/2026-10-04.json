@@ -1371,7 +1371,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區鼎信街",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1384,6 +1384,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T06:14:30.983358"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T06:24:30.889596"
       }
     ]
   },
@@ -1406,6 +1410,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T06:22:30.970397"
+      }
+    ]
+  },
+  "519fdc4d826c317039489ed613d37df8": {
+    "time": "2026/10/04 06:22:49",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區東山路",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T06:24:30.889596"
       }
     ]
   }
