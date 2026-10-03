@@ -8905,7 +8905,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區大順二路",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8922,6 +8922,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T16:37:32.102447"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T16:44:32.057138"
       }
     ]
   },
@@ -9015,7 +9019,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區藍昌路和裕昌街",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -9024,6 +9028,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T16:36:32.193031"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T16:44:32.057138"
       }
     ]
   },
@@ -9046,6 +9054,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T16:41:31.985005"
+      }
+    ]
+  },
+  "ddf9469cc29aee0c6ef3bb8d0d00d60a": {
+    "time": "2026/10/03 16:43:31",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市左營區自由三路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T16:44:32.057138"
+      }
+    ]
+  },
+  "6731e1f5fd1cc266092398674de1263f": {
+    "time": "2026/10/03 16:43:26",
+    "category": "火災",
+    "sub_category": "雜草(含廢棄物、墓地)",
+    "location": "高雄市大寮區鎮潭路",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T16:44:32.057138"
       }
     ]
   }
