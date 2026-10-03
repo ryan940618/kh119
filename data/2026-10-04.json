@@ -1197,7 +1197,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "大林分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1210,6 +1210,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T05:37:31.741293"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T05:47:31.781068"
       }
     ]
   },
@@ -1232,6 +1236,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T05:42:31.840553"
+      }
+    ]
+  },
+  "b0f3b0115722c9b680c43d2086fe78ea": {
+    "time": "2026/10/04 05:47:04",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T05:47:31.781068"
       }
     ]
   }
