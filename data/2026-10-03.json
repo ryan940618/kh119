@@ -10963,7 +10963,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -10976,6 +10976,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T19:11:32.055061"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T19:18:32.113216"
       }
     ]
   },
@@ -10985,7 +10989,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區南華一路",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10998,6 +11002,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T19:02:32.154378"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T19:18:32.113216"
       }
     ]
   },
@@ -11157,11 +11165,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-03T19:10:32.063574"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T19:18:32.113216"
       }
     ]
   },
@@ -11171,7 +11183,7 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區鎮旺街",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11180,6 +11192,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T19:16:32.054502"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T19:18:32.113216"
       }
     ]
   },
@@ -11189,7 +11205,7 @@
     "sub_category": "創傷",
     "location": "高雄市鼓山區臨海三路",
     "units": "鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11198,6 +11214,38 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T19:17:32.215134"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T19:18:32.113216"
+      }
+    ]
+  },
+  "c5f67e2dee9aa1bd4ce1c4d61ed2bbec": {
+    "time": "2026/10/03 19:17:35",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T19:18:32.113216"
+      }
+    ]
+  },
+  "5aa44b7e1b64fe502341d222b4d4b0e6": {
+    "time": "2026/10/03 19:17:03",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市旗山區旗屏二路和福德街",
+    "units": "旗山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T19:18:32.113216"
       }
     ]
   }
