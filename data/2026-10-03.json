@@ -10227,7 +10227,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -10240,6 +10240,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T18:13:31.570880"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T18:22:31.798938"
       }
     ]
   },
@@ -10333,7 +10337,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10342,6 +10346,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T18:17:31.849713"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T18:22:31.798938"
       }
     ]
   },
@@ -10410,6 +10418,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T18:21:31.718179"
+      }
+    ]
+  },
+  "659f707ddaf971fa2fbf6562993fb897": {
+    "time": "2026/10/03 18:21:52",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市梓官區通港路",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T18:22:31.798938"
+      }
+    ]
+  },
+  "b53eaff99da9b2a24182774cd50a29af": {
+    "time": "2026/10/03 18:21:01",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市橋頭區",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T18:22:31.798938"
       }
     ]
   }
