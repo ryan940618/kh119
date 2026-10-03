@@ -2837,7 +2837,7 @@
     "sub_category": "創傷",
     "location": "高雄市湖內區東方路",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2850,6 +2850,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T08:50:32.350023"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T09:05:31.181814"
       }
     ]
   },
@@ -3102,6 +3106,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T09:04:31.164780"
+      }
+    ]
+  },
+  "342ac32cb707c7f309a651b743717cc8": {
+    "time": "2026/10/03 09:04:27",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區京吉五路",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T09:05:31.181814"
       }
     ]
   }
