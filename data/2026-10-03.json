@@ -5183,7 +5183,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5196,6 +5196,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T11:31:32.197273"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T11:51:31.173265"
       }
     ]
   },
@@ -5439,7 +5443,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區博愛路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5448,6 +5452,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T11:45:31.478956"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T11:51:31.173265"
       }
     ]
   },
@@ -5498,6 +5506,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T11:50:31.648584"
+      }
+    ]
+  },
+  "f674946c9a5753f8e801c87f88a9f3a7": {
+    "time": "2026/10/03 11:49:49",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市湖內區中山路",
+    "units": "湖內分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T11:51:31.173265"
+      }
+    ]
+  },
+  "2f7f7deda8706e6243a8d154cf0a8604": {
+    "time": "2026/10/03 11:49:40",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鼓山區美術東二路",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T11:51:31.173265"
       }
     ]
   }
