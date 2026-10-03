@@ -5637,7 +5637,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5650,6 +5650,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T12:04:31.431855"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T12:13:31.374116"
       }
     ]
   },
@@ -5842,6 +5846,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T12:12:31.278597"
+      }
+    ]
+  },
+  "b03578f4be0442bde66ceb70fb661fe5": {
+    "time": "2026/10/03 12:12:31",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市岡山區公園西路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T12:13:31.374116"
       }
     ]
   }
