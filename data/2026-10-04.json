@@ -81,11 +81,15 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區文昌路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-04T00:18:31.718308"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T00:26:31.811975"
       }
     ]
   },
@@ -95,11 +99,29 @@
     "sub_category": "其他",
     "location": "高雄市小港區華昌路",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T00:25:31.843885"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T00:26:31.811975"
+      }
+    ]
+  },
+  "acaf81dd78c2edbdaaf5836c96f0996f": {
+    "time": "2026/10/04 00:25:13",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區大順二路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T00:26:31.811975"
       }
     ]
   }
