@@ -6619,7 +6619,7 @@
     "sub_category": "創傷",
     "location": "高雄市梓官區港九街",
     "units": "梓官分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6632,6 +6632,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T13:21:31.907356"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T13:38:31.674158"
       }
     ]
   },
@@ -6724,6 +6728,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T13:29:31.524008"
+      }
+    ]
+  },
+  "384dbde407bc34c9f5dc7a5b01e47674": {
+    "time": "2026/10/03 13:36:31",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市甲仙區",
+    "units": "甲仙分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T13:38:31.674158"
       }
     ]
   }
