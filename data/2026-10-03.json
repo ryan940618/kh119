@@ -12921,7 +12921,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區同明街",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12934,6 +12934,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T22:39:31.273661"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T22:40:31.126439"
       }
     ]
   },
@@ -12965,7 +12969,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12974,6 +12978,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T22:37:31.138923"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T22:40:31.126439"
+      }
+    ]
+  },
+  "19135d0a4f167cc47f87657839177e24": {
+    "time": "2026/10/03 22:38:51",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區鼎勇街",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T22:40:31.126439"
       }
     ]
   }
