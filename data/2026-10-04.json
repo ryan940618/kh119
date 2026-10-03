@@ -1699,11 +1699,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T07:20:31.422028"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T07:21:31.368402"
       }
     ]
   },
@@ -1713,11 +1717,29 @@
     "sub_category": "路倒",
     "location": "高雄市梓官區赤崁南路",
     "units": "梓官分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T07:20:31.422028"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T07:21:31.368402"
+      }
+    ]
+  },
+  "495af3456cfdb299b6c27adf1d2fd7ae": {
+    "time": "2026/10/04 07:20:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T07:21:31.368402"
       }
     ]
   }
