@@ -1961,7 +1961,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1978,6 +1978,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T07:55:31.548407"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T07:59:31.488234"
       }
     ]
   },
@@ -2054,6 +2058,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T07:56:31.908396"
+      }
+    ]
+  },
+  "5fc2132a8a500ace60b7798474c75648": {
+    "time": "2026/10/04 07:58:52",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T07:59:31.488234"
       }
     ]
   }
