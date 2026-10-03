@@ -9431,7 +9431,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9444,6 +9444,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T17:13:31.135041"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T17:30:31.318758"
       }
     ]
   },
@@ -9740,6 +9744,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T17:28:31.356734"
+      }
+    ]
+  },
+  "93140d0cb77dc548f7da948aeb9a12ba": {
+    "time": "2026/10/03 17:28:43",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區鎮華街",
+    "units": "成功分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T17:30:31.318758"
       }
     ]
   }
