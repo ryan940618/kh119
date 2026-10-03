@@ -4421,7 +4421,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區海邊路",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4434,6 +4434,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T10:40:31.693715"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T10:49:31.765290"
       }
     ]
   },
@@ -4531,7 +4535,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4540,6 +4544,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T10:43:31.718494"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T10:49:31.765290"
       }
     ]
   },
@@ -4567,7 +4575,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4576,6 +4584,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T10:44:31.769849"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T10:49:31.765290"
       }
     ]
   },
@@ -4608,6 +4620,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T10:47:31.613305"
+      }
+    ]
+  },
+  "83d4a1a7519e1903831df66554ceb156": {
+    "time": "2026/10/03 10:45:41",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "台南市佳里區",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-03T10:49:31.765290"
       }
     ]
   }
