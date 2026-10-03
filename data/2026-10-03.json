@@ -9321,7 +9321,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9338,6 +9338,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T17:18:31.416231"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T17:25:31.305898"
       }
     ]
   },
@@ -9587,7 +9591,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區力行路和明和街",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9596,6 +9600,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T17:21:31.280417"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T17:25:31.305898"
       }
     ]
   },
@@ -9623,7 +9631,7 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已到達",
@@ -9632,6 +9640,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T17:22:31.389252"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T17:25:31.305898"
       }
     ]
   },
@@ -9641,7 +9653,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9650,6 +9662,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T17:22:31.389252"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T17:25:31.305898"
       }
     ]
   },
@@ -9659,11 +9675,29 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區水管路",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T17:23:31.374221"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T17:25:31.305898"
+      }
+    ]
+  },
+  "993b85115ace1e205ca184025a111556": {
+    "time": "2026/10/03 17:24:25",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區成功路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T17:25:31.305898"
       }
     ]
   }
