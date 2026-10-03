@@ -11001,7 +11001,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區南華一路",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11018,6 +11018,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T19:18:32.113216"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T19:25:32.085823"
       }
     ]
   },
@@ -11350,6 +11354,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T19:23:32.082363"
+      }
+    ]
+  },
+  "cf5cc6e7b3f45d5131a136badb4098bc": {
+    "time": "2026/10/03 19:24:33",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區芎蕉路",
+    "units": "楠梓分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T19:25:32.085823"
       }
     ]
   }
