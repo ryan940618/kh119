@@ -9623,7 +9623,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區力行路和明和街",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9640,6 +9640,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T17:33:31.352228"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T17:39:32.205671"
       }
     ]
   },
@@ -9781,7 +9785,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區鎮華街",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -9790,6 +9794,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T17:35:31.373463"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T17:39:32.205671"
       }
     ]
   },
@@ -9831,11 +9839,15 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T17:36:31.619601"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T17:39:32.205671"
       }
     ]
   },
@@ -9845,11 +9857,15 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區中山東路",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T17:37:31.516161"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T17:39:32.205671"
       }
     ]
   }
