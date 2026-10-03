@@ -2019,7 +2019,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2036,6 +2036,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T07:57:31.529623"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T08:06:32.057454"
       }
     ]
   },
@@ -2290,6 +2294,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T08:03:31.735936"
+      }
+    ]
+  },
+  "4ca7964e86f68d777390bfe1b8a6a727": {
+    "time": "2026/10/03 08:06:01",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區過勇路",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T08:06:32.057454"
+      }
+    ]
+  },
+  "3be051c76112c06c6939a266e96b7831": {
+    "time": "2026/10/03 08:05:45",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區過勇路",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T08:06:32.057454"
       }
     ]
   }
