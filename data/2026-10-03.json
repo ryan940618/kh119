@@ -3409,7 +3409,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3422,6 +3422,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T09:28:31.842069"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T09:38:31.505086"
       }
     ]
   },
@@ -3599,11 +3603,15 @@
     "sub_category": "創傷",
     "location": "高雄市三民區九如二路",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T09:36:31.740579"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T09:38:31.505086"
       }
     ]
   },
@@ -3618,6 +3626,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T09:37:31.317205"
+      }
+    ]
+  },
+  "9376326036ed504f5ad50bce051803cd": {
+    "time": "2026/10/03 09:37:03",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區林森二路",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T09:38:31.505086"
       }
     ]
   }
