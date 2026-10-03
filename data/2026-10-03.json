@@ -12363,7 +12363,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12376,6 +12376,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T21:24:31.699786"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T21:25:31.817468"
       }
     ]
   },
@@ -12426,6 +12430,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T21:24:31.699786"
+      }
+    ]
+  },
+  "87c4c0877be6e415ac1030c499f129cf": {
+    "time": "2026/10/03 21:24:09",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鳳山區中山東路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T21:25:31.817468"
       }
     ]
   }
