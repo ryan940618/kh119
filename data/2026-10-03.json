@@ -3833,7 +3833,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區光華二路",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3842,6 +3842,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T09:51:31.453010"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T09:55:31.611793"
       }
     ]
   },
@@ -3887,11 +3891,43 @@
     "sub_category": "創傷",
     "location": "高雄市鼓山區河川街",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T09:52:31.405201"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T09:55:31.611793"
+      }
+    ]
+  },
+  "85f13ba60cc3bfe95f52f6c5c10bede7": {
+    "time": "2026/10/03 09:54:41",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區瑞屏路",
+    "units": "後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T09:55:31.611793"
+      }
+    ]
+  },
+  "3a30960f03950627ccc415a367425c06": {
+    "time": "2026/10/03 09:53:59",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T09:55:31.611793"
       }
     ]
   }
