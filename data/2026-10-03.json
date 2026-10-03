@@ -12035,7 +12035,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區大順二路",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12048,6 +12048,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T20:37:31.320275"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T20:50:31.381309"
       }
     ]
   },
@@ -12057,7 +12061,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12066,6 +12070,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T20:47:31.428126"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T20:50:31.381309"
+      }
+    ]
+  },
+  "17aeaa69f34b4ed4706cc8ba627ddaca": {
+    "time": "2026/10/03 20:49:22",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市前鎮區精忠街",
+    "units": "瑞隆分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T20:50:31.381309"
       }
     ]
   }
