@@ -5847,7 +5847,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區五甲一路和南福街",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5864,6 +5864,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T12:19:31.551086"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T12:23:31.426713"
       }
     ]
   },
@@ -5917,7 +5921,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5926,6 +5930,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T12:16:31.559084"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T12:23:31.426713"
       }
     ]
   },
@@ -6038,6 +6046,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T12:19:31.551086"
+      }
+    ]
+  },
+  "2c30bfe9adb367c31320d04d2b66cc4c": {
+    "time": "2026/10/03 12:22:40",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T12:23:31.426713"
       }
     ]
   }
