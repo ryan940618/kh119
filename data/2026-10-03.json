@@ -3357,7 +3357,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3374,6 +3374,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T09:33:31.424260"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T09:37:31.317205"
       }
     ]
   },
@@ -3600,6 +3604,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T09:36:31.740579"
+      }
+    ]
+  },
+  "68e0e05c97800e2c0deafac281683e09": {
+    "time": "2026/10/03 09:36:16",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區松江街",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T09:37:31.317205"
       }
     ]
   }
