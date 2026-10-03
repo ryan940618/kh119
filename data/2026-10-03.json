@@ -5553,7 +5553,7 @@
     "sub_category": "創傷",
     "location": "高雄市鼓山區美術館路",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5570,6 +5570,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T12:08:31.360758"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T12:15:31.375422"
       }
     ]
   },
@@ -5579,7 +5583,7 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區中山路",
     "units": "湖內分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -5592,6 +5596,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T12:02:31.677664"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T12:15:31.375422"
       }
     ]
   },
@@ -5868,6 +5876,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T12:13:31.374116"
+      }
+    ]
+  },
+  "37112d640e056ee86cc2de713e2765af": {
+    "time": "2026/10/03 12:14:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗山區",
+    "units": "旗山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T12:15:31.375422"
+      }
+    ]
+  },
+  "757aa192a60b930f677c0c23eb6141c8": {
+    "time": "2026/10/03 12:14:33",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T12:15:31.375422"
       }
     ]
   }
