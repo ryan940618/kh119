@@ -7279,7 +7279,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營小隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7292,6 +7292,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T14:22:31.323476"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T14:34:31.087523"
       }
     ]
   },
@@ -7319,7 +7323,7 @@
     "sub_category": "路倒",
     "location": "高雄市小港區龍興路",
     "units": "大林分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7332,6 +7336,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T14:25:31.109829"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T14:34:31.087523"
       }
     ]
   },
@@ -7489,7 +7497,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7498,6 +7506,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T14:29:31.343229"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T14:34:31.087523"
       }
     ]
   },
@@ -7543,11 +7555,15 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T14:33:31.423770"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T14:34:31.087523"
       }
     ]
   }
