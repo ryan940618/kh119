@@ -11155,7 +11155,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -11164,6 +11164,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T19:14:32.070262"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T19:22:32.511826"
       }
     ]
   },
@@ -11173,7 +11177,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -11182,6 +11186,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T19:18:32.113216"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T19:22:32.511826"
       }
     ]
   },
@@ -11235,7 +11243,7 @@
     "sub_category": "其他",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11244,6 +11252,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T19:19:32.084140"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T19:22:32.511826"
       }
     ]
   },
@@ -11285,7 +11297,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已受理",
@@ -11294,6 +11306,10 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T19:21:32.309062"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T19:22:32.511826"
       }
     ]
   },
@@ -11308,6 +11324,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T19:21:32.309062"
+      }
+    ]
+  },
+  "8db6ed4217bf248f7ffa4c03ee9efaae": {
+    "time": "2026/10/03 19:21:39",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳥松區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T19:22:32.511826"
       }
     ]
   }
