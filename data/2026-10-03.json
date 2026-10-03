@@ -5281,7 +5281,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -5294,6 +5294,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T11:36:32.120284"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T11:44:31.404341"
       }
     ]
   },
@@ -5325,7 +5329,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區辛亥路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5334,6 +5338,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T11:37:31.982938"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T11:44:31.404341"
       }
     ]
   },
@@ -5375,11 +5383,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T11:42:31.200468"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T11:44:31.404341"
       }
     ]
   },
@@ -5389,11 +5401,43 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T11:43:31.291925"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T11:44:31.404341"
+      }
+    ]
+  },
+  "d3414983d96189d86450c475d569d1f7": {
+    "time": "2026/10/03 11:43:56",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區博愛路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T11:44:31.404341"
+      }
+    ]
+  },
+  "01023f1f8e7977b4d7ebbdfc8afbfd18": {
+    "time": "2026/10/03 11:43:13",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區中華一路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T11:44:31.404341"
       }
     ]
   }
