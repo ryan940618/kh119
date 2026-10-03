@@ -5877,7 +5877,7 @@
     "sub_category": "其他",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5890,6 +5890,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T12:21:31.472926"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T12:38:31.532434"
       }
     ]
   },
@@ -6127,7 +6131,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區中正一路",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -6136,6 +6140,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T12:31:31.453463"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T12:38:31.532434"
       }
     ]
   },
@@ -6168,6 +6176,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T12:34:31.755580"
+      }
+    ]
+  },
+  "3078b72b43332bf89d8711cb559f796a": {
+    "time": "2026/10/03 12:37:35",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區建興路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T12:38:31.532434"
       }
     ]
   }
