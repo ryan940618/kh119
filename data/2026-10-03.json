@@ -9369,7 +9369,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區衙慶一街",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9386,6 +9386,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T17:21:31.280417"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T17:35:31.373463"
       }
     ]
   },
@@ -9515,7 +9519,7 @@
     "sub_category": "路倒",
     "location": "高雄市彌陀區中正北路",
     "units": "彌陀分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9528,6 +9532,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T17:18:31.416231"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T17:35:31.373463"
       }
     ]
   },
@@ -9769,11 +9777,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區鎮華街",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-03T17:30:31.318758"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T17:35:31.373463"
       }
     ]
   },
@@ -9797,11 +9809,15 @@
     "sub_category": "車禍",
     "location": "高雄市田寮區",
     "units": "崇德駐地",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T17:34:31.455980"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T17:35:31.373463"
       }
     ]
   }
