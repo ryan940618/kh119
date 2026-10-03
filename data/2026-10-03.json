@@ -9657,7 +9657,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區孟子路",
     "units": "左營小隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9670,6 +9670,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T17:40:31.884524"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T17:44:31.516577"
       }
     ]
   },
@@ -9930,6 +9934,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T17:43:31.572432"
+      }
+    ]
+  },
+  "42d826cf91e94f09ffa001ece70877a0": {
+    "time": "2026/10/03 17:43:02",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市旗津區高雄旗津貝殼博物館[高雄市旗津區旗津三路",
+    "units": "旗津分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T17:44:31.516577"
       }
     ]
   }
