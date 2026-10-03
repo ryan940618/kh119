@@ -5741,7 +5741,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5758,6 +5758,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T12:14:31.521872"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T12:17:31.503551"
       }
     ]
   },
@@ -5933,11 +5937,43 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T12:16:31.559084"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T12:17:31.503551"
+      }
+    ]
+  },
+  "b0bfd2637ffb0bddc392ff00adf42907": {
+    "time": "2026/10/03 12:16:50",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T12:17:31.503551"
+      }
+    ]
+  },
+  "474d4f9627d19d745669817822a9d501": {
+    "time": "2026/10/03 12:16:23",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鹽埕區北斗街",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T12:17:31.503551"
       }
     ]
   }
