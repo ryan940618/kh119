@@ -4833,7 +4833,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -4842,6 +4842,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T11:11:32.233486"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T11:26:32.118754"
       }
     ]
   },
@@ -4881,7 +4885,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4894,6 +4898,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T11:13:32.567667"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T11:26:32.118754"
       }
     ]
   },
@@ -5126,6 +5134,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T11:24:32.151203"
+      }
+    ]
+  },
+  "9260a5868d2ebb62b0d2f561307ac6ae": {
+    "time": "2026/10/03 11:25:22",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區華崗路和子三街",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T11:26:32.118754"
       }
     ]
   }
