@@ -2589,7 +2589,7 @@
     "sub_category": "急病",
     "location": "高雄市田寮區",
     "units": "田寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2602,6 +2602,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T08:39:31.916493"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T08:50:32.350023"
       }
     ]
   },
@@ -2805,7 +2809,7 @@
     "sub_category": "創傷",
     "location": "高雄市湖內區東方路",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2814,6 +2818,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T08:44:32.197478"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T08:50:32.350023"
       }
     ]
   },
@@ -2823,11 +2831,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-03T08:44:32.197478"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T08:50:32.350023"
       }
     ]
   },
@@ -2884,6 +2896,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T08:48:32.361468"
+      }
+    ]
+  },
+  "8e0f278ed86356f00c380ceb8baf90e4": {
+    "time": "2026/10/03 08:49:40",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市前鎮區實業路",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T08:50:32.350023"
       }
     ]
   }
