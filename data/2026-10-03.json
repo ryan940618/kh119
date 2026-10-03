@@ -7087,11 +7087,15 @@
     "sub_category": "車禍",
     "location": "高雄市梓官區大舍東路",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-03T14:05:31.891650"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T14:10:32.056982"
       }
     ]
   },
@@ -7119,11 +7123,15 @@
     "sub_category": "創傷",
     "location": "高雄市旗津區廟前路",
     "units": "旗津分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T14:08:32.053826"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T14:10:32.056982"
       }
     ]
   },
@@ -7147,11 +7155,29 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T14:09:31.973089"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T14:10:32.056982"
+      }
+    ]
+  },
+  "d6af5d4ce5ae38208dbff2774ff8e472": {
+    "time": "2026/10/03 14:09:35",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T14:10:32.056982"
       }
     ]
   }
