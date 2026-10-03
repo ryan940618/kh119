@@ -8395,7 +8395,7 @@
     "sub_category": "路倒",
     "location": "高雄市旗山區華中街",
     "units": "旗山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8408,6 +8408,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T15:46:31.708193"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T15:53:31.764283"
       }
     ]
   },
@@ -8552,6 +8556,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T15:52:31.627563"
+      }
+    ]
+  },
+  "83e1a44a2868313de89b8463946ed368": {
+    "time": "2026/10/03 15:52:05",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市彌陀區",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T15:53:31.764283"
       }
     ]
   }
