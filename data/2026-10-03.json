@@ -7049,7 +7049,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7066,6 +7066,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T14:20:31.119292"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T14:23:30.978062"
       }
     ]
   },
@@ -7229,7 +7233,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7242,6 +7246,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T14:15:32.116852"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T14:23:30.978062"
       }
     ]
   },
@@ -7364,6 +7372,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T14:21:31.337904"
+      }
+    ]
+  },
+  "66a74349750b383c5ca328a7d22f02b1": {
+    "time": "2026/10/03 14:22:00",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市橋頭區仕隆路",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T14:23:30.978062"
+      }
+    ]
+  },
+  "c37b67ebb27b825de273379befe5fe36": {
+    "time": "2026/10/03 14:21:49",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T14:23:30.978062"
       }
     ]
   }
