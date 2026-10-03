@@ -11291,7 +11291,7 @@
     "sub_category": "其他",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11300,6 +11300,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T19:20:32.522682"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T19:27:32.100022"
       }
     ]
   },
@@ -11372,6 +11376,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T19:25:32.085823"
+      }
+    ]
+  },
+  "67acccc7f24123447d29da9534677ae6": {
+    "time": "2026/10/03 19:26:40",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區中山一路",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T19:27:32.100022"
       }
     ]
   }
