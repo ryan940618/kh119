@@ -4345,7 +4345,7 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區永盛街",
     "units": "和發分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4362,6 +4362,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T10:47:31.613305"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T11:09:32.228825"
       }
     ]
   },
@@ -4863,11 +4867,29 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區擴建路",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T11:08:32.010030"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T11:09:32.228825"
+      }
+    ]
+  },
+  "d95344daf9b7af7b17f66a897d4b91db": {
+    "time": "2026/10/03 11:09:09",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區仁愛路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T11:09:32.228825"
       }
     ]
   }
