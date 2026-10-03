@@ -6805,7 +6805,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6818,6 +6818,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T13:55:31.847123"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T13:58:32.023395"
       }
     ]
   },
@@ -6935,11 +6939,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T13:55:31.847123"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T13:58:32.023395"
       }
     ]
   },
@@ -6967,11 +6975,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T13:57:31.943202"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T13:58:32.023395"
       }
     ]
   },
@@ -6981,11 +6993,29 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T13:57:31.943202"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T13:58:32.023395"
+      }
+    ]
+  },
+  "0a03f8fe8c43d54712ef099da0097fb4": {
+    "time": "2026/10/03 13:57:14",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市新興區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T13:58:32.023395"
       }
     ]
   }
