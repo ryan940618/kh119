@@ -9917,7 +9917,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區中山東路",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9934,6 +9934,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T18:00:31.641686"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T18:16:31.726693"
       }
     ]
   },
@@ -10299,11 +10303,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T18:12:31.535590"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T18:16:31.726693"
       }
     ]
   },
@@ -10336,6 +10344,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T18:15:31.573184"
+      }
+    ]
+  },
+  "bfefed2bfc18c3cbc04dafcba55e22b5": {
+    "time": "2026/10/03 18:15:22",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T18:16:31.726693"
       }
     ]
   }
