@@ -7643,7 +7643,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區後昌路",
     "units": "後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7660,6 +7660,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T14:46:31.275133"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T14:49:31.303719"
       }
     ]
   },
@@ -7758,6 +7762,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T14:48:31.291017"
+      }
+    ]
+  },
+  "82384c5174a4b4f945da4499e5530e91": {
+    "time": "2026/10/03 14:48:12",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區大利街",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T14:49:31.303719"
+      }
+    ]
+  },
+  "62fd86a4c6955bf6f607b4c028d2028f": {
+    "time": "2026/10/03 14:47:51",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "仁武分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T14:49:31.303719"
       }
     ]
   }
