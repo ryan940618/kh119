@@ -1693,7 +1693,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區大中都會快速道路",
     "units": "左營小隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1710,6 +1710,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T07:27:31.214815"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T07:34:31.556081"
       }
     ]
   },
@@ -1827,11 +1831,29 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區中山路",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T07:31:31.375809"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T07:34:31.556081"
+      }
+    ]
+  },
+  "52984c8fc1f023a52734ddc7d9f9706c": {
+    "time": "2026/10/04 07:33:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳥松分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T07:34:31.556081"
       }
     ]
   }
