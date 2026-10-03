@@ -5499,7 +5499,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區五甲一路和南福街",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5508,6 +5508,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T11:52:31.283075"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T11:56:31.219991"
       }
     ]
   },
@@ -5535,11 +5539,15 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區中山路",
     "units": "湖內分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-03T11:51:31.173265"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T11:56:31.219991"
       }
     ]
   },
@@ -5572,6 +5580,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T11:55:31.215553"
+      }
+    ]
+  },
+  "343878be39b512e309753bb88f2bd3b2": {
+    "time": "2026/10/03 11:55:37",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T11:56:31.219991"
+      }
+    ]
+  },
+  "c04c83cd52b7407bf1f044955a605544": {
+    "time": "2026/10/03 11:55:26",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T11:56:31.219991"
+      }
+    ]
+  },
+  "f899a140f1ccf4011563417822d8b1e6": {
+    "time": "2026/10/03 11:54:28",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區大順一路",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T11:56:31.219991"
       }
     ]
   }
