@@ -7227,7 +7227,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7240,6 +7240,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T14:20:31.119292"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T14:36:31.283876"
       }
     ]
   },
@@ -7573,11 +7577,43 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T14:35:31.178731"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T14:36:31.283876"
+      }
+    ]
+  },
+  "9e5ae1158a5adf296b6a997f82baf219": {
+    "time": "2026/10/03 14:36:16",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區後昌路",
+    "units": "後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T14:36:31.283876"
+      }
+    ]
+  },
+  "935d9107250dc133ca182f68442b828a": {
+    "time": "2026/10/03 14:34:46",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市美濃區和興路",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T14:36:31.283876"
       }
     ]
   }
