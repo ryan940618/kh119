@@ -325,7 +325,7 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區德祥路",
     "units": "後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -338,6 +338,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T01:26:31.261264"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T01:36:31.611730"
       }
     ]
   },
@@ -409,11 +413,29 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "林園分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T01:35:31.463877"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T01:36:31.611730"
+      }
+    ]
+  },
+  "092c1199a49f61865a873e2e2565dddc": {
+    "time": "2026/10/04 01:35:10",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T01:36:31.611730"
       }
     ]
   }
