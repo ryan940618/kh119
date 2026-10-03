@@ -8031,7 +8031,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8040,6 +8040,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T15:10:31.621899"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T15:13:31.571969"
       }
     ]
   },
@@ -8049,11 +8053,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T15:11:31.460824"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T15:13:31.571969"
       }
     ]
   },
@@ -8063,7 +8071,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8072,6 +8080,38 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T15:12:31.445954"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T15:13:31.571969"
+      }
+    ]
+  },
+  "9b12a243536f5135a680bcdfddc0402d": {
+    "time": "2026/10/03 15:12:10",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市阿蓮區",
+    "units": "阿蓮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T15:13:31.571969"
+      }
+    ]
+  },
+  "15f0715e79c860229b9f96fb92c2c50f": {
+    "time": "2026/10/03 15:12:00",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市旗山區",
+    "units": "旗山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T15:13:31.571969"
       }
     ]
   }
