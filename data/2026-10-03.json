@@ -5217,7 +5217,7 @@
     "sub_category": "急病",
     "location": "高雄市永安區",
     "units": "永安分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5230,6 +5230,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T11:32:32.104350"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T11:38:32.221916"
       }
     ]
   },
@@ -5306,6 +5310,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T11:37:31.982938"
+      }
+    ]
+  },
+  "dd32efaae11f04fe26fdaee0edd6d9ba": {
+    "time": "2026/10/03 11:36:34",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市杉林區",
+    "units": "杉林分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T11:38:32.221916"
       }
     ]
   }
