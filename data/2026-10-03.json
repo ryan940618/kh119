@@ -6553,11 +6553,15 @@
     "sub_category": "急病",
     "location": "高雄市永安區",
     "units": "永安分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T13:13:31.660713"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T13:15:31.850991"
       }
     ]
   },
@@ -6567,11 +6571,29 @@
     "sub_category": "創傷",
     "location": "高雄市梓官區港九街",
     "units": "梓官分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T13:14:31.704944"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T13:15:31.850991"
+      }
+    ]
+  },
+  "d6a31284818dc45c721a72076146a319": {
+    "time": "2026/10/03 13:14:43",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市美濃區",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T13:15:31.850991"
       }
     ]
   }
