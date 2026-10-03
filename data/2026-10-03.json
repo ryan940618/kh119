@@ -6255,7 +6255,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6268,6 +6268,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T12:48:31.511288"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T13:08:31.730167"
       }
     ]
   },
@@ -6453,7 +6457,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6466,6 +6470,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T13:07:31.875889"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T13:08:31.730167"
       }
     ]
   },
@@ -6484,6 +6492,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T13:05:31.666044"
+      }
+    ]
+  },
+  "dce067943e0b16da8d9e5fc137e98398": {
+    "time": "2026/10/03 13:07:49",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區北昌路和永義街",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T13:08:31.730167"
       }
     ]
   }
