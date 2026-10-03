@@ -1069,11 +1069,15 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T04:48:31.413645"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T04:54:31.415175"
       }
     ]
   },
@@ -1083,7 +1087,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1092,6 +1096,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T04:49:31.474333"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T04:54:31.415175"
+      }
+    ]
+  },
+  "cde24eb014a4b29af10eea095f347111": {
+    "time": "2026/10/04 04:53:19",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市楠梓區大學二十九路",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T04:54:31.415175"
       }
     ]
   }
