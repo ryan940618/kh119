@@ -4623,7 +4623,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4636,6 +4636,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T10:49:31.765290"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T11:10:31.875946"
       }
     ]
   },
@@ -4885,11 +4889,15 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區仁愛路",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T11:09:32.228825"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T11:10:31.875946"
       }
     ]
   }
