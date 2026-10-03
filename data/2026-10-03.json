@@ -9099,7 +9099,7 @@
     "sub_category": "路倒",
     "location": "高雄市左營區自由三路",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9116,6 +9116,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T16:56:31.209894"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T17:03:30.977521"
       }
     ]
   },
@@ -9261,7 +9265,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區裕誠路",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9270,6 +9274,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T16:58:31.276023"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T17:03:30.977521"
       }
     ]
   },
@@ -9302,6 +9310,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T17:02:31.275508"
+      }
+    ]
+  },
+  "b7cb9127700b3a1a949f5aa0458d30b5": {
+    "time": "2026/10/03 17:02:35",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T17:03:30.977521"
+      }
+    ]
+  },
+  "c9861aa95ade3ce68ede051075953256": {
+    "time": "2026/10/03 17:01:43",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市前鎮區衙慶一街",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T17:03:30.977521"
       }
     ]
   }
