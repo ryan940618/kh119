@@ -1463,11 +1463,15 @@
     "sub_category": "車禍",
     "location": "高雄市大社區中正路",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T06:39:31.061132"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T06:45:31.214668"
       }
     ]
   },
@@ -1477,11 +1481,43 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T06:43:31.113859"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T06:45:31.214668"
+      }
+    ]
+  },
+  "f0cc10034aa79e7b0e0cab64ebc7aaf2": {
+    "time": "2026/10/04 06:44:29",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區水管路",
+    "units": "鳥松分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T06:45:31.214668"
+      }
+    ]
+  },
+  "d1bf57460f7715863e0cbcdb7d6f559b": {
+    "time": "2026/10/04 06:43:43",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市茄萣區",
+    "units": "茄萣分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T06:45:31.214668"
       }
     ]
   }
