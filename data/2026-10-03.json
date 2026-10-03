@@ -9965,7 +9965,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區角宿路",
     "units": "燕巢分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9978,6 +9978,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T17:49:31.457317"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T18:01:31.570531"
       }
     ]
   },
@@ -10169,7 +10173,7 @@
     "sub_category": "車禍",
     "location": "高雄市旗津區中洲三路",
     "units": "旗津分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10178,6 +10182,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T17:55:31.472603"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T18:01:31.570531"
       }
     ]
   },
@@ -10192,6 +10200,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T17:59:31.559697"
+      }
+    ]
+  },
+  "377e49f3c0ee2ff358e7cdcc633366fe": {
+    "time": "2026/10/03 18:00:31",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區廣東二街",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T18:01:31.570531"
       }
     ]
   }
