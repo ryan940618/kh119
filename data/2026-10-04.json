@@ -1813,7 +1813,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1826,6 +1826,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T07:37:31.650163"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T07:45:31.651551"
       }
     ]
   },
@@ -1925,11 +1929,29 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T07:44:31.672659"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T07:45:31.651551"
+      }
+    ]
+  },
+  "d0b06f0622e68504e8737d811b6c9586": {
+    "time": "2026/10/04 07:44:43",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T07:45:31.651551"
       }
     ]
   }
