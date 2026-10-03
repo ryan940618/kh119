@@ -4911,7 +4911,7 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區擴建路",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4928,6 +4928,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T11:25:32.023844"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T11:30:32.179667"
       }
     ]
   },
@@ -4981,7 +4985,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4994,6 +4998,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T11:19:32.094328"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T11:30:32.179667"
       }
     ]
   },
@@ -5168,6 +5176,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T11:27:32.138119"
+      }
+    ]
+  },
+  "948531f504e99db8fdef513da5e436af": {
+    "time": "2026/10/03 11:29:37",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市永安區",
+    "units": "永安分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T11:30:32.179667"
+      }
+    ]
+  },
+  "26447144f3ecd2edd0980b60814d7567": {
+    "time": "2026/10/03 11:29:33",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區熱河一街",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T11:30:32.179667"
       }
     ]
   }
