@@ -11167,7 +11167,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -11180,6 +11180,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T19:22:32.511826"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T19:31:32.510517"
       }
     ]
   },
@@ -11399,11 +11403,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區芎蕉路",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-03T19:25:32.085823"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T19:31:32.510517"
       }
     ]
   },
@@ -11422,6 +11430,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T19:28:32.275760"
+      }
+    ]
+  },
+  "17b0f7f19cf1e6306f4a97fab436e3ad": {
+    "time": "2026/10/03 19:30:40",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市杉林區",
+    "units": "杉林分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T19:31:32.510517"
       }
     ]
   }
