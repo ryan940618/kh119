@@ -8407,7 +8407,7 @@
     "sub_category": "路倒",
     "location": "高雄市旗山區華中街",
     "units": "旗山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8424,6 +8424,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T15:53:31.764283"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T15:59:31.738602"
       }
     ]
   },
@@ -8583,11 +8587,15 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區濱山街",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-03T15:52:31.627563"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T15:59:31.738602"
       }
     ]
   },
@@ -8628,6 +8636,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T15:58:31.703405"
+      }
+    ]
+  },
+  "7dd29dbf60f192e27c9aad098f37a26f": {
+    "time": "2026/10/03 15:59:00",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T15:59:31.738602"
+      }
+    ]
+  },
+  "dd3ee0595b32434e28a624f037ca32e2": {
+    "time": "2026/10/03 15:58:47",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T15:59:31.738602"
       }
     ]
   }
