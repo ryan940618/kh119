@@ -12937,7 +12937,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區同明街",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12954,6 +12954,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T22:40:31.126439"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T22:46:31.231769"
       }
     ]
   },
@@ -12985,7 +12989,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12998,6 +13002,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T22:40:31.126439"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T22:46:31.231769"
       }
     ]
   },
@@ -13056,6 +13064,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T22:44:31.192879"
+      }
+    ]
+  },
+  "20b03a2437d4122b933e67d51f1d0d99": {
+    "time": "2026/10/03 22:45:30",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市仁武區京吉六路",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T22:46:31.231769"
       }
     ]
   }
