@@ -7847,7 +7847,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區復興一路",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7860,6 +7860,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T15:00:31.442827"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T15:09:31.463599"
       }
     ]
   },
@@ -7989,11 +7993,29 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T15:06:31.484724"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T15:09:31.463599"
+      }
+    ]
+  },
+  "59ab71d7c5117f42734bafec2149de3b": {
+    "time": "2026/10/03 15:08:39",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市茄萣區",
+    "units": "茄萣分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T15:09:31.463599"
       }
     ]
   }
