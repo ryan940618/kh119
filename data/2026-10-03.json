@@ -7383,7 +7383,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區德民路",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -7396,6 +7396,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T14:39:31.076112"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T14:46:31.275133"
       }
     ]
   },
@@ -7631,7 +7635,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區後昌路",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7644,6 +7648,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T14:40:31.213575"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T14:46:31.275133"
       }
     ]
   },
@@ -7725,11 +7733,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區瑞田街",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T14:44:31.116086"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T14:46:31.275133"
       }
     ]
   }
