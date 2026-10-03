@@ -8049,7 +8049,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8066,6 +8066,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T15:38:31.731476"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T15:49:31.638643"
       }
     ]
   },
@@ -8484,6 +8488,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T15:47:31.620853"
+      }
+    ]
+  },
+  "aebabd51f7a5af67dd5dc9da7b3ec649": {
+    "time": "2026/10/03 15:48:13",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市新興區中山一路",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T15:49:31.638643"
       }
     ]
   }
