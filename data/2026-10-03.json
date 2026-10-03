@@ -6805,7 +6805,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6814,6 +6814,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T13:49:31.718096"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T13:55:31.847123"
       }
     ]
   },
@@ -6881,11 +6885,15 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區明華路",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T13:53:31.768475"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T13:55:31.847123"
       }
     ]
   },
@@ -6914,6 +6922,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T13:54:31.904311"
+      }
+    ]
+  },
+  "d215b210887d20d35a04b879d362fd25": {
+    "time": "2026/10/03 13:54:40",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T13:55:31.847123"
+      }
+    ]
+  },
+  "b7bbc5e292629cab90c0112b0b426815": {
+    "time": "2026/10/03 13:52:49",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T13:55:31.847123"
       }
     ]
   }
