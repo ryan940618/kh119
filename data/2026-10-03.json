@@ -2597,7 +2597,7 @@
     "sub_category": "急病",
     "location": "高雄市田寮區",
     "units": "田寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2614,6 +2614,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T08:50:32.350023"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T09:06:31.216202"
       }
     ]
   },
@@ -2801,7 +2805,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -2810,6 +2814,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T08:48:32.361468"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T09:06:31.216202"
       }
     ]
   },
@@ -3115,11 +3123,15 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區京吉五路",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T09:05:31.181814"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T09:06:31.216202"
       }
     ]
   }
