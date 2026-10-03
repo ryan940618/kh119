@@ -2997,7 +2997,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3006,6 +3006,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T08:55:32.275863"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T09:02:31.025628"
       }
     ]
   },
@@ -3064,6 +3068,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T09:00:31.077365"
+      }
+    ]
+  },
+  "01986958e1de2fa99d1d9398c5258c60": {
+    "time": "2026/10/03 09:01:06",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區和平路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T09:02:31.025628"
       }
     ]
   }
