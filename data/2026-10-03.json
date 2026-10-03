@@ -12069,7 +12069,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12086,6 +12086,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T20:56:31.534330"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T21:07:31.490882"
       }
     ]
   },
@@ -12225,7 +12229,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12234,6 +12238,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T21:02:31.630724"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T21:07:31.490882"
       }
     ]
   },
@@ -12270,6 +12278,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T21:04:31.485263"
+      }
+    ]
+  },
+  "da98fae8141c51cabe0c308d2d5de4e6": {
+    "time": "2026/10/03 21:06:08",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區翠亨南路",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T21:07:31.490882"
       }
     ]
   }
