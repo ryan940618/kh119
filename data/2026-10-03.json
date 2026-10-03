@@ -13019,7 +13019,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區鼎勇街",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -13032,6 +13032,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T22:45:31.343505"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T22:49:31.427817"
       }
     ]
   },
@@ -13094,6 +13098,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T22:47:31.249798"
+      }
+    ]
+  },
+  "69565604dbfd03523ad76e6f84f028c6": {
+    "time": "2026/10/03 22:48:32",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T22:49:31.427817"
       }
     ]
   }
