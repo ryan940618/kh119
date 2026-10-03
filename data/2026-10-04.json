@@ -1249,7 +1249,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1266,6 +1266,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T06:10:31.925005"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T06:15:30.993095"
       }
     ]
   },
@@ -1376,6 +1380,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T06:14:30.983358"
+      }
+    ]
+  },
+  "8a4e1372a61bbdb296b8bf04bb6fc97a": {
+    "time": "2026/10/04 06:14:37",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市小港區高鳳路",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T06:15:30.993095"
       }
     ]
   }
