@@ -12333,11 +12333,15 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區新強路",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T21:17:31.812464"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T21:20:31.770118"
       }
     ]
   },
@@ -12370,6 +12374,20 @@
       {
         "status": "已到院",
         "timestamp": "2026-10-03T21:17:31.812464"
+      }
+    ]
+  },
+  "cee94ab42987f9428a5b76ce4d735737": {
+    "time": "2026/10/03 21:20:04",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T21:20:31.770118"
       }
     ]
   }
