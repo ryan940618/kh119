@@ -9561,7 +9561,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9570,6 +9570,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T17:18:31.416231"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T17:23:31.374221"
       }
     ]
   },
@@ -9642,6 +9646,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T17:22:31.389252"
+      }
+    ]
+  },
+  "7a8bbc05210afe179f929130a2106ae2": {
+    "time": "2026/10/03 17:21:54",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區水管路",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T17:23:31.374221"
       }
     ]
   }
