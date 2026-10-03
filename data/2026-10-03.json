@@ -9791,7 +9791,7 @@
     "sub_category": "創傷",
     "location": "高雄市林園區海墘路",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -9804,6 +9804,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T17:43:31.572432"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T17:50:31.423264"
       }
     ]
   },
@@ -10009,11 +10013,15 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T17:46:31.364448"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T17:50:31.423264"
       }
     ]
   },
@@ -10023,11 +10031,15 @@
     "sub_category": "創傷",
     "location": "高雄市旗津區高雄旗津三路",
     "units": "旗津分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-03T17:46:31.364448"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T17:50:31.423264"
       }
     ]
   },
@@ -10051,11 +10063,15 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區新生路",
     "units": "前鎮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T17:49:31.457317"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T17:50:31.423264"
       }
     ]
   }
