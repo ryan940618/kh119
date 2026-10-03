@@ -5473,7 +5473,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區中華一路",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5490,6 +5490,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T11:55:31.215553"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T11:59:31.407621"
       }
     ]
   },
@@ -5557,7 +5561,7 @@
     "sub_category": "創傷",
     "location": "高雄市鼓山區美術東二路",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5566,6 +5570,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T11:52:31.283075"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T11:59:31.407621"
       }
     ]
   },
@@ -5589,11 +5597,15 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T11:56:31.219991"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T11:59:31.407621"
       }
     ]
   },
@@ -5662,6 +5674,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T11:58:31.298350"
+      }
+    ]
+  },
+  "066eb0649191542ba28c41d0613ae4bb": {
+    "time": "2026/10/03 11:58:24",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區一心二路",
+    "units": "瑞隆分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T11:59:31.407621"
       }
     ]
   }
