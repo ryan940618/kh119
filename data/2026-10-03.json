@@ -2567,7 +2567,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2580,6 +2580,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T08:40:31.979493"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T08:54:32.199898"
       }
     ]
   },
@@ -2667,7 +2671,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -2680,6 +2684,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T08:51:32.400215"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T08:54:32.199898"
       }
     ]
   },
@@ -2940,6 +2948,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T08:53:32.244976"
+      }
+    ]
+  },
+  "e4e8323368d42a3ad624979223b91031": {
+    "time": "2026/10/03 08:53:18",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T08:54:32.199898"
       }
     ]
   }
