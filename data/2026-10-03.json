@@ -2611,7 +2611,7 @@
     "sub_category": "創傷",
     "location": "高雄市路竹區復興路",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2624,6 +2624,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T08:40:31.979493"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T08:48:32.361468"
       }
     ]
   },
@@ -2765,11 +2769,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-03T08:41:32.415883"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T08:48:32.361468"
       }
     ]
   },
@@ -2779,11 +2787,15 @@
     "sub_category": "創傷",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-03T08:41:32.415883"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T08:48:32.361468"
       }
     ]
   },
@@ -2858,6 +2870,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T08:47:32.172348"
+      }
+    ]
+  },
+  "81d0bb1c4c917eb39ed46c1799cdf4a5": {
+    "time": "2026/10/03 08:46:18",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區義大二路",
+    "units": "仁武分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T08:48:32.361468"
       }
     ]
   }
