@@ -7899,7 +7899,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7916,6 +7916,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T15:18:31.485036"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T15:26:31.487374"
       }
     ]
   },
@@ -7999,7 +8003,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8012,6 +8016,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T15:15:31.666162"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T15:26:31.487374"
       }
     ]
   },
@@ -8069,7 +8077,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8078,6 +8086,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T15:13:31.571969"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T15:26:31.487374"
       }
     ]
   },
@@ -8109,11 +8121,15 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-03T15:13:31.571969"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T15:26:31.487374"
       }
     ]
   },
@@ -8128,6 +8144,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T15:13:31.571969"
+      }
+    ]
+  },
+  "a9d589ab3d5598b6f303bb9f794d8754": {
+    "time": "2026/10/03 15:25:44",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區左營大路",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T15:26:31.487374"
+      }
+    ]
+  },
+  "dd916baecc6eeae65b51db5f477901c9": {
+    "time": "2026/10/03 15:24:20",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市前鎮區北一路",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T15:26:31.487374"
       }
     ]
   }
