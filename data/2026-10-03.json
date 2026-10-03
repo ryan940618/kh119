@@ -5005,7 +5005,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區高楠公路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5014,6 +5014,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T11:21:31.998541"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T11:24:32.151203"
       }
     ]
   },
@@ -5059,11 +5063,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區博愛路",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T11:22:32.244822"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T11:24:32.151203"
       }
     ]
   },
@@ -5087,11 +5095,29 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T11:23:32.025577"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T11:24:32.151203"
+      }
+    ]
+  },
+  "3d55058b5daf1b8a2419ef5c9d9f241c": {
+    "time": "2026/10/03 11:22:16",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T11:24:32.151203"
       }
     ]
   }
