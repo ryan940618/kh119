@@ -10127,7 +10127,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區新生路",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10144,6 +10144,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T18:14:31.610130"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T18:21:31.718179"
       }
     ]
   },
@@ -10347,7 +10351,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10356,6 +10360,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T18:15:31.573184"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T18:21:31.718179"
       }
     ]
   },
@@ -10388,6 +10396,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T18:17:31.849713"
+      }
+    ]
+  },
+  "92cfb7258552acd7c12c630b5228369a": {
+    "time": "2026/10/03 18:20:27",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區崇德路",
+    "units": "左營分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T18:21:31.718179"
       }
     ]
   }
