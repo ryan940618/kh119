@@ -3611,7 +3611,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區新下街",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3624,6 +3624,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T09:35:31.439873"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T10:06:31.679473"
       }
     ]
   },
@@ -4090,6 +4094,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T10:05:31.559017"
+      }
+    ]
+  },
+  "8d32a9fb96341eb91ffedd41fa81a96a": {
+    "time": "2026/10/03 10:03:47",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T10:06:31.679473"
       }
     ]
   }
