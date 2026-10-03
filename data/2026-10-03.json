@@ -10301,7 +10301,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10314,6 +10314,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T18:17:31.849713"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T18:25:31.780657"
       }
     ]
   },
@@ -10389,7 +10393,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10398,6 +10402,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T18:19:31.556535"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T18:25:31.780657"
       }
     ]
   },
@@ -10407,11 +10415,15 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區廣東二街",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-03T18:17:31.849713"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T18:25:31.780657"
       }
     ]
   },
@@ -10472,6 +10484,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T18:23:31.750039"
+      }
+    ]
+  },
+  "c3c3a501c7073632be1ca7b7e2f5191f": {
+    "time": "2026/10/03 18:24:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T18:25:31.780657"
       }
     ]
   }
