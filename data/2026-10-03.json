@@ -8009,7 +8009,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8018,6 +8018,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T15:09:31.463599"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T15:12:31.445954"
       }
     ]
   },
@@ -8059,11 +8063,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T15:11:31.460824"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T15:12:31.445954"
       }
     ]
   }
