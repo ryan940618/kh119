@@ -3469,7 +3469,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營小隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3486,6 +3486,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T09:26:31.505280"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T09:50:31.780484"
       }
     ]
   },
@@ -3723,7 +3727,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區仁壽南路",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3736,6 +3740,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T09:48:31.630017"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T09:50:31.780484"
       }
     ]
   },
@@ -3764,6 +3772,62 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T09:49:31.644779"
+      }
+    ]
+  },
+  "b4c6686ea0744335e2cbe90646deca12": {
+    "time": "2026/10/03 09:49:29",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市旗山區大同街",
+    "units": "旗山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T09:50:31.780484"
+      }
+    ]
+  },
+  "51faddded94b84ee6e48757f671e549c": {
+    "time": "2026/10/03 09:49:19",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T09:50:31.780484"
+      }
+    ]
+  },
+  "1b45cf420172574fae77f2e41b33ff72": {
+    "time": "2026/10/03 09:49:15",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市前鎮區光華二路",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T09:50:31.780484"
+      }
+    ]
+  },
+  "36f8a38b28235f44695dfb93983ed15e": {
+    "time": "2026/10/03 09:48:56",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鳳山區凱旋路",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T09:50:31.780484"
       }
     ]
   }
