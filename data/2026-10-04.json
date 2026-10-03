@@ -1911,7 +1911,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區天祥一路",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1920,6 +1920,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T07:44:31.672659"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T07:46:31.579000"
       }
     ]
   },
@@ -1952,6 +1956,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T07:45:31.651551"
+      }
+    ]
+  },
+  "e9914c5a414c8bf9047c9e4cf604be6c": {
+    "time": "2026/10/04 07:44:43",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市左營區子華路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T07:46:31.579000"
       }
     ]
   }
