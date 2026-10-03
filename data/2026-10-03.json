@@ -12091,11 +12091,15 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區精忠街",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-03T20:50:31.381309"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T20:55:31.510297"
       }
     ]
   },
@@ -12142,6 +12146,48 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T20:54:31.603984"
+      }
+    ]
+  },
+  "3702d444b57a0d556c5cd23616835f1c": {
+    "time": "2026/10/03 20:54:18",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市楠梓區大學東路",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T20:55:31.510297"
+      }
+    ]
+  },
+  "9944e1106159cbb09ec30413455de698": {
+    "time": "2026/10/03 20:54:05",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T20:55:31.510297"
+      }
+    ]
+  },
+  "aa2e4037415c1c3a5678b2fe017824b9": {
+    "time": "2026/10/03 20:53:50",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市茄萣區濱海路",
+    "units": "茄萣分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T20:55:31.510297"
       }
     ]
   }
