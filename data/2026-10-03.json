@@ -6205,7 +6205,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區建興路",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6214,6 +6214,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T12:39:31.401064"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T12:43:31.379148"
       }
     ]
   },
@@ -6241,11 +6245,43 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T12:42:31.441971"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T12:43:31.379148"
+      }
+    ]
+  },
+  "8cd4fd0cab9006029b6db697454565f1": {
+    "time": "2026/10/03 12:42:48",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區中和街",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T12:43:31.379148"
+      }
+    ]
+  },
+  "073b9d1e3b2655f3da48570f4a7e9d35": {
+    "time": "2026/10/03 12:41:55",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T12:43:31.379148"
       }
     ]
   }
