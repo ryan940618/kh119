@@ -325,7 +325,7 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區德祥路",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -334,6 +334,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T01:15:31.313711"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T01:26:31.261264"
       }
     ]
   },
@@ -343,11 +347,29 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T01:21:31.564358"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T01:26:31.261264"
+      }
+    ]
+  },
+  "85db32e702a96c9a5b692fbc54795ff5": {
+    "time": "2026/10/04 01:25:28",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T01:26:31.261264"
       }
     ]
   }
