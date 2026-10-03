@@ -695,7 +695,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區察哈爾二街",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -712,6 +712,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T02:46:32.078813"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T02:53:32.181798"
       }
     ]
   },
@@ -734,6 +738,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T02:44:31.869966"
+      }
+    ]
+  },
+  "69757eb33ca11d86fbea1df94ff2f343": {
+    "time": "2026/10/04 02:52:53",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市左營區新庄仔路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T02:53:32.181798"
       }
     ]
   }
