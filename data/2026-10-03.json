@@ -3815,7 +3815,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3824,6 +3824,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T09:52:31.405201"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T09:57:31.531778"
       }
     ]
   },
@@ -3941,11 +3945,29 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區仁昌街",
     "units": "右昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T09:56:31.533610"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T09:57:31.531778"
+      }
+    ]
+  },
+  "afb833f4c7cc47de14ba0fdb1bf09fd8": {
+    "time": "2026/10/03 09:56:16",
+    "category": "火災",
+    "sub_category": "一般(集合)住宅",
+    "location": "高雄市楠梓區高雄監理站[高雄市楠梓區德民路",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T09:57:31.531778"
       }
     ]
   }
