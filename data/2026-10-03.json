@@ -11531,7 +11531,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11544,6 +11544,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T19:40:31.151342"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T19:55:31.180506"
       }
     ]
   },
@@ -11651,11 +11655,29 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區一心一路",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T19:54:31.380709"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T19:55:31.180506"
+      }
+    ]
+  },
+  "76d4e8c002ce7d0c8d589c49ca4c586e": {
+    "time": "2026/10/03 19:54:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T19:55:31.180506"
       }
     ]
   }
