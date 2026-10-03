@@ -3655,7 +3655,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區九如二路",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3668,6 +3668,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T09:40:31.797522"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-03T09:58:31.391037"
       }
     ]
   },
@@ -3859,7 +3863,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區凱旋路",
     "units": "鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3868,6 +3872,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T09:53:31.799252"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T09:58:31.391037"
       }
     ]
   },
@@ -3963,11 +3971,29 @@
     "sub_category": "一般(集合)住宅",
     "location": "高雄市楠梓區高雄監理站[高雄市楠梓區德民路",
     "units": "楠梓分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T09:57:31.531778"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T09:58:31.391037"
+      }
+    ]
+  },
+  "3aa0a2b82e15e733491190bed792d5ca": {
+    "time": "2026/10/03 09:56:37",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區中崙寮路",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T09:58:31.391037"
       }
     ]
   }
