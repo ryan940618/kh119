@@ -6359,7 +6359,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區高楠公路",
     "units": "後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -6372,6 +6372,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-03T13:04:31.679876"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-03T13:10:31.693139"
       }
     ]
   },
@@ -6487,7 +6491,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6496,6 +6500,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T13:05:31.666044"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T13:10:31.693139"
       }
     ]
   },
@@ -6514,6 +6522,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T13:09:31.747872"
+      }
+    ]
+  },
+  "2b74bd0e452b115c0c3bd762d6c5e4e3": {
+    "time": "2026/10/03 13:07:12",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市大樹區大坑路",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T13:10:31.693139"
       }
     ]
   }
