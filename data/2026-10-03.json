@@ -9763,11 +9763,15 @@
     "sub_category": "創傷",
     "location": "高雄市林園區海墘路",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-03T17:28:31.356734"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T17:37:31.516161"
       }
     ]
   },
@@ -9832,6 +9836,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T17:36:31.619601"
+      }
+    ]
+  },
+  "781227958c827caf25cc663d0991e0db": {
+    "time": "2026/10/03 17:36:37",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區中山東路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T17:37:31.516161"
       }
     ]
   }
