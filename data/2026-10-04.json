@@ -4159,7 +4159,7 @@
     "sub_category": "車禍",
     "location": "高雄市大社區大吉路",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4176,6 +4176,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T11:14:32.150629"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T11:27:32.184044"
       }
     ]
   },
@@ -4325,7 +4329,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4334,6 +4338,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T11:23:32.072339"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T11:27:32.184044"
       }
     ]
   },
@@ -4352,6 +4360,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T11:23:32.072339"
+      }
+    ]
+  },
+  "8e781bb0e9f5e0568831f05ed98bc283": {
+    "time": "2026/10/04 11:26:53",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T11:27:32.184044"
       }
     ]
   }
