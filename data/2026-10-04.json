@@ -6119,7 +6119,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區和光街",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -6132,6 +6132,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T14:44:31.547009"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T14:47:31.303979"
       }
     ]
   },
@@ -6332,6 +6336,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T14:46:31.349793"
+      }
+    ]
+  },
+  "1881eed39729e6738ef015e9ff62cd4e": {
+    "time": "2026/10/04 14:46:58",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區福德三路",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T14:47:31.303979"
+      }
+    ]
+  },
+  "8148197617543c8c2a73cb7808b4879e": {
+    "time": "2026/10/04 14:45:50",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T14:47:31.303979"
       }
     ]
   }
