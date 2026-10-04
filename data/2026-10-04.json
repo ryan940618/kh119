@@ -7971,7 +7971,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7988,6 +7988,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T17:25:31.238340"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T17:29:31.305135"
       }
     ]
   },
@@ -8121,11 +8125,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T17:27:31.225394"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T17:29:31.305135"
       }
     ]
   },
@@ -8154,6 +8162,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T17:28:31.373046"
+      }
+    ]
+  },
+  "2f2f8e432c93c7620029bd3a7e3517a5": {
+    "time": "2026/10/04 17:28:22",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區大豐二路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T17:29:31.305135"
       }
     ]
   }
