@@ -3219,7 +3219,7 @@
     "sub_category": "路倒",
     "location": "高雄市岡山區平和路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -3232,6 +3232,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T10:09:31.365593"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T10:11:31.424139"
       }
     ]
   },
@@ -3268,6 +3272,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T10:10:31.439063"
+      }
+    ]
+  },
+  "c56ea81baed04bc1a4d524d83b4b8bf0": {
+    "time": "2026/10/04 10:11:04",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大社區大社路和永保街",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T10:11:31.424139"
       }
     ]
   }
