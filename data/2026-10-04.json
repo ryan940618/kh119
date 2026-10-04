@@ -2083,7 +2083,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2100,6 +2100,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T08:15:31.858621"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T08:23:31.837224"
       }
     ]
   },
@@ -2175,7 +2179,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區五甲三路",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2184,6 +2188,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T08:20:31.594595"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T08:23:31.837224"
       }
     ]
   },
@@ -2221,11 +2229,15 @@
     "sub_category": "創傷",
     "location": "高雄市左營區重上街",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T08:22:31.700549"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T08:23:31.837224"
       }
     ]
   }
