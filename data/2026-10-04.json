@@ -7891,7 +7891,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7908,6 +7908,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T17:03:32.026168"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T17:08:32.463034"
       }
     ]
   },
@@ -8015,11 +8019,15 @@
     "sub_category": "車禍",
     "location": "高雄市左營區立信路和群英街",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T17:07:32.130074"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T17:08:32.463034"
       }
     ]
   }
