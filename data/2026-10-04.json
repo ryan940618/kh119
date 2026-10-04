@@ -3903,7 +3903,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3920,6 +3920,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T11:08:32.039890"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T11:14:32.150629"
       }
     ]
   },
@@ -4127,7 +4131,7 @@
     "sub_category": "車禍",
     "location": "高雄市大社區大吉路",
     "units": "大社分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4140,6 +4144,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T11:09:32.259816"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T11:14:32.150629"
       }
     ]
   },
@@ -4149,7 +4157,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區自強一路207巷和中庸街",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4162,6 +4170,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T11:11:32.266782"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T11:14:32.150629"
       }
     ]
   },
@@ -4185,11 +4197,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T11:09:32.259816"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T11:14:32.150629"
       }
     ]
   },
