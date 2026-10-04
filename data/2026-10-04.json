@@ -8381,7 +8381,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區班超路",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8398,6 +8398,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T18:02:31.535251"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T18:13:31.474332"
       }
     ]
   },
@@ -8665,7 +8669,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區民族一路",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8678,6 +8682,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T18:04:31.380758"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T18:13:31.474332"
       }
     ]
   },
@@ -8718,6 +8726,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T18:12:31.666507"
+      }
+    ]
+  },
+  "1073befc57f4a545fe9c79e40dac7f7d": {
+    "time": "2026/10/04 18:12:47",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市阿蓮區",
+    "units": "阿蓮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T18:13:31.474332"
       }
     ]
   }
