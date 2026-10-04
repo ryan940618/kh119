@@ -5695,7 +5695,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區海專路",
     "units": "後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5712,6 +5712,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T14:18:32.065262"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T14:25:31.043076"
       }
     ]
   },
@@ -5751,7 +5755,7 @@
     "sub_category": "路倒",
     "location": "高雄市鼓山明誠三路",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5768,6 +5772,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T14:19:32.059107"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T14:25:31.043076"
       }
     ]
   },
@@ -5997,11 +6005,15 @@
     "sub_category": "創傷",
     "location": "高雄市橋頭區橋南路",
     "units": "楠梓分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T14:24:31.320760"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T14:25:31.043076"
       }
     ]
   },
@@ -6016,6 +6028,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T14:24:31.320760"
+      }
+    ]
+  },
+  "0fb8ef3d958b0e62fd48ec528c51c035": {
+    "time": "2026/10/04 14:24:51",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T14:25:31.043076"
+      }
+    ]
+  },
+  "9fd933f41a09d3f620397aa4650c9eee": {
+    "time": "2026/10/04 14:24:19",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市左營區和光街",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T14:25:31.043076"
       }
     ]
   }
