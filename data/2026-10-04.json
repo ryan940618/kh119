@@ -8545,7 +8545,7 @@
     "sub_category": "其他",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -8558,6 +8558,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T18:06:31.545854"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T18:29:31.587734"
       }
     ]
   },
@@ -8845,7 +8849,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區一德路和修文街",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8858,6 +8862,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T18:26:31.512061"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T18:29:31.587734"
       }
     ]
   },
@@ -8889,7 +8897,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8898,6 +8906,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T18:25:31.777617"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T18:29:31.587734"
       }
     ]
   },
@@ -8925,11 +8937,15 @@
     "sub_category": "路倒",
     "location": "高雄市左營區左營下路",
     "units": "左營小隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T18:28:31.594304"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T18:29:31.587734"
       }
     ]
   }
