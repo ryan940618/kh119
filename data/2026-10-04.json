@@ -11103,7 +11103,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11112,6 +11112,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T23:18:31.168488"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T23:27:31.127322"
       }
     ]
   },
@@ -11121,11 +11125,29 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T23:25:31.080471"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T23:27:31.127322"
+      }
+    ]
+  },
+  "55eb268edcbc7387d8214494948dd626": {
+    "time": "2026/10/04 23:26:37",
+    "category": "火災",
+    "sub_category": "一般(集合)住宅",
+    "location": "高雄市三民區興隆街",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T23:27:31.127322"
       }
     ]
   }
