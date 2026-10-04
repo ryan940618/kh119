@@ -5885,7 +5885,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區民族一路",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5898,6 +5898,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T14:16:32.276997"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T14:23:31.200188"
       }
     ]
   },
@@ -5943,7 +5947,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區經武路",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -5952,6 +5956,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T14:18:32.065262"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T14:23:31.200188"
       }
     ]
   },
@@ -5966,6 +5974,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T14:20:32.184499"
+      }
+    ]
+  },
+  "50360d4c3fa9e8752a7c7e927d065d01": {
+    "time": "2026/10/04 14:22:30",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-04T14:23:31.200188"
       }
     ]
   }
