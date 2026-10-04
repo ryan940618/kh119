@@ -5809,7 +5809,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區澄仁路",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -5818,6 +5818,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T14:12:32.074466"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T14:20:32.184499"
       }
     ]
   },
@@ -5917,7 +5921,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區建國路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5926,6 +5930,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T14:17:32.305133"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T14:20:32.184499"
       }
     ]
   },
@@ -5944,6 +5952,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T14:18:32.065262"
+      }
+    ]
+  },
+  "6424ca4ed4bc04daf8aef3e97e3d5928": {
+    "time": "2026/10/04 14:19:10",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區五權街",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T14:20:32.184499"
       }
     ]
   }
