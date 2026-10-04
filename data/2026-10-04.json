@@ -4867,7 +4867,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區文建街",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4880,6 +4880,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T12:16:31.502209"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T12:24:31.297714"
       }
     ]
   },
@@ -4889,7 +4893,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區國軒路",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4902,6 +4906,24 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T12:15:31.398952"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T12:24:31.297714"
+      }
+    ]
+  },
+  "3682314b1c28ce9aa4cc198c9d13659f": {
+    "time": "2026/10/04 12:23:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市田寮區",
+    "units": "田寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T12:24:31.297714"
       }
     ]
   }
