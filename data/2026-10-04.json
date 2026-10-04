@@ -4867,7 +4867,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區文建街",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4884,6 +4884,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T12:24:31.297714"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T12:26:31.336412"
       }
     ]
   },
@@ -4928,6 +4932,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T12:25:31.390623"
+      }
+    ]
+  },
+  "e5fe9067c3dc6591eb7cd7c323b5ae20": {
+    "time": "2026/10/04 12:25:59",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T12:26:31.336412"
+      }
+    ]
+  },
+  "e452e3ed3d6f82b398014147cbf21231": {
+    "time": "2026/10/04 12:25:08",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-04T12:26:31.336412"
       }
     ]
   }
