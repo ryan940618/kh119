@@ -8753,11 +8753,15 @@
     "sub_category": "其他",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T18:15:31.681961"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T18:16:31.557670"
       }
     ]
   },
@@ -8767,11 +8771,29 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區萬丹路",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T18:15:31.681961"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T18:16:31.557670"
+      }
+    ]
+  },
+  "cca4f901751be8934281b11dec1b2250": {
+    "time": "2026/10/04 18:12:47",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市阿蓮區民生路",
+    "units": "阿蓮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T18:16:31.557670"
       }
     ]
   }
