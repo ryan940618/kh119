@@ -1517,7 +1517,7 @@
     "sub_category": "其他",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1534,6 +1534,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T06:59:30.934264"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T07:13:31.213511"
       }
     ]
   },
@@ -1695,7 +1699,7 @@
     "sub_category": "其他",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1704,6 +1708,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T07:00:31.047893"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T07:13:31.213511"
       }
     ]
   },
@@ -1735,7 +1743,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1744,6 +1752,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T07:09:31.166473"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T07:13:31.213511"
       }
     ]
   },
@@ -1820,6 +1832,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T07:10:31.044603"
+      }
+    ]
+  },
+  "8c3c1fb91463ebb415d79833512c7319": {
+    "time": "2026/10/05 07:12:12",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市美濃區",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T07:13:31.213511"
       }
     ]
   }
