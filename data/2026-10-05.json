@@ -799,11 +799,15 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T03:27:31.445070"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T03:32:31.581995"
       }
     ]
   },
@@ -813,11 +817,29 @@
     "sub_category": "其他",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T03:30:31.509519"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T03:32:31.581995"
+      }
+    ]
+  },
+  "5a681b270dc07b9d85db57cf6aaf2d87": {
+    "time": "2026/10/05 03:31:49",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T03:32:31.581995"
       }
     ]
   }
