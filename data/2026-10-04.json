@@ -4619,7 +4619,7 @@
     "sub_category": "車禍",
     "location": "高雄市林園區林園北路",
     "units": "林園分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -4628,6 +4628,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T11:52:31.080093"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T11:59:31.391119"
       }
     ]
   },
@@ -4659,7 +4663,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4668,6 +4672,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T11:54:31.462912"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T11:59:31.391119"
       }
     ]
   },
@@ -4677,11 +4685,29 @@
     "sub_category": "創傷",
     "location": "高雄市大社區大社路",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T11:57:31.189894"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T11:59:31.391119"
+      }
+    ]
+  },
+  "1eed15af90581100c0986bd9d2ca5166": {
+    "time": "2026/10/04 11:58:14",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區加昌路",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T11:59:31.391119"
       }
     ]
   }
