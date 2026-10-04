@@ -2109,7 +2109,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區高峰街",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2122,6 +2122,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T08:12:31.522141"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T08:18:31.645797"
       }
     ]
   },
@@ -2158,6 +2162,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T08:16:31.590687"
+      }
+    ]
+  },
+  "28c1bc5a6009804a8ad8b7dd3673f648": {
+    "time": "2026/10/04 08:17:15",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區五甲三路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T08:18:31.645797"
       }
     ]
   }
