@@ -1827,7 +1827,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區十全一路",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1836,6 +1836,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T07:10:31.044603"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T07:15:31.463130"
       }
     ]
   },
@@ -1845,11 +1849,15 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T07:13:31.213511"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T07:15:31.463130"
       }
     ]
   }
