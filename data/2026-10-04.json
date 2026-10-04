@@ -6455,7 +6455,7 @@
     "sub_category": "創傷",
     "location": "高雄市茄萣區濱海路",
     "units": "茄萣分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -6468,6 +6468,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T15:04:31.659928"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T15:19:31.470558"
       }
     ]
   },
@@ -6733,11 +6737,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T15:18:31.330603"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T15:19:31.470558"
       }
     ]
   }
