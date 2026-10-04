@@ -9273,7 +9273,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區佛道路",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9282,6 +9282,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T19:07:31.735089"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T19:12:31.963142"
       }
     ]
   },
@@ -9309,11 +9313,15 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T19:10:31.856889"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T19:12:31.963142"
       }
     ]
   },
@@ -9323,11 +9331,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T19:11:32.179728"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T19:12:31.963142"
+      }
+    ]
+  },
+  "8ca7b3e6dbde1182fc0e7d953ed58d5a": {
+    "time": "2026/10/04 19:11:36",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鹽埕區",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T19:12:31.963142"
       }
     ]
   }
