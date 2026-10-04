@@ -2947,7 +2947,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2964,6 +2964,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T09:50:31.346215"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T09:55:31.416885"
       }
     ]
   },
@@ -3057,7 +3061,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3066,6 +3070,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T09:51:31.372198"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T09:55:31.416885"
       }
     ]
   },
@@ -3075,7 +3083,7 @@
     "sub_category": "創傷",
     "location": "高雄市岡山區筧橋路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3084,6 +3092,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T09:53:31.334292"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T09:55:31.416885"
       }
     ]
   },
@@ -3116,6 +3128,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T09:54:31.557605"
+      }
+    ]
+  },
+  "e41d21b97315d20dc01730811454fe49": {
+    "time": "2026/10/04 09:54:17",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市杉林區",
+    "units": "杉林分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T09:55:31.416885"
       }
     ]
   }
