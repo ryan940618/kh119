@@ -9439,7 +9439,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9456,6 +9456,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T19:28:31.896934"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T19:34:31.981535"
       }
     ]
   },
@@ -9509,7 +9513,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區保泰路370巷和善和街",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -9518,6 +9522,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T19:24:31.939491"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T19:34:31.981535"
       }
     ]
   },
@@ -9576,6 +9584,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T19:30:31.994233"
+      }
+    ]
+  },
+  "fd4e9085bd3745f91199ca0ab7c6488d": {
+    "time": "2026/10/04 19:32:59",
+    "category": "緊急救護",
+    "sub_category": "異物哽塞",
+    "location": "高雄市梓官區大舍北路",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T19:34:31.981535"
       }
     ]
   }
