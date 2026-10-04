@@ -4461,7 +4461,7 @@
     "sub_category": "路倒",
     "location": "高雄市小港區沿海四路",
     "units": "大林分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4474,6 +4474,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T11:46:31.207825"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T11:49:31.195994"
       }
     ]
   },
@@ -4578,6 +4582,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T11:48:31.297601"
+      }
+    ]
+  },
+  "153365170f3cf504c09b29582bb4ade5": {
+    "time": "2026/10/04 11:49:02",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市林園區林園北路",
+    "units": "林園分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T11:49:31.195994"
       }
     ]
   }
