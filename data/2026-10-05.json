@@ -2009,7 +2009,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區智昌街",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2030,6 +2030,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T07:51:31.697057"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T07:58:31.560781"
       }
     ]
   },
@@ -2227,7 +2231,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -2236,6 +2240,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T07:48:31.501141"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T07:58:31.560781"
       }
     ]
   },
@@ -2529,11 +2537,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T07:57:31.682451"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T07:58:31.560781"
       }
     ]
   },
@@ -2548,6 +2560,20 @@
       {
         "status": "已受理",
         "timestamp": "2026-10-05T07:57:31.682451"
+      }
+    ]
+  },
+  "db6b3fd6afe9b29f050c1438d9b755ca": {
+    "time": "2026/10/05 07:57:44",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區鳳屏一路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T07:58:31.560781"
       }
     ]
   }
