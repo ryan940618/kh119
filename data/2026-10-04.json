@@ -3573,7 +3573,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3582,6 +3582,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T10:43:31.869491"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T10:49:31.802066"
       }
     ]
   },
@@ -3709,11 +3713,43 @@
     "sub_category": "其他",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T10:48:31.827918"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T10:49:31.802066"
+      }
+    ]
+  },
+  "657477c8bbfd2f23df87a96209f188c5": {
+    "time": "2026/10/04 10:48:44",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區翠亨北路",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T10:49:31.802066"
+      }
+    ]
+  },
+  "9e39950a396260fa968104a95cbd01ce": {
+    "time": "2026/10/04 10:48:42",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區水秀路",
+    "units": "高桂分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T10:49:31.802066"
       }
     ]
   }
