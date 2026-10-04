@@ -1961,7 +1961,7 @@
     "sub_category": "車禍",
     "location": "高雄市旗山區平和街",
     "units": "旗山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -1970,6 +1970,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T07:35:31.483819"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T07:51:31.697057"
       }
     ]
   },
@@ -2005,7 +2009,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區智昌街",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2022,6 +2026,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T07:45:31.384847"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T07:51:31.697057"
       }
     ]
   },
@@ -2057,7 +2065,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2070,6 +2078,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T07:43:31.305447"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T07:51:31.697057"
       }
     ]
   },
@@ -2221,7 +2233,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區過勇路",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2234,6 +2246,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T07:46:31.526083"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T07:51:31.697057"
       }
     ]
   },
@@ -2356,6 +2372,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T07:50:31.375107"
+      }
+    ]
+  },
+  "b0fcf8e5ad67c3c76cb5dcd0701aae1c": {
+    "time": "2026/10/05 07:51:00",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區茂大街",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T07:51:31.697057"
       }
     ]
   }
