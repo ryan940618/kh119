@@ -987,7 +987,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區富國路",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1004,6 +1004,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T04:24:30.844250"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T04:27:30.974235"
       }
     ]
   },
@@ -1022,6 +1026,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T04:20:30.808051"
+      }
+    ]
+  },
+  "9101218c687884659493641d7bcac08a": {
+    "time": "2026/10/05 04:26:32",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區鳳甲一街",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T04:27:30.974235"
       }
     ]
   }
