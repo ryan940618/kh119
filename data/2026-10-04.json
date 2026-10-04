@@ -3677,7 +3677,7 @@
     "sub_category": "急病",
     "location": "高雄市甲仙區",
     "units": "甲仙分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3694,6 +3694,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T11:02:32.491974"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T11:35:31.109054"
       }
     ]
   },
@@ -4245,7 +4249,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4254,6 +4258,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T11:14:32.150629"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T11:35:31.109054"
       }
     ]
   },
@@ -4403,7 +4411,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4412,6 +4420,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T11:30:32.120862"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T11:35:31.109054"
       }
     ]
   }
