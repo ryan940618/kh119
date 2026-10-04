@@ -6595,7 +6595,7 @@
     "sub_category": "雜草(含廢棄物、墓地)",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "火已控",
+    "current_status": "火已滅",
     "status_history": [
       {
         "status": "已出動",
@@ -6620,6 +6620,10 @@
       {
         "status": "火已控",
         "timestamp": "2026-10-04T16:00:31.911710"
+      },
+      {
+        "status": "火已滅",
+        "timestamp": "2026-10-04T16:18:31.656268"
       }
     ]
   },
@@ -7193,7 +7197,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7206,6 +7210,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T16:08:31.641763"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T16:18:31.656268"
       }
     ]
   },
@@ -7277,7 +7285,7 @@
     "sub_category": "其他",
     "location": "高雄市永安區興達路",
     "units": "永安分隊,茄萣分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -7290,6 +7298,10 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T16:12:31.512788"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T16:18:31.656268"
       }
     ]
   },
@@ -7299,7 +7311,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區建德路",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -7308,6 +7320,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T16:16:31.791550"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T16:18:31.656268"
       }
     ]
   },
@@ -7331,11 +7347,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T16:17:31.741844"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T16:18:31.656268"
       }
     ]
   }
