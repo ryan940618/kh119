@@ -2341,7 +2341,7 @@
     "sub_category": "創傷",
     "location": "高雄市仁武區安樂四街",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2354,6 +2354,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T08:40:31.775601"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T08:58:30.901258"
       }
     ]
   },
@@ -2503,11 +2507,43 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-04T08:54:32.045266"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T08:58:30.901258"
+      }
+    ]
+  },
+  "d6eed65362bc48245980faaa60c74dbd": {
+    "time": "2026/10/04 08:56:36",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市內門區",
+    "units": "內門分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T08:58:30.901258"
+      }
+    ]
+  },
+  "b7b986a45e5693240184007a70365e42": {
+    "time": "2026/10/04 08:54:05",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市大寮區",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T08:58:30.901258"
       }
     ]
   }
