@@ -8819,11 +8819,15 @@
     "sub_category": "一般(集合)住宅",
     "location": "高雄市鳳山區南昌街",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-04T18:17:31.493662"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T18:22:31.610615"
       }
     ]
   },
@@ -8833,11 +8837,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區一德路和修文街",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T18:20:31.721924"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T18:22:31.610615"
       }
     ]
   },
@@ -8852,6 +8860,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T18:21:31.696004"
+      }
+    ]
+  },
+  "a8aa5770c8923199e9a61e35e97d6ca7": {
+    "time": "2026/10/04 18:21:34",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T18:22:31.610615"
+      }
+    ]
+  },
+  "d92ad68fc69a093089c9a01c998ca71a": {
+    "time": "2026/10/04 18:21:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T18:22:31.610615"
       }
     ]
   }
