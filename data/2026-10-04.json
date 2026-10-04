@@ -10111,7 +10111,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區鼓山一路",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10124,6 +10124,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T20:59:31.555156"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T21:05:31.557281"
       }
     ]
   },
@@ -10177,11 +10181,15 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T21:02:31.336390"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T21:05:31.557281"
       }
     ]
   },
@@ -10191,11 +10199,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T21:04:31.351847"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T21:05:31.557281"
+      }
+    ]
+  },
+  "9c877755d56a1a6dc418d53844a53f3f": {
+    "time": "2026/10/04 21:03:59",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T21:05:31.557281"
       }
     ]
   }
