@@ -7471,7 +7471,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7480,6 +7480,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T16:26:31.749330"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T16:35:31.964225"
       }
     ]
   },
@@ -7535,11 +7539,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營小隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T16:33:31.943410"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T16:35:31.964225"
       }
     ]
   },
@@ -7554,6 +7562,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T16:33:31.943410"
+      }
+    ]
+  },
+  "7bcdf23e8e957f25d2cbd9b715e2bdd1": {
+    "time": "2026/10/04 16:34:29",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T16:35:31.964225"
       }
     ]
   }
