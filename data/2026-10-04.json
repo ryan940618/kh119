@@ -7505,7 +7505,7 @@
     "sub_category": "路倒",
     "location": "高雄市大寮區開封街",
     "units": "和發分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7518,6 +7518,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T16:36:31.881450"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T16:42:31.989612"
       }
     ]
   },
@@ -7595,11 +7599,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-04T16:35:31.964225"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T16:42:31.989612"
       }
     ]
   },
@@ -7659,11 +7667,29 @@
     "sub_category": "其他",
     "location": "高雄市左營區",
     "units": "",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T16:41:33.710400"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T16:42:31.989612"
+      }
+    ]
+  },
+  "916aab36e353d7b86e53143c3c73f0d8": {
+    "time": "2026/10/04 16:41:24",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市橋頭區",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T16:42:31.989612"
       }
     ]
   }
