@@ -9067,7 +9067,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區捷運R11高雄車站站東路",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9080,6 +9080,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T18:45:31.665852"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T18:55:31.695888"
       }
     ]
   },
@@ -9111,11 +9115,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T18:54:31.836376"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T18:55:31.695888"
       }
     ]
   },
@@ -9130,6 +9138,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T18:54:31.836376"
+      }
+    ]
+  },
+  "3e9f19fa4b927b0a20b2bd05f00a2521": {
+    "time": "2026/10/04 18:54:35",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T18:55:31.695888"
       }
     ]
   }
