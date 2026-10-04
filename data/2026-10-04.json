@@ -4849,7 +4849,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區大仁路",
     "units": "燕巢分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4862,6 +4862,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T12:16:31.502209"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T12:31:31.418338"
       }
     ]
   },
@@ -4931,7 +4935,7 @@
     "sub_category": "急病",
     "location": "高雄市田寮區",
     "units": "田寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4940,6 +4944,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T12:25:31.390623"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T12:31:31.418338"
       }
     ]
   },
@@ -5022,6 +5030,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T12:29:31.400926"
+      }
+    ]
+  },
+  "5db0613f00c631fbe1b1587772ac019c": {
+    "time": "2026/10/04 12:30:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T12:31:31.418338"
       }
     ]
   }
