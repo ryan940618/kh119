@@ -1863,7 +1863,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區十全一路",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1880,6 +1880,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T07:28:31.164810"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T07:35:31.483819"
       }
     ]
   },
@@ -1941,11 +1945,15 @@
     "sub_category": "車禍",
     "location": "高雄市旗山區平和街",
     "units": "旗山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-05T07:30:31.090019"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T07:35:31.483819"
       }
     ]
   },
