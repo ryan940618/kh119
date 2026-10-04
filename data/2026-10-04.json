@@ -3613,7 +3613,7 @@
     "sub_category": "創傷",
     "location": "高雄市橋頭區仕隆路",
     "units": "橋頭分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -3622,6 +3622,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T10:48:31.827918"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T10:56:31.867831"
       }
     ]
   },
@@ -3653,7 +3657,7 @@
     "sub_category": "急病",
     "location": "高雄市甲仙區",
     "units": "甲仙分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3662,6 +3666,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T10:47:31.812336"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T10:56:31.867831"
       }
     ]
   },
@@ -3845,7 +3853,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3854,6 +3862,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T10:54:31.890676"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T10:56:31.867831"
       }
     ]
   },
@@ -3868,6 +3880,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T10:54:31.890676"
+      }
+    ]
+  },
+  "d0086d8391ab285f6953a794b03abf65": {
+    "time": "2026/10/04 10:55:31",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗山區",
+    "units": "旗山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T10:56:31.867831"
       }
     ]
   }
