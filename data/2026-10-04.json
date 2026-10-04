@@ -6529,7 +6529,7 @@
     "sub_category": "其他",
     "location": "高雄市湖內區",
     "units": "",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6542,6 +6542,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T15:06:31.410123"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T15:26:31.547899"
       }
     ]
   },
@@ -6587,7 +6591,7 @@
     "sub_category": "雜草(含廢棄物、墓地)",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
@@ -6600,6 +6604,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T15:20:31.367681"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T15:26:31.547899"
       }
     ]
   },
@@ -6609,7 +6617,7 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6626,6 +6634,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T15:18:31.330603"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T15:26:31.547899"
       }
     ]
   },
@@ -6657,7 +6669,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6670,6 +6682,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T15:14:31.385656"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T15:26:31.547899"
       }
     ]
   },
@@ -6679,7 +6695,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區樂群路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6696,6 +6712,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T15:20:31.367681"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T15:26:31.547899"
       }
     ]
   },
@@ -6754,6 +6774,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T15:19:31.470558"
+      }
+    ]
+  },
+  "2845b5af4e9626853ae0ad6fc80b53f1": {
+    "time": "2026/10/04 15:20:56",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區澄明街",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T15:26:31.547899"
       }
     ]
   }
