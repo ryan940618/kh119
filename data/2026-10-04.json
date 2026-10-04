@@ -6495,7 +6495,7 @@
     "sub_category": "創傷",
     "location": "高雄市仁武區竹東路",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6512,6 +6512,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T15:07:31.638907"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T15:15:31.463740"
       }
     ]
   },
@@ -6659,7 +6663,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區樂群路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6668,6 +6672,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T15:12:31.715188"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T15:15:31.463740"
       }
     ]
   },
@@ -6677,7 +6685,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6686,6 +6694,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T15:13:31.479491"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T15:15:31.463740"
+      }
+    ]
+  },
+  "f4557761df9e682eea5b4069b65ba504": {
+    "time": "2026/10/04 15:14:24",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區明誠一路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T15:15:31.463740"
       }
     ]
   }
