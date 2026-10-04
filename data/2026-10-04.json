@@ -8721,7 +8721,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8734,6 +8734,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T18:12:31.666507"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T18:28:31.594304"
       }
     ]
   },
@@ -8903,11 +8907,29 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-04T18:22:31.610615"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T18:28:31.594304"
+      }
+    ]
+  },
+  "2d37092f2c8e666b933aa9e52329c95c": {
+    "time": "2026/10/04 18:27:33",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市左營區左營下路",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T18:28:31.594304"
       }
     ]
   }
