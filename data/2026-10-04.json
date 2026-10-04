@@ -2669,7 +2669,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2682,6 +2682,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T09:13:31.371677"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T09:17:31.088180"
       }
     ]
   },
@@ -2767,11 +2771,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區瑞祥街",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T09:16:31.213679"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T09:17:31.088180"
       }
     ]
   },
@@ -2781,11 +2789,15 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區雄峰路",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T09:16:31.213679"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T09:17:31.088180"
       }
     ]
   }
