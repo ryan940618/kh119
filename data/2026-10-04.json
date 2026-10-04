@@ -10239,7 +10239,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10256,6 +10256,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T21:29:31.523367"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T21:33:31.913055"
       }
     ]
   },
@@ -10313,7 +10317,7 @@
     "sub_category": "創傷",
     "location": "高雄市梓官區大舍南路",
     "units": "梓官分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -10322,6 +10326,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T21:12:31.657823"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T21:33:31.913055"
       }
     ]
   },
@@ -10375,7 +10383,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳥松區忠孝路",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -10384,6 +10392,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T21:29:31.523367"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T21:33:31.913055"
       }
     ]
   },
@@ -10420,6 +10432,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T21:32:31.592298"
+      }
+    ]
+  },
+  "98a081291106eda8f1769b8882ecf4a0": {
+    "time": "2026/10/04 21:32:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T21:33:31.913055"
       }
     ]
   }
