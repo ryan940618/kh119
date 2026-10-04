@@ -2999,7 +2999,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區京吉二路",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3008,6 +3008,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T09:47:31.340570"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T09:52:31.459317"
       }
     ]
   },
@@ -3072,6 +3076,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T09:51:31.372198"
+      }
+    ]
+  },
+  "9b50ec85b0679d15390c6e6c51d0c4a2": {
+    "time": "2026/10/04 09:50:56",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市燕巢區",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T09:52:31.459317"
       }
     ]
   }
