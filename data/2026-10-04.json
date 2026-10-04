@@ -3269,7 +3269,7 @@
     "sub_category": "創傷",
     "location": "高雄市路竹區中華路",
     "units": "路竹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3286,6 +3286,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T10:18:31.604536"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T10:26:31.683590"
       }
     ]
   },
@@ -3295,7 +3299,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營小隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3308,6 +3312,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T10:15:31.587381"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T10:26:31.683590"
       }
     ]
   },
@@ -3317,7 +3325,7 @@
     "sub_category": "車禍",
     "location": "高雄市大社區大社路和永保街",
     "units": "大社分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3330,6 +3338,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T10:16:31.484640"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T10:26:31.683590"
       }
     ]
   },
@@ -3442,6 +3454,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T10:24:31.739926"
+      }
+    ]
+  },
+  "118fb670497c5c5acc6d02ff0db43cd7": {
+    "time": "2026/10/04 10:21:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區光華路",
+    "units": "和發分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T10:26:31.683590"
       }
     ]
   }
