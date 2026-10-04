@@ -6929,7 +6929,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6942,6 +6942,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T15:43:31.461633"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T15:57:31.671750"
       }
     ]
   },
@@ -7021,7 +7025,7 @@
     "sub_category": "創傷",
     "location": "高雄市小港區平和二路",
     "units": "小港分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7030,6 +7034,52 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T15:56:31.621141"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T15:57:31.671750"
+      }
+    ]
+  },
+  "6ad8f030849a391391d7c0ef11961b15": {
+    "time": "2026/10/04 15:56:45",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鼓山區大順一路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T15:57:31.671750"
+      }
+    ]
+  },
+  "806c1468afc5061915557914550cf2e4": {
+    "time": "2026/10/04 15:56:08",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T15:57:31.671750"
+      }
+    ]
+  },
+  "84effe827c1d58d090dcb4f772e833dd": {
+    "time": "2026/10/04 15:55:53",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T15:57:31.671750"
       }
     ]
   }
