@@ -3605,11 +3605,15 @@
     "sub_category": "創傷",
     "location": "高雄市橋頭區仕隆路",
     "units": "橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-04T10:44:31.636558"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T10:48:31.827918"
       }
     ]
   },
@@ -3669,11 +3673,15 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T10:47:31.812336"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T10:48:31.827918"
       }
     ]
   },
@@ -3683,11 +3691,29 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "大林分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T10:47:31.812336"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T10:48:31.827918"
+      }
+    ]
+  },
+  "d15201621681784b262cb3c71dac15b1": {
+    "time": "2026/10/04 10:46:20",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市大寮區",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T10:48:31.827918"
       }
     ]
   }
