@@ -10071,7 +10071,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10084,6 +10084,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T20:54:31.454444"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T21:04:31.351847"
       }
     ]
   },
@@ -10178,6 +10182,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T21:02:31.336390"
+      }
+    ]
+  },
+  "7b03174ba08a62942b400c8ad8bb1d21": {
+    "time": "2026/10/04 21:03:17",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T21:04:31.351847"
       }
     ]
   }
