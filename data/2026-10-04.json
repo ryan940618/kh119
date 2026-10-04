@@ -3999,7 +3999,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4012,6 +4012,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T11:04:31.917612"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T11:10:32.101578"
       }
     ]
   },
@@ -4170,6 +4174,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T11:09:32.259816"
+      }
+    ]
+  },
+  "51b25578d095f7e188c611c2a2fa9ab8": {
+    "time": "2026/10/04 11:09:07",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區富農路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T11:10:32.101578"
       }
     ]
   }
