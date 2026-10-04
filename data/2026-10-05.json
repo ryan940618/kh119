@@ -2439,7 +2439,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2448,6 +2448,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T07:53:31.492765"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T07:57:31.682451"
       }
     ]
   },
@@ -2475,11 +2479,15 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區福民街",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T07:55:31.523606"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T07:57:31.682451"
       }
     ]
   },
@@ -2498,6 +2506,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T07:56:31.811946"
+      }
+    ]
+  },
+  "eb3d6aa2ebe4dc1cc4dce34cac860dc4": {
+    "time": "2026/10/05 07:57:06",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區保安二街",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T07:57:31.682451"
+      }
+    ]
+  },
+  "0aeefdf9809547601e31378a1f2a43e5": {
+    "time": "2026/10/05 07:55:59",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T07:57:31.682451"
+      }
+    ]
+  },
+  "d4fe70fca899faa5cd5c3c0901f97d4f": {
+    "time": "2026/10/05 07:55:08",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區保安二街",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-05T07:57:31.682451"
       }
     ]
   }
