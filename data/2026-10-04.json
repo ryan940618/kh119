@@ -6595,7 +6595,7 @@
     "sub_category": "雜草(含廢棄物、墓地)",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "火已控",
     "status_history": [
       {
         "status": "已出動",
@@ -6616,6 +6616,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T15:52:31.599718"
+      },
+      {
+        "status": "火已控",
+        "timestamp": "2026-10-04T16:00:31.911710"
       }
     ]
   },
@@ -7059,11 +7063,15 @@
     "sub_category": "創傷",
     "location": "高雄市鼓山區大順一路",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T15:57:31.671750"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T16:00:31.911710"
       }
     ]
   },
@@ -7124,6 +7132,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T15:58:31.606318"
+      }
+    ]
+  },
+  "6f9bf13fa619137d5079b27e85764f98": {
+    "time": "2026/10/04 15:58:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T16:00:31.911710"
       }
     ]
   }
