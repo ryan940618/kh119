@@ -445,7 +445,7 @@
     "sub_category": "其他",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -462,6 +462,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T02:29:31.312904"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T02:34:31.271792"
       }
     ]
   },
@@ -511,7 +515,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -528,6 +532,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T02:27:31.376330"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T02:34:31.271792"
       }
     ]
   },
@@ -568,6 +576,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T02:32:31.183866"
+      }
+    ]
+  },
+  "37e87843dbf14061b6d29d06b7e55714": {
+    "time": "2026/10/05 02:32:52",
+    "category": "其他",
+    "sub_category": "動物救援",
+    "location": "高雄市三民區覺民路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T02:34:31.271792"
       }
     ]
   }
