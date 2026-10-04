@@ -6319,7 +6319,7 @@
     "sub_category": "創傷",
     "location": "高雄市茄萣區白砂路",
     "units": "茄萣分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6336,6 +6336,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T14:51:31.479730"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T15:09:31.890799"
       }
     ]
   },
@@ -6581,7 +6585,7 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6590,6 +6594,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T15:05:31.316498"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T15:09:31.890799"
       }
     ]
   },
@@ -6599,11 +6607,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T15:07:31.638907"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T15:09:31.890799"
       }
     ]
   },
@@ -6613,11 +6625,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T15:08:31.658810"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T15:09:31.890799"
       }
     ]
   }
