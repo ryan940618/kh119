@@ -5389,7 +5389,7 @@
     "sub_category": "其他",
     "location": "高雄市新興區",
     "units": "",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5406,6 +5406,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T13:39:31.858877"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T13:42:31.976391"
       }
     ]
   },
@@ -5489,11 +5493,15 @@
     "sub_category": "創傷",
     "location": "高雄市三民區鼎金後路",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-04T13:37:31.704325"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T13:42:31.976391"
       }
     ]
   },
