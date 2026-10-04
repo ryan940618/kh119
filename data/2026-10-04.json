@@ -5777,11 +5777,15 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區澄仁路",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-04T14:07:31.966421"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T14:12:32.074466"
       }
     ]
   },
@@ -5814,6 +5818,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T14:10:31.997948"
+      }
+    ]
+  },
+  "36e81b76b6b04fec90335c80331ad2cf": {
+    "time": "2026/10/04 14:10:52",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區民族一路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-04T14:12:32.074466"
       }
     ]
   }
