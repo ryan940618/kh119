@@ -5565,7 +5565,7 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區林森二路",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -5578,6 +5578,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T14:00:32.298997"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T14:05:32.124178"
       }
     ]
   },
@@ -5605,7 +5609,7 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區里嶺大橋下橋處右轉往美濃路",
     "units": "大樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5614,6 +5618,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T13:51:31.906094"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T14:05:32.124178"
       }
     ]
   },
@@ -5699,11 +5707,29 @@
     "sub_category": "路倒",
     "location": "高雄市鼓山明誠三路",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T14:02:32.134807"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T14:05:32.124178"
+      }
+    ]
+  },
+  "49333b0d9810f22aae42552c32271d64": {
+    "time": "2026/10/04 14:04:50",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T14:05:32.124178"
       }
     ]
   }
