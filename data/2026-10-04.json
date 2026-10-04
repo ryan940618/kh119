@@ -10203,7 +10203,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10212,6 +10212,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T21:05:31.557281"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T21:07:31.652692"
       }
     ]
   },
@@ -10226,6 +10230,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T21:05:31.557281"
+      }
+    ]
+  },
+  "13d6c8c3b96e6e47dbf93c5585682a3c": {
+    "time": "2026/10/04 21:07:12",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區明吉路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T21:07:31.652692"
       }
     ]
   }
