@@ -7203,7 +7203,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區十全一路",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7216,6 +7216,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T16:06:31.659866"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T16:13:31.811925"
       }
     ]
   },
@@ -7270,6 +7274,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T16:12:31.512788"
+      }
+    ]
+  },
+  "56b241844279e53a734ff225465b0f2f": {
+    "time": "2026/10/04 16:12:10",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區建德路",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T16:13:31.811925"
       }
     ]
   }
