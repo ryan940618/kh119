@@ -6787,11 +6787,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區澄明街",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-04T15:26:31.547899"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T15:28:31.430176"
       }
     ]
   },
@@ -6801,11 +6805,15 @@
     "sub_category": "急病",
     "location": "高雄市杉林區",
     "units": "杉林分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T15:27:31.682495"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T15:28:31.430176"
       }
     ]
   },
@@ -6815,11 +6823,29 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T15:27:31.682495"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T15:28:31.430176"
+      }
+    ]
+  },
+  "04f47e71c452891f0de4f26be76458ec": {
+    "time": "2026/10/04 15:27:27",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市彌陀區產業路",
+    "units": "彌陀分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T15:28:31.430176"
       }
     ]
   }
