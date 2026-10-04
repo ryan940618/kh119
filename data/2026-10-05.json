@@ -5,7 +5,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區澄觀路",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -18,6 +18,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T00:09:31.441971"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T00:16:31.685162"
       }
     ]
   },
@@ -104,6 +108,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T00:15:31.662645"
+      }
+    ]
+  },
+  "9d8978f35a67f1d116d41e1d0ede62e6": {
+    "time": "2026/10/05 00:13:41",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區清豐路",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T00:16:31.685162"
       }
     ]
   }
