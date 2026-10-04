@@ -3647,7 +3647,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3664,6 +3664,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T11:02:32.491974"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T11:11:32.266782"
       }
     ]
   },
@@ -4137,7 +4141,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區自強一路207巷和中庸街",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4146,6 +4150,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T11:07:32.254777"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T11:11:32.266782"
       }
     ]
   },
@@ -4188,6 +4196,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T11:10:32.101578"
+      }
+    ]
+  },
+  "acb5bab09a1943c13a757398259e48bf": {
+    "time": "2026/10/04 11:11:10",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區青年路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T11:11:32.266782"
       }
     ]
   }
