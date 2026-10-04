@@ -4901,7 +4901,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區國軒路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4918,6 +4918,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T12:24:31.297714"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T12:29:31.400926"
       }
     ]
   },
@@ -4945,11 +4949,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T12:26:31.336412"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T12:29:31.400926"
       }
     ]
   },
@@ -5000,6 +5008,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T12:28:31.291903"
+      }
+    ]
+  },
+  "7e979abd7806c3ce5cffa63b8eafa0dc": {
+    "time": "2026/10/04 12:28:37",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市彌陀區民生街",
+    "units": "彌陀分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T12:29:31.400926"
       }
     ]
   }
