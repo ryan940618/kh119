@@ -3721,7 +3721,7 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3738,6 +3738,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T11:05:31.984206"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T11:06:32.117401"
       }
     ]
   },
@@ -3935,7 +3939,7 @@
     "sub_category": "路倒",
     "location": "高雄市楠梓區右昌街",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -3944,6 +3948,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T10:58:31.786714"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T11:06:32.117401"
       }
     ]
   },
@@ -4062,6 +4070,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T11:02:32.491974"
+      }
+    ]
+  },
+  "b87d85bd61e2d84c4e453fc1ebb25d35": {
+    "time": "2026/10/04 11:05:15",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大社區大吉路",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T11:06:32.117401"
+      }
+    ]
+  },
+  "a75fd1d199cad0f8795172a7e952baee": {
+    "time": "2026/10/04 11:05:01",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區自強一路207巷和中庸街",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T11:06:32.117401"
       }
     ]
   }
