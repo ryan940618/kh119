@@ -5377,7 +5377,7 @@
     "sub_category": "其他",
     "location": "高雄市新興區",
     "units": "",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5386,6 +5386,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T13:26:31.900387"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T13:30:31.605884"
       }
     ]
   },
@@ -5395,11 +5399,15 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T13:27:31.797149"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T13:30:31.605884"
       }
     ]
   },
