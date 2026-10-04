@@ -1343,7 +1343,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區光武路",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1352,6 +1352,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T06:09:31.673202"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T06:17:31.760603"
       }
     ]
   },
@@ -1361,7 +1365,7 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區漁港東二路",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1370,6 +1374,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T06:12:31.598935"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T06:17:31.760603"
       }
     ]
   },
@@ -1388,6 +1396,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T06:15:31.854786"
+      }
+    ]
+  },
+  "8db16baad1ec048161d45739c485af77": {
+    "time": "2026/10/05 06:16:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T06:17:31.760603"
       }
     ]
   }
