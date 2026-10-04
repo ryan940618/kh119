@@ -1981,7 +1981,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區智昌街",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已派遣",
     "status_history": [
       {
         "status": "已派遣",
@@ -1990,6 +1990,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T07:38:31.399481"
+      },
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T07:40:31.373174"
       }
     ]
   },
@@ -1999,11 +2003,15 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區竹圍東街",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T07:36:31.265055"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T07:40:31.373174"
       }
     ]
   },
@@ -2013,11 +2021,15 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T07:37:31.271015"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T07:40:31.373174"
       }
     ]
   },
@@ -2041,7 +2053,7 @@
     "sub_category": "車禍",
     "location": "高雄市茄萣區濱海路",
     "units": "茄萣分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2050,6 +2062,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T07:38:31.399481"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T07:40:31.373174"
       }
     ]
   },
@@ -2082,6 +2098,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T07:38:31.399481"
+      }
+    ]
+  },
+  "cd4cd53d245b2e6594ff9f9a3f46759e": {
+    "time": "2026/10/05 07:39:07",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鹽埕區大仁路",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T07:40:31.373174"
       }
     ]
   }
