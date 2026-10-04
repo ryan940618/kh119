@@ -2475,7 +2475,7 @@
     "sub_category": "其他",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2492,6 +2492,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T08:56:30.874874"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T09:14:31.169416"
       }
     ]
   },
@@ -2523,7 +2527,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -2532,6 +2536,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T08:58:30.901258"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T09:14:31.169416"
       }
     ]
   },
@@ -2710,6 +2718,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T09:11:31.043561"
+      }
+    ]
+  },
+  "aa292be21f4afb325143056bd20650ad": {
+    "time": "2026/10/04 09:13:59",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T09:14:31.169416"
+      }
+    ]
+  },
+  "2b3b48e976d0f1be9ba32ff98289a2a6": {
+    "time": "2026/10/04 09:13:44",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區武慶三路",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T09:14:31.169416"
       }
     ]
   }
