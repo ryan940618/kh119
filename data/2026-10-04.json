@@ -9045,7 +9045,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9062,6 +9062,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T19:04:31.962959"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T19:06:32.032795"
       }
     ]
   },
@@ -9185,7 +9189,7 @@
     "sub_category": "車禍",
     "location": "高雄市前金區中山一路",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9194,6 +9198,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T18:59:31.708872"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T19:06:32.032795"
       }
     ]
   },
@@ -9239,11 +9247,15 @@
     "sub_category": "車禍",
     "location": "高雄市六龜區",
     "units": "六龜分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-04T19:00:31.712332"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T19:06:32.032795"
       }
     ]
   },
