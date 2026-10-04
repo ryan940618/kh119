@@ -9375,7 +9375,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9388,6 +9388,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T19:15:31.864782"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T19:27:32.042498"
       }
     ]
   },
@@ -9397,7 +9401,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9410,6 +9414,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T19:18:32.119915"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T19:27:32.042498"
       }
     ]
   },
@@ -9494,6 +9502,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T19:24:31.939491"
+      }
+    ]
+  },
+  "379ce12e91edc686b0c8ab58bf8de62a": {
+    "time": "2026/10/04 19:26:19",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T19:27:32.042498"
       }
     ]
   }
