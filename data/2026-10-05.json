@@ -2135,7 +2135,7 @@
     "sub_category": "車禍",
     "location": "高雄市茄萣區民福路",
     "units": "茄萣分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2148,6 +2148,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T07:47:31.422844"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T07:59:31.632173"
       }
     ]
   },
@@ -2253,7 +2257,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區過勇路",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2270,6 +2274,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T07:51:31.697057"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T07:59:31.632173"
       }
     ]
   },
@@ -2523,11 +2531,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區保安二街",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T07:57:31.682451"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T07:59:31.632173"
       }
     ]
   },
@@ -2574,6 +2586,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T07:58:31.560781"
+      }
+    ]
+  },
+  "09de9c5325fb7175f155476b49252be4": {
+    "time": "2026/10/05 07:58:04",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T07:59:31.632173"
       }
     ]
   }
