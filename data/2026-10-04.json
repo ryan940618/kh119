@@ -4457,7 +4457,7 @@
     "sub_category": "路倒",
     "location": "高雄市小港區沿海四路",
     "units": "大林分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4466,6 +4466,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T11:40:31.103642"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T11:46:31.207825"
       }
     ]
   },
@@ -4521,11 +4525,29 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T11:45:31.135762"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T11:46:31.207825"
+      }
+    ]
+  },
+  "6e552d78b24c9996e726cff49f811820": {
+    "time": "2026/10/04 11:44:57",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市橋頭區仕豐路",
+    "units": "橋頭分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T11:46:31.207825"
       }
     ]
   }
