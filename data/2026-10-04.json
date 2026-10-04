@@ -7433,7 +7433,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區文府路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7442,6 +7442,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T16:24:31.987564"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T16:30:31.820969"
       }
     ]
   },
@@ -7478,6 +7482,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T16:28:31.733849"
+      }
+    ]
+  },
+  "5a26abc60c4b22963a00b36cc3327ce9": {
+    "time": "2026/10/04 16:29:52",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T16:30:31.820969"
+      }
+    ]
+  },
+  "14817a443c56d2c9e3fdb5da91a5a719": {
+    "time": "2026/10/04 16:29:41",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市永安區維新路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T16:30:31.820969"
       }
     ]
   }
