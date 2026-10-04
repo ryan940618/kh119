@@ -9997,7 +9997,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區國軒路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10014,6 +10014,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T20:54:31.454444"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T20:58:31.415797"
       }
     ]
   },
@@ -10121,11 +10125,15 @@
     "sub_category": "路倒",
     "location": "高雄市仁武區仁光路",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T20:57:31.433460"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T20:58:31.415797"
       }
     ]
   },
@@ -10135,11 +10143,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T20:57:31.433460"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T20:58:31.415797"
       }
     ]
   }
