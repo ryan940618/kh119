@@ -3113,7 +3113,7 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3126,6 +3126,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T10:05:31.397014"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T10:15:31.587381"
       }
     ]
   },
@@ -3267,7 +3271,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營小隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3276,6 +3280,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T10:13:31.429635"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T10:15:31.587381"
       }
     ]
   },
@@ -3303,11 +3311,29 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T10:13:31.429635"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T10:15:31.587381"
+      }
+    ]
+  },
+  "7cb0831a7004eceb2348adf034b3c684": {
+    "time": "2026/10/04 10:14:14",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市大寮區成功路",
+    "units": "中庄分隊,鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T10:15:31.587381"
       }
     ]
   }
