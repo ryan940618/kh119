@@ -2107,7 +2107,7 @@
     "sub_category": "車禍",
     "location": "高雄市茄萣區民福路",
     "units": "茄萣分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2116,6 +2116,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T07:39:31.326196"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T07:47:31.422844"
       }
     ]
   },
@@ -2125,7 +2129,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2134,6 +2138,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T07:41:31.206095"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T07:47:31.422844"
       }
     ]
   },
@@ -2270,6 +2278,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T07:46:31.526083"
+      }
+    ]
+  },
+  "c5390bb78a5f2cc8a5ebca5b821f9be6": {
+    "time": "2026/10/05 07:46:26",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "瑞隆分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T07:47:31.422844"
       }
     ]
   }
