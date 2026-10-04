@@ -9587,7 +9587,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "左營分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9596,6 +9596,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T19:30:31.994233"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T19:37:32.165585"
       }
     ]
   },
@@ -9623,11 +9627,29 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區國隆路",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T19:36:32.289507"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T19:37:32.165585"
+      }
+    ]
+  },
+  "5dcf9e868e247f61d17f732041ab67bd": {
+    "time": "2026/10/04 19:36:31",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T19:37:32.165585"
       }
     ]
   }
