@@ -1263,7 +1263,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1272,6 +1272,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T05:58:31.564079"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T06:05:31.653024"
       }
     ]
   },
@@ -1299,11 +1303,15 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區八德北路",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T06:04:31.486059"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T06:05:31.653024"
       }
     ]
   }
