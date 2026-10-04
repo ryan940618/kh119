@@ -57,7 +57,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -74,6 +74,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T00:24:31.548825"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T00:29:31.518374"
       }
     ]
   },
@@ -184,6 +188,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T00:24:31.548825"
+      }
+    ]
+  },
+  "02510dadf18fc2a871cb7399140e594e": {
+    "time": "2026/10/05 00:28:34",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T00:29:31.518374"
       }
     ]
   }
