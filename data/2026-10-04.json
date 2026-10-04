@@ -9989,7 +9989,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區國軒路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9998,6 +9998,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T20:45:31.288024"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T20:49:31.197414"
       }
     ]
   },
@@ -10007,11 +10011,29 @@
     "sub_category": "其他",
     "location": "高雄市新興區忠孝一路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T20:48:31.322013"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T20:49:31.197414"
+      }
+    ]
+  },
+  "d6fecc7f85c69c98208890854ec64688": {
+    "time": "2026/10/04 20:48:16",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T20:49:31.197414"
       }
     ]
   }
