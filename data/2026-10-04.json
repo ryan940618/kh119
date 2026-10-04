@@ -11271,7 +11271,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11284,6 +11284,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T23:50:31.277170"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T23:59:31.395713"
       }
     ]
   },
@@ -11333,11 +11337,15 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T23:57:31.350096"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T23:59:31.395713"
       }
     ]
   }
