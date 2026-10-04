@@ -8171,7 +8171,7 @@
     "sub_category": "創傷",
     "location": "高雄市旗山區旗南三路",
     "units": "旗山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -8180,6 +8180,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T17:37:31.226037"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T17:45:31.360591"
       }
     ]
   },
@@ -8237,24 +8241,6 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已出動",
-    "status_history": [
-      {
-        "status": "已派遣",
-        "timestamp": "2026-10-04T17:36:31.419585"
-      },
-      {
-        "status": "已出動",
-        "timestamp": "2026-10-04T17:37:31.226037"
-      }
-    ]
-  },
-  "36476ec09e0039b21f0a934e9713f14c": {
-    "time": "2026/10/04 17:35:35",
-    "category": "緊急救護",
-    "sub_category": "創傷",
-    "location": "高雄市小港區松達街",
-    "units": "高桂分隊",
     "current_status": "已到達",
     "status_history": [
       {
@@ -8267,7 +8253,33 @@
       },
       {
         "status": "已到達",
+        "timestamp": "2026-10-04T17:45:31.360591"
+      }
+    ]
+  },
+  "36476ec09e0039b21f0a934e9713f14c": {
+    "time": "2026/10/04 17:35:35",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市小港區松達街",
+    "units": "高桂分隊",
+    "current_status": "送醫中",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T17:36:31.419585"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T17:37:31.226037"
+      },
+      {
+        "status": "已到達",
         "timestamp": "2026-10-04T17:41:31.305144"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T17:45:31.360591"
       }
     ]
   },
