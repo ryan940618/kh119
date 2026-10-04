@@ -49,7 +49,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -58,6 +58,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T00:13:31.619060"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T00:17:31.543767"
       }
     ]
   },
@@ -67,7 +71,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區神農路",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -76,6 +80,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T00:14:31.473552"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T00:17:31.543767"
       }
     ]
   },
@@ -117,11 +125,29 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區清豐路",
     "units": "楠梓分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T00:16:31.685162"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T00:17:31.543767"
+      }
+    ]
+  },
+  "ad40cbdbc637fd3db75171283fe7bec6": {
+    "time": "2026/10/05 00:16:40",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T00:17:31.543767"
       }
     ]
   }
