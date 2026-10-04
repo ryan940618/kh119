@@ -1977,11 +1977,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區智昌街",
     "units": "右昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T07:36:31.265055"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T07:38:31.399481"
       }
     ]
   },
@@ -2033,11 +2037,43 @@
     "sub_category": "車禍",
     "location": "高雄市茄萣區濱海路",
     "units": "茄萣分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T07:37:31.271015"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T07:38:31.399481"
+      }
+    ]
+  },
+  "4c6248df8205b41ae4f5001a1e258a5c": {
+    "time": "2026/10/05 07:37:45",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市茄萣區民福路",
+    "units": "茄萣分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T07:38:31.399481"
+      }
+    ]
+  },
+  "bc9366100ece124fd25001ced61e5e73": {
+    "time": "2026/10/05 07:37:33",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前金區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T07:38:31.399481"
       }
     ]
   }
