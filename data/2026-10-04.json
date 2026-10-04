@@ -2773,7 +2773,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區武慶三路",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2782,6 +2782,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T09:15:31.250837"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T09:20:31.164397"
       }
     ]
   },
@@ -2818,6 +2822,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T09:17:31.088180"
+      }
+    ]
+  },
+  "0d350af94a64096d49176fd06ea2a7d2": {
+    "time": "2026/10/04 09:19:33",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區南光街",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T09:20:31.164397"
       }
     ]
   }
