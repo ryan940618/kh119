@@ -8063,7 +8063,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區立信路和群英街",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8076,6 +8076,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T17:13:32.138772"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T17:31:31.288551"
       }
     ]
   },
@@ -8085,7 +8089,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8098,6 +8102,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T17:21:31.057352"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T17:31:31.288551"
       }
     ]
   },
@@ -8125,7 +8133,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8134,6 +8142,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T17:29:31.305135"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T17:31:31.288551"
       }
     ]
   },
@@ -8157,11 +8169,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T17:28:31.373046"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T17:31:31.288551"
       }
     ]
   },
