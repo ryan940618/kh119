@@ -3647,7 +3647,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3660,6 +3660,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T10:51:31.749472"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T11:02:32.491974"
       }
     ]
   },
@@ -3669,7 +3673,7 @@
     "sub_category": "急病",
     "location": "高雄市甲仙區",
     "units": "甲仙分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3682,6 +3686,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T10:56:31.867831"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-04T11:02:32.491974"
       }
     ]
   },
@@ -3805,7 +3813,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區水秀路",
     "units": "高桂分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -3818,6 +3826,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-04T11:00:32.082560"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-04T11:02:32.491974"
       }
     ]
   },
@@ -4021,11 +4033,15 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T11:01:32.017104"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T11:02:32.491974"
       }
     ]
   }
