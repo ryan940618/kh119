@@ -2039,7 +2039,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區竹圍東街",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2056,6 +2056,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T07:48:31.501141"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T07:54:31.578123"
       }
     ]
   },
@@ -2428,6 +2432,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T07:53:31.492765"
+      }
+    ]
+  },
+  "cdc1268f05e9eacc93f296eaf703b45c": {
+    "time": "2026/10/05 07:53:27",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區英義街",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T07:54:31.578123"
       }
     ]
   }
