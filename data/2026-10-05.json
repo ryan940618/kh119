@@ -12683,7 +12683,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區中華一路",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12696,6 +12696,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T20:08:30.935566"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T20:30:31.241819"
       }
     ]
   },
@@ -12791,7 +12795,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12800,6 +12804,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T20:23:31.182558"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T20:30:31.241819"
       }
     ]
   },
@@ -12870,6 +12878,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T20:27:31.286820"
+      }
+    ]
+  },
+  "2e2adfe9a5521c2129d6a8c17eba1121": {
+    "time": "2026/10/05 20:30:17",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T20:30:31.241819"
       }
     ]
   }
