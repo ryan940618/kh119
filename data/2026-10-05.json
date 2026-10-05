@@ -9793,7 +9793,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9810,6 +9810,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T17:11:32.053924"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T17:15:31.047357"
       }
     ]
   },
@@ -10093,11 +10097,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區寶興路",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T17:14:32.119567"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T17:15:31.047357"
       }
     ]
   },
@@ -10112,6 +10120,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T17:14:32.119567"
+      }
+    ]
+  },
+  "e7253464a3341631cbb60064f67eb1dc": {
+    "time": "2026/10/05 17:14:22",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區建興路",
+    "units": "鼎金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T17:15:31.047357"
       }
     ]
   }
