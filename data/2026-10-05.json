@@ -9123,7 +9123,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區明誠二路",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9132,6 +9132,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T16:23:31.819602"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T16:29:31.697556"
       }
     ]
   },
@@ -9159,7 +9163,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區經武路",
     "units": "橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9168,6 +9172,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T16:25:31.796795"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T16:29:31.697556"
       }
     ]
   },
@@ -9210,6 +9218,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T16:28:31.556839"
+      }
+    ]
+  },
+  "7127b7cfad0744b2aa31628b3d1b7059": {
+    "time": "2026/10/05 16:28:03",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗山區",
+    "units": "旗山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T16:29:31.697556"
       }
     ]
   }
