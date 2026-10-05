@@ -8501,7 +8501,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區大豐二路",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8518,6 +8518,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T15:55:31.391163"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T16:03:31.585417"
       }
     ]
   },
@@ -8760,6 +8764,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T16:00:31.550443"
+      }
+    ]
+  },
+  "4d205c01ba1cf658bd4e899188d5c750": {
+    "time": "2026/10/05 16:02:30",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T16:03:31.585417"
       }
     ]
   }
