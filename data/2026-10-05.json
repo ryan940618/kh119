@@ -2337,7 +2337,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2354,6 +2354,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T08:03:31.681970"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T08:11:31.797725"
       }
     ]
   },
@@ -2417,7 +2421,7 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區德民路",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2430,6 +2434,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T07:56:31.811946"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T08:11:31.797725"
       }
     ]
   },
@@ -2587,7 +2595,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區保安二街",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2604,6 +2612,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T08:08:31.927737"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T08:11:31.797725"
       }
     ]
   },
@@ -2675,7 +2687,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -2684,6 +2696,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T08:04:31.586472"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T08:11:31.797725"
       }
     ]
   },
@@ -2785,7 +2801,7 @@
     "sub_category": "急病",
     "location": "高雄市六龜區",
     "units": "六龜分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2794,6 +2810,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T08:04:31.586472"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T08:11:31.797725"
       }
     ]
   },
@@ -2888,6 +2908,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T08:10:31.647711"
+      }
+    ]
+  },
+  "8bf775a0d4e9191273b05b03081367f1": {
+    "time": "2026/10/05 08:10:18",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大社區三中路",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T08:11:31.797725"
       }
     ]
   }
