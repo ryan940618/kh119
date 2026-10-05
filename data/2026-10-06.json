@@ -1843,7 +1843,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1856,6 +1856,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T07:24:31.000178"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T07:46:31.155862"
       }
     ]
   },
@@ -2097,7 +2101,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區澄觀路",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2106,6 +2110,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T07:37:31.226842"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T07:46:31.155862"
       }
     ]
   },
@@ -2150,6 +2158,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T07:45:31.181705"
+      }
+    ]
+  },
+  "1545a06e0c7decf09f50f4b2b184b7c1": {
+    "time": "2026/10/06 07:45:45",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區惠民捷道、惠心街",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T07:46:31.155862"
       }
     ]
   }
