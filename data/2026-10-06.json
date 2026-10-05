@@ -1403,7 +1403,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1416,6 +1416,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T06:51:31.861464"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T07:11:30.868487"
       }
     ]
   },
@@ -1663,7 +1667,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1672,6 +1676,38 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T07:00:31.906575"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T07:11:30.868487"
+      }
+    ]
+  },
+  "0f73d279244a576c76ef15c7bbce029a": {
+    "time": "2026/10/06 07:10:51",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大社區金龍路",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T07:11:30.868487"
+      }
+    ]
+  },
+  "a36690504b75cbafe8666b4a35d24ea3": {
+    "time": "2026/10/06 07:10:43",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市前鎮區鎮興路",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T07:11:30.868487"
       }
     ]
   }
