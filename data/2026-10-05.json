@@ -11755,11 +11755,15 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T18:50:45.816747"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T18:52:31.766722"
       }
     ]
   },
@@ -11769,11 +11773,29 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T18:51:31.930247"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T18:52:31.766722"
+      }
+    ]
+  },
+  "7f1fa34ce38d55fc98367a15898dc1e8": {
+    "time": "2026/10/05 18:51:42",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T18:52:31.766722"
       }
     ]
   }
