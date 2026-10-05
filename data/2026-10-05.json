@@ -8649,7 +8649,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區武營路",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8662,6 +8662,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T15:59:31.447964"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T16:04:31.635255"
       }
     ]
   },
@@ -8715,7 +8719,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳥松區大埤路",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8728,6 +8732,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T16:02:31.413415"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T16:04:31.635255"
       }
     ]
   },
@@ -8737,7 +8745,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8746,6 +8754,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T15:58:31.538096"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T16:04:31.635255"
       }
     ]
   },
@@ -8773,11 +8785,29 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "後勁分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T16:03:31.585417"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T16:04:31.635255"
+      }
+    ]
+  },
+  "46e2541585c259731a50bb95bedfee9a": {
+    "time": "2026/10/05 16:04:01",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區仁愛路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T16:04:31.635255"
       }
     ]
   }
