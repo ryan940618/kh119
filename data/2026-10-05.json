@@ -7957,7 +7957,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7966,6 +7966,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T14:51:31.213065"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T14:54:31.118325"
       }
     ]
   },
@@ -8016,6 +8020,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T14:53:30.947674"
+      }
+    ]
+  },
+  "9254e48dd846e0fb639cb0375ddf094e": {
+    "time": "2026/10/05 14:53:27",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市新興區新田路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T14:54:31.118325"
       }
     ]
   }
