@@ -6447,11 +6447,15 @@
     "sub_category": "車禍",
     "location": "高雄市林園區中芸三路",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-05T12:16:31.232501"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T12:21:31.241745"
       }
     ]
   },
@@ -6461,11 +6465,29 @@
     "sub_category": "創傷",
     "location": "高雄市仁武區水管路",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T12:20:31.141836"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T12:21:31.241745"
+      }
+    ]
+  },
+  "15b23df5bfc849d5c49b279f29b1c074": {
+    "time": "2026/10/05 12:20:46",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T12:21:31.241745"
       }
     ]
   }
