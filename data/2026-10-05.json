@@ -7615,7 +7615,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7628,6 +7628,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T14:10:31.811200"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T14:25:32.065446"
       }
     ]
   },
@@ -7725,11 +7729,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-05T14:17:32.112976"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T14:25:32.065446"
       }
     ]
   },
@@ -7739,11 +7747,15 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區和平一路和林泉街",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T14:22:31.947893"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T14:25:32.065446"
       }
     ]
   },
@@ -7753,11 +7765,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區九如一路",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T14:22:31.947893"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T14:25:32.065446"
       }
     ]
   }
