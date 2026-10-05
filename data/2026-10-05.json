@@ -11423,7 +11423,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區四維三路",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -11432,6 +11432,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T18:30:31.627810"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T18:42:31.635433"
       }
     ]
   },
@@ -11632,6 +11636,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T18:41:31.692135"
+      }
+    ]
+  },
+  "f538e08b73d6422cc4f4177278cefd23": {
+    "time": "2026/10/05 18:41:54",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市燕巢區",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T18:42:31.635433"
+      }
+    ]
+  },
+  "2785ecf65f27ce79ce90e4caad5f9d22": {
+    "time": "2026/10/05 18:40:38",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "屏東縣屏東市建國路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T18:42:31.635433"
       }
     ]
   }
