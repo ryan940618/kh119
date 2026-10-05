@@ -5109,7 +5109,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區凱旋一路",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5126,6 +5126,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T10:39:31.641518"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T10:49:31.657172"
       }
     ]
   },
@@ -5363,11 +5367,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區鳳捷路",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-05T10:39:31.641518"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T10:49:31.657172"
       }
     ]
   },
@@ -5403,7 +5411,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中安路",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5412,6 +5420,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T10:45:31.761247"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T10:49:31.657172"
       }
     ]
   },
