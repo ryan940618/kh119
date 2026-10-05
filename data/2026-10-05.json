@@ -4695,7 +4695,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區重慶街",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -4708,6 +4708,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T10:19:31.410236"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T10:22:31.673813"
       }
     ]
   },
@@ -4921,11 +4925,15 @@
     "sub_category": "路倒",
     "location": "高雄市鼓山區裕興路",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T10:21:31.428098"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T10:22:31.673813"
       }
     ]
   },
