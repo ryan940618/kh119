@@ -5459,7 +5459,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中安路",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5472,6 +5472,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T10:49:31.657172"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T11:01:31.708050"
       }
     ]
   },
@@ -5507,7 +5511,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5520,6 +5524,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T10:50:31.661978"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T11:01:31.708050"
       }
     ]
   },
@@ -5632,6 +5640,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T11:00:31.983527"
+      }
+    ]
+  },
+  "0d050f2cfead4a0897da65c0ed6cd33a": {
+    "time": "2026/10/05 11:00:33",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區同安路",
+    "units": "前鎮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T11:01:31.708050"
       }
     ]
   }
