@@ -10759,7 +10759,7 @@
     "sub_category": "車禍",
     "location": "高雄市旗山區旗南三路",
     "units": "旗山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10772,6 +10772,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T17:53:31.463156"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T18:04:31.695362"
       }
     ]
   },
@@ -10989,11 +10993,43 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區阿公店路",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T18:02:31.410540"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T18:04:31.695362"
+      }
+    ]
+  },
+  "3feeff9cbe35f688960153ff222926b8": {
+    "time": "2026/10/05 18:03:45",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T18:04:31.695362"
+      }
+    ]
+  },
+  "93c48ed0021d073d36a128240f6e8014": {
+    "time": "2026/10/05 18:02:41",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區北平二街",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T18:04:31.695362"
       }
     ]
   }
