@@ -9831,7 +9831,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9844,6 +9844,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T17:05:32.173989"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T17:26:31.305246"
       }
     ]
   },
@@ -9897,7 +9901,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -9926,6 +9930,10 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T17:22:31.354532"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T17:26:31.305246"
       }
     ]
   },
@@ -10336,6 +10344,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T17:25:31.264521"
+      }
+    ]
+  },
+  "eb2ce0d65967adcdf18e970c7fa1b173": {
+    "time": "2026/10/05 17:24:20",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市大社區",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T17:26:31.305246"
       }
     ]
   }
