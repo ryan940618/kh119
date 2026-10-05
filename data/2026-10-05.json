@@ -8405,7 +8405,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "大林分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8422,6 +8422,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T15:46:31.341561"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T15:56:31.433141"
       }
     ]
   },
@@ -8585,7 +8589,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8594,6 +8598,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T15:48:31.424763"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T15:56:31.433141"
       }
     ]
   },
@@ -8661,11 +8669,29 @@
     "sub_category": "車禍",
     "location": "高雄市小港區平和路",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T15:54:31.401068"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T15:56:31.433141"
+      }
+    ]
+  },
+  "685770a40cb658ff7dfa1bcf1cf4c284": {
+    "time": "2026/10/05 15:55:30",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳥松區大埤路",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T15:56:31.433141"
       }
     ]
   }
