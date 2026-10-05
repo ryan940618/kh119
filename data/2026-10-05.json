@@ -9627,7 +9627,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區桃子園路",
     "units": "左營小隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9636,6 +9636,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T16:50:31.948113"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T16:59:31.948158"
       }
     ]
   },
@@ -9788,6 +9792,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T16:58:31.902711"
+      }
+    ]
+  },
+  "a345bcf06ca410459ef151a3b4fb9d44": {
+    "time": "2026/10/05 16:58:55",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗山區",
+    "units": "旗山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T16:59:31.948158"
       }
     ]
   }
