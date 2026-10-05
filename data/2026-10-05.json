@@ -8919,7 +8919,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8928,6 +8928,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T16:10:31.555935"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T16:17:31.488495"
       }
     ]
   },
@@ -8978,6 +8982,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T16:16:31.487893"
+      }
+    ]
+  },
+  "a9641fcc2cb9d1871e545f9606518994": {
+    "time": "2026/10/05 16:16:13",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市林園區林園北路",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T16:17:31.488495"
       }
     ]
   }
