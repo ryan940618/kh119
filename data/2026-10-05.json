@@ -13729,7 +13729,7 @@
     "sub_category": "路倒",
     "location": "高雄市大寮區河堤路",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -13738,6 +13738,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T22:15:31.577459"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T22:20:31.688508"
       }
     ]
   },
@@ -13765,11 +13769,29 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T22:18:31.679470"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T22:20:31.688508"
+      }
+    ]
+  },
+  "68f28a40dcdf34302b247eb623027a95": {
+    "time": "2026/10/05 22:20:08",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T22:20:31.688508"
       }
     ]
   }
