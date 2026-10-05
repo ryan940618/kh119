@@ -9949,7 +9949,7 @@
     "sub_category": "創傷",
     "location": "高雄市鹽埕區府北路",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -9958,6 +9958,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T17:06:32.010499"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T17:24:31.153360"
       }
     ]
   },
@@ -10133,7 +10137,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區寶興路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10142,6 +10146,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T17:15:31.047357"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T17:24:31.153360"
       }
     ]
   },
@@ -10279,11 +10287,29 @@
     "sub_category": "車禍",
     "location": "高雄市前金區中華三路",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T17:23:31.156707"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T17:24:31.153360"
+      }
+    ]
+  },
+  "50848420709c389c6115ff3a17cfb653": {
+    "time": "2026/10/05 17:23:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T17:24:31.153360"
       }
     ]
   }
