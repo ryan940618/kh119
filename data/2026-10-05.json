@@ -2741,7 +2741,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區明正一街",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2758,6 +2758,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T08:12:31.963366"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T08:23:32.019044"
       }
     ]
   },
@@ -2767,7 +2771,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2784,6 +2788,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T08:10:31.647711"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T08:23:32.019044"
       }
     ]
   },
@@ -3163,11 +3171,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T08:21:31.947257"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T08:23:32.019044"
       }
     ]
   },
@@ -3196,6 +3208,48 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T08:22:31.818010"
+      }
+    ]
+  },
+  "3dcae5f1c135dfd708344eecd8d3d7e1": {
+    "time": "2026/10/05 08:22:58",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區中山三路",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T08:23:32.019044"
+      }
+    ]
+  },
+  "1e2801ac2177924ad12b9a771440c7b1": {
+    "time": "2026/10/05 08:22:15",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區復興三路",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T08:23:32.019044"
+      }
+    ]
+  },
+  "cf776b3324afe8a2b30f1f0e11a8f7a2": {
+    "time": "2026/10/05 08:21:58",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗山區",
+    "units": "旗山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T08:23:32.019044"
       }
     ]
   }
