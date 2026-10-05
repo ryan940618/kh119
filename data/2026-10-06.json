@@ -1403,7 +1403,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1420,6 +1420,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T07:11:30.868487"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T07:26:31.073085"
       }
     ]
   },
@@ -1833,7 +1837,7 @@
     "sub_category": "路倒",
     "location": "高雄市燕巢區中民路",
     "units": "燕巢分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1842,6 +1846,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T07:22:31.115943"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T07:26:31.073085"
       }
     ]
   },
@@ -1920,6 +1928,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T07:23:31.039639"
+      }
+    ]
+  },
+  "04710592160b0b6c057ced7909928acd": {
+    "time": "2026/10/06 07:25:04",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區南京路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T07:26:31.073085"
       }
     ]
   }
