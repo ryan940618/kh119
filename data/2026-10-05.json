@@ -5675,7 +5675,7 @@
     "sub_category": "創傷",
     "location": "高雄市新興區中正四路",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5692,6 +5692,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T11:14:31.747024"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T11:16:31.979458"
       }
     ]
   },
@@ -5776,6 +5780,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T11:15:31.846193"
+      }
+    ]
+  },
+  "8978c55be736c3f5aa9ea5ee85175696": {
+    "time": "2026/10/05 11:15:22",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T11:16:31.979458"
+      }
+    ]
+  },
+  "79baee0a7e939c338731a5fc1803ef8d": {
+    "time": "2026/10/05 11:15:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T11:16:31.979458"
       }
     ]
   }
