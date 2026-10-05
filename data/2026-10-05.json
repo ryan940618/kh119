@@ -14211,7 +14211,7 @@
     "sub_category": "燒燙傷",
     "location": "高雄市橋頭區橋新七路",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -14224,6 +14224,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T23:49:31.090944"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T23:53:31.229929"
       }
     ]
   },
@@ -14233,7 +14237,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -14242,6 +14246,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T23:46:31.253332"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T23:53:31.229929"
       }
     ]
   },
@@ -14251,7 +14259,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區鼎中路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -14260,6 +14268,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T23:50:31.143806"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T23:53:31.229929"
       }
     ]
   },
@@ -14302,6 +14314,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T23:52:31.228939"
+      }
+    ]
+  },
+  "765f1576ff28dc22249d6b512ac87524": {
+    "time": "2026/10/05 23:52:49",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市鼓山區美術東一路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T23:53:31.229929"
       }
     ]
   }
