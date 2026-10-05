@@ -9831,7 +9831,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9848,6 +9848,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T17:26:31.305246"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T17:34:31.345178"
       }
     ]
   },
@@ -10073,7 +10077,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10090,6 +10094,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T17:29:31.455980"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T17:34:31.345178"
       }
     ]
   },
@@ -10263,7 +10271,7 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10276,6 +10284,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T17:27:31.197535"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T17:34:31.345178"
       }
     ]
   },
@@ -10419,7 +10431,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10428,6 +10440,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T17:28:31.132667"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T17:34:31.345178"
       }
     ]
   },
@@ -10537,11 +10553,15 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區澄合街",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T17:31:31.261879"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T17:34:31.345178"
       }
     ]
   },
@@ -10569,11 +10589,15 @@
     "sub_category": "生物咬螫傷",
     "location": "高雄市桃源區",
     "units": "桃源分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T17:33:31.494237"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T17:34:31.345178"
       }
     ]
   }
