@@ -6583,7 +6583,7 @@
     "sub_category": "車禍",
     "location": "高雄市前金區中華三路",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6600,6 +6600,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T12:37:31.313025"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T12:41:31.324175"
       }
     ]
   },
@@ -6799,11 +6803,43 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-05T12:37:31.313025"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T12:41:31.324175"
+      }
+    ]
+  },
+  "44af64f000393891488059a05b84e0c5": {
+    "time": "2026/10/05 12:40:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T12:41:31.324175"
+      }
+    ]
+  },
+  "0af3dc43e4f42567d30820c84c806ab9": {
+    "time": "2026/10/05 12:34:43",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區康定路",
+    "units": "前鎮分隊",
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T12:41:31.324175"
       }
     ]
   }
