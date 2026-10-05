@@ -4717,11 +4717,15 @@
     "sub_category": "其他",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T10:06:31.459619"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T10:21:31.428098"
       }
     ]
   },
@@ -4771,7 +4775,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "崇德駐地",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4780,6 +4784,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T10:09:31.926191"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T10:21:31.428098"
       }
     ]
   },
@@ -4829,7 +4837,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -4838,6 +4846,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T10:16:31.493298"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T10:21:31.428098"
       }
     ]
   },
@@ -4887,7 +4899,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4896,6 +4908,38 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T10:19:31.410236"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T10:21:31.428098"
+      }
+    ]
+  },
+  "f5d778bb18050d6b381807546e979c66": {
+    "time": "2026/10/05 10:20:50",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鼓山區裕興路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T10:21:31.428098"
+      }
+    ]
+  },
+  "3b873f635f7af8dd56e8d52ad690a9c9": {
+    "time": "2026/10/05 10:20:00",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區蓮潭路",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T10:21:31.428098"
       }
     ]
   }
