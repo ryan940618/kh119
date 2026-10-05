@@ -3931,7 +3931,7 @@
     "sub_category": "車禍",
     "location": "高雄市茄萣區濱海路",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3940,6 +3940,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T08:58:32.481185"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T09:15:31.163558"
       }
     ]
   },
@@ -4011,11 +4015,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T09:13:31.964661"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T09:15:31.163558"
       }
     ]
   },
@@ -4030,6 +4038,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T09:14:32.172854"
+      }
+    ]
+  },
+  "1cf45e6c35e153b07b04372533ae5915": {
+    "time": "2026/10/05 09:14:34",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市前鎮區",
+    "units": "",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T09:15:31.163558"
+      }
+    ]
+  },
+  "d921657578d3b10e26ba4a223801abab": {
+    "time": "2026/10/05 09:14:31",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T09:15:31.163558"
       }
     ]
   }
