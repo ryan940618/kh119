@@ -1787,7 +1787,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區光華三路",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -1800,6 +1800,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T07:31:31.039029"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T07:38:31.119858"
       }
     ]
   },
@@ -2092,6 +2096,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T07:36:31.249209"
+      }
+    ]
+  },
+  "b173b0e7bdf8cd710c854ae3a4c727be": {
+    "time": "2026/10/06 07:37:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T07:38:31.119858"
       }
     ]
   }
