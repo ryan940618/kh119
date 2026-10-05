@@ -3099,7 +3099,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區中山路",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -3108,6 +3108,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T08:20:32.208692"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T08:43:32.052841"
       }
     ]
   },
@@ -3251,7 +3255,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "大寮分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -3264,6 +3268,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T08:36:31.759991"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T08:43:32.052841"
       }
     ]
   },
@@ -3514,6 +3522,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T08:42:31.916002"
+      }
+    ]
+  },
+  "e4033539c79ce74b7208eddd26875d3a": {
+    "time": "2026/10/05 08:42:22",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市燕巢區大成路",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T08:43:32.052841"
+      }
+    ]
+  },
+  "f039360c5a5ff89062a6afcb48628f85": {
+    "time": "2026/10/05 08:42:14",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市燕巢區大仁路",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T08:43:32.052841"
       }
     ]
   }
