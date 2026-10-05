@@ -7477,7 +7477,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7490,6 +7490,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T14:01:32.025124"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T14:13:31.979154"
       }
     ]
   },
@@ -7621,7 +7625,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7630,6 +7634,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T14:05:31.917256"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T14:13:31.979154"
       }
     ]
   },
@@ -7652,6 +7660,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T14:10:31.811200"
+      }
+    ]
+  },
+  "797b8aba3b0873fd950cdf3b46fcadee": {
+    "time": "2026/10/05 14:12:58",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前金區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T14:13:31.979154"
       }
     ]
   }
