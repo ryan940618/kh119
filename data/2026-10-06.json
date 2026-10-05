@@ -1691,7 +1691,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1708,6 +1708,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T07:34:31.102980"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T07:59:31.292553"
       }
     ]
   },
@@ -2129,7 +2133,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區澄觀路",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2146,6 +2150,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T07:52:31.157641"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T07:59:31.292553"
       }
     ]
   },
@@ -2377,11 +2385,57 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區大德二路",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T07:57:31.260871"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T07:59:31.292553"
+      }
+    ]
+  },
+  "9fdd3002af2a3207d1b845aaace2c16e": {
+    "time": "2026/10/06 07:58:14",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區凱旋二路",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T07:59:31.292553"
+      }
+    ]
+  },
+  "4d87501143fa02468c41835df38be7ee": {
+    "time": "2026/10/06 07:58:11",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T07:59:31.292553"
+      }
+    ]
+  },
+  "5232e28c5bf1c2dd27481677846e9e5a": {
+    "time": "2026/10/06 07:56:02",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區自由三路",
+    "units": "新莊分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T07:59:31.292553"
       }
     ]
   }
