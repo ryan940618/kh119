@@ -4805,7 +4805,7 @@
     "sub_category": "車禍",
     "location": "高雄市美濃區中華路",
     "units": "美濃分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4818,6 +4818,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T10:17:34.548978"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T10:25:31.455350"
       }
     ]
   },
@@ -4845,7 +4849,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -4858,6 +4862,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T10:21:31.428098"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T10:25:31.455350"
       }
     ]
   },
@@ -4951,7 +4959,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區蓮潭路",
     "units": "左營分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4960,6 +4968,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T10:24:31.461964"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T10:25:31.455350"
       }
     ]
   },
@@ -4988,6 +5000,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T10:23:31.462380"
+      }
+    ]
+  },
+  "315de60bd12625cad994c440f79eca8a": {
+    "time": "2026/10/05 10:24:39",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區凱旋一路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T10:25:31.455350"
       }
     ]
   }
