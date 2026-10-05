@@ -6583,7 +6583,7 @@
     "sub_category": "車禍",
     "location": "高雄市前金區中華三路",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6596,6 +6596,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T12:33:31.303646"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T12:37:31.313025"
       }
     ]
   },
@@ -6770,6 +6774,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T12:35:31.450144"
+      }
+    ]
+  },
+  "ac3ba13e621b5b79801580b5acf47a05": {
+    "time": "2026/10/05 12:36:31",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T12:37:31.313025"
       }
     ]
   }
