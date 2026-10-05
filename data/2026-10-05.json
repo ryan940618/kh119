@@ -6549,7 +6549,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區同慶路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6558,6 +6558,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T12:25:31.166392"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T12:31:31.266497"
       }
     ]
   },
@@ -6585,7 +6589,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區岡山路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6594,6 +6598,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T12:30:31.181969"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T12:31:31.266497"
       }
     ]
   },
@@ -6603,7 +6611,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區康和路",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6612,6 +6620,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T12:30:31.181969"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T12:31:31.266497"
       }
     ]
   },
@@ -6626,6 +6638,48 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T12:30:31.181969"
+      }
+    ]
+  },
+  "f5189a0049d50cf54f07dbd166d2f86b": {
+    "time": "2026/10/05 12:30:51",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市前鎮區廣西路",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T12:31:31.266497"
+      }
+    ]
+  },
+  "381e0f8cd858afbeb68ff59eee5deac6": {
+    "time": "2026/10/05 12:30:38",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "阿蓮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T12:31:31.266497"
+      }
+    ]
+  },
+  "64990f7d3081efebd5894242f6462a50": {
+    "time": "2026/10/05 12:30:24",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市阿蓮區峰山路",
+    "units": "阿蓮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T12:31:31.266497"
       }
     ]
   }
