@@ -9885,7 +9885,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已出動",
+    "current_status": "已派遣",
     "status_history": [
       {
         "status": "已派遣",
@@ -9902,6 +9902,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T17:10:32.198023"
+      },
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T17:14:32.119567"
       }
     ]
   },
@@ -9965,7 +9969,7 @@
     "sub_category": "創傷",
     "location": "高雄市燕巢區中興路",
     "units": "燕巢分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9978,6 +9982,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T17:04:32.072860"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T17:14:32.119567"
       }
     ]
   },
@@ -10049,7 +10057,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區建興路",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10058,6 +10066,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T17:08:32.023023"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T17:14:32.119567"
       }
     ]
   },
@@ -10072,6 +10084,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T17:13:32.065623"
+      }
+    ]
+  },
+  "1f44e30c4e9684b803b5c5a23525340a": {
+    "time": "2026/10/05 17:13:40",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區寶興路",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T17:14:32.119567"
+      }
+    ]
+  },
+  "2a66bbea876a999431dfcdb2c5650ef9": {
+    "time": "2026/10/05 17:12:46",
+    "category": "火災",
+    "sub_category": "雜草(含廢棄物、墓地)",
+    "location": "高雄市六龜區裕濃路",
+    "units": "寶來分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T17:14:32.119567"
       }
     ]
   }
