@@ -8809,7 +8809,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8822,6 +8822,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T16:09:31.656233"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T16:14:31.656715"
       }
     ]
   },
@@ -8944,6 +8948,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T16:12:31.492924"
+      }
+    ]
+  },
+  "4f1ff5271a92ea98cc666fc4545f9108": {
+    "time": "2026/10/05 16:13:40",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區鳳松路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T16:14:31.656715"
       }
     ]
   }
