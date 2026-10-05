@@ -5089,11 +5089,15 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T10:28:31.591803"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T10:31:31.537949"
       }
     ]
   },
@@ -5103,11 +5107,15 @@
     "sub_category": "創傷",
     "location": "高雄市永安區新興路",
     "units": "",
-    "current_status": "已受理",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已受理",
         "timestamp": "2026-10-05T10:30:31.688880"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T10:31:31.537949"
       }
     ]
   },
@@ -5136,6 +5144,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T10:30:31.688880"
+      }
+    ]
+  },
+  "52bb9eb339e3992320c338022bbc6774": {
+    "time": "2026/10/05 10:30:49",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T10:31:31.537949"
+      }
+    ]
+  },
+  "74f154e58aae696579d02286dad15f19": {
+    "time": "2026/10/05 10:30:46",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T10:31:31.537949"
       }
     ]
   }
