@@ -9539,7 +9539,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區左營大路",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9552,6 +9552,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T16:45:31.749442"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T17:00:31.944245"
       }
     ]
   },
@@ -9583,7 +9587,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9596,6 +9600,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T16:57:32.181863"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T17:00:31.944245"
       }
     ]
   },
@@ -9755,11 +9763,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T16:55:32.031463"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T17:00:31.944245"
       }
     ]
   },
@@ -9806,6 +9818,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T16:59:31.948158"
+      }
+    ]
+  },
+  "e9f2e1622fddc89abe68d9fe2a52b02f": {
+    "time": "2026/10/05 16:59:59",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鹽埕區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T17:00:31.944245"
       }
     ]
   }
