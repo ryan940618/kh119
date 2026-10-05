@@ -6265,7 +6265,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6274,6 +6274,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T12:03:31.000129"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T12:08:30.981614"
       }
     ]
   },
@@ -6297,7 +6301,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6306,6 +6310,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T12:06:31.044016"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T12:08:30.981614"
       }
     ]
   },
@@ -6324,6 +6332,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T12:07:30.878294"
+      }
+    ]
+  },
+  "6a80f290e7c0086ef1855b3892f45a02": {
+    "time": "2026/10/05 12:06:57",
+    "category": "火災",
+    "sub_category": "一般(集合)住宅",
+    "location": "高雄市三民區永年街",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T12:08:30.981614"
+      }
+    ]
+  },
+  "7026cd930bd3639d71b6151c13ea0c0f": {
+    "time": "2026/10/05 12:07:07",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市桃源區",
+    "units": "桃源分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T12:08:30.981614"
       }
     ]
   }
