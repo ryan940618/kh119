@@ -4137,7 +4137,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4150,6 +4150,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T09:26:31.254863"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T09:42:31.417170"
       }
     ]
   },
@@ -4349,11 +4353,15 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區安招路",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T09:40:31.601900"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T09:42:31.417170"
       }
     ]
   },
@@ -4363,11 +4371,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T09:41:31.471750"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T09:42:31.417170"
       }
     ]
   }
