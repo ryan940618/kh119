@@ -9167,7 +9167,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區明誠二路",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9184,6 +9184,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T16:40:31.845829"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T16:43:31.947788"
       }
     ]
   },
@@ -9215,7 +9219,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區經武路",
     "units": "橋頭分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9228,6 +9232,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T16:29:31.697556"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T16:43:31.947788"
       }
     ]
   },
@@ -9317,7 +9325,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區前鋒路",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -9326,6 +9334,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T16:34:31.767659"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T16:43:31.947788"
       }
     ]
   },
@@ -9459,11 +9471,29 @@
     "sub_category": "車禍",
     "location": "高雄市左營區左營大路",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T16:42:31.846400"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T16:43:31.947788"
+      }
+    ]
+  },
+  "0d9f443dbb021cd5176a857eb95b8ff7": {
+    "time": "2026/10/05 16:42:53",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T16:43:31.947788"
       }
     ]
   }
