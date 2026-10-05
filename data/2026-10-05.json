@@ -7215,7 +7215,7 @@
     "sub_category": "其他",
     "location": "高雄市三民區澄清路",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "火已控",
     "status_history": [
       {
         "status": "已出動",
@@ -7224,6 +7224,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T13:27:31.613780"
+      },
+      {
+        "status": "火已控",
+        "timestamp": "2026-10-05T13:38:31.606091"
       }
     ]
   },
@@ -7291,11 +7295,15 @@
     "sub_category": "車禍",
     "location": "高雄市左營區介壽路",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T13:37:31.622870"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T13:38:31.606091"
       }
     ]
   },
@@ -7310,6 +7318,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T13:37:31.622870"
+      }
+    ]
+  },
+  "b1d7e570de0a97858036808f8d7720d1": {
+    "time": "2026/10/05 13:36:12",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T13:38:31.606091"
       }
     ]
   }
