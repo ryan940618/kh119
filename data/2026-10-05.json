@@ -3899,7 +3899,7 @@
     "sub_category": "急病",
     "location": "高雄市六龜區",
     "units": "茂林分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3912,6 +3912,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T09:14:32.172854"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T09:20:31.120006"
       }
     ]
   },
@@ -4104,6 +4108,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T09:19:31.171726"
+      }
+    ]
+  },
+  "5bf1af7e93e114392a2ab7a9e5fecb5a": {
+    "time": "2026/10/05 09:19:10",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T09:20:31.120006"
+      }
+    ]
+  },
+  "b69691969a7a80163813e37527eb571b": {
+    "time": "2026/10/05 09:19:07",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T09:20:31.120006"
       }
     ]
   }
