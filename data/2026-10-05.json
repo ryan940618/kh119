@@ -4673,7 +4673,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4690,6 +4690,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T10:16:31.493298"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T10:26:31.448653"
       }
     ]
   },
@@ -4981,11 +4985,15 @@
     "sub_category": "其他",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T10:23:31.462380"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T10:26:31.448653"
       }
     ]
   },
@@ -4995,11 +5003,15 @@
     "sub_category": "創傷",
     "location": "高雄市鹽埕區建國四路",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T10:23:31.462380"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T10:26:31.448653"
       }
     ]
   },
@@ -5009,11 +5021,15 @@
     "sub_category": "創傷",
     "location": "高雄市三民區凱旋一路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T10:25:31.455350"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T10:26:31.448653"
       }
     ]
   }
