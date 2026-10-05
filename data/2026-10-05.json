@@ -2429,7 +2429,7 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區德民路",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2446,6 +2446,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T08:11:31.797725"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T08:22:31.818010"
       }
     ]
   },
@@ -2641,7 +2645,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2654,6 +2658,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T08:08:31.927737"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T08:22:31.818010"
       }
     ]
   },
@@ -3137,11 +3145,15 @@
     "sub_category": "路倒",
     "location": "高雄市三民區金山路",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T08:21:31.947257"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T08:22:31.818010"
       }
     ]
   },
@@ -3170,6 +3182,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T08:21:31.947257"
+      }
+    ]
+  },
+  "4ad7e63629788e038b7e1b96a593fcb3": {
+    "time": "2026/10/05 08:21:39",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區民族一路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T08:22:31.818010"
       }
     ]
   }
