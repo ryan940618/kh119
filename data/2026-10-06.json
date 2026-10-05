@@ -1691,7 +1691,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1704,6 +1704,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T07:11:30.868487"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T07:34:31.102980"
       }
     ]
   },
@@ -1995,11 +1999,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區鄭和南路",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-06T07:27:31.087662"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T07:34:31.102980"
       }
     ]
   },
@@ -2009,11 +2017,15 @@
     "sub_category": "車禍",
     "location": "高雄市左營區軍校路",
     "units": "左營小隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T07:28:31.154807"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T07:34:31.102980"
       }
     ]
   },
