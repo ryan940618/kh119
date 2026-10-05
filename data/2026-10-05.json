@@ -3173,7 +3173,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3190,6 +3190,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T08:33:31.722429"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T08:48:32.177362"
       }
     ]
   },
@@ -3633,11 +3637,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區朝新路",
     "units": "後勁分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T08:47:32.031394"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T08:48:32.177362"
       }
     ]
   },
@@ -3652,6 +3660,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T08:47:32.031394"
+      }
+    ]
+  },
+  "ff60e83b45821ecf3798247bad754cc9": {
+    "time": "2026/10/05 08:47:36",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前金區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T08:48:32.177362"
+      }
+    ]
+  },
+  "76109648a4d46d0f6062daf359e732e0": {
+    "time": "2026/10/05 08:46:50",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T08:48:32.177362"
       }
     ]
   }
