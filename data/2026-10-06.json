@@ -2013,7 +2013,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區南京路",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2030,6 +2030,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T07:42:31.184023"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T07:50:31.230653"
       }
     ]
   },
@@ -2039,7 +2043,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區鄭和南路",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -2052,6 +2056,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T07:45:31.181705"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T07:50:31.230653"
       }
     ]
   },
@@ -2224,6 +2232,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T07:49:31.199988"
+      }
+    ]
+  },
+  "9d351da3c5f8b705996be733d5dabe06": {
+    "time": "2026/10/06 07:49:25",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區民族一路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T07:50:31.230653"
+      }
+    ]
+  },
+  "902a1e69c0701e4d4b5d04adcf094a45": {
+    "time": "2026/10/06 07:49:15",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市燕巢區",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T07:50:31.230653"
       }
     ]
   }
