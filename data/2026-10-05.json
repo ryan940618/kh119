@@ -11293,7 +11293,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區大昌二路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11302,6 +11302,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T18:21:31.506046"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T18:33:31.587340"
       }
     ]
   },
@@ -11311,7 +11315,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11320,6 +11324,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T18:23:31.450768"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T18:33:31.587340"
       }
     ]
   },
@@ -11467,11 +11475,29 @@
     "sub_category": "路倒",
     "location": "高雄市鼓山區明倫路",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T18:32:31.757989"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T18:33:31.587340"
+      }
+    ]
+  },
+  "d3e399216654c9116c6f442b50cd58b2": {
+    "time": "2026/10/05 18:32:49",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T18:33:31.587340"
       }
     ]
   }
