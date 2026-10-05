@@ -9101,7 +9101,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9114,6 +9114,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T16:26:31.719564"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T16:47:31.994257"
       }
     ]
   },
@@ -9341,7 +9345,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區前鋒路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -9354,6 +9358,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T16:43:31.947788"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T16:47:31.994257"
       }
     ]
   },
@@ -9385,7 +9393,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9402,6 +9410,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T16:44:31.755585"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T16:47:31.994257"
       }
     ]
   },
@@ -9525,11 +9537,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T16:43:31.947788"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T16:47:31.994257"
       }
     ]
   }
