@@ -4627,7 +4627,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4640,6 +4640,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T10:03:31.573528"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T10:08:31.579212"
       }
     ]
   },
@@ -4695,11 +4699,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區民族一路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T10:07:31.579416"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T10:08:31.579212"
       }
     ]
   },
@@ -4709,11 +4717,29 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T10:07:31.579416"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T10:08:31.579212"
+      }
+    ]
+  },
+  "a24b1c06105e6c50f1cfef469e873610": {
+    "time": "2026/10/05 10:06:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "崇德駐地",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T10:08:31.579212"
       }
     ]
   }
