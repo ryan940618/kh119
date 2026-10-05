@@ -10191,11 +10191,15 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區武廟路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-05T17:18:31.228626"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T17:25:31.264521"
       }
     ]
   },
@@ -10205,7 +10209,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10214,6 +10218,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T17:20:31.265574"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T17:25:31.264521"
       }
     ]
   },
@@ -10305,11 +10313,29 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T17:24:31.153360"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T17:25:31.264521"
+      }
+    ]
+  },
+  "696cb848fe7f8d021a2d58f30f10e757": {
+    "time": "2026/10/05 17:24:20",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市大社區翠屏路",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T17:25:31.264521"
       }
     ]
   }
