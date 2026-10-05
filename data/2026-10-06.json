@@ -1623,7 +1623,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1640,6 +1640,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T07:06:30.976694"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T07:17:30.907127"
       }
     ]
   },
@@ -1693,11 +1697,15 @@
     "sub_category": "車禍",
     "location": "高雄市大社區金龍路",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T07:11:30.868487"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T07:17:30.907127"
       }
     ]
   },
@@ -1707,7 +1715,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區鎮興路",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1716,6 +1724,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T07:13:30.979152"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T07:17:30.907127"
       }
     ]
   },
@@ -1757,11 +1769,29 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T07:16:31.033721"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T07:17:30.907127"
+      }
+    ]
+  },
+  "6a08b2489f8b80cbe904562841b263eb": {
+    "time": "2026/10/06 07:16:23",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T07:17:30.907127"
       }
     ]
   }
