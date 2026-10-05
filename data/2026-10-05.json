@@ -11353,7 +11353,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區鼎貴路",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11366,6 +11366,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T18:36:31.601510"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T18:41:31.692135"
       }
     ]
   },
@@ -11547,7 +11551,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11556,6 +11560,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T18:35:31.682529"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T18:41:31.692135"
       }
     ]
   },
@@ -11610,6 +11618,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T18:39:31.650625"
+      }
+    ]
+  },
+  "44b61a3acb4697801dda57f185d73d10": {
+    "time": "2026/10/05 18:40:38",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "屏東縣屏東市高屏大橋[屏東縣屏東市建國路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T18:41:31.692135"
       }
     ]
   }
