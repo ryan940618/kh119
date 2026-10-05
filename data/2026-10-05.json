@@ -3891,7 +3891,7 @@
     "sub_category": "急病",
     "location": "高雄市六龜區",
     "units": "茂林分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3900,6 +3900,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T08:56:32.256909"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T09:14:32.172854"
       }
     ]
   },
@@ -3945,7 +3949,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3958,6 +3962,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T09:05:32.187099"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T09:14:32.172854"
       }
     ]
   },
@@ -4008,6 +4016,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T09:13:31.964661"
+      }
+    ]
+  },
+  "63c6273bbfe602dd0b3800ec44bfeca3": {
+    "time": "2026/10/05 09:13:34",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市彌陀區中正西路",
+    "units": "彌陀分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T09:14:32.172854"
       }
     ]
   }
