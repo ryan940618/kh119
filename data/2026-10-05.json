@@ -3255,7 +3255,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已派遣",
     "status_history": [
       {
         "status": "已派遣",
@@ -3272,6 +3272,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T08:43:32.052841"
+      },
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T08:44:32.017804"
       }
     ]
   },
@@ -3517,11 +3521,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T08:42:31.916002"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T08:44:32.017804"
       }
     ]
   },
@@ -3545,11 +3553,43 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區大仁路",
     "units": "燕巢分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T08:43:32.052841"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T08:44:32.017804"
+      }
+    ]
+  },
+  "768e760ce936afda76a9c2d9510847e2": {
+    "time": "2026/10/05 08:43:32",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市彌陀區",
+    "units": "彌陀分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T08:44:32.017804"
+      }
+    ]
+  },
+  "998e85ac2a61ca554d3058ffd60e8a04": {
+    "time": "2026/10/05 08:43:18",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區正義路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T08:44:32.017804"
       }
     ]
   }
