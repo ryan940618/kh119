@@ -5467,7 +5467,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中安路",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5484,6 +5484,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T11:01:31.708050"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T11:04:31.764290"
       }
     ]
   },
@@ -5625,7 +5629,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5634,6 +5638,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T11:00:31.983527"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T11:04:31.764290"
       }
     ]
   },
@@ -5675,11 +5683,29 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T11:03:31.682637"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T11:04:31.764290"
+      }
+    ]
+  },
+  "51e98432ae7d2c170b30059f767daf61": {
+    "time": "2026/10/05 11:03:48",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市路竹區大社路",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T11:04:31.764290"
       }
     ]
   }
