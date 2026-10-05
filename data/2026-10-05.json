@@ -10785,11 +10785,15 @@
     "sub_category": "創傷",
     "location": "高雄市大樹區中山路",
     "units": "大樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-05T17:46:31.485920"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T17:52:31.547676"
       }
     ]
   },
@@ -10799,11 +10803,15 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T17:50:31.248821"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T17:52:31.547676"
       }
     ]
   },
@@ -10836,6 +10844,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T17:50:31.248821"
+      }
+    ]
+  },
+  "0c0ef0b8d86fca5d837302b30cf72b1c": {
+    "time": "2026/10/05 17:51:57",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市左營區勝利路",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T17:52:31.547676"
       }
     ]
   }
