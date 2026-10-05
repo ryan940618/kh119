@@ -8851,7 +8851,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區仁愛路",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8868,6 +8868,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T16:21:31.595167"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T16:32:32.208279"
       }
     ]
   },
@@ -9262,6 +9266,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T16:31:31.961685"
+      }
+    ]
+  },
+  "04a5309ee393bf4ceabbacaf179f4755": {
+    "time": "2026/10/05 16:31:00",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區金福路",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T16:32:32.208279"
       }
     ]
   }
