@@ -1259,7 +1259,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1268,6 +1268,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T06:23:31.595981"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T06:28:31.661219"
       }
     ]
   },
@@ -1277,11 +1281,29 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T06:27:31.703083"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T06:28:31.661219"
+      }
+    ]
+  },
+  "87541d1703ead986091fdcec8e306734": {
+    "time": "2026/10/06 06:27:29",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T06:28:31.661219"
       }
     ]
   }
