@@ -12981,7 +12981,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區中都街",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12994,6 +12994,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T20:37:31.310715"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T20:43:31.275378"
       }
     ]
   },
@@ -13012,6 +13016,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T20:39:31.329970"
+      }
+    ]
+  },
+  "908fde0f2b7f8f00c2478eb3cb77ef78": {
+    "time": "2026/10/05 20:42:49",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T20:43:31.275378"
+      }
+    ]
+  },
+  "db807b22c6602f6df668b3037df24fea": {
+    "time": "2026/10/05 20:42:37",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市杉林區",
+    "units": "杉林分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T20:43:31.275378"
       }
     ]
   }
