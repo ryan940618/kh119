@@ -7329,11 +7329,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-05T13:37:31.622870"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T13:44:31.740550"
       }
     ]
   },
@@ -7384,6 +7388,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T13:42:31.597658"
+      }
+    ]
+  },
+  "37365a8cc0f7dbda8970529f43f39955": {
+    "time": "2026/10/05 13:43:55",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區敬業路",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T13:44:31.740550"
       }
     ]
   }
