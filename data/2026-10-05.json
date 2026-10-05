@@ -6119,7 +6119,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區金平路",
     "units": "路竹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6136,6 +6136,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T12:01:30.935994"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T12:13:31.245072"
       }
     ]
   },
@@ -6251,7 +6255,7 @@
     "sub_category": "創傷",
     "location": "高雄市林園區港埔三路",
     "units": "林園分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -6260,6 +6264,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T12:07:30.878294"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T12:13:31.245072"
       }
     ]
   },
@@ -6349,7 +6357,7 @@
     "sub_category": "一般(集合)住宅",
     "location": "高雄市三民區永年街",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6358,6 +6366,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T12:09:31.297910"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T12:13:31.245072"
       }
     ]
   },
@@ -6376,6 +6388,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T12:09:31.297910"
+      }
+    ]
+  },
+  "6b9596186136a70cd39f545a475f0d64": {
+    "time": "2026/10/05 12:12:24",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鹽埕區",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T12:13:31.245072"
       }
     ]
   }
