@@ -6423,7 +6423,7 @@
     "sub_category": "急病",
     "location": "高雄市桃源區",
     "units": "桃源分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6432,6 +6432,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T12:09:31.297910"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T12:28:31.213231"
       }
     ]
   },
@@ -6551,11 +6555,15 @@
     "sub_category": "車禍",
     "location": "高雄市前金區中華三路",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T12:26:31.060445"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T12:28:31.213231"
       }
     ]
   },
@@ -6570,6 +6578,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T12:27:31.222630"
+      }
+    ]
+  },
+  "fabfc8f89e2d8cad279b7dd7327c70ab": {
+    "time": "2026/10/05 12:27:32",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區康和路",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T12:28:31.213231"
       }
     ]
   }
