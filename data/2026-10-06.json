@@ -1447,7 +1447,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區平和路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已到達",
@@ -1464,6 +1464,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T06:55:31.797499"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T06:57:31.843700"
       }
     ]
   },
@@ -1473,7 +1477,7 @@
     "sub_category": "路倒",
     "location": "高雄市仁武區仁林路",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1482,6 +1486,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T06:49:32.166211"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T06:57:31.843700"
       }
     ]
   },
@@ -1509,11 +1517,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T06:51:31.861464"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T06:57:31.843700"
       }
     ]
   },
@@ -1523,7 +1535,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區工業二路",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1532,6 +1544,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T06:52:31.916894"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T06:57:31.843700"
       }
     ]
   },
