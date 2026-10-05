@@ -2473,7 +2473,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區茂大街",
     "units": "高桂分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2490,6 +2490,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T08:03:31.681970"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T08:13:31.906407"
       }
     ]
   },
@@ -2915,11 +2919,15 @@
     "sub_category": "路倒",
     "location": "高雄市小港區漢民路",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T08:10:31.647711"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T08:13:31.906407"
       }
     ]
   },
@@ -2929,11 +2937,29 @@
     "sub_category": "車禍",
     "location": "高雄市大社區三中路",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T08:11:31.797725"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T08:13:31.906407"
+      }
+    ]
+  },
+  "d5f071998b2e2f7cf5cff133e91d7f44": {
+    "time": "2026/10/05 08:11:41",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區中山路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-05T08:13:31.906407"
       }
     ]
   }
