@@ -8241,7 +8241,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8254,6 +8254,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T15:18:31.060630"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T15:25:31.158369"
       }
     ]
   },
@@ -8263,7 +8267,7 @@
     "sub_category": "創傷",
     "location": "高雄市橋頭區橋科一路",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -8272,6 +8276,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T15:14:31.213000"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T15:25:31.158369"
       }
     ]
   },
@@ -8290,6 +8298,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T15:18:31.060630"
+      }
+    ]
+  },
+  "1c37ceff6d8a9a3b1432b67507d878b8": {
+    "time": "2026/10/05 15:24:21",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區天池路",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T15:25:31.158369"
+      }
+    ]
+  },
+  "90da1df87c0607fe7357b1c669c13031": {
+    "time": "2026/10/05 15:20:53",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T15:25:31.158369"
       }
     ]
   }
