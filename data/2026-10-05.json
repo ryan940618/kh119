@@ -4289,7 +4289,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4302,6 +4302,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T09:37:31.338700"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T09:47:31.592551"
       }
     ]
   },
@@ -4373,7 +4377,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區安招路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4382,6 +4386,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T09:42:31.417170"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T09:47:31.592551"
       }
     ]
   },
@@ -4427,11 +4435,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區鳳南路",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T09:46:31.220853"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T09:47:31.592551"
       }
     ]
   },
@@ -4441,11 +4453,15 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊,阿蓮分隊",
-    "current_status": "",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "",
         "timestamp": "2026-10-05T09:46:31.220853"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T09:47:31.592551"
       }
     ]
   },
