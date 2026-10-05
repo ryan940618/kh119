@@ -5727,7 +5727,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5744,6 +5744,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T11:12:31.684995"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T11:25:32.016755"
       }
     ]
   },
@@ -5753,7 +5757,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區大社路",
     "units": "路竹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5770,6 +5774,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T11:20:31.947950"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T11:25:32.016755"
       }
     ]
   },
@@ -5872,6 +5880,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T11:23:32.259254"
+      }
+    ]
+  },
+  "1cfa7307dce4a8167b750dc609fa8f51": {
+    "time": "2026/10/05 11:24:44",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區昌裕街",
+    "units": "鼎金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T11:25:32.016755"
       }
     ]
   }
