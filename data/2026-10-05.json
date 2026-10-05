@@ -9905,7 +9905,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已到院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -9946,6 +9946,10 @@
       {
         "status": "已到院",
         "timestamp": "2026-10-05T17:50:31.248821"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T18:02:31.410540"
       }
     ]
   },
@@ -10964,6 +10968,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T18:00:31.224217"
+      }
+    ]
+  },
+  "6605e0beaf12e4274506db520b241915": {
+    "time": "2026/10/05 18:01:42",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區阿公店路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T18:02:31.410540"
       }
     ]
   }
