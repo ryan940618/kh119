@@ -6665,7 +6665,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6678,6 +6678,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T12:38:31.119295"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T12:47:31.655667"
       }
     ]
   },
@@ -6815,7 +6819,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -6824,6 +6828,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T12:41:31.324175"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T12:47:31.655667"
       }
     ]
   },
@@ -6897,11 +6905,15 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T12:45:31.303271"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T12:47:31.655667"
       }
     ]
   },
