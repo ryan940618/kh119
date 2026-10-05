@@ -8371,7 +8371,7 @@
     "sub_category": "創傷",
     "location": "高雄市甲仙區光華路",
     "units": "甲仙分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8380,6 +8380,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T15:27:31.228257"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T15:40:31.272155"
       }
     ]
   },
@@ -8425,11 +8429,15 @@
     "sub_category": "創傷",
     "location": "高雄市三民區民族一路",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-05T15:36:31.291304"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T15:40:31.272155"
       }
     ]
   },
@@ -8462,6 +8470,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T15:39:31.260213"
+      }
+    ]
+  },
+  "73b48764927358f29111a569343d4d5e": {
+    "time": "2026/10/05 15:39:20",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區新莊一路和新榮街",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T15:40:31.272155"
       }
     ]
   }
