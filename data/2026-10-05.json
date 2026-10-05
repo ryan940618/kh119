@@ -3117,7 +3117,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3134,6 +3134,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T08:36:31.759991"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T08:42:31.916002"
       }
     ]
   },
@@ -3221,7 +3225,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區金山路",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3234,6 +3238,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T08:26:32.040993"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T08:42:31.916002"
       }
     ]
   },
@@ -3453,7 +3461,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3466,6 +3474,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T08:35:31.931622"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T08:42:31.916002"
       }
     ]
   },
@@ -3488,6 +3500,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T08:40:31.746658"
+      }
+    ]
+  },
+  "1e7bfbf4dbb786f64796292a4a69fa0d": {
+    "time": "2026/10/05 08:40:39",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T08:42:31.916002"
       }
     ]
   }
