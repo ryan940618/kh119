@@ -7983,7 +7983,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7992,6 +7992,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T14:50:31.071064"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T15:00:31.241852"
       }
     ]
   },
@@ -8041,7 +8045,7 @@
     "sub_category": "路倒",
     "location": "高雄市新興區新田路",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8050,6 +8054,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T14:55:31.080212"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T15:00:31.241852"
       }
     ]
   },
@@ -8077,11 +8085,29 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區五甲二路",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T14:57:31.088755"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T15:00:31.241852"
+      }
+    ]
+  },
+  "7a50380c19be302f447ecf1268f22a88": {
+    "time": "2026/10/05 14:58:35",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市茄萣區正大路",
+    "units": "茄萣分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T15:00:31.241852"
       }
     ]
   }
