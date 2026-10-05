@@ -1923,7 +1923,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1932,6 +1932,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T07:24:31.000178"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T07:35:31.210765"
       }
     ]
   },
@@ -2044,6 +2048,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T07:33:31.150007"
+      }
+    ]
+  },
+  "559903d8598c581dc0488ae0e70cc2c3": {
+    "time": "2026/10/06 07:34:44",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區澄觀路",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T07:35:31.210765"
+      }
+    ]
+  },
+  "cafb4d8cea58c1cfb49d5107b70a9e76": {
+    "time": "2026/10/06 07:34:36",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區中樂街",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T07:35:31.210765"
       }
     ]
   }
