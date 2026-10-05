@@ -13961,7 +13961,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -13974,6 +13974,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T22:55:31.882216"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T22:58:31.874731"
       }
     ]
   },
@@ -13996,6 +14000,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T22:57:31.857155"
+      }
+    ]
+  },
+  "9f3d794bc2c66481d0e47df769b77d16": {
+    "time": "2026/10/05 22:58:00",
+    "category": "火災",
+    "sub_category": "一般(集合)住宅",
+    "location": "高雄市鼓山區明華路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T22:58:31.874731"
       }
     ]
   }
