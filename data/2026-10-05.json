@@ -7703,7 +7703,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7712,6 +7712,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T14:16:31.946588"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T14:22:31.947893"
       }
     ]
   },
@@ -7726,6 +7730,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T14:17:32.112976"
+      }
+    ]
+  },
+  "67c0c28030cca0e5a547db984ca80c6e": {
+    "time": "2026/10/05 14:21:58",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區和平一路和林泉街",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T14:22:31.947893"
+      }
+    ]
+  },
+  "31be1a43ef9b060e95d2232556a76b43": {
+    "time": "2026/10/05 14:21:07",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區九如一路",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T14:22:31.947893"
       }
     ]
   }
