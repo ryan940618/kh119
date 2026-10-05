@@ -12657,7 +12657,7 @@
     "sub_category": "其他",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12674,6 +12674,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T20:28:31.144985"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T20:35:31.216903"
       }
     ]
   },
@@ -12769,7 +12773,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區埤仔頭街",
     "units": "左營小隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12786,6 +12790,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T20:28:31.144985"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T20:35:31.216903"
       }
     ]
   },
@@ -12958,6 +12966,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T20:34:31.310457"
+      }
+    ]
+  },
+  "97b2bd34a6fbfc4401acdcb5e9be350a": {
+    "time": "2026/10/05 20:33:42",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T20:35:31.216903"
       }
     ]
   }
