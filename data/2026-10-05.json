@@ -2715,7 +2715,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2728,6 +2728,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T08:08:31.927737"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T08:10:31.647711"
       }
     ]
   },
@@ -2861,11 +2865,29 @@
     "sub_category": "車禍",
     "location": "高雄市大社區旗楠路",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T08:07:31.749265"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T08:10:31.647711"
+      }
+    ]
+  },
+  "43389d3d87781645eab0fc6287be91d3": {
+    "time": "2026/10/05 08:09:29",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市小港區漢民路",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T08:10:31.647711"
       }
     ]
   }
