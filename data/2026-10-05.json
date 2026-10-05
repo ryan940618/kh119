@@ -12041,7 +12041,7 @@
     "sub_category": "創傷",
     "location": "高雄市六龜區",
     "units": "六龜分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12054,6 +12054,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T19:09:31.707625"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T19:22:31.720022"
       }
     ]
   },
@@ -12205,11 +12209,29 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T19:21:32.111718"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T19:22:31.720022"
+      }
+    ]
+  },
+  "38cbf752fc7971bbd6b025a83c9b464b": {
+    "time": "2026/10/05 19:22:00",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市茄萣區",
+    "units": "茄萣分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T19:22:31.720022"
       }
     ]
   }
