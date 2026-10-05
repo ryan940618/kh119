@@ -7645,7 +7645,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7662,6 +7662,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T14:26:31.984730"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T14:30:32.104248"
       }
     ]
   },
@@ -7767,7 +7771,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區和平一路和林泉街",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7776,6 +7780,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T14:25:32.065446"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T14:30:32.104248"
       }
     ]
   },
@@ -7794,6 +7802,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T14:25:32.065446"
+      }
+    ]
+  },
+  "e58c0f4b3ef39ed356c504043116ddeb": {
+    "time": "2026/10/05 14:30:15",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T14:30:32.104248"
       }
     ]
   }
