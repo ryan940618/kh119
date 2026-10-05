@@ -14295,7 +14295,7 @@
     "sub_category": "路倒",
     "location": "高雄市楠梓區樂群路",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -14304,6 +14304,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T23:55:31.246567"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T23:59:31.209573"
       }
     ]
   },
@@ -14331,7 +14335,7 @@
     "sub_category": "其他",
     "location": "高雄市鼓山區美術東一路",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -14340,6 +14344,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T23:55:31.246567"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T23:59:31.209573"
+      }
+    ]
+  },
+  "897c379fdee03e078d3040f5dbdf12d9": {
+    "time": "2026/10/05 23:57:46",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T23:59:31.209573"
       }
     ]
   }
