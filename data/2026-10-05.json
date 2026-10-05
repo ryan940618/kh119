@@ -7399,7 +7399,7 @@
     "sub_category": "藥物、食物中毒",
     "location": "高雄市三民區大昌二路",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -7408,6 +7408,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T13:51:31.647773"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T14:01:32.025124"
       }
     ]
   },
@@ -7461,7 +7465,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7470,6 +7474,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T13:54:31.691298"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T14:01:32.025124"
       }
     ]
   },
@@ -7524,6 +7532,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T14:00:31.982027"
+      }
+    ]
+  },
+  "7de96e540cb29f257bd6ee3ece9db106": {
+    "time": "2026/10/05 14:00:12",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區鼎力路",
+    "units": "鼎金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T14:01:32.025124"
       }
     ]
   }
