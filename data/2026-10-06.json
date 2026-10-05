@@ -1391,7 +1391,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1400,6 +1400,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T06:47:31.741650"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T06:51:31.861464"
       }
     ]
   },
@@ -1423,7 +1427,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區平和路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已到達",
@@ -1432,6 +1436,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T06:50:31.967418"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T06:51:31.861464"
       }
     ]
   },
@@ -1459,11 +1467,43 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T06:49:32.166211"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T06:51:31.861464"
+      }
+    ]
+  },
+  "47ecdc3cfcc18f4125b4a90637c22068": {
+    "time": "2026/10/06 06:50:38",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T06:51:31.861464"
+      }
+    ]
+  },
+  "31a874f1ee22428471f8d829c6ce9602": {
+    "time": "2026/10/06 06:50:29",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區工業二路",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T06:51:31.861464"
       }
     ]
   }
