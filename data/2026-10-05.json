@@ -3619,7 +3619,7 @@
     "sub_category": "急病",
     "location": "高雄市彌陀區",
     "units": "彌陀分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3632,6 +3632,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T08:47:32.031394"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T08:57:31.994138"
       }
     ]
   },
@@ -3834,6 +3838,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T08:56:32.256909"
+      }
+    ]
+  },
+  "d1a2593ede6f8ea327e10f9168c0bd3c": {
+    "time": "2026/10/05 08:55:14",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市茄萣區濱海路",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T08:57:31.994138"
       }
     ]
   }
