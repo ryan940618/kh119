@@ -5613,7 +5613,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5630,6 +5630,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T11:26:32.000694"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T11:34:31.998481"
       }
     ]
   },
@@ -5944,6 +5948,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T11:32:31.813607"
+      }
+    ]
+  },
+  "81469ed66b09c67b301f5bb850800406": {
+    "time": "2026/10/05 11:33:34",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區九如二路",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T11:34:31.998481"
+      }
+    ]
+  },
+  "8d3a893c9ac6864e6c1d086390487330": {
+    "time": "2026/10/05 11:33:01",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T11:34:31.998481"
       }
     ]
   }
