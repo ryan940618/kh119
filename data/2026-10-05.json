@@ -6115,7 +6115,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區金平路",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6128,6 +6128,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T11:58:32.131811"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T12:01:30.935994"
       }
     ]
   },
@@ -6173,7 +6177,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6182,6 +6186,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T11:54:31.891272"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T12:01:30.935994"
       }
     ]
   },
@@ -6236,6 +6244,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T12:00:30.851996"
+      }
+    ]
+  },
+  "7cf24b7efae748cc89dfb00805860afb": {
+    "time": "2026/10/05 12:00:29",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T12:01:30.935994"
       }
     ]
   }
