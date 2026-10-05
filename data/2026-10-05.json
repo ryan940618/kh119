@@ -10469,7 +10469,7 @@
     "sub_category": "路倒",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10502,6 +10502,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T18:22:31.683197"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T18:39:31.650625"
       }
     ]
   },
@@ -11389,7 +11393,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區大智路和大春街",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11402,6 +11406,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T18:31:31.519250"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T18:39:31.650625"
       }
     ]
   },
@@ -11581,11 +11589,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T18:38:31.437421"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T18:39:31.650625"
       }
     ]
   }
