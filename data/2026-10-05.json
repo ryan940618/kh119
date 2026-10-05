@@ -12229,7 +12229,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12242,6 +12242,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T19:21:32.111718"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T19:42:31.798472"
       }
     ]
   },
@@ -12329,7 +12333,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區澄清路",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12342,6 +12346,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T19:36:31.875686"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T19:42:31.798472"
       }
     ]
   },
@@ -12373,11 +12381,29 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區外環西路",
     "units": "右昌分隊,後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-05T19:38:31.877081"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T19:42:31.798472"
+      }
+    ]
+  },
+  "d1e44b5fefe7eeb452a7cc65c4b4ac44": {
+    "time": "2026/10/05 19:41:39",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鹽埕區",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T19:42:31.798472"
       }
     ]
   }
