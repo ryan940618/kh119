@@ -7581,7 +7581,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區鼎力路",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -7594,6 +7594,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T14:12:31.706530"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T14:16:31.946588"
       }
     ]
   },
@@ -7687,11 +7691,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T14:15:31.910439"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T14:16:31.946588"
       }
     ]
   }
