@@ -4935,7 +4935,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4948,6 +4948,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T10:21:31.428098"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T10:30:31.688880"
       }
     ]
   },
@@ -5090,6 +5094,48 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T10:28:31.591803"
+      }
+    ]
+  },
+  "2808f174eb8edd29081cefb9e31b02f8": {
+    "time": "2026/10/05 10:29:25",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市永安區新興路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-05T10:30:31.688880"
+      }
+    ]
+  },
+  "2e71035b89ccf535915accf3ee3a5c77": {
+    "time": "2026/10/05 10:29:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T10:30:31.688880"
+      }
+    ]
+  },
+  "e6acace853dadcb37ecb7d5e2c5107b7": {
+    "time": "2026/10/05 10:29:07",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區瑞昌街",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T10:30:31.688880"
       }
     ]
   }
