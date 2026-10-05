@@ -11177,7 +11177,7 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區鳳林三路",
     "units": "大寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11190,6 +11190,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T18:19:31.487093"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T18:21:31.506046"
       }
     ]
   },
@@ -11249,11 +11253,29 @@
     "sub_category": "車禍",
     "location": "高雄市三民區大昌二路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T18:20:31.480324"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T18:21:31.506046"
+      }
+    ]
+  },
+  "cabe48d15d87ea1effe9b490a4283eb6": {
+    "time": "2026/10/05 18:20:38",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市美濃區",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T18:21:31.506046"
       }
     ]
   }
