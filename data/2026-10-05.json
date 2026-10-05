@@ -7137,7 +7137,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7154,6 +7154,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T13:29:31.664411"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T13:39:31.558156"
       }
     ]
   },
@@ -7215,7 +7219,7 @@
     "sub_category": "其他",
     "location": "高雄市三民區澄清路",
     "units": "大昌分隊",
-    "current_status": "火已控",
+    "current_status": "火已滅",
     "status_history": [
       {
         "status": "已出動",
@@ -7228,6 +7232,10 @@
       {
         "status": "火已控",
         "timestamp": "2026-10-05T13:38:31.606091"
+      },
+      {
+        "status": "火已滅",
+        "timestamp": "2026-10-05T13:39:31.558156"
       }
     ]
   },
@@ -7327,11 +7335,15 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T13:38:31.606091"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T13:39:31.558156"
       }
     ]
   }
