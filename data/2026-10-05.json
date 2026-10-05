@@ -3579,7 +3579,7 @@
     "sub_category": "急病",
     "location": "高雄市彌陀區",
     "units": "彌陀分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3588,6 +3588,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T08:45:31.975686"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T08:47:32.031394"
       }
     ]
   },
@@ -3611,11 +3615,43 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T08:46:32.252051"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T08:47:32.031394"
+      }
+    ]
+  },
+  "181654fc461930f2f73d5af93abdb87a": {
+    "time": "2026/10/05 08:47:12",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區朝新路",
+    "units": "後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T08:47:32.031394"
+      }
+    ]
+  },
+  "22e305abd378acd6dbef1332188a0bf1": {
+    "time": "2026/10/05 08:46:07",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區民族一路",
+    "units": "鼎金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T08:47:32.031394"
       }
     ]
   }
