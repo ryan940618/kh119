@@ -11099,7 +11099,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11108,6 +11108,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T18:11:31.415405"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T18:16:31.412779"
       }
     ]
   },
@@ -11139,11 +11143,15 @@
     "sub_category": "受困",
     "location": "高雄市鼓山區九如四路",
     "units": "左營分隊,左營小隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T18:14:31.505664"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T18:16:31.412779"
       }
     ]
   },
@@ -11158,6 +11166,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T18:15:31.357631"
+      }
+    ]
+  },
+  "a98266f1412652d2f18a51985dc13b3f": {
+    "time": "2026/10/05 18:15:20",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區至聖路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T18:16:31.412779"
       }
     ]
   }
