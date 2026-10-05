@@ -2633,7 +2633,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區鳳屏一路",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2646,6 +2646,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T08:03:31.681970"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T08:07:31.749265"
       }
     ]
   },
@@ -2767,7 +2771,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區成功路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2776,6 +2780,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T08:05:31.754621"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T08:07:31.749265"
       }
     ]
   },
@@ -2812,6 +2820,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T08:05:31.754621"
+      }
+    ]
+  },
+  "7cf2e4f4fb4db4267b21e8bf7b9b25f5": {
+    "time": "2026/10/05 08:06:10",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大社區旗楠路",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T08:07:31.749265"
       }
     ]
   }
