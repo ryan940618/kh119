@@ -8065,7 +8065,7 @@
     "sub_category": "路倒",
     "location": "高雄市新興區新田路",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8082,6 +8082,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T15:05:31.131384"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T15:11:31.365681"
       }
     ]
   },
@@ -8240,6 +8244,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T15:08:31.228632"
+      }
+    ]
+  },
+  "49ccbd2b37dd64ed35c3224580aac247": {
+    "time": "2026/10/05 15:10:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T15:11:31.365681"
       }
     ]
   }
