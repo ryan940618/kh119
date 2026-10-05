@@ -4929,7 +4929,7 @@
     "sub_category": "車禍",
     "location": "高雄市梓官區展寶路",
     "units": "橋頭分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4942,6 +4942,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T10:24:31.461964"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T10:38:31.663167"
       }
     ]
   },
@@ -5246,6 +5250,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T10:36:31.734323"
+      }
+    ]
+  },
+  "7ea77dbe850b993f055f21809dcb4a38": {
+    "time": "2026/10/05 10:37:36",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T10:38:31.663167"
       }
     ]
   }
