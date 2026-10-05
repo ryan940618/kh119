@@ -2161,7 +2161,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2174,6 +2174,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T07:47:31.422844"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T08:00:31.709660"
       }
     ]
   },
@@ -2513,7 +2517,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2522,6 +2526,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T07:56:31.811946"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T08:00:31.709660"
       }
     ]
   },
@@ -2581,11 +2589,15 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區鳳屏一路",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T07:58:31.560781"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T08:00:31.709660"
       }
     ]
   },
@@ -2600,6 +2612,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T07:59:31.632173"
+      }
+    ]
+  },
+  "bd897aae22a4cb48a97ea40ec648dd5b": {
+    "time": "2026/10/05 08:00:16",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區明正一街",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T08:00:31.709660"
+      }
+    ]
+  },
+  "551de97310be9e9b2bc026defa3ac359": {
+    "time": "2026/10/05 07:58:51",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T08:00:31.709660"
       }
     ]
   }
