@@ -6827,7 +6827,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -6840,6 +6840,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T12:47:31.655667"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T12:52:31.275242"
       }
     ]
   },
@@ -6957,11 +6961,15 @@
     "sub_category": "車禍",
     "location": "高雄市前金區成功一路",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T12:51:31.279919"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T12:52:31.275242"
       }
     ]
   }
