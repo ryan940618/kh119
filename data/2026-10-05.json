@@ -12817,7 +12817,7 @@
     "sub_category": "路倒",
     "location": "高雄市林園區忠孝東路",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12834,6 +12834,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T20:28:31.144985"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T20:31:31.168860"
       }
     ]
   },
@@ -12892,6 +12896,48 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T20:30:31.241819"
+      }
+    ]
+  },
+  "989cae8c62092d036cdc377fd75b7144": {
+    "time": "2026/10/05 20:30:46",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市前鎮區廣東三街",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T20:31:31.168860"
+      }
+    ]
+  },
+  "6a2cbc78fc30ef0231d694f52ba7808c": {
+    "time": "2026/10/05 20:30:43",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T20:31:31.168860"
+      }
+    ]
+  },
+  "2571ce12b47650964058feda7d6d5b7b": {
+    "time": "2026/10/05 20:30:17",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區中都街",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T20:31:31.168860"
       }
     ]
   }
