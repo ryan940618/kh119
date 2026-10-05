@@ -8767,7 +8767,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區八德中路",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8776,6 +8776,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T16:00:31.550443"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T16:05:31.563996"
       }
     ]
   },
@@ -8808,6 +8812,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T16:04:31.635255"
+      }
+    ]
+  },
+  "7d13a2e0b265ca4f83c8fda101af3e83": {
+    "time": "2026/10/05 16:04:24",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T16:05:31.563996"
       }
     ]
   }
