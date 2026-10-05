@@ -4525,7 +4525,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊,阿蓮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "",
@@ -4542,6 +4542,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T10:04:31.376345"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T10:11:31.671369"
       }
     ]
   },
@@ -4653,7 +4657,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4662,6 +4666,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T10:06:31.459619"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T10:11:31.671369"
       }
     ]
   },
@@ -4671,11 +4679,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區重慶街",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-05T10:05:31.425784"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T10:11:31.671369"
       }
     ]
   },
@@ -4753,11 +4765,15 @@
     "sub_category": "車禍",
     "location": "高雄市美濃區中華路",
     "units": "美濃分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T10:10:31.645184"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T10:11:31.671369"
       }
     ]
   },
