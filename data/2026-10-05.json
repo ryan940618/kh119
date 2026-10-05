@@ -2073,7 +2073,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2090,6 +2090,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T07:51:31.697057"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T08:01:31.620041"
       }
     ]
   },
@@ -2640,6 +2644,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T08:00:31.709660"
+      }
+    ]
+  },
+  "4480de2c9e1b990cd373e02e2a49f150": {
+    "time": "2026/10/05 08:01:10",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T08:01:31.620041"
+      }
+    ]
+  },
+  "69f4591eada9f5a46086cbe00b2a7395": {
+    "time": "2026/10/05 08:01:10",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區中山東路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T08:01:31.620041"
       }
     ]
   }
