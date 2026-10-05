@@ -209,7 +209,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -226,6 +226,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T01:43:31.718913"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T01:47:31.783622"
       }
     ]
   },
@@ -261,11 +265,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T01:43:31.718913"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T01:47:31.783622"
       }
     ]
   },
@@ -289,11 +297,29 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T01:46:31.779348"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T01:47:31.783622"
+      }
+    ]
+  },
+  "c4a0ddee4ed1915e20db001492701207": {
+    "time": "2026/10/06 01:46:25",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T01:47:31.783622"
       }
     ]
   }
