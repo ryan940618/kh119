@@ -9957,7 +9957,7 @@
     "sub_category": "創傷",
     "location": "高雄市鹽埕區府北路",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -9970,6 +9970,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T17:24:31.153360"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T17:29:31.455980"
       }
     ]
   },
@@ -10069,7 +10073,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10082,6 +10086,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T17:12:32.194060"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T17:29:31.455980"
       }
     ]
   },
@@ -10341,7 +10349,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10350,6 +10358,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T17:25:31.264521"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T17:29:31.455980"
       }
     ]
   },
@@ -10414,6 +10426,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T17:28:31.132667"
+      }
+    ]
+  },
+  "0801fea33a2e2521dc76bb03794dfc0f": {
+    "time": "2026/10/05 17:28:43",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區沿海三路",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T17:29:31.455980"
+      }
+    ]
+  },
+  "409f05d938f3879a4a2825fb7ab29418": {
+    "time": "2026/10/05 17:28:13",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T17:29:31.455980"
+      }
+    ]
+  },
+  "274b105a741aacbf049f92f25de5aa72": {
+    "time": "2026/10/05 17:28:05",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區文萊路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T17:29:31.455980"
       }
     ]
   }
