@@ -6485,7 +6485,7 @@
     "sub_category": "創傷",
     "location": "高雄市仁武區水管路",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6494,6 +6494,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T12:21:31.241745"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T12:26:31.060445"
       }
     ]
   },
@@ -6534,6 +6538,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T12:25:31.166392"
+      }
+    ]
+  },
+  "4b06beee36c75c394a73719e280238fa": {
+    "time": "2026/10/05 12:25:11",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前金區中華三路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T12:26:31.060445"
       }
     ]
   }
