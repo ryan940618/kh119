@@ -11131,7 +11131,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11148,6 +11148,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T18:19:31.487093"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T18:36:31.601510"
       }
     ]
   },
@@ -11341,7 +11345,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區鼎貴路",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11350,6 +11354,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T18:25:31.569357"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T18:36:31.601510"
       }
     ]
   },
@@ -11533,11 +11541,29 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T18:35:31.682529"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T18:36:31.601510"
+      }
+    ]
+  },
+  "1ecd9a2e479406b05ee93e88b4133575": {
+    "time": "2026/10/05 18:34:40",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區鼎貴路",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T18:36:31.601510"
       }
     ]
   }
