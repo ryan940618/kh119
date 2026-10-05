@@ -13555,7 +13555,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中平路",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -13568,6 +13568,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T21:55:31.535372"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T22:04:31.644384"
       }
     ]
   },
@@ -13622,6 +13626,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T22:03:31.732186"
+      }
+    ]
+  },
+  "df59b45a0b0a1e1c189d76eafae89458": {
+    "time": "2026/10/05 22:02:47",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區新榮街",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T22:04:31.644384"
       }
     ]
   }
