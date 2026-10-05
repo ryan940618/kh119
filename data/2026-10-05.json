@@ -9905,7 +9905,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9942,6 +9942,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T17:47:31.276274"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T17:50:31.248821"
       }
     ]
   },
@@ -10782,6 +10786,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T17:46:31.485920"
+      }
+    ]
+  },
+  "d13650545919d48af60e91a87d8296a5": {
+    "time": "2026/10/05 17:49:31",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳥松區",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T17:50:31.248821"
+      }
+    ]
+  },
+  "8754fa8ab0d9cb6fcb8be1e36b79d8f0": {
+    "time": "2026/10/05 17:49:31",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T17:50:31.248821"
+      }
+    ]
+  },
+  "b0c64e33d991a6c2da3ca7241de71aed": {
+    "time": "2026/10/05 17:48:42",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區大中一路",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T17:50:31.248821"
       }
     ]
   }
