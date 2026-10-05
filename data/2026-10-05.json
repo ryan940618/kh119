@@ -6191,7 +6191,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6200,6 +6200,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T11:55:33.298055"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T12:00:30.851996"
       }
     ]
   },
@@ -6218,6 +6222,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T11:56:32.010460"
+      }
+    ]
+  },
+  "e3e8ad777dc1826a4a102d4c4b71e7a8": {
+    "time": "2026/10/05 11:59:34",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市林園區港埔三路",
+    "units": "林園分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T12:00:30.851996"
       }
     ]
   }
