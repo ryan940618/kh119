@@ -7311,7 +7311,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區介壽路",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7324,6 +7324,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T13:42:31.597658"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T13:49:31.788875"
       }
     ]
   },
@@ -7401,7 +7405,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區敬業路",
     "units": "高桂分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7410,6 +7414,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T13:48:31.620154"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T13:49:31.788875"
+      }
+    ]
+  },
+  "1515e811fe30583c2d5e6adb210ee738": {
+    "time": "2026/10/05 13:48:05",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市左營區民族一路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T13:49:31.788875"
       }
     ]
   }
