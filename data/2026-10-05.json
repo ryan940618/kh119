@@ -11211,7 +11211,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區至聖路",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11220,6 +11220,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T18:19:31.487093"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T18:23:31.450768"
       }
     ]
   },
@@ -11279,11 +11283,43 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T18:21:31.506046"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T18:23:31.450768"
+      }
+    ]
+  },
+  "3dd5381af3da7c5953f3888e0d6f2935": {
+    "time": "2026/10/05 18:23:00",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區鼎貴路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T18:23:31.450768"
+      }
+    ]
+  },
+  "f8fa75c4d9d08cef4162a4e15c4111af": {
+    "time": "2026/10/05 18:22:18",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市岡山區竹圍北街",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T18:23:31.450768"
       }
     ]
   }
