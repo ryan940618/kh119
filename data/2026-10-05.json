@@ -10319,7 +10319,7 @@
     "sub_category": "車禍",
     "location": "高雄市前金區中華三路",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10328,6 +10328,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T17:24:31.153360"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T17:28:31.132667"
       }
     ]
   },
@@ -10369,11 +10373,15 @@
     "sub_category": "路倒",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T17:26:31.305246"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T17:28:31.132667"
       }
     ]
   },
@@ -10383,11 +10391,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T17:27:31.197535"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T17:28:31.132667"
+      }
+    ]
+  },
+  "881e2c3913c2d7762d42502ca7a02b67": {
+    "time": "2026/10/05 17:27:01",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區楠梓加工區1號出入口[高雄市楠梓區加昌路",
+    "units": "後勁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T17:28:31.132667"
       }
     ]
   }
