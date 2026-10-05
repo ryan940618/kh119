@@ -10389,7 +10389,7 @@
     "sub_category": "路倒",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10398,6 +10398,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T17:28:31.132667"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T17:31:31.261879"
       }
     ]
   },
@@ -10439,11 +10443,15 @@
     "sub_category": "車禍",
     "location": "高雄市小港區沿海三路",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T17:29:31.455980"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T17:31:31.261879"
       }
     ]
   },
@@ -10471,11 +10479,15 @@
     "sub_category": "車禍",
     "location": "高雄市左營區文萊路",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T17:29:31.455980"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T17:31:31.261879"
       }
     ]
   },
@@ -10485,11 +10497,15 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區林森二路",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T17:30:31.729093"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T17:31:31.261879"
       }
     ]
   },
@@ -10504,6 +10520,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T17:30:31.729093"
+      }
+    ]
+  },
+  "655b548a7f1eabc9cc844b554c85921c": {
+    "time": "2026/10/05 17:29:23",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區澄合街",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T17:31:31.261879"
+      }
+    ]
+  },
+  "755bb926eb4d7a35d9363772f92b9457": {
+    "time": "2026/10/05 17:27:01",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區加昌路",
+    "units": "後勁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T17:31:31.261879"
       }
     ]
   }
