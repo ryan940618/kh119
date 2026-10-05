@@ -1665,7 +1665,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1678,6 +1678,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T07:08:31.164472"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T07:28:31.154807"
       }
     ]
   },
@@ -1960,6 +1964,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T07:27:31.087662"
+      }
+    ]
+  },
+  "1c531afad3d9e6b369f0c8092fccc0b6": {
+    "time": "2026/10/06 07:28:18",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區軍校路",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T07:28:31.154807"
       }
     ]
   }
