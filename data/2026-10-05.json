@@ -4993,7 +4993,7 @@
     "sub_category": "路倒",
     "location": "高雄市鼓山區裕興路",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5006,6 +5006,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T10:29:31.547905"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T10:47:31.557093"
       }
     ]
   },
@@ -5219,7 +5223,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區瑞昌街",
     "units": "鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5228,6 +5232,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T10:32:31.682522"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T10:47:31.557093"
       }
     ]
   },
@@ -5303,11 +5311,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-05T10:38:31.663167"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T10:47:31.557093"
       }
     ]
   },
@@ -5393,7 +5405,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5402,6 +5414,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T10:44:31.892714"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T10:47:31.557093"
       }
     ]
   },
@@ -5411,11 +5427,43 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T10:46:31.659079"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T10:47:31.557093"
+      }
+    ]
+  },
+  "d964b45e0a023bb77f0437b2159826bf": {
+    "time": "2026/10/05 10:46:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市橋頭區",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T10:47:31.557093"
+      }
+    ]
+  },
+  "db39026e831bec1dd5889226623c4525": {
+    "time": "2026/10/05 10:46:22",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T10:47:31.557093"
       }
     ]
   }
