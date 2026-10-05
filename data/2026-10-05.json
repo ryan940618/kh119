@@ -6207,7 +6207,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6224,6 +6224,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T12:11:30.989763"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T12:20:31.141836"
       }
     ]
   },
@@ -6263,7 +6267,7 @@
     "sub_category": "創傷",
     "location": "高雄市林園區港埔三路",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -6276,6 +6280,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T12:13:31.245072"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T12:20:31.141836"
       }
     ]
   },
@@ -6444,6 +6452,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T12:16:31.232501"
+      }
+    ]
+  },
+  "4e5052fb7ffbdd9f00d4410f97c8c989": {
+    "time": "2026/10/05 12:19:13",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市仁武區水管路",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T12:20:31.141836"
       }
     ]
   }
