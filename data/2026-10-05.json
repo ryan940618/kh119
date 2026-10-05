@@ -10181,11 +10181,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T17:19:31.125346"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T17:20:31.265574"
       }
     ]
   },
@@ -10195,11 +10199,43 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T17:19:31.125346"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T17:20:31.265574"
+      }
+    ]
+  },
+  "ea52916ee00be2b5142cb36e78eb13dd": {
+    "time": "2026/10/05 17:19:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市美濃區",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T17:20:31.265574"
+      }
+    ]
+  },
+  "f22f5132ca34b2aba9d6ca85c1b11bfb": {
+    "time": "2026/10/05 17:19:02",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區文昌路",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T17:20:31.265574"
       }
     ]
   }
