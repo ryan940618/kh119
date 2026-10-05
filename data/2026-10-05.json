@@ -6691,7 +6691,7 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區廣西路",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6708,6 +6708,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-05T12:43:31.185757"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-05T12:51:31.279919"
       }
     ]
   },
@@ -6909,7 +6913,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6922,6 +6926,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T12:50:31.282536"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-05T12:51:31.279919"
       }
     ]
   },
@@ -6940,6 +6948,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T12:48:32.019849"
+      }
+    ]
+  },
+  "3bb86a726f66fceb9a3ce2347e85727c": {
+    "time": "2026/10/05 12:50:09",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前金區成功一路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T12:51:31.279919"
       }
     ]
   }
