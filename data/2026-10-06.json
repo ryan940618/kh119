@@ -3087,7 +3087,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區仁和東街",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3104,6 +3104,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T08:45:31.753853"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T08:50:31.771453"
       }
     ]
   },
@@ -3390,6 +3394,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T08:46:31.655437"
+      }
+    ]
+  },
+  "340644230a881f4f1036b32b5686dbd8": {
+    "time": "2026/10/06 08:49:24",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T08:50:31.771453"
       }
     ]
   }
