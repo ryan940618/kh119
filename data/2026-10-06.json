@@ -6721,7 +6721,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區水管路",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6734,6 +6734,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T13:59:31.496330"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T14:07:31.559043"
       }
     ]
   },
@@ -6761,11 +6765,15 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-06T14:03:31.629549"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T14:07:31.559043"
       }
     ]
   },
@@ -6780,6 +6788,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T14:06:31.443354"
+      }
+    ]
+  },
+  "e607b4925bd4fdcb55130770832b355f": {
+    "time": "2026/10/06 14:06:10",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T14:07:31.559043"
       }
     ]
   }
