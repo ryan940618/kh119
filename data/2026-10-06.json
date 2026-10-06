@@ -10263,7 +10263,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10276,6 +10276,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T19:03:31.173911"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T19:17:31.399444"
       }
     ]
   },
@@ -10449,11 +10453,43 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T19:16:31.489256"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T19:17:31.399444"
+      }
+    ]
+  },
+  "03cb670ebc1a82c5aed6607465575146": {
+    "time": "2026/10/06 19:16:24",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區美山路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-06T19:17:31.399444"
+      }
+    ]
+  },
+  "5d16bcd4c695c9f7f11e93c5fa61b298": {
+    "time": "2026/10/06 19:16:12",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "大林分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T19:17:31.399444"
       }
     ]
   }
