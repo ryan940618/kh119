@@ -1763,7 +1763,7 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1776,6 +1776,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T07:31:30.900066"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T07:40:30.995312"
       }
     ]
   },
@@ -1785,7 +1789,7 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區忠孝街",
     "units": "湖內分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1794,6 +1798,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T07:36:31.049482"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T07:40:30.995312"
       }
     ]
   },
@@ -1822,6 +1830,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T07:37:31.030164"
+      }
+    ]
+  },
+  "0cd200fa3fac5a48cebf8a239cfc55fa": {
+    "time": "2026/10/07 07:39:25",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區高楠公路",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T07:40:30.995312"
       }
     ]
   }
