@@ -6079,7 +6079,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區覺民路",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6096,6 +6096,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T12:54:31.103004"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T13:02:31.294945"
       }
     ]
   },
@@ -6171,7 +6175,7 @@
     "sub_category": "急病",
     "location": "高雄市橋頭區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6180,6 +6184,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T12:57:31.256024"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T13:02:31.294945"
       }
     ]
   },
@@ -6233,7 +6241,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6242,6 +6250,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T12:59:31.299560"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T13:02:31.294945"
+      }
+    ]
+  },
+  "e8905321f50da3d621adb0d39cf43ae4": {
+    "time": "2026/10/06 13:01:42",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗山區",
+    "units": "杉林分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T13:02:31.294945"
       }
     ]
   }
