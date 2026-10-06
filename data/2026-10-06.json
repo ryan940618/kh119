@@ -8647,7 +8647,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區興楠路和楠梓東街",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8664,6 +8664,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T17:14:31.694751"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T17:15:31.690869"
       }
     ]
   },
@@ -8783,7 +8787,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區埤頂街",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8792,6 +8796,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T17:09:31.820879"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T17:15:31.690869"
       }
     ]
   },
@@ -8806,6 +8814,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T17:14:31.694751"
+      }
+    ]
+  },
+  "68b82e039edff9854ebfada316a68836": {
+    "time": "2026/10/06 17:14:46",
+    "category": "火災",
+    "sub_category": "一般(集合)住宅",
+    "location": "高雄市左營區榮耀街",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T17:15:31.690869"
       }
     ]
   }
