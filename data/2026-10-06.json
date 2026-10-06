@@ -5643,7 +5643,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "大林分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5660,6 +5660,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T12:14:31.963034"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T12:38:31.058711"
       }
     ]
   },
@@ -5789,7 +5793,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5806,6 +5810,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T12:24:30.940552"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T12:38:31.058711"
       }
     ]
   },
@@ -5959,7 +5967,7 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區軍校路",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5972,6 +5980,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T12:25:30.969478"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T12:38:31.058711"
       }
     ]
   },
@@ -6016,6 +6028,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T12:34:30.989370"
+      }
+    ]
+  },
+  "d6aa67a78b12e4fb817883d586bbf870": {
+    "time": "2026/10/06 12:37:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區維新路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T12:38:31.058711"
       }
     ]
   }
