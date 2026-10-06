@@ -10517,7 +10517,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10534,6 +10534,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T19:29:31.781147"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T19:59:31.631051"
       }
     ]
   },
@@ -10899,7 +10903,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10908,6 +10912,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T19:57:31.623897"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T19:59:31.631051"
       }
     ]
   },
@@ -10917,7 +10925,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10926,6 +10934,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T19:56:31.675985"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T19:59:31.631051"
       }
     ]
   },
@@ -10940,6 +10952,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T19:55:31.840294"
+      }
+    ]
+  },
+  "3819130d2470d129fbcf341cc6b762fb": {
+    "time": "2026/10/06 19:57:40",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區軍校路",
+    "units": "後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T19:59:31.631051"
       }
     ]
   }
