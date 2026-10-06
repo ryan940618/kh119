@@ -3319,7 +3319,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3332,6 +3332,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T08:45:31.753853"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T08:58:31.750175"
       }
     ]
   },
@@ -3415,11 +3419,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-06T08:50:31.771453"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T08:58:31.750175"
       }
     ]
   },
@@ -3510,6 +3518,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T08:57:31.699400"
+      }
+    ]
+  },
+  "47399198f0ed25b751bf65fb72aedff1": {
+    "time": "2026/10/06 08:57:19",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市湖內區中山路",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T08:58:31.750175"
       }
     ]
   }
