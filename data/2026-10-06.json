@@ -10497,7 +10497,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10510,6 +10510,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T19:20:31.355911"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T19:29:31.781147"
       }
     ]
   },
@@ -10596,6 +10600,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T19:28:31.445054"
+      }
+    ]
+  },
+  "953e7367afd55d82c084b85f475bcfda": {
+    "time": "2026/10/06 19:29:01",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市新興區復興二路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T19:29:31.781147"
+      }
+    ]
+  },
+  "1c27833f575a5c7522c8ceb756a56e8d": {
+    "time": "2026/10/06 19:29:05",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區華榮路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T19:29:31.781147"
       }
     ]
   }
