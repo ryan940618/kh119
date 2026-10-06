@@ -6119,7 +6119,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6128,6 +6128,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T12:46:31.138322"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T12:53:31.239750"
       }
     ]
   },
@@ -6146,6 +6150,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T12:51:31.003177"
+      }
+    ]
+  },
+  "149921ef9616e41f32480394174a1e3c": {
+    "time": "2026/10/06 12:52:53",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市橋頭區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T12:53:31.239750"
+      }
+    ]
+  },
+  "b1ea21e68f6a6ab948eb1827cdb4c1cf": {
+    "time": "2026/10/06 12:51:43",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市燕巢區",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T12:53:31.239750"
       }
     ]
   }
