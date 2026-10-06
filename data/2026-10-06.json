@@ -8947,7 +8947,7 @@
     "sub_category": "車禍",
     "location": "高雄市林園區工業二路",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8956,6 +8956,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T17:25:31.947595"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T17:31:31.917422"
       }
     ]
   },
@@ -8983,11 +8987,15 @@
     "sub_category": "其他",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T17:27:31.906570"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T17:31:31.917422"
       }
     ]
   },
@@ -9002,6 +9010,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T17:29:31.820155"
+      }
+    ]
+  },
+  "a6f72b18066ec8587431a5a8e80e60f8": {
+    "time": "2026/10/06 17:30:24",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T17:31:31.917422"
       }
     ]
   }
