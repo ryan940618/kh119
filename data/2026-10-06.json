@@ -6075,7 +6075,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區覺民路",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6088,6 +6088,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T12:46:31.138322"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T12:54:31.103004"
       }
     ]
   },
@@ -6178,6 +6182,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T12:53:31.239750"
+      }
+    ]
+  },
+  "c73dd1e4cb170b1ea1116b5b59f0f639": {
+    "time": "2026/10/06 12:53:05",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區本洲路",
+    "units": "彌陀分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T12:54:31.103004"
       }
     ]
   }
