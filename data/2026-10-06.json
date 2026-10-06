@@ -4805,7 +4805,7 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區宏毅二路",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4822,6 +4822,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T10:46:31.682242"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T10:55:31.581361"
       }
     ]
   },
@@ -4989,7 +4993,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中安路",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4998,6 +5002,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T10:52:31.478160"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T10:55:31.581361"
       }
     ]
   },
@@ -5025,11 +5033,15 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T10:53:31.653067"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T10:55:31.581361"
       }
     ]
   },
@@ -5058,6 +5070,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T10:54:31.480440"
+      }
+    ]
+  },
+  "416336f97ea79d26036ec46612dc81f1": {
+    "time": "2026/10/06 10:54:43",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T10:55:31.581361"
       }
     ]
   }
