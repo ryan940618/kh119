@@ -4727,7 +4727,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4744,6 +4744,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T10:41:31.385100"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T10:50:31.583935"
       }
     ]
   },
@@ -4937,11 +4941,15 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區八德路",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T10:47:31.345774"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T10:50:31.583935"
       }
     ]
   },
@@ -4960,6 +4968,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T10:49:31.452701"
+      }
+    ]
+  },
+  "405027a86459631fadf62701f6ed5833": {
+    "time": "2026/10/06 10:49:23",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區中安路",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T10:50:31.583935"
       }
     ]
   }
