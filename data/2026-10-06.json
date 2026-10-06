@@ -11201,7 +11201,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -11214,6 +11214,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T20:31:31.989848"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T20:34:32.045941"
       }
     ]
   },
@@ -11223,7 +11227,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11232,6 +11236,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T20:29:31.810145"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T20:34:32.045941"
       }
     ]
   },
@@ -11259,7 +11267,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11268,6 +11276,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T20:33:31.970460"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T20:34:32.045941"
+      }
+    ]
+  },
+  "6cf43785fa866c7a269d2cc6230421c9": {
+    "time": "2026/10/06 20:33:09",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區陽明路",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T20:34:32.045941"
       }
     ]
   }
