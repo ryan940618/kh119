@@ -9047,7 +9047,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9056,6 +9056,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T17:33:32.037335"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T17:39:31.898979"
       }
     ]
   },
@@ -9101,11 +9105,43 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T17:38:31.948461"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T17:39:31.898979"
+      }
+    ]
+  },
+  "fef5c96dec4aaab3dce5678e94a432c4": {
+    "time": "2026/10/06 17:38:33",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區德民路",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T17:39:31.898979"
+      }
+    ]
+  },
+  "d054274f58f80ecc79fcff38f9587d34": {
+    "time": "2026/10/06 17:37:24",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區文橫二路",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T17:39:31.898979"
       }
     ]
   }
