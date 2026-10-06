@@ -11881,7 +11881,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區博愛一路和熱河二街",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11890,6 +11890,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T21:42:31.313326"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T21:47:31.307784"
       }
     ]
   },
@@ -11899,11 +11903,29 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T21:44:31.331512"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T21:47:31.307784"
+      }
+    ]
+  },
+  "6ffd0fd2b51f7e5685a4a7fea075de58": {
+    "time": "2026/10/06 21:46:32",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大社區",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T21:47:31.307784"
       }
     ]
   }
