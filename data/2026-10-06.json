@@ -5067,7 +5067,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5080,6 +5080,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T11:00:31.612377"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T11:14:31.579044"
       }
     ]
   },
@@ -5203,7 +5207,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5212,6 +5216,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T11:07:31.495520"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T11:14:31.579044"
       }
     ]
   },
@@ -5262,6 +5270,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T11:10:31.573035"
+      }
+    ]
+  },
+  "4eb95ca4bce79bcc56e4ce776c078cb6": {
+    "time": "2026/10/06 11:14:00",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗山區",
+    "units": "旗山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T11:14:31.579044"
       }
     ]
   }
