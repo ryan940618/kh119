@@ -11601,7 +11601,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11618,6 +11618,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T21:26:31.334318"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T21:28:31.270200"
       }
     ]
   },
@@ -11699,11 +11703,29 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區三多三路",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-06T21:20:31.353372"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T21:28:31.270200"
+      }
+    ]
+  },
+  "f11e239c5c2806ca1cb44e7415d37f16": {
+    "time": "2026/10/06 21:27:49",
+    "category": "其他",
+    "sub_category": "受困",
+    "location": "高雄市三民區義華路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T21:28:31.270200"
       }
     ]
   }
