@@ -1849,7 +1849,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1858,6 +1858,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T07:41:31.041103"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T07:49:31.002277"
       }
     ]
   },
@@ -1911,11 +1915,29 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區中興街",
     "units": "大樹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T07:48:30.908455"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T07:49:31.002277"
+      }
+    ]
+  },
+  "cef797c48db2ad00b6fcaa7d8c0d9ec6": {
+    "time": "2026/10/07 07:48:22",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區高鳳路",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T07:49:31.002277"
       }
     ]
   }
