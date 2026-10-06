@@ -10391,7 +10391,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區大智路和文海街",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10400,6 +10400,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T19:12:31.439732"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T19:16:31.489256"
       }
     ]
   },
@@ -10409,11 +10413,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T19:12:31.439732"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T19:16:31.489256"
       }
     ]
   },
@@ -10432,6 +10440,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T19:14:31.517861"
+      }
+    ]
+  },
+  "c20b93ccb3f270c80962063d72cfa777": {
+    "time": "2026/10/06 19:15:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T19:16:31.489256"
       }
     ]
   }
