@@ -7337,7 +7337,7 @@
     "sub_category": "創傷",
     "location": "高雄市彌陀區文安路",
     "units": "彌陀分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7350,6 +7350,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T15:26:30.960088"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T15:38:30.978985"
       }
     ]
   },
@@ -7381,7 +7385,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7394,6 +7398,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T15:32:30.980878"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T15:38:30.978985"
       }
     ]
   },
@@ -7452,6 +7460,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T15:35:30.927594"
+      }
+    ]
+  },
+  "9a473d9a3d5d0a4e90ff56a7b9f5db77": {
+    "time": "2026/10/06 15:37:50",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳥松區",
+    "units": "大昌分隊,鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T15:38:30.978985"
       }
     ]
   }
