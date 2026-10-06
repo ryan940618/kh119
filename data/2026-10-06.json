@@ -3857,7 +3857,7 @@
     "sub_category": "路倒",
     "location": "高雄市楠梓區萬昌街",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3874,6 +3874,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T09:45:31.024022"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T09:48:31.064623"
       }
     ]
   },
@@ -3949,7 +3953,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3958,6 +3962,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T09:41:31.880296"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T09:48:31.064623"
       }
     ]
   },
@@ -3985,11 +3993,57 @@
     "sub_category": "車禍",
     "location": "高雄市三民區民族一路|灣興街",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T09:47:30.933625"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T09:48:31.064623"
+      }
+    ]
+  },
+  "a1a126b2514f1c0853fff449ec476dab": {
+    "time": "2026/10/06 09:47:41",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大社區光華路",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T09:48:31.064623"
+      }
+    ]
+  },
+  "0debcc98e0db60d3899c805a28bcebaa": {
+    "time": "2026/10/06 09:47:05",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市美濃區光明路",
+    "units": "旗山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T09:48:31.064623"
+      }
+    ]
+  },
+  "e075167c2b059d06cd455872b72e5413": {
+    "time": "2026/10/06 09:46:28",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區民族一路和灣興街",
+    "units": "新興分隊,新莊分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T09:48:31.064623"
       }
     ]
   }
