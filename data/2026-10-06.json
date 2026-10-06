@@ -8967,7 +8967,7 @@
     "sub_category": "車禍",
     "location": "高雄市林園區工業二路",
     "units": "林園分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8980,6 +8980,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T17:31:31.917422"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T17:46:31.931709"
       }
     ]
   },
@@ -9125,7 +9129,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9134,6 +9138,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T17:39:31.898979"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T17:46:31.931709"
       }
     ]
   },
@@ -9293,11 +9301,29 @@
     "sub_category": "急病",
     "location": "高雄市杉林區",
     "units": "杉林分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T17:45:32.068472"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T17:46:31.931709"
+      }
+    ]
+  },
+  "cb00ce2aacab6fd417f18f9bcf9299b4": {
+    "time": "2026/10/06 17:41:29",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區中正路和文達街",
+    "units": "仁武分隊",
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T17:46:31.931709"
       }
     ]
   }
