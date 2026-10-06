@@ -7039,7 +7039,7 @@
     "sub_category": "其他",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7048,6 +7048,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T14:42:31.735599"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T14:47:31.978599"
       }
     ]
   },
@@ -7098,6 +7102,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T14:45:31.745274"
+      }
+    ]
+  },
+  "69e3d6403ea34caa7edc6047cf483d02": {
+    "time": "2026/10/06 14:46:39",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區",
+    "units": "鳥松分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T14:47:31.978599"
       }
     ]
   }
