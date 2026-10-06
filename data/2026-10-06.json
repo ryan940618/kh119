@@ -4159,11 +4159,15 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-06T09:55:30.965943"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T10:01:30.976400"
       }
     ]
   },
@@ -4173,7 +4177,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區鐵道一街",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4182,6 +4186,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T09:57:30.976839"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T10:01:30.976400"
       }
     ]
   },
@@ -4246,6 +4254,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T10:00:31.189457"
+      }
+    ]
+  },
+  "2a4e30786baf8e9b814989d6ba577eb4": {
+    "time": "2026/10/06 10:01:15",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗山區",
+    "units": "旗山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T10:01:30.976400"
+      }
+    ]
+  },
+  "0a64dcc3d9a951b736e0109424cdb3f9": {
+    "time": "2026/10/06 10:00:12",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T10:01:30.976400"
+      }
+    ]
+  },
+  "cb409f44d16511c7501b219bbd381cc0": {
+    "time": "2026/10/06 09:59:49",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T10:01:30.976400"
       }
     ]
   }
