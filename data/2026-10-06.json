@@ -6767,7 +6767,7 @@
     "sub_category": "急病",
     "location": "高雄市六龜區",
     "units": "茂林分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6784,6 +6784,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T14:15:31.656822"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T14:33:31.743182"
       }
     ]
   },
@@ -6975,11 +6979,15 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T14:32:31.796098"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T14:33:31.743182"
       }
     ]
   }
