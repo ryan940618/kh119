@@ -9181,7 +9181,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區文橫二路",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -9190,6 +9190,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T17:43:32.088376"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T17:51:32.166501"
       }
     ]
   },
@@ -9402,6 +9406,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T17:50:32.098284"
+      }
+    ]
+  },
+  "965e670ba461d198126000d5a7901f2f": {
+    "time": "2026/10/06 17:50:51",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區一心一路和育群街",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T17:51:32.166501"
+      }
+    ]
+  },
+  "32d9ff0babf25ac1de7ea5af509d2b59": {
+    "time": "2026/10/06 17:49:57",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市新興區仁愛一街",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T17:51:32.166501"
       }
     ]
   }
