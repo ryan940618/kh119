@@ -1471,7 +1471,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區延平路",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1480,6 +1480,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T06:59:31.629524"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T07:03:31.644110"
       }
     ]
   },
@@ -1512,6 +1516,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T07:02:31.764157"
+      }
+    ]
+  },
+  "63149a0496e3f922dcc8110587229cb4": {
+    "time": "2026/10/07 07:01:16",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市大寮區內坑路",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T07:03:31.644110"
       }
     ]
   }
