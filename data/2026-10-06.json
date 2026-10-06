@@ -4905,7 +4905,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4914,6 +4914,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T10:49:31.452701"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T10:52:31.478160"
       }
     ]
   },
@@ -4923,7 +4927,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4932,6 +4936,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T10:48:31.338229"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T10:52:31.478160"
       }
     ]
   },
@@ -4977,11 +4985,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中安路",
     "units": "前鎮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T10:50:31.583935"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T10:52:31.478160"
       }
     ]
   },
