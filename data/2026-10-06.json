@@ -9993,7 +9993,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區華榮路",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10010,6 +10010,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T18:40:31.298917"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T18:46:31.263087"
       }
     ]
   },
@@ -10019,7 +10023,7 @@
     "sub_category": "車禍",
     "location": "高雄市六龜區",
     "units": "茂林分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10028,6 +10032,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T18:33:31.288449"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T18:46:31.263087"
       }
     ]
   },
@@ -10104,6 +10112,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T18:44:31.253067"
+      }
+    ]
+  },
+  "cf21ffe638e710673bdbdb2f1f00a405": {
+    "time": "2026/10/06 18:45:46",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "和發分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T18:46:31.263087"
       }
     ]
   }
