@@ -9905,7 +9905,7 @@
     "sub_category": "汽機車",
     "location": "高雄市路竹區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "火已控",
     "status_history": [
       {
         "status": "已派遣",
@@ -9922,6 +9922,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T18:41:31.222955"
+      },
+      {
+        "status": "火已控",
+        "timestamp": "2026-10-06T18:47:31.291158"
       }
     ]
   },
@@ -9971,7 +9975,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區復興路",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9984,6 +9988,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T18:36:31.247840"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T18:47:31.291158"
       }
     ]
   },
@@ -10121,11 +10129,15 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T18:46:31.263087"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T18:47:31.291158"
       }
     ]
   }
