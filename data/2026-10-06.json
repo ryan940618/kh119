@@ -11579,7 +11579,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11596,6 +11596,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T21:27:31.208763"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T21:34:31.483297"
       }
     ]
   },
@@ -11756,6 +11760,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T21:30:31.359851"
+      }
+    ]
+  },
+  "ad37617a9188f8867060e2d035ac96a1": {
+    "time": "2026/10/06 21:33:57",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鹽埕區",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T21:34:31.483297"
+      }
+    ]
+  },
+  "6a1d76bab8c167e110f5fa6ed42916e2": {
+    "time": "2026/10/06 21:33:50",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鳳山區過勇路",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T21:34:31.483297"
+      }
+    ]
+  },
+  "f92d688641c897b5fd354f2b467b76e8": {
+    "time": "2026/10/06 21:33:13",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T21:34:31.483297"
       }
     ]
   }
