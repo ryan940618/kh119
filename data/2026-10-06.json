@@ -6995,7 +6995,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7008,6 +7008,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T14:40:31.665989"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T14:49:31.710680"
       }
     ]
   },
@@ -7101,7 +7105,7 @@
     "sub_category": "其他",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7110,6 +7114,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T14:48:31.796211"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T14:49:31.710680"
       }
     ]
   },
@@ -7124,6 +7132,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T14:47:31.978599"
+      }
+    ]
+  },
+  "2f73220c00c7516632c1bd974b126a64": {
+    "time": "2026/10/06 14:46:39",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區大同路",
+    "units": "鳥松分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T14:49:31.710680"
       }
     ]
   }
