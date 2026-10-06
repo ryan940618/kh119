@@ -9205,7 +9205,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區瑞北路",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9214,6 +9214,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T17:42:31.901235"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T17:47:32.015272"
       }
     ]
   },
@@ -9237,11 +9241,15 @@
     "sub_category": "路倒",
     "location": "高雄市前金區中正四路",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-06T17:43:32.088376"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T17:47:32.015272"
       }
     ]
   },
@@ -9324,6 +9332,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T17:46:31.931709"
+      }
+    ]
+  },
+  "4688546afb7ca94c4d278c16961aabea": {
+    "time": "2026/10/06 17:46:35",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區康莊路88巷和平治街",
+    "units": "高桂分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T17:47:32.015272"
       }
     ]
   }
