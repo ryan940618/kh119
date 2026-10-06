@@ -7933,7 +7933,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳥松區本舘路",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -7942,6 +7942,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T16:20:31.499468"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T16:27:31.494769"
       }
     ]
   },
@@ -8091,11 +8095,15 @@
     "sub_category": "創傷",
     "location": "高雄市田寮區西德路",
     "units": "崇德駐地",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-06T16:26:31.529100"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T16:27:31.494769"
       }
     ]
   }
