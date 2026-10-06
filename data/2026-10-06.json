@@ -7733,7 +7733,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區二聖一路",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7750,6 +7750,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T16:13:31.311270"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T16:26:31.529100"
       }
     ]
   },
@@ -7829,7 +7833,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區樂群路",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7846,6 +7850,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T16:20:31.499468"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T16:26:31.529100"
       }
     ]
   },
@@ -7881,7 +7889,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -7890,6 +7898,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T16:19:31.290227"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T16:26:31.529100"
       }
     ]
   },
@@ -8070,6 +8082,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T16:25:31.475335"
+      }
+    ]
+  },
+  "a7cf50ea37dc99742a1cec933d3206ab": {
+    "time": "2026/10/06 16:24:37",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市田寮區西德路",
+    "units": "崇德駐地",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T16:26:31.529100"
       }
     ]
   }
