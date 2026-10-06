@@ -4807,7 +4807,7 @@
     "sub_category": "創傷",
     "location": "高雄市小港區山明路",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4820,6 +4820,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T10:37:31.340028"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T10:42:31.461860"
       }
     ]
   },
@@ -4829,11 +4833,29 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區福建街",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T10:41:31.385100"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T10:42:31.461860"
+      }
+    ]
+  },
+  "9a5bce6b084bca6d6d98e69f0de775e6": {
+    "time": "2026/10/06 10:41:00",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區建工路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T10:42:31.461860"
       }
     ]
   }
