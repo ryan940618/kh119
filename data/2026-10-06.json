@@ -12367,7 +12367,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12380,6 +12380,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T23:04:31.785843"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T23:14:31.973767"
       }
     ]
   },
@@ -12419,7 +12423,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12432,6 +12436,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T23:11:31.749291"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T23:14:31.973767"
       }
     ]
   },
