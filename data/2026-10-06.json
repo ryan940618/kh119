@@ -7479,7 +7479,7 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -7492,6 +7492,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T15:59:31.126360"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T16:01:31.184446"
       }
     ]
   },
@@ -7641,7 +7645,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7650,6 +7654,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T15:51:31.061187"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T16:01:31.184446"
       }
     ]
   },
@@ -7686,6 +7694,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T15:59:31.126360"
+      }
+    ]
+  },
+  "1ef9ed195c22847f674859bbac97015e": {
+    "time": "2026/10/06 16:00:36",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T16:01:31.184446"
       }
     ]
   }
