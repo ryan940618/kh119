@@ -5853,7 +5853,7 @@
     "sub_category": "創傷",
     "location": "高雄市茄萣區進學路",
     "units": "茄萣分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -5866,6 +5866,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T12:28:31.015449"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T12:45:31.085505"
       }
     ]
   },
@@ -6085,11 +6089,43 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T12:42:31.144412"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T12:45:31.085505"
+      }
+    ]
+  },
+  "8562ea36ce498f8c54dafd0482e12b85": {
+    "time": "2026/10/06 12:45:03",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T12:45:31.085505"
+      }
+    ]
+  },
+  "57c0a9a19010f270f2dbd72439608338": {
+    "time": "2026/10/06 12:37:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市永安區維新路",
+    "units": "岡山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T12:45:31.085505"
       }
     ]
   }
