@@ -10051,7 +10051,7 @@
     "sub_category": "車禍",
     "location": "高雄市六龜區",
     "units": "茂林分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10068,6 +10068,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T18:48:31.247818"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T19:12:31.439732"
       }
     ]
   },
@@ -10371,11 +10375,29 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區大智路和文海街",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T19:11:31.353969"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T19:12:31.439732"
+      }
+    ]
+  },
+  "6c8d40d0710b73ee9e5c6924ad460145": {
+    "time": "2026/10/06 19:12:15",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T19:12:31.439732"
       }
     ]
   }
