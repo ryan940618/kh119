@@ -6191,7 +6191,7 @@
     "sub_category": "急病",
     "location": "高雄市橋頭區",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6208,6 +6208,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T13:13:31.132215"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T13:20:31.295222"
       }
     ]
   },
@@ -6333,7 +6337,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區建國一路",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -6342,6 +6346,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T13:11:31.130623"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T13:20:31.295222"
       }
     ]
   },
