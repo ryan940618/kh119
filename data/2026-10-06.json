@@ -2807,7 +2807,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -2816,6 +2816,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T08:23:31.595768"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T08:35:31.610273"
       }
     ]
   },
@@ -3013,7 +3017,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區高坪三十二街",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3026,6 +3030,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T08:32:31.609061"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T08:35:31.610273"
       }
     ]
   },
@@ -3160,6 +3168,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T08:34:31.620835"
+      }
+    ]
+  },
+  "ca03f3aa3a4488a4809358df28acd6ff": {
+    "time": "2026/10/06 08:33:11",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市左營區海功路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T08:35:31.610273"
       }
     ]
   }
