@@ -551,7 +551,7 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區三和路",
     "units": "大樹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -560,6 +560,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T02:44:31.050326"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T02:53:31.244288"
       }
     ]
   },
@@ -627,11 +631,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T02:52:31.251354"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T02:53:31.244288"
       }
     ]
   }
