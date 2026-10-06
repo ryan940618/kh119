@@ -4581,7 +4581,7 @@
     "sub_category": "車禍",
     "location": "高雄市鹽埕區大仁路和鹽埕街",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4590,6 +4590,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T10:21:31.254879"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T10:24:31.318340"
       }
     ]
   },
@@ -4599,11 +4603,29 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區文英路",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T10:23:31.375365"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T10:24:31.318340"
+      }
+    ]
+  },
+  "ede61eab10fb9302848afa97ecb75036": {
+    "time": "2026/10/06 10:22:56",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市新興區文橫二路",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T10:24:31.318340"
       }
     ]
   }
