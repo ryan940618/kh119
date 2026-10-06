@@ -525,7 +525,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "阿蓮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -542,6 +542,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T02:49:31.113184"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T02:56:31.229261"
       }
     ]
   },
@@ -613,7 +617,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區金鼎路",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -622,6 +626,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T02:51:31.155254"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T02:56:31.229261"
       }
     ]
   },
