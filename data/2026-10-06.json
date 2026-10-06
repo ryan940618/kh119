@@ -7699,7 +7699,7 @@
     "sub_category": "創傷",
     "location": "高雄市路竹區大社路",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7712,6 +7712,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T16:03:31.203639"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T16:12:31.405583"
       }
     ]
   },
@@ -7828,6 +7832,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T16:09:31.244900"
+      }
+    ]
+  },
+  "28c37eb73d569f84fe7d45d8ba045c81": {
+    "time": "2026/10/06 16:11:21",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T16:12:31.405583"
       }
     ]
   }
