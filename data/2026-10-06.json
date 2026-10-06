@@ -3401,7 +3401,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區維新路",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3414,6 +3414,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T08:57:31.699400"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T09:01:31.861378"
       }
     ]
   },
@@ -3562,6 +3566,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T09:00:31.822125"
+      }
+    ]
+  },
+  "ccc774dd0d34571ab72b8652d6cbae83": {
+    "time": "2026/10/06 08:59:53",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市大寮區鳳林三路",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T09:01:31.861378"
       }
     ]
   }
