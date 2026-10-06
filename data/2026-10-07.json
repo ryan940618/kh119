@@ -249,7 +249,7 @@
     "sub_category": "創傷",
     "location": "高雄市六龜區",
     "units": "茂林分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -258,6 +258,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T01:34:31.585085"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T01:49:40.775910"
       }
     ]
   },
@@ -267,7 +271,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -276,6 +280,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T01:43:31.627756"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T01:49:40.775910"
       }
     ]
   },
@@ -294,6 +302,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T01:48:41.899252"
+      }
+    ]
+  },
+  "172c2bf3e85d53aaf903a19e49f5677b": {
+    "time": "2026/10/07 01:48:46",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市茄萣區",
+    "units": "茄萣分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T01:49:40.775910"
+      }
+    ]
+  },
+  "3a8ca000ad9fe79c281fdc4c1aa30bfb": {
+    "time": "2026/10/07 01:48:17",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T01:49:40.775910"
       }
     ]
   }
