@@ -5127,7 +5127,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -5140,6 +5140,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T11:20:31.906672"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T11:28:31.822091"
       }
     ]
   },
@@ -5257,7 +5261,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5274,6 +5278,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T11:24:31.734391"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T11:28:31.822091"
       }
     ]
   },
@@ -5380,6 +5388,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T11:27:31.613976"
+      }
+    ]
+  },
+  "2c8e059c77fb5c55313a03c65fd8605c": {
+    "time": "2026/10/06 11:28:00",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市左營區華夏路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T11:28:31.822091"
+      }
+    ]
+  },
+  "18f13011a1a067461ace393215859c08": {
+    "time": "2026/10/06 11:27:08",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市湖內區保生路",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T11:28:31.822091"
       }
     ]
   }
