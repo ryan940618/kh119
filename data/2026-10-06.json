@@ -11781,7 +11781,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11790,6 +11790,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T21:37:31.408326"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T21:41:31.365108"
       }
     ]
   },
@@ -11821,11 +11825,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-06T21:34:31.483297"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T21:41:31.365108"
       }
     ]
   },
@@ -11848,6 +11856,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T21:40:31.633871"
+      }
+    ]
+  },
+  "28c11e2d4315a8975d1241cc878d64f2": {
+    "time": "2026/10/06 21:40:54",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區博愛一路和熱河二街",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T21:41:31.365108"
       }
     ]
   }
