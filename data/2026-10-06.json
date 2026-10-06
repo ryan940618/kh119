@@ -7781,7 +7781,7 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區藍昌路",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -7794,6 +7794,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T16:18:31.322739"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T16:25:31.475335"
       }
     ]
   },
@@ -8043,11 +8047,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T16:24:31.441829"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T16:25:31.475335"
+      }
+    ]
+  },
+  "ae480cdaa637c4f48f701922cae7b7f0": {
+    "time": "2026/10/06 16:24:37",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市田寮區",
+    "units": "崇德駐地",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T16:25:31.475335"
       }
     ]
   }
