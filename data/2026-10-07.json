@@ -1941,7 +1941,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區高鳳路",
     "units": "鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1950,6 +1950,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T07:52:31.103586"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T07:58:31.139544"
       }
     ]
   },
@@ -2054,6 +2058,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T07:54:31.173763"
+      }
+    ]
+  },
+  "47edccb6dbd3a42339c3b22427ce0b6a": {
+    "time": "2026/10/07 07:57:45",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T07:58:31.139544"
+      }
+    ]
+  },
+  "c2a40f62510c891ce77f0076e0e2f2eb": {
+    "time": "2026/10/07 07:57:35",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T07:58:31.139544"
       }
     ]
   }
