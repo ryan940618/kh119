@@ -6935,7 +6935,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區蓮海路",
     "units": "鼓山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6952,6 +6952,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T14:31:31.756082"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T14:40:31.665989"
       }
     ]
   },
@@ -6987,7 +6991,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6996,6 +7000,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T14:33:31.743182"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T14:40:31.665989"
       }
     ]
   },
@@ -7032,6 +7040,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T14:38:31.810481"
+      }
+    ]
+  },
+  "c2424e904e25e56a4b851e6935a643bf": {
+    "time": "2026/10/06 14:39:14",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T14:40:31.665989"
       }
     ]
   }
