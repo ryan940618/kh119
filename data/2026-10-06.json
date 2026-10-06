@@ -6769,7 +6769,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -6778,6 +6778,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T14:07:31.559043"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T14:10:31.575094"
       }
     ]
   },
@@ -6819,11 +6823,29 @@
     "sub_category": "路倒",
     "location": "高雄市仁武區仁林路",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T14:09:31.517260"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T14:10:31.575094"
+      }
+    ]
+  },
+  "8be28bbd9b79aa980611abf812f4ca89": {
+    "time": "2026/10/06 14:10:10",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T14:10:31.575094"
       }
     ]
   }
