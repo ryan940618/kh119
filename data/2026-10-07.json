@@ -1013,7 +1013,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1026,6 +1026,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T05:03:30.958108"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T05:05:31.006497"
       }
     ]
   },
@@ -1071,11 +1075,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T05:04:31.060755"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T05:05:31.006497"
       }
     ]
   }
