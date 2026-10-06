@@ -1711,7 +1711,7 @@
     "sub_category": "創傷",
     "location": "高雄市小港區光陽街",
     "units": "高桂分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1728,6 +1728,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T07:35:30.931466"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T07:42:30.885747"
       }
     ]
   },
@@ -1737,7 +1741,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1754,6 +1758,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T07:36:31.049482"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T07:42:30.885747"
       }
     ]
   },
@@ -1763,7 +1771,7 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1780,6 +1788,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T07:40:30.995312"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T07:42:30.885747"
       }
     ]
   },
@@ -1852,6 +1864,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T07:41:31.041103"
+      }
+    ]
+  },
+  "63f2d949ab2427071c641a02ac644508": {
+    "time": "2026/10/07 07:41:48",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市彌陀區中正路",
+    "units": "彌陀分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T07:42:30.885747"
       }
     ]
   }
