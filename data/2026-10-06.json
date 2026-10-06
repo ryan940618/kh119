@@ -12323,7 +12323,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12340,6 +12340,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T23:13:31.803304"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T23:18:31.791154"
       }
     ]
   },
@@ -12371,7 +12375,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12388,6 +12392,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T23:14:31.973767"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T23:18:31.791154"
       }
     ]
   },
@@ -12510,6 +12518,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T23:12:31.771130"
+      }
+    ]
+  },
+  "3c53b3ac5e66fe5ee4ac6a4f99d68255": {
+    "time": "2026/10/06 23:17:58",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T23:18:31.791154"
+      }
+    ]
+  },
+  "23ef689af8f5cb1dafd70308f024c25e": {
+    "time": "2026/10/06 23:17:00",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區三多三路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T23:18:31.791154"
       }
     ]
   }
