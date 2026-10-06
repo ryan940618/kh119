@@ -3321,7 +3321,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區中華二路",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3334,6 +3334,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T08:42:31.797804"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T08:48:31.595122"
       }
     ]
   },
@@ -3343,11 +3347,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區正勤路",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T08:42:31.797804"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T08:48:31.595122"
       }
     ]
   },
