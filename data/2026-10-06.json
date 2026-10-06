@@ -11149,7 +11149,7 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區五福一路",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11158,6 +11158,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T20:25:31.811299"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T20:31:31.989848"
       }
     ]
   },
@@ -11185,7 +11189,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -11194,6 +11198,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T20:30:32.086009"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T20:31:31.989848"
       }
     ]
   },
@@ -11230,6 +11238,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T20:30:32.086009"
+      }
+    ]
+  },
+  "0f334a6281df44a66e2500c06b2ffd68": {
+    "time": "2026/10/06 20:30:02",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T20:31:31.989848"
       }
     ]
   }
