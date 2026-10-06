@@ -4977,7 +4977,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區八德路",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4994,6 +4994,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T11:00:31.612377"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T11:10:31.573035"
       }
     ]
   },
@@ -5209,11 +5213,43 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T11:09:31.661288"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T11:10:31.573035"
+      }
+    ]
+  },
+  "a22a30006d6ecdc731cbb1af59ffc1e4": {
+    "time": "2026/10/06 11:09:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T11:10:31.573035"
+      }
+    ]
+  },
+  "2025c970b30a5619168ea4c20e113521": {
+    "time": "2026/10/06 11:09:09",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區青山街",
+    "units": "高桂分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T11:10:31.573035"
       }
     ]
   }
