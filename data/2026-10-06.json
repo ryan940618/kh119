@@ -10221,7 +10221,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區惠民路",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10234,6 +10234,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T18:56:31.223926"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T19:06:31.326188"
       }
     ]
   },
@@ -10314,6 +10318,20 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T19:05:31.269880"
+      }
+    ]
+  },
+  "6a57490c0b8f7e964675d27e2da116d3": {
+    "time": "2026/10/06 19:05:31",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鳥松區美山路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T19:06:31.326188"
       }
     ]
   }
