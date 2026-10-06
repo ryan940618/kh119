@@ -8919,7 +8919,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區溪寮路",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8936,6 +8936,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T17:41:32.057541"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T17:53:32.201149"
       }
     ]
   },
@@ -8945,7 +8949,7 @@
     "sub_category": "其他",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8962,6 +8966,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T17:50:32.098284"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T17:53:32.201149"
       }
     ]
   },
@@ -9089,7 +9097,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區鼎中路",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9102,6 +9110,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T17:42:31.901235"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T17:53:32.201149"
       }
     ]
   },
@@ -9297,11 +9309,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區春陽街",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-06T17:43:32.088376"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T17:53:32.201149"
       }
     ]
   },
@@ -9419,11 +9435,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區一心一路和育群街",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T17:51:32.166501"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T17:53:32.201149"
       }
     ]
   },
@@ -9451,11 +9471,43 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區中山東路",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T17:52:32.231674"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T17:53:32.201149"
+      }
+    ]
+  },
+  "1fe1d9fe581193d77dd61fc9c7f89291": {
+    "time": "2026/10/06 17:52:24",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區仁雄路",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T17:53:32.201149"
+      }
+    ]
+  },
+  "e29fec334aee486305b1f64667254156": {
+    "time": "2026/10/06 17:52:24",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區一心一路|育群街",
+    "units": "瑞隆分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T17:53:32.201149"
       }
     ]
   }
