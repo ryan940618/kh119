@@ -8807,7 +8807,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區埤頂街",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8824,6 +8824,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T17:21:31.943183"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T17:25:31.947595"
       }
     ]
   },
@@ -8833,11 +8837,15 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區中山東路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-06T17:14:31.694751"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T17:25:31.947595"
       }
     ]
   },
@@ -8927,11 +8935,15 @@
     "sub_category": "車禍",
     "location": "高雄市林園區工業二路",
     "units": "林園分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T17:24:31.879632"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T17:25:31.947595"
       }
     ]
   }
