@@ -4379,7 +4379,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4392,6 +4392,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T10:19:31.218849"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T10:25:31.369932"
       }
     ]
   },
@@ -4449,7 +4453,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4462,6 +4466,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T10:11:31.125542"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T10:25:31.369932"
       }
     ]
   },
@@ -4493,7 +4501,7 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區加昌路",
     "units": "後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -4506,6 +4514,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T10:21:31.254879"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T10:25:31.369932"
       }
     ]
   },
@@ -4515,7 +4527,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區鼎中路",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4532,6 +4544,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T10:22:31.249599"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T10:25:31.369932"
       }
     ]
   },
@@ -4626,6 +4642,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T10:24:31.318340"
+      }
+    ]
+  },
+  "b10c32126c95ceb19814af3befdc7315": {
+    "time": "2026/10/06 10:24:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T10:25:31.369932"
+      }
+    ]
+  },
+  "1d21184edae446158deb45330a1f5d9e": {
+    "time": "2026/10/06 10:25:06",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市前鎮區天倫街",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T10:25:31.369932"
       }
     ]
   }
