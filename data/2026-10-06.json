@@ -3133,7 +3133,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營小隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3146,6 +3146,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T08:36:31.744237"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T08:41:31.592106"
       }
     ]
   },
@@ -3277,11 +3281,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區中華二路",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T08:39:31.765753"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T08:41:31.592106"
       }
     ]
   }
