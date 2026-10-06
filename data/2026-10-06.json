@@ -5409,7 +5409,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區華夏路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5418,6 +5418,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T11:31:31.646479"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T11:35:31.787311"
       }
     ]
   },
@@ -5427,7 +5431,7 @@
     "sub_category": "創傷",
     "location": "高雄市湖內區保生路",
     "units": "湖內分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5440,6 +5444,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T11:31:31.646479"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T11:35:31.787311"
       }
     ]
   },
@@ -5472,6 +5480,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T11:34:31.740744"
+      }
+    ]
+  },
+  "2753bc00014853c8a4149f3a3128274c": {
+    "time": "2026/10/06 11:34:54",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市燕巢區",
+    "units": "燕巢分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T11:35:31.787311"
       }
     ]
   }
