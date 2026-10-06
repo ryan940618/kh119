@@ -6457,7 +6457,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6474,6 +6474,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T13:49:31.596046"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T13:52:31.366665"
       }
     ]
   },
@@ -6641,11 +6645,29 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T13:49:31.596046"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T13:52:31.366665"
+      }
+    ]
+  },
+  "092d4a8e99162839bfdb0054353ca617": {
+    "time": "2026/10/06 13:51:55",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T13:52:31.366665"
       }
     ]
   }
