@@ -6747,7 +6747,7 @@
     "sub_category": "急病",
     "location": "高雄市六龜區",
     "units": "茂林分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6756,6 +6756,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T13:57:31.438755"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T14:09:31.517260"
       }
     ]
   },
@@ -6783,11 +6787,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T14:06:31.443354"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T14:09:31.517260"
       }
     ]
   },
@@ -6802,6 +6810,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T14:07:31.559043"
+      }
+    ]
+  },
+  "2c1989b8b263917876a17f86887d6b51": {
+    "time": "2026/10/06 14:08:52",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市仁武區仁林路",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T14:09:31.517260"
       }
     ]
   }
