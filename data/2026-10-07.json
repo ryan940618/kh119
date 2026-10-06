@@ -1243,7 +1243,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -1252,6 +1252,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T06:15:31.392763"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T06:20:31.396638"
       }
     ]
   },
@@ -1274,6 +1278,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T06:15:31.392763"
+      }
+    ]
+  },
+  "7d6278336a3c19adb0cbc2979bba6b60": {
+    "time": "2026/10/07 06:19:17",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市梓官區",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T06:20:31.396638"
+      }
+    ]
+  },
+  "7a9c4d47a4a403880e8b19f0cba6ea0a": {
+    "time": "2026/10/07 06:18:37",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市彌陀區",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-07T06:20:31.396638"
       }
     ]
   }
