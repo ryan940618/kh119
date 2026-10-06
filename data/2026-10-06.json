@@ -5753,7 +5753,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5762,6 +5762,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T12:10:31.891889"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T12:16:32.103966"
       }
     ]
   },
@@ -5830,6 +5834,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T12:15:32.281941"
+      }
+    ]
+  },
+  "97102867b2c1a43d01db807d15202d3f": {
+    "time": "2026/10/06 12:16:01",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區高楠公路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T12:16:32.103966"
+      }
+    ]
+  },
+  "da4d6cf41f190b84ee4b42d7be0f8aaf": {
+    "time": "2026/10/06 12:15:52",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T12:16:32.103966"
       }
     ]
   }
