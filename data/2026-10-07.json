@@ -1955,7 +1955,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區登山街",
     "units": "鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1964,6 +1964,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T07:53:31.053084"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T07:54:31.173763"
       }
     ]
   },
@@ -1987,11 +1991,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中山三路",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T07:53:31.053084"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T07:54:31.173763"
       }
     ]
   },
@@ -2006,6 +2014,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T07:53:31.053084"
+      }
+    ]
+  },
+  "8ac477d4fc795948f1a450dcdc623dc7": {
+    "time": "2026/10/07 07:53:25",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區翠峰路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T07:54:31.173763"
+      }
+    ]
+  },
+  "531bf496764c7abdbffcb52522955317": {
+    "time": "2026/10/07 07:53:20",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市永安區永工五路",
+    "units": "永安分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T07:54:31.173763"
       }
     ]
   }
