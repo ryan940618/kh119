@@ -8481,7 +8481,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8498,6 +8498,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T17:04:31.874984"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T17:14:31.694751"
       }
     ]
   },
@@ -8643,7 +8647,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區興楠路和楠梓東街",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8656,6 +8660,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T17:04:31.874984"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T17:14:31.694751"
       }
     ]
   },
@@ -8749,7 +8757,7 @@
     "sub_category": "車禍",
     "location": "高雄市新興區林森一路",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8762,6 +8770,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T17:09:31.820879"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T17:14:31.694751"
       }
     ]
   },
@@ -8780,6 +8792,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T17:09:31.820879"
+      }
+    ]
+  },
+  "cf57171f839a56419903689d9c1acd1a": {
+    "time": "2026/10/06 17:13:12",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市鳳山區中山東路",
+    "units": "鳳山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T17:14:31.694751"
       }
     ]
   }
