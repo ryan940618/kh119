@@ -8869,7 +8869,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區新下街",
     "units": "新莊分隊,鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8878,6 +8878,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T17:22:31.799045"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T17:24:31.879632"
       }
     ]
   },
@@ -8905,11 +8909,29 @@
     "sub_category": "其他",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T17:22:31.799045"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T17:24:31.879632"
+      }
+    ]
+  },
+  "ba68aec72ceaa6d1874444a82d1f7a68": {
+    "time": "2026/10/06 17:23:47",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市林園區工業二路",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T17:24:31.879632"
       }
     ]
   }
