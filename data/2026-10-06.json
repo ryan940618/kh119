@@ -7087,7 +7087,7 @@
     "sub_category": "車禍",
     "location": "高雄市彌陀區四維路",
     "units": "彌陀分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7100,6 +7100,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T14:50:31.841187"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T14:55:31.910761"
       }
     ]
   },
@@ -7176,6 +7180,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T14:51:31.880797"
+      }
+    ]
+  },
+  "64a5e41381777c6ff26903196617f57d": {
+    "time": "2026/10/06 14:54:56",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T14:55:31.910761"
       }
     ]
   }
