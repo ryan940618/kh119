@@ -1307,7 +1307,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1324,6 +1324,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T06:52:31.563025"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T07:10:31.733367"
       }
     ]
   },
@@ -1431,7 +1435,7 @@
     "sub_category": "路倒",
     "location": "高雄市鼓山區中華一路",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1444,6 +1448,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T06:54:31.642128"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T07:10:31.733367"
       }
     ]
   },
@@ -1568,6 +1576,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T07:09:31.641453"
+      }
+    ]
+  },
+  "778e87378e292b0f33279e9037a83153": {
+    "time": "2026/10/07 07:09:47",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區光復路一段和文聖街",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T07:10:31.733367"
       }
     ]
   }
