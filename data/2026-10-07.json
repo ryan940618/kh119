@@ -1893,7 +1893,7 @@
     "sub_category": "車禍",
     "location": "高雄市彌陀區中正路",
     "units": "彌陀分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1906,6 +1906,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T07:45:30.957907"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T07:53:31.053084"
       }
     ]
   },
@@ -1951,11 +1955,15 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區登山街",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T07:50:31.171642"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T07:53:31.053084"
       }
     ]
   },
@@ -1970,6 +1978,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T07:50:31.171642"
+      }
+    ]
+  },
+  "6aa7a0c571c7ccfef32e2bbd74b2ba5a": {
+    "time": "2026/10/07 07:52:22",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區中山三路",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T07:53:31.053084"
+      }
+    ]
+  },
+  "84f24f12d509b0163bcca8493c83d0ad": {
+    "time": "2026/10/07 07:52:08",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區球場路",
+    "units": "鼎金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T07:53:31.053084"
       }
     ]
   }
