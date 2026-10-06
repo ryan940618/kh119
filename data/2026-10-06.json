@@ -9555,7 +9555,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區中山東路",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9572,6 +9572,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T18:08:31.183570"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T18:12:31.361414"
       }
     ]
   },
@@ -9728,6 +9732,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T18:10:31.244569"
+      }
+    ]
+  },
+  "0ab0f42a6526758f0aa59dcd0ba1c208": {
+    "time": "2026/10/06 18:11:32",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區通校路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T18:12:31.361414"
       }
     ]
   }
