@@ -3577,7 +3577,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區大豐一路",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -3590,6 +3590,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T09:16:32.016534"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T09:17:31.876298"
       }
     ]
   },
@@ -3696,6 +3700,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T09:12:31.912340"
+      }
+    ]
+  },
+  "c9962c017df9fcea36aec5a65709c5d9": {
+    "time": "2026/10/06 09:17:13",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區車站後街",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T09:17:31.876298"
       }
     ]
   }
