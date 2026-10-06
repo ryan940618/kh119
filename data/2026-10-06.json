@@ -5639,7 +5639,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "大林分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5652,6 +5652,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T12:01:31.880831"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T12:14:31.963034"
       }
     ]
   },
@@ -5794,6 +5798,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T12:13:31.963247"
+      }
+    ]
+  },
+  "b3db1415c36056dace49ae5454d09857": {
+    "time": "2026/10/06 12:13:57",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市橋頭區隆豐路",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T12:14:31.963034"
+      }
+    ]
+  },
+  "148e2463a16a864c78afa803fc5cea38": {
+    "time": "2026/10/06 12:13:46",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市茂林區",
+    "units": "茂林分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T12:14:31.963034"
       }
     ]
   }
