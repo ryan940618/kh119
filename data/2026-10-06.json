@@ -8737,7 +8737,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區高雄科技大學燕巢校區[高雄市燕巢區深中路",
     "units": "燕巢分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8754,6 +8754,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T17:36:31.976652"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T17:44:32.030562"
       }
     ]
   },
@@ -9231,11 +9235,15 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區中正路和文達一街",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T17:43:32.088376"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T17:44:32.030562"
       }
     ]
   },
@@ -9250,6 +9258,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T17:43:32.088376"
+      }
+    ]
+  },
+  "a355c75311d9676853db656733fe2fab": {
+    "time": "2026/10/06 17:43:47",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "大林分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T17:44:32.030562"
       }
     ]
   }
