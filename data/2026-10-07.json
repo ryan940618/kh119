@@ -181,7 +181,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -190,6 +190,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T01:26:31.511741"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T01:33:31.660966"
       }
     ]
   },
@@ -204,6 +208,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T01:32:31.614053"
+      }
+    ]
+  },
+  "e2a0e6bc98bcccd58f7b6b3d133bb630": {
+    "time": "2026/10/07 01:32:31",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市六龜區",
+    "units": "茂林分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T01:33:31.660966"
       }
     ]
   }
