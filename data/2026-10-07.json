@@ -491,7 +491,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -500,6 +500,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T02:38:31.055599"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T02:42:31.063364"
       }
     ]
   },
@@ -532,6 +536,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T02:40:41.519055"
+      }
+    ]
+  },
+  "11b90be885a7506f2a78d7e23abdf97b": {
+    "time": "2026/10/07 02:40:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T02:42:31.063364"
       }
     ]
   }
