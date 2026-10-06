@@ -2211,7 +2211,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區惠民捷道、惠心街",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2224,6 +2224,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T07:53:31.191171"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T08:01:31.463814"
       }
     ]
   },
@@ -2440,6 +2444,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T07:59:31.292553"
+      }
+    ]
+  },
+  "8e67043db37354a2a175274cc96848e6": {
+    "time": "2026/10/06 07:58:58",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區高雄加工區東十二街",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T08:01:31.463814"
       }
     ]
   }
