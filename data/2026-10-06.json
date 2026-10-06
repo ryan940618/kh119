@@ -2351,7 +2351,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區鳳誠路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2360,6 +2360,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T07:57:31.260871"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T08:04:31.378253"
       }
     ]
   },
@@ -2405,7 +2409,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區大德二路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2414,6 +2418,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T07:59:31.292553"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T08:04:31.378253"
       }
     ]
   },
@@ -2423,7 +2431,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區凱旋二路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2432,6 +2440,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T08:00:31.198264"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T08:04:31.378253"
       }
     ]
   },
@@ -2513,11 +2525,29 @@
     "sub_category": "車禍",
     "location": "高雄市新興區河南一路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T08:03:31.290789"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T08:04:31.378253"
+      }
+    ]
+  },
+  "f2370ad2a141c6b97ae3f54cbe7efcbe": {
+    "time": "2026/10/06 08:03:43",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T08:04:31.378253"
       }
     ]
   }
