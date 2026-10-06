@@ -7287,7 +7287,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -7296,6 +7296,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T15:13:30.842213"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T15:18:30.926551"
       }
     ]
   },
@@ -7305,11 +7309,15 @@
     "sub_category": "創傷",
     "location": "高雄市彌陀區文安路",
     "units": "彌陀分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T15:17:30.978788"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T15:18:30.926551"
       }
     ]
   }
