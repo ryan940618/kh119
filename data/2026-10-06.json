@@ -2367,7 +2367,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區鳳誠路",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2384,6 +2384,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T08:10:31.470763"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T08:14:31.386532"
       }
     ]
   },
@@ -2433,7 +2437,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區大德二路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2450,6 +2454,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T08:09:31.521925"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T08:14:31.386532"
       }
     ]
   },
@@ -2507,7 +2515,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區自由三路",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -2516,6 +2524,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T08:02:31.347709"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T08:14:31.386532"
       }
     ]
   },
@@ -2613,11 +2625,15 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "永安分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-06T08:05:31.487237"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T08:14:31.386532"
       }
     ]
   },
@@ -2686,6 +2702,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T08:12:31.529732"
+      }
+    ]
+  },
+  "81981c5dcb2efbdf6368d3526c876917": {
+    "time": "2026/10/06 08:13:15",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市美濃區",
+    "units": "美濃分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T08:14:31.386532"
       }
     ]
   }
