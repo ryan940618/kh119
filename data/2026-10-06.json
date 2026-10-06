@@ -2651,7 +2651,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2668,6 +2668,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T08:23:31.595768"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T08:33:31.594646"
       }
     ]
   },
@@ -2821,7 +2825,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區中山路",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2838,6 +2842,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T08:29:31.604086"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T08:33:31.594646"
       }
     ]
   },
@@ -3111,11 +3119,29 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區公園路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-06T08:28:31.595747"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T08:33:31.594646"
+      }
+    ]
+  },
+  "429e0d0fdcba8395acc513864b5ccad5": {
+    "time": "2026/10/06 08:32:39",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T08:33:31.594646"
       }
     ]
   }
