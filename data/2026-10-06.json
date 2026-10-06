@@ -7137,7 +7137,7 @@
     "sub_category": "其他",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7154,6 +7154,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-06T14:53:31.724178"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T15:08:31.805441"
       }
     ]
   },
@@ -7239,11 +7243,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區國昌路",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T15:07:31.939610"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T15:08:31.805441"
       }
     ]
   },
@@ -7258,6 +7266,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T15:07:31.939610"
+      }
+    ]
+  },
+  "08dd176f208f980e574c2483db51f9ea": {
+    "time": "2026/10/06 15:08:03",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T15:08:31.805441"
       }
     ]
   }
