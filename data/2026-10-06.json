@@ -12381,7 +12381,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12390,6 +12390,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T23:03:31.726027"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T23:05:31.714201"
       }
     ]
   },
@@ -12408,6 +12412,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T23:04:31.785843"
+      }
+    ]
+  },
+  "b35600daaaf1e5e4e32372e5e7d97b44": {
+    "time": "2026/10/06 23:04:56",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市甲仙區仁愛路",
+    "units": "甲仙分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T23:05:31.714201"
       }
     ]
   }
