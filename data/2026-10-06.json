@@ -6489,11 +6489,15 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T13:40:31.398168"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T13:43:31.430307"
       }
     ]
   },
@@ -6535,11 +6539,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T13:42:31.381151"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T13:43:31.430307"
+      }
+    ]
+  },
+  "d06a7fae6f06725699a4dc25f42b3193": {
+    "time": "2026/10/06 13:42:10",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市三民區九如一路",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T13:43:31.430307"
       }
     ]
   }
