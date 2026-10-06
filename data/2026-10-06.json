@@ -10059,7 +10059,7 @@
     "sub_category": "車禍",
     "location": "高雄市六龜區",
     "units": "茂林分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10084,6 +10084,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T19:31:31.438235"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-06T19:32:31.717903"
       }
     ]
   },
@@ -10603,7 +10607,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10612,6 +10616,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T19:28:31.445054"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T19:32:31.717903"
       }
     ]
   },
@@ -10639,11 +10647,29 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區華榮路",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T19:29:31.781147"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T19:32:31.717903"
+      }
+    ]
+  },
+  "db7ed92f5b2aedd0a178cd24897ef08e": {
+    "time": "2026/10/06 19:31:06",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市前金區南台橫路",
+    "units": "前金分隊,新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T19:32:31.717903"
       }
     ]
   }
