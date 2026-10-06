@@ -8945,7 +8945,7 @@
     "sub_category": "其他",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8958,6 +8958,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T17:30:31.858801"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T17:50:32.098284"
       }
     ]
   },
@@ -9155,7 +9159,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區德民路",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -9164,6 +9168,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T17:45:32.068472"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-06T17:50:32.098284"
       }
     ]
   },
@@ -9371,11 +9379,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T17:49:32.166581"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T17:50:32.098284"
+      }
+    ]
+  },
+  "763d94c4d732bb0169fd3c07177a9b8c": {
+    "time": "2026/10/06 17:49:23",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區民族一路",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T17:50:32.098284"
       }
     ]
   }
