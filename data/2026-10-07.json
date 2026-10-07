@@ -3749,11 +3749,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-07T10:12:32.218697"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T10:16:32.251131"
       }
     ]
   },
@@ -3768,6 +3772,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T10:15:32.128253"
+      }
+    ]
+  },
+  "f24c5569e9e051289e73bd39d1bd4922": {
+    "time": "2026/10/07 10:15:04",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區平和東路",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T10:16:32.251131"
       }
     ]
   }
