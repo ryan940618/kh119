@@ -2129,7 +2129,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2138,6 +2138,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T08:00:31.169477"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T08:05:31.200924"
       }
     ]
   },
@@ -2178,6 +2182,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T08:04:31.153968"
+      }
+    ]
+  },
+  "6f74f4822340c1af91af0959bae7e2ff": {
+    "time": "2026/10/07 08:04:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T08:05:31.200924"
       }
     ]
   }
