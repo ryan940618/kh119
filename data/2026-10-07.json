@@ -3577,7 +3577,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3594,6 +3594,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T10:12:32.218697"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T10:21:32.097976"
       }
     ]
   },
@@ -3879,11 +3883,29 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區裕誠路和民強街",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T10:20:32.051285"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T10:21:32.097976"
+      }
+    ]
+  },
+  "9632b2a33a65f37d68ae5f2102457a26": {
+    "time": "2026/10/07 10:20:22",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市前鎮區一心二路",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T10:21:32.097976"
       }
     ]
   }
