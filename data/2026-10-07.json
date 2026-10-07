@@ -6021,7 +6021,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6038,6 +6038,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T14:16:31.214404"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T14:22:31.360770"
       }
     ]
   },
@@ -6109,7 +6113,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區復興四路",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6122,6 +6126,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T14:14:31.428795"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T14:22:31.360770"
       }
     ]
   },
@@ -6154,6 +6162,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T14:19:31.291985"
+      }
+    ]
+  },
+  "41e4f99741a8e0f940b3e095bac6b8cb": {
+    "time": "2026/10/07 14:22:00",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區鳳屏二路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T14:22:31.360770"
       }
     ]
   }
