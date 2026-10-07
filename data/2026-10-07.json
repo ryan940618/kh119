@@ -11159,11 +11159,15 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T22:09:31.139729"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T22:12:31.362854"
       }
     ]
   },
@@ -11173,11 +11177,29 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區鳳明街",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T22:09:31.139729"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T22:12:31.362854"
+      }
+    ]
+  },
+  "491dd4d09fc46618493649797009bbc8": {
+    "time": "2026/10/07 22:11:44",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區文濱路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T22:12:31.362854"
       }
     ]
   }
