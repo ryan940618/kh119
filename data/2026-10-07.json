@@ -11779,7 +11779,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區大昌二路",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11796,6 +11796,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T23:35:31.753650"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T23:39:31.725074"
       }
     ]
   },
@@ -11857,7 +11861,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區溪濱路",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11870,6 +11874,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T23:34:31.718996"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T23:39:31.725074"
       }
     ]
   },
@@ -11919,7 +11927,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區青年路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11928,6 +11936,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T23:34:31.718996"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T23:39:31.725074"
       }
     ]
   },
@@ -11937,11 +11949,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T23:38:31.840235"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T23:39:31.725074"
       }
     ]
   },
@@ -11951,11 +11967,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T23:38:31.840235"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T23:39:31.725074"
       }
     ]
   }
