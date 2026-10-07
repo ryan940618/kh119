@@ -9045,7 +9045,7 @@
     "sub_category": "創傷",
     "location": "高雄市路竹區復興路",
     "units": "路竹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9062,6 +9062,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T18:27:33.640139"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T18:35:31.034637"
       }
     ]
   },
@@ -9093,7 +9097,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區大學南路",
     "units": "橋頭分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9110,6 +9114,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T18:32:32.039041"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T18:35:31.034637"
       }
     ]
   },
@@ -9145,7 +9153,7 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9162,6 +9170,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T18:31:31.961819"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T18:35:31.034637"
       }
     ]
   },
@@ -9256,6 +9268,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T18:34:32.088139"
+      }
+    ]
+  },
+  "4ea21f1b886359e1527eab2f61ab0269": {
+    "time": "2026/10/07 18:35:15",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T18:35:31.034637"
       }
     ]
   }
