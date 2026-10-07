@@ -7155,7 +7155,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7164,6 +7164,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T16:01:30.963615"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T16:08:31.117733"
       }
     ]
   },
@@ -7209,7 +7213,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7218,6 +7222,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T16:06:30.989175"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T16:08:31.117733"
       }
     ]
   },
@@ -7241,11 +7249,15 @@
     "sub_category": "路倒",
     "location": "高雄市三民區正忠路",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T16:07:31.240439"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T16:08:31.117733"
       }
     ]
   }
