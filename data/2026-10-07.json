@@ -8733,7 +8733,7 @@
     "sub_category": "車禍",
     "location": "高雄市梓官區大舍東路",
     "units": "彌陀分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -8746,6 +8746,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T18:00:31.684120"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T18:09:32.010097"
       }
     ]
   },
@@ -8809,7 +8813,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區介壽路",
     "units": "左營小隊,新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8822,6 +8826,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T17:56:31.781397"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T18:09:32.010097"
       }
     ]
   },
@@ -8928,6 +8936,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T18:08:31.840422"
+      }
+    ]
+  },
+  "4fb1a10912c13f130b5c19f7d85d8f0d": {
+    "time": "2026/10/07 18:08:45",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳥松區",
+    "units": "十全分隊,鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T18:09:32.010097"
+      }
+    ]
+  },
+  "e0fd46d06bcb0a7a7b4d81618b7c3cca": {
+    "time": "2026/10/07 18:08:40",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T18:09:32.010097"
       }
     ]
   }
