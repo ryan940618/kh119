@@ -8657,7 +8657,7 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區楠梓新路",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8670,6 +8670,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T17:51:32.128184"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T17:57:31.812300"
       }
     ]
   },
@@ -8751,7 +8755,7 @@
     "sub_category": "路倒",
     "location": "高雄市大寮區成功路",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8760,6 +8764,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T17:49:31.860773"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T17:57:31.812300"
       }
     ]
   },
@@ -8782,6 +8790,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T17:56:31.781397"
+      }
+    ]
+  },
+  "18a0e98203acf490417c3cb8ed92969b": {
+    "time": "2026/10/07 17:57:18",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區濃公路",
+    "units": "和發分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T17:57:31.812300"
       }
     ]
   }
