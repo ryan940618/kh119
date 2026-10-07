@@ -1571,7 +1571,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1588,6 +1588,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T06:43:31.490873"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T06:54:31.478256"
       }
     ]
   },
@@ -1737,7 +1741,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區鎮東二街",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1750,6 +1754,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T06:44:31.566783"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T06:54:31.478256"
       }
     ]
   },
@@ -1809,7 +1817,7 @@
     "sub_category": "創傷",
     "location": "高雄市永安區復興路",
     "units": "永安分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1818,6 +1826,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T06:52:31.469685"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T06:54:31.478256"
       }
     ]
   },
