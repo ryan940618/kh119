@@ -2779,7 +2779,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2796,6 +2796,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T09:09:31.532665"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T09:14:31.552759"
       }
     ]
   },
@@ -2863,7 +2867,7 @@
     "sub_category": "創傷",
     "location": "高雄市路竹區延平路",
     "units": "湖內分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2872,6 +2876,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T09:06:31.796158"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T09:14:31.552759"
       }
     ]
   },
@@ -2926,6 +2934,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T09:13:31.457391"
+      }
+    ]
+  },
+  "273d2a9fde4494e34cb97c15bce47b88": {
+    "time": "2026/10/07 09:14:05",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市前鎮區",
+    "units": "",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T09:14:31.552759"
       }
     ]
   }
