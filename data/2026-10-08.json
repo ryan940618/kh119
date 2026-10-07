@@ -2271,7 +2271,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2288,6 +2288,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T07:38:31.906043"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T07:59:31.051894"
       }
     ]
   },
@@ -2441,7 +2445,7 @@
     "sub_category": "創傷",
     "location": "高雄市岡山區劉厝路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2458,6 +2462,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T07:56:32.025521"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T07:59:31.051894"
       }
     ]
   },
@@ -2519,7 +2527,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2536,6 +2544,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T07:52:31.980114"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T07:59:31.051894"
       }
     ]
   },
@@ -2589,7 +2601,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2598,6 +2610,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T07:48:31.968143"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T07:59:31.051894"
       }
     ]
   },
@@ -2710,6 +2726,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T07:55:31.905998"
+      }
+    ]
+  },
+  "ba1cb4ca05755ad6885ce293613b3dd3": {
+    "time": "2026/10/08 07:58:39",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市杉林區",
+    "units": "杉林分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T07:59:31.051894"
       }
     ]
   }
