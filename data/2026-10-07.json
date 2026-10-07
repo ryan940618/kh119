@@ -10769,7 +10769,7 @@
     "sub_category": "車禍",
     "location": "高雄市六龜區光復路",
     "units": "六龜分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10782,6 +10782,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T21:18:31.978504"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T21:30:30.930290"
       }
     ]
   },
@@ -10835,7 +10839,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10844,6 +10848,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T21:22:30.924156"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T21:30:30.930290"
       }
     ]
   },
@@ -10853,7 +10861,7 @@
     "sub_category": "其他",
     "location": "高雄市永安區永華路",
     "units": "永安分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10862,6 +10870,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T21:22:30.924156"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T21:30:30.930290"
       }
     ]
   },
@@ -10907,11 +10919,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T21:29:31.132372"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T21:30:30.930290"
+      }
+    ]
+  },
+  "fd24f8c391dfe00abace0fcbbca3bff7": {
+    "time": "2026/10/07 21:30:04",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T21:30:30.930290"
       }
     ]
   }
