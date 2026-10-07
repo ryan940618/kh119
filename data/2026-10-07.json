@@ -9521,7 +9521,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區周廣街",
     "units": "和發分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -9530,6 +9530,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T19:01:31.210080"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T19:12:31.281043"
       }
     ]
   },
@@ -9649,11 +9653,15 @@
     "sub_category": "創傷",
     "location": "高雄市路竹區中山路",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T19:10:31.183812"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T19:12:31.281043"
       }
     ]
   },
@@ -9668,6 +9676,34 @@
       {
         "status": "已受理",
         "timestamp": "2026-10-07T19:11:31.253803"
+      }
+    ]
+  },
+  "35e6643b4d1ff001e99c1eab21b841c2": {
+    "time": "2026/10/07 19:11:59",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市茄萣區",
+    "units": "茄萣分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T19:12:31.281043"
+      }
+    ]
+  },
+  "a9a22c8b88511a3bdfb00b7c207cfe56": {
+    "time": "2026/10/07 19:11:42",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市六龜區",
+    "units": "六龜分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T19:12:31.281043"
       }
     ]
   }
