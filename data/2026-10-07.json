@@ -11929,7 +11929,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -11938,6 +11938,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T23:37:31.889994"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T23:52:31.857829"
       }
     ]
   },
@@ -12040,6 +12044,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T23:51:31.842670"
+      }
+    ]
+  },
+  "2542a42be5b21e135f3b718853b5021e": {
+    "time": "2026/10/07 23:51:05",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區富國路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T23:52:31.857829"
       }
     ]
   }
