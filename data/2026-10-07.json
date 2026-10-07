@@ -8847,7 +8847,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區濃公路",
     "units": "和發分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8864,6 +8864,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T18:20:31.932073"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T18:32:32.039041"
       }
     ]
   },
@@ -9081,7 +9085,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區大學南路",
     "units": "橋頭分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9094,6 +9098,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T18:21:32.059258"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T18:32:32.039041"
       }
     ]
   },
@@ -9182,6 +9190,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T18:29:32.066610"
+      }
+    ]
+  },
+  "112e6bbe598da7e71f30926f4bf14763": {
+    "time": "2026/10/07 18:31:01",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市美濃區",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T18:32:32.039041"
+      }
+    ]
+  },
+  "b77a4c88714a4a3f7096c895f16aa6e4": {
+    "time": "2026/10/07 18:31:00",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T18:32:32.039041"
       }
     ]
   }
