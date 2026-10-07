@@ -2811,11 +2811,15 @@
     "sub_category": "創傷",
     "location": "高雄市橋頭區成功南路",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-07T09:01:31.735378"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T09:06:31.796158"
       }
     ]
   },
@@ -2843,11 +2847,29 @@
     "sub_category": "創傷",
     "location": "高雄市路竹區延平路",
     "units": "湖內分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T09:05:31.649264"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T09:06:31.796158"
+      }
+    ]
+  },
+  "e1c2eb4ed7c1d3b0269489554c993ac0": {
+    "time": "2026/10/07 09:05:56",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區五福一路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T09:06:31.796158"
       }
     ]
   }
