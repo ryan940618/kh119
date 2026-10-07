@@ -10509,7 +10509,7 @@
     "sub_category": "創傷",
     "location": "高雄市彌陀區中正北路",
     "units": "彌陀分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -10522,6 +10522,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T20:48:31.791266"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T20:56:31.905892"
       }
     ]
   },
@@ -10544,6 +10548,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T20:53:31.679498"
+      }
+    ]
+  },
+  "e5234ae7ff7eb6bd80f491b2aa418e87": {
+    "time": "2026/10/07 20:56:11",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區大昌一路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T20:56:31.905892"
       }
     ]
   }
