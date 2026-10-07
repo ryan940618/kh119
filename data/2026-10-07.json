@@ -6593,7 +6593,7 @@
     "sub_category": "創傷",
     "location": "高雄市燕巢區安北路",
     "units": "燕巢分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6610,6 +6610,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T15:15:31.609944"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T15:25:31.664855"
       }
     ]
   },
@@ -6645,7 +6649,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6662,6 +6666,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T15:19:31.692585"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T15:25:31.664855"
       }
     ]
   },
@@ -6707,11 +6715,15 @@
     "sub_category": "創傷",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-07T15:12:31.566041"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T15:25:31.664855"
       }
     ]
   },
@@ -6734,6 +6746,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T15:18:31.568800"
+      }
+    ]
+  },
+  "025f513dae36a24ba1924bb35601b887": {
+    "time": "2026/10/07 15:23:49",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區正忠路",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T15:25:31.664855"
       }
     ]
   }
