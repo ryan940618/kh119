@@ -10247,7 +10247,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區上發二路",
     "units": "和發分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10264,6 +10264,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T20:17:31.640629"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T20:40:31.751343"
       }
     ]
   },
@@ -10355,7 +10359,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10372,6 +10376,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T20:27:31.602289"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T20:40:31.751343"
       }
     ]
   },
@@ -10457,7 +10465,7 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區大樹路",
     "units": "大樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10466,6 +10474,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T20:36:31.749710"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T20:40:31.751343"
       }
     ]
   },
@@ -10489,11 +10501,15 @@
     "sub_category": "創傷",
     "location": "高雄市彌陀區中正北路",
     "units": "彌陀分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-07T20:39:31.730961"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T20:40:31.751343"
       }
     ]
   }
