@@ -7591,7 +7591,7 @@
     "sub_category": "其他",
     "location": "高雄市湖內區中正路",
     "units": "湖內分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7600,6 +7600,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T16:38:31.260359"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T16:46:31.306977"
       }
     ]
   },
@@ -7645,7 +7649,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7654,6 +7658,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T16:41:31.213788"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T16:46:31.306977"
       }
     ]
   },
@@ -7681,11 +7689,29 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T16:44:31.366344"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T16:46:31.306977"
+      }
+    ]
+  },
+  "1110ee6d67547ce30b48fc93514576d3": {
+    "time": "2026/10/07 16:45:17",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市梓官區",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T16:46:31.306977"
       }
     ]
   }
