@@ -11321,11 +11321,15 @@
     "sub_category": "其他",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T22:39:31.380442"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T22:43:31.325357"
       }
     ]
   },
@@ -11335,11 +11339,43 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區忠誠路",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T22:42:31.343725"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T22:43:31.325357"
+      }
+    ]
+  },
+  "d0ae0cdc80481ea2df74ff6029e37612": {
+    "time": "2026/10/07 22:43:03",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T22:43:31.325357"
+      }
+    ]
+  },
+  "f4b39d682ba8e06e531bd88a8f002018": {
+    "time": "2026/10/07 22:42:07",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T22:43:31.325357"
       }
     ]
   }
