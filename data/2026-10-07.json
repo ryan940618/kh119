@@ -6157,11 +6157,15 @@
     "sub_category": "其他",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-07T14:19:31.291985"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T14:24:31.310248"
       }
     ]
   },
@@ -6176,6 +6180,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T14:22:31.360770"
+      }
+    ]
+  },
+  "f4cb74366096992362f192f6233dfada": {
+    "time": "2026/10/07 14:23:13",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市鳥松區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T14:24:31.310248"
+      }
+    ]
+  },
+  "dc275870605ff4994234d2c8b629be3c": {
+    "time": "2026/10/07 14:22:38",
+    "category": "緊急救護",
+    "sub_category": "藥物、食物中毒",
+    "location": "高雄市三民區金山路",
+    "units": "鼎金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T14:24:31.310248"
       }
     ]
   }
