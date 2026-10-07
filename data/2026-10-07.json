@@ -3409,7 +3409,7 @@
     "sub_category": "路倒",
     "location": "高雄市岡山區平和路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3418,6 +3418,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T09:51:31.890497"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T09:53:31.771493"
       }
     ]
   },
@@ -3450,6 +3454,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T09:52:31.740570"
+      }
+    ]
+  },
+  "6524490e734c7d53bcfd1dff99282006": {
+    "time": "2026/10/07 09:52:05",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗山區",
+    "units": "旗山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T09:53:31.771493"
       }
     ]
   }
