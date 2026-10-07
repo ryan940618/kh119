@@ -6849,7 +6849,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區水源路",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6862,6 +6862,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T15:39:31.899950"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T15:47:31.963474"
       }
     ]
   },
@@ -6897,7 +6901,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區立大路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6906,6 +6910,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T15:42:31.837936"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T15:47:31.963474"
       }
     ]
   },
@@ -6973,11 +6981,29 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T15:46:31.872603"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T15:47:31.963474"
+      }
+    ]
+  },
+  "7ca4ddc725146e215a66cb0c34d29164": {
+    "time": "2026/10/07 15:46:33",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市前鎮區復興三路",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T15:47:31.963474"
       }
     ]
   }
