@@ -10137,7 +10137,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10146,6 +10146,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T20:10:31.528074"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T20:15:31.623734"
       }
     ]
   },
@@ -10155,7 +10159,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區仁雄路",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10164,6 +10168,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T20:12:31.600057"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T20:15:31.623734"
       }
     ]
   },
@@ -10195,7 +10203,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區上發二路",
     "units": "和發分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10204,6 +10212,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T20:14:31.577572"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T20:15:31.623734"
       }
     ]
   },
@@ -10227,11 +10239,29 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T20:14:31.577572"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T20:15:31.623734"
+      }
+    ]
+  },
+  "51e83481a90669228f7dae48ece8161e": {
+    "time": "2026/10/07 20:14:55",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T20:15:31.623734"
       }
     ]
   }
