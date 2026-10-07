@@ -1925,7 +1925,7 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區一心二路",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1942,6 +1942,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T07:08:31.748948"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T07:16:31.753768"
       }
     ]
   },
@@ -2070,6 +2074,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T07:11:31.591672"
+      }
+    ]
+  },
+  "02127fc4d03775a40e19d97be64a8dac": {
+    "time": "2026/10/08 07:15:54",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區中山四路",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T07:16:31.753768"
+      }
+    ]
+  },
+  "65feb94f9c320762f8e9684fafa10a0d": {
+    "time": "2026/10/08 07:15:21",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T07:16:31.753768"
+      }
+    ]
+  },
+  "0d7fc8fc1037bea04f6d087a1f93ca1e": {
+    "time": "2026/10/08 07:15:16",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區中山四路",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T07:16:31.753768"
       }
     ]
   }
