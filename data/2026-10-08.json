@@ -2283,11 +2283,15 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區三多一路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-08T07:30:31.878289"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T07:35:31.765420"
       }
     ]
   },
@@ -2334,6 +2338,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T07:34:31.873142"
+      }
+    ]
+  },
+  "41476a57a1ba82183eb53a7f62c504b2": {
+    "time": "2026/10/08 07:34:09",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區新富路和新康街",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T07:35:31.765420"
       }
     ]
   }
