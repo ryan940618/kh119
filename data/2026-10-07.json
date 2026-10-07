@@ -9829,7 +9829,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9842,6 +9842,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T19:36:31.364504"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T19:42:31.317403"
       }
     ]
   },
@@ -9913,11 +9917,15 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區中山路",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-07T19:36:31.364504"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T19:42:31.317403"
       }
     ]
   },
