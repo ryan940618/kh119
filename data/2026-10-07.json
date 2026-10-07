@@ -2931,7 +2931,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2944,6 +2944,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T09:16:31.547394"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T09:22:31.745056"
       }
     ]
   },
@@ -2953,7 +2957,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區永芳路",
     "units": "大寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2966,6 +2970,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T09:18:31.547798"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T09:22:31.745056"
       }
     ]
   },
@@ -2989,11 +2997,15 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區林西街",
     "units": "成功分隊,苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-07T09:15:31.521083"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T09:22:31.745056"
       }
     ]
   }
