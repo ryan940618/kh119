@@ -7331,7 +7331,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7340,6 +7340,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T16:14:31.098700"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T16:24:31.117869"
       }
     ]
   },
@@ -7349,11 +7353,29 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T16:20:31.036579"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T16:24:31.117869"
+      }
+    ]
+  },
+  "83fa442f7a7355b243ee6a49f76fe665": {
+    "time": "2026/10/07 16:23:31",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區旗楠路",
+    "units": "楠梓分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T16:24:31.117869"
       }
     ]
   }
