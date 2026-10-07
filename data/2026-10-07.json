@@ -10651,11 +10651,15 @@
     "sub_category": "其他",
     "location": "高雄市茄萣區濱海路",
     "units": "茄萣分隊",
-    "current_status": "已派遣",
+    "current_status": "",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T21:04:31.827263"
+      },
+      {
+        "status": "",
+        "timestamp": "2026-10-07T21:37:30.994341"
       }
     ]
   },
@@ -10717,7 +10721,7 @@
     "sub_category": "創傷",
     "location": "高雄市大樹區建村街",
     "units": "大樹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10734,6 +10738,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T21:22:30.924156"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T21:37:30.994341"
       }
     ]
   },
