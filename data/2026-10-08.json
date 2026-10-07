@@ -2247,7 +2247,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2256,6 +2256,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T07:29:31.890416"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T07:34:31.873142"
       }
     ]
   },
@@ -2293,11 +2297,43 @@
     "sub_category": "路倒",
     "location": "高雄市三民區正興路",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T07:33:31.904495"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T07:34:31.873142"
+      }
+    ]
+  },
+  "d5a3d08a697536d1ebee3eb4353171a2": {
+    "time": "2026/10/08 07:33:44",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區和發路",
+    "units": "和發分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T07:34:31.873142"
+      }
+    ]
+  },
+  "e04689f64abc743a05700510e23a7472": {
+    "time": "2026/10/08 07:32:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區九如一路",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T07:34:31.873142"
       }
     ]
   }
