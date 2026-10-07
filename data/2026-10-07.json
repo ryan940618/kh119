@@ -7959,7 +7959,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7976,6 +7976,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T17:24:31.549398"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T17:29:31.530306"
       }
     ]
   },
@@ -8263,11 +8267,15 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區三多三路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T17:26:31.839199"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T17:29:31.530306"
       }
     ]
   }
