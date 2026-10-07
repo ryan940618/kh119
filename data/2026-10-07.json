@@ -8891,7 +8891,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8904,6 +8904,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T18:08:31.840422"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T18:17:31.926182"
       }
     ]
   },
@@ -8961,7 +8965,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "十全分隊,鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8970,6 +8974,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T18:10:31.808903"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T18:17:31.926182"
       }
     ]
   },
@@ -9024,6 +9032,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T18:14:31.836827"
+      }
+    ]
+  },
+  "58406426bb7054193abd278c64026f31": {
+    "time": "2026/10/07 18:16:41",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區大學南路",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T18:17:31.926182"
       }
     ]
   }
