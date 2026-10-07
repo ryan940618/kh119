@@ -4751,7 +4751,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區文化路",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4768,6 +4768,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T11:44:31.448383"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T11:49:31.535000"
       }
     ]
   },
@@ -4874,6 +4878,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T11:48:31.540849"
+      }
+    ]
+  },
+  "f4e846f56be48df98ecf5ac3ea1882b3": {
+    "time": "2026/10/07 11:48:50",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T11:49:31.535000"
       }
     ]
   }
