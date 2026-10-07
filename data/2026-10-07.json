@@ -5335,11 +5335,15 @@
     "sub_category": "其他",
     "location": "高雄市三民區中庸街",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-07T12:39:31.683083"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T12:45:31.742561"
       }
     ]
   },
@@ -5358,6 +5362,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T12:44:31.689869"
+      }
+    ]
+  },
+  "f8781b35ccbbbb1cc77152583876afc9": {
+    "time": "2026/10/07 12:44:24",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T12:45:31.742561"
       }
     ]
   }
