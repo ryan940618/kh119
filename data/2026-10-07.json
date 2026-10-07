@@ -5551,7 +5551,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5568,6 +5568,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T13:14:30.963581"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T13:23:31.117587"
       }
     ]
   },
@@ -5631,7 +5635,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5640,6 +5644,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T13:20:30.950176"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T13:23:31.117587"
       }
     ]
   },
@@ -5699,11 +5707,29 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T13:22:30.974790"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T13:23:31.117587"
+      }
+    ]
+  },
+  "dd5686a83cf9d181e772522f795b54f0": {
+    "time": "2026/10/07 13:22:04",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T13:23:31.117587"
       }
     ]
   }
