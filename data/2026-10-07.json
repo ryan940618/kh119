@@ -9531,7 +9531,7 @@
     "sub_category": "其他",
     "location": "高雄市仁武區水管路",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9540,6 +9540,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T18:58:31.090872"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T19:05:31.230993"
       }
     ]
   },
@@ -9558,6 +9562,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T19:03:31.148176"
+      }
+    ]
+  },
+  "e78013a625ecaceb06dceed1142657c1": {
+    "time": "2026/10/07 19:04:34",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市茄萣區",
+    "units": "茄萣分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T19:05:31.230993"
       }
     ]
   }
