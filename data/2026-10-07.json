@@ -6321,7 +6321,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -6334,6 +6334,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T14:52:31.435042"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T14:54:31.480243"
       }
     ]
   },
@@ -6365,7 +6369,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6374,6 +6378,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T14:45:31.429474"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T14:54:31.480243"
       }
     ]
   },
@@ -6401,11 +6409,29 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T14:49:31.428870"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T14:54:31.480243"
+      }
+    ]
+  },
+  "21ad8fbf9524b1d368d178a187c98c98": {
+    "time": "2026/10/07 14:53:32",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區公園西路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T14:54:31.480243"
       }
     ]
   }
