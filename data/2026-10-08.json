@@ -1631,7 +1631,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1648,6 +1648,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T06:51:31.510986"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T07:03:31.750223"
       }
     ]
   },
@@ -1797,7 +1801,7 @@
     "sub_category": "急病",
     "location": "高雄市甲仙區",
     "units": "甲仙分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1810,6 +1814,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T06:57:31.492500"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T07:03:31.750223"
       }
     ]
   },
@@ -1929,11 +1937,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T06:59:31.636670"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T07:03:31.750223"
       }
     ]
   }
