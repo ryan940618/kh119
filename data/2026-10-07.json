@@ -2929,11 +2929,15 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區永芳路",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T09:13:31.457391"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T09:15:31.521083"
       }
     ]
   },
@@ -2948,6 +2952,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T09:14:31.552759"
+      }
+    ]
+  },
+  "5e3c340d9a81bb5d85ee6b0222444d2e": {
+    "time": "2026/10/07 09:14:05",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區林西街",
+    "units": "成功分隊,苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T09:15:31.521083"
       }
     ]
   }
