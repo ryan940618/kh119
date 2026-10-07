@@ -4965,7 +4965,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4978,6 +4978,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T11:55:31.582378"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T12:10:31.723860"
       }
     ]
   },
@@ -4987,7 +4991,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區建國三路",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4996,6 +5000,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T12:03:31.665725"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T12:10:31.723860"
       }
     ]
   },
@@ -5010,6 +5018,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T12:07:31.482469"
+      }
+    ]
+  },
+  "d2f7b102e4538e1935ef5bb12432a9f3": {
+    "time": "2026/10/07 12:09:46",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市左營區",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T12:10:31.723860"
       }
     ]
   }
