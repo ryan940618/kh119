@@ -1361,7 +1361,7 @@
     "sub_category": "車禍",
     "location": "高雄市大社區學府路",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1378,6 +1378,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T06:08:31.288825"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T06:18:31.272508"
       }
     ]
   },
@@ -1409,7 +1413,7 @@
     "sub_category": "急病",
     "location": "高雄市內門區",
     "units": "內門分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1418,6 +1422,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T06:01:31.122709"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T06:18:31.272508"
       }
     ]
   },
@@ -1463,7 +1471,7 @@
     "sub_category": "車禍",
     "location": "高雄市永安區新華路",
     "units": "永安分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1472,6 +1480,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T06:13:31.226341"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T06:18:31.272508"
+      }
+    ]
+  },
+  "30feaa048cc1056256dd10daba17869f": {
+    "time": "2026/10/08 06:17:17",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T06:18:31.272508"
       }
     ]
   }
