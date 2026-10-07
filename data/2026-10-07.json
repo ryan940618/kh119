@@ -3017,7 +3017,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區林西街",
     "units": "成功分隊,苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -3026,6 +3026,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T09:22:31.745056"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T09:34:31.687024"
       }
     ]
   },
@@ -3111,7 +3115,7 @@
     "sub_category": "路倒",
     "location": "高雄市前金區成功一路",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3120,6 +3124,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T09:31:31.573835"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T09:34:31.687024"
       }
     ]
   },
@@ -3129,7 +3137,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3138,6 +3146,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T09:32:31.606072"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T09:34:31.687024"
+      }
+    ]
+  },
+  "2216a7b8c71ae7543da2d327bf01a6d8": {
+    "time": "2026/10/07 09:33:14",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市旗山區",
+    "units": "旗山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T09:34:31.687024"
       }
     ]
   }
