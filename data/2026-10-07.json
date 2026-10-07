@@ -4207,7 +4207,7 @@
     "sub_category": "車禍",
     "location": "台南市關廟區",
     "units": "崇德駐地,阿蓮分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -4228,6 +4228,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T11:35:31.425776"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T11:48:31.540849"
       }
     ]
   },
@@ -4665,7 +4669,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區凱旋四路",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4682,6 +4686,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T11:41:31.455583"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T11:48:31.540849"
       }
     ]
   },
@@ -4691,7 +4699,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4708,6 +4716,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T11:38:31.337218"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T11:48:31.540849"
       }
     ]
   },
@@ -4853,11 +4865,15 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區成功南路",
     "units": "楠梓分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T11:47:31.488331"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T11:48:31.540849"
       }
     ]
   }
