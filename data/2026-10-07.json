@@ -9855,7 +9855,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9864,6 +9864,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T19:35:31.454091"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T19:43:31.418530"
       }
     ]
   },
@@ -9940,6 +9944,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T19:37:31.322721"
+      }
+    ]
+  },
+  "666aba548dfbbf11a09f6b91e4bae91c": {
+    "time": "2026/10/07 19:43:05",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區建國三路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T19:43:31.418530"
+      }
+    ]
+  },
+  "6908ea4ec9281793fc3c3e7172a0d1ba": {
+    "time": "2026/10/07 19:38:42",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "桃園市龜山區",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-07T19:43:31.418530"
       }
     ]
   }
