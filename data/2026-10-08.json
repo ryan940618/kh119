@@ -363,7 +363,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -380,6 +380,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T01:53:31.661254"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T01:57:31.732053"
       }
     ]
   },
@@ -433,7 +437,7 @@
     "sub_category": "其他",
     "location": "高雄市仁武區仁雄路",
     "units": "仁武分隊,鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "火已滅",
     "status_history": [
       {
         "status": "已派遣",
@@ -442,6 +446,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T01:50:31.890494"
+      },
+      {
+        "status": "火已滅",
+        "timestamp": "2026-10-08T01:57:31.732053"
       }
     ]
   }
