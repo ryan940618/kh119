@@ -9273,7 +9273,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9290,6 +9290,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T18:48:31.151098"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T18:58:31.090872"
       }
     ]
   },
@@ -9507,11 +9511,15 @@
     "sub_category": "其他",
     "location": "高雄市仁武區水管路",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T18:57:31.210702"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T18:58:31.090872"
       }
     ]
   }
