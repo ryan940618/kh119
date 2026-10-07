@@ -10637,7 +10637,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10646,6 +10646,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T21:07:31.822051"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T21:09:31.785834"
       }
     ]
   },
@@ -10682,6 +10686,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T21:07:31.822051"
+      }
+    ]
+  },
+  "09221068787e42966b132690f1a722a0": {
+    "time": "2026/10/07 21:08:05",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市左營區左營下路",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T21:09:31.785834"
       }
     ]
   }
