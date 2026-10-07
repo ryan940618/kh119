@@ -5899,7 +5899,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "橋頭分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5916,6 +5916,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T14:00:31.304582"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T14:11:31.309616"
       }
     ]
   },
@@ -6041,7 +6045,7 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區和義街",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6050,6 +6054,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T14:08:31.288248"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T14:11:31.309616"
       }
     ]
   },
@@ -6077,11 +6085,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區復興四路",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T14:08:31.288248"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T14:11:31.309616"
       }
     ]
   }
