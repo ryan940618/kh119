@@ -11961,7 +11961,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11970,6 +11970,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T23:39:31.725074"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T23:46:31.837586"
       }
     ]
   },
@@ -11992,6 +11996,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T23:45:31.796145"
+      }
+    ]
+  },
+  "ed5539c08ec0a49c0d8e1be9f024f3e0": {
+    "time": "2026/10/07 23:45:15",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T23:46:31.837586"
       }
     ]
   }
