@@ -3325,7 +3325,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區沿海二路",
     "units": "高桂分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -3338,6 +3338,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T10:02:31.963244"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T10:06:31.812244"
       }
     ]
   },
@@ -3347,7 +3351,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區光明路",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -3360,6 +3364,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T09:56:31.844590"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T10:06:31.812244"
       }
     ]
   },
@@ -3399,7 +3407,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區大仁路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3416,6 +3424,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T09:59:32.046798"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T10:06:31.812244"
       }
     ]
   },
@@ -3615,11 +3627,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區中庸街",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T10:03:31.947295"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T10:06:31.812244"
       }
     ]
   },
