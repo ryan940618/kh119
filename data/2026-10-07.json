@@ -6247,7 +6247,7 @@
     "sub_category": "藥物、食物中毒",
     "location": "高雄市三民區金山路",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -6256,6 +6256,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T14:28:31.341567"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T14:43:31.345378"
       }
     ]
   },
@@ -6324,6 +6328,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T14:41:31.368191"
+      }
+    ]
+  },
+  "4646cbff65503bf698f7ed1c78c1d10d": {
+    "time": "2026/10/07 14:42:26",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市梓官區",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T14:43:31.345378"
       }
     ]
   }
