@@ -11505,7 +11505,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區自強一路",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11522,6 +11522,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T23:06:31.430249"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T23:19:31.571808"
       }
     ]
   },
@@ -11601,7 +11605,7 @@
     "sub_category": "創傷",
     "location": "高雄市仁武區仁林路",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11614,6 +11618,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T23:08:31.548032"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T23:19:31.571808"
       }
     ]
   },
@@ -11673,7 +11681,7 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區宏毅三路",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -11682,6 +11690,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T23:14:31.629828"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T23:19:31.571808"
       }
     ]
   },
@@ -11723,11 +11735,29 @@
     "sub_category": "車禍",
     "location": "高雄市三民區大昌二路",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T23:18:31.659383"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T23:19:31.571808"
+      }
+    ]
+  },
+  "73fc13dc4f1d05bdd6d5e771449bc33b": {
+    "time": "2026/10/07 23:18:05",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市美濃區",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T23:19:31.571808"
       }
     ]
   }
