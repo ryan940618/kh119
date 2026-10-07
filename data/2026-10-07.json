@@ -4207,7 +4207,7 @@
     "sub_category": "車禍",
     "location": "台南市關廟區",
     "units": "崇德駐地,阿蓮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4224,6 +4224,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T11:10:31.410925"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T11:35:31.425776"
       }
     ]
   },
@@ -4451,7 +4455,7 @@
     "sub_category": "創傷",
     "location": "高雄市大樹區新社街",
     "units": "大樹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -4464,6 +4468,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T11:23:31.473412"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T11:35:31.425776"
       }
     ]
   },
@@ -4699,11 +4707,29 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區文化路",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T11:33:31.410949"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T11:35:31.425776"
+      }
+    ]
+  },
+  "f6b56e57c6b6f6f22cd38f52882db742": {
+    "time": "2026/10/07 11:34:24",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市左營區博愛二路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T11:35:31.425776"
       }
     ]
   }
