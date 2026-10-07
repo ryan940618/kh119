@@ -3677,7 +3677,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3690,6 +3690,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T10:09:32.083997"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T10:20:32.051285"
       }
     ]
   },
@@ -3757,7 +3761,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -3766,6 +3770,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T10:16:32.251131"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T10:20:32.051285"
       }
     ]
   },
@@ -3825,11 +3833,57 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T10:19:31.937262"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T10:20:32.051285"
+      }
+    ]
+  },
+  "5a5d99d722cd01ea4ebe69dc0ac1c22f": {
+    "time": "2026/10/07 10:19:41",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T10:20:32.051285"
+      }
+    ]
+  },
+  "bc0da866543ab1893822043ee1b5a7b2": {
+    "time": "2026/10/07 10:19:39",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前金區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T10:20:32.051285"
+      }
+    ]
+  },
+  "fb22cbf0bec8f1f33bf0da45abf81515": {
+    "time": "2026/10/07 10:19:34",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區裕誠路和民強街",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T10:20:32.051285"
       }
     ]
   }
