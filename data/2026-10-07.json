@@ -5507,7 +5507,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5524,6 +5524,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T13:29:31.171739"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T13:39:31.269167"
       }
     ]
   },
@@ -5673,7 +5677,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5690,6 +5694,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T13:35:31.169208"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T13:39:31.269167"
       }
     ]
   },
@@ -5823,11 +5831,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區加昌路",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-07T13:35:31.169208"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T13:39:31.269167"
       }
     ]
   },
@@ -5837,11 +5849,15 @@
     "sub_category": "車禍",
     "location": "高雄市彌陀區新庄路",
     "units": "梓官分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T13:37:31.181774"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T13:39:31.269167"
       }
     ]
   }
