@@ -3101,7 +3101,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -3110,6 +3110,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T09:33:31.752808"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T09:41:31.695003"
       }
     ]
   },
@@ -3163,7 +3167,7 @@
     "sub_category": "其他",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -3176,6 +3180,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T09:40:31.676771"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T09:41:31.695003"
       }
     ]
   },
@@ -3243,11 +3251,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區公園路",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T09:40:31.676771"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T09:41:31.695003"
       }
     ]
   }
