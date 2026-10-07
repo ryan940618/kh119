@@ -7839,7 +7839,7 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區永康街",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7860,6 +7860,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T17:04:31.252189"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T17:12:31.406307"
       }
     ]
   },
@@ -8011,11 +8015,15 @@
     "sub_category": "車禍",
     "location": "高雄市前金區成功一路",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T17:10:31.439897"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T17:12:31.406307"
       }
     ]
   },
