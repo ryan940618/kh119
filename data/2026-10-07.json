@@ -8261,7 +8261,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -8274,6 +8274,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T17:42:31.600807"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T17:49:31.860773"
       }
     ]
   },
@@ -8553,7 +8557,7 @@
     "sub_category": "其他",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8566,6 +8570,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T17:46:31.751501"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T17:49:31.860773"
       }
     ]
   },
@@ -8711,11 +8719,29 @@
     "sub_category": "路倒",
     "location": "高雄市大寮區成功路",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T17:48:32.003009"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T17:49:31.860773"
+      }
+    ]
+  },
+  "fa59218e18c772be7dafd75151efa3c6": {
+    "time": "2026/10/07 17:47:25",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市左營區介壽路",
+    "units": "左營小隊,新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T17:49:31.860773"
       }
     ]
   }
