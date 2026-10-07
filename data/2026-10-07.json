@@ -11343,7 +11343,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區忠誠路",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11352,6 +11352,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T22:43:31.325357"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T22:47:31.371830"
       }
     ]
   },
@@ -11402,6 +11406,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T22:45:31.300544"
+      }
+    ]
+  },
+  "eb9fe36e146a281b3e44fb5b9f07faad": {
+    "time": "2026/10/07 22:46:18",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T22:47:31.371830"
       }
     ]
   }
