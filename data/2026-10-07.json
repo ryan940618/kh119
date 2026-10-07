@@ -7191,11 +7191,15 @@
     "sub_category": "車禍",
     "location": "高雄市左營區新庄仔路",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-07T16:03:31.074409"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T16:07:31.240439"
       }
     ]
   },
@@ -7228,6 +7232,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T16:06:30.989175"
+      }
+    ]
+  },
+  "213187c2f55a141498a0759f488114f3": {
+    "time": "2026/10/07 16:06:34",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區正忠路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T16:07:31.240439"
       }
     ]
   }
