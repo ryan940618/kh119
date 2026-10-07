@@ -11367,7 +11367,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區忠誠路",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11384,6 +11384,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T22:58:31.504797"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T23:08:31.548032"
       }
     ]
   },
@@ -11581,7 +11585,7 @@
     "sub_category": "創傷",
     "location": "高雄市仁武區仁林路",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11590,6 +11594,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T23:07:31.539991"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T23:08:31.548032"
       }
     ]
   },
@@ -11604,6 +11612,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T23:05:31.616363"
+      }
+    ]
+  },
+  "daca04a76f88e9eb30a2421bf1aa2ff7": {
+    "time": "2026/10/07 23:07:55",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T23:08:31.548032"
       }
     ]
   }
