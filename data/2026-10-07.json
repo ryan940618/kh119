@@ -2147,7 +2147,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2160,6 +2160,24 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T08:03:31.122787"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T08:04:31.153968"
+      }
+    ]
+  },
+  "1f6201f81429f6b25b27602482bff567": {
+    "time": "2026/10/07 08:04:15",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T08:04:31.153968"
       }
     ]
   }
