@@ -6957,7 +6957,7 @@
     "sub_category": "其他",
     "location": "高雄市新興區",
     "units": "",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6970,6 +6970,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T15:55:30.881495"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T15:59:30.923176"
       }
     ]
   },
@@ -7005,7 +7009,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7018,6 +7022,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T15:52:31.915746"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T15:59:30.923176"
       }
     ]
   },
@@ -7049,7 +7057,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區翠華路",
     "units": "左營分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7058,6 +7066,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T15:56:30.994672"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T15:59:30.923176"
       }
     ]
   },
@@ -7067,7 +7079,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7076,6 +7088,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T15:58:30.942648"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T15:59:30.923176"
       }
     ]
   },
@@ -7090,6 +7106,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T15:57:31.053483"
+      }
+    ]
+  },
+  "33741f51964d4b15e0cb5102efcae028": {
+    "time": "2026/10/07 15:58:53",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T15:59:30.923176"
       }
     ]
   }
