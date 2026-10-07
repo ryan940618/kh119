@@ -8089,7 +8089,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -8102,6 +8102,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T17:18:31.596408"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T17:34:31.652840"
       }
     ]
   },
@@ -8185,7 +8189,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8198,6 +8202,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T17:27:31.793473"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T17:34:31.652840"
       }
     ]
   },
@@ -8207,7 +8215,7 @@
     "sub_category": "車禍",
     "location": "高雄市林園區鳳林路",
     "units": "林園分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8220,6 +8228,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T17:28:31.557139"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T17:34:31.652840"
       }
     ]
   },
@@ -8412,6 +8424,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T17:33:31.606287"
+      }
+    ]
+  },
+  "47f244b6b14fb1991ba0c2399b2b99c1": {
+    "time": "2026/10/07 17:33:06",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市湖內區中山路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-07T17:34:31.652840"
       }
     ]
   }
