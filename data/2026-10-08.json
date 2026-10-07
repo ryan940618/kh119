@@ -1301,7 +1301,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1318,6 +1318,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T06:02:31.126350"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T06:14:31.283490"
       }
     ]
   },
@@ -1423,11 +1427,15 @@
     "sub_category": "車禍",
     "location": "高雄市大社區旗楠路",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T06:08:31.288825"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T06:14:31.283490"
       }
     ]
   },
