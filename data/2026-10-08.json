@@ -2293,7 +2293,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區南京路",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -2306,6 +2306,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T07:43:31.963374"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T07:48:31.968143"
       }
     ]
   },
@@ -2429,7 +2433,7 @@
     "sub_category": "創傷",
     "location": "高雄市岡山區劉厝路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2438,6 +2442,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T07:44:31.921915"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T07:48:31.968143"
       }
     ]
   },
@@ -2523,11 +2531,15 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區中山路",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T07:44:31.921915"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T07:48:31.968143"
       }
     ]
   },
@@ -2537,11 +2549,29 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T07:47:31.908315"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T07:48:31.968143"
+      }
+    ]
+  },
+  "635bd06acd025f506743eccc0b8dbbb9": {
+    "time": "2026/10/08 07:47:29",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市旗山區旗南三路",
+    "units": "旗山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T07:48:31.968143"
       }
     ]
   }
