@@ -229,7 +229,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -246,6 +246,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T01:27:31.253108"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T01:32:31.322807"
       }
     ]
   },
@@ -312,6 +316,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T01:30:31.342445"
+      }
+    ]
+  },
+  "c9355c7f058069f5615e7431b7d78b9f": {
+    "time": "2026/10/08 01:31:24",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市燕巢區",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T01:32:31.322807"
       }
     ]
   }
