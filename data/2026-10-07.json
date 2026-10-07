@@ -4109,7 +4109,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4122,6 +4122,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T10:41:31.022841"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T10:50:31.260900"
       }
     ]
   },
@@ -4131,11 +4135,15 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-07T10:44:31.241988"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T10:50:31.260900"
       }
     ]
   },
@@ -4154,6 +4162,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T10:49:31.234404"
+      }
+    ]
+  },
+  "6a595739b66c223ebb695f2b81ca0de0": {
+    "time": "2026/10/07 10:48:37",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "台南市關廟區",
+    "units": "崇德駐地,阿蓮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T10:50:31.260900"
       }
     ]
   }
