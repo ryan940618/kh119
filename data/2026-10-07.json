@@ -10505,7 +10505,7 @@
     "sub_category": "創傷",
     "location": "高雄市彌陀區中正北路",
     "units": "彌陀分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -10514,6 +10514,24 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T20:40:31.751343"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T20:48:31.791266"
+      }
+    ]
+  },
+  "06cc2d2d72bbdaf344a53dabdfa154d4": {
+    "time": "2026/10/07 20:45:53",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鼓山區南屏路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T20:48:31.791266"
       }
     ]
   }
