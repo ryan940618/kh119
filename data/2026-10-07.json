@@ -2573,7 +2573,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2590,6 +2590,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T08:41:31.332133"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T08:48:31.471959"
       }
     ]
   },
@@ -2656,6 +2660,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T08:44:31.485801"
+      }
+    ]
+  },
+  "ed110cb70368380c372192c8c0a6bc4c": {
+    "time": "2026/10/07 08:47:40",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區四維三路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T08:48:31.471959"
+      }
+    ]
+  },
+  "b1d38b72fde14dc3696ed595e528d269": {
+    "time": "2026/10/07 08:47:10",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區高鐵路",
+    "units": "鼎金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T08:48:31.471959"
       }
     ]
   }
