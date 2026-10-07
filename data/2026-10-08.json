@@ -319,7 +319,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -336,6 +336,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T02:03:33.189435"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T02:04:31.449706"
       }
     ]
   },
@@ -458,6 +462,20 @@
       {
         "status": "火已滅",
         "timestamp": "2026-10-08T01:57:31.732053"
+      }
+    ]
+  },
+  "abc12cf112491388ae0adfa1ab3db521": {
+    "time": "2026/10/08 02:03:45",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市新興區五福二路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T02:04:31.449706"
       }
     ]
   }
