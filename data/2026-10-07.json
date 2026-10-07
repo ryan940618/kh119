@@ -8231,7 +8231,7 @@
     "sub_category": "車禍",
     "location": "高雄市林園區鳳林路",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8248,6 +8248,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T17:34:31.652840"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T17:47:32.132581"
       }
     ]
   },
@@ -8319,7 +8323,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區三多三路",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8332,6 +8336,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T17:35:31.715354"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T17:47:32.132581"
       }
     ]
   },
@@ -8461,7 +8469,7 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區中山路",
     "units": "湖內分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8474,6 +8482,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T17:38:31.572902"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T17:47:32.132581"
       }
     ]
   },
@@ -8581,7 +8593,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區文信路",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8590,6 +8602,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T17:43:31.601157"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T17:47:32.132581"
       }
     ]
   },
@@ -8622,6 +8638,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T17:46:31.751501"
+      }
+    ]
+  },
+  "a31c7c4e1d158225bb7f0325fe4988d1": {
+    "time": "2026/10/07 17:45:49",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市橋頭區仕元路",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T17:47:32.132581"
+      }
+    ]
+  },
+  "424ca7f1a2b12c46f43bdff580fc44e2": {
+    "time": "2026/10/07 17:45:48",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市梓官區大舍東路",
+    "units": "彌陀分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T17:47:32.132581"
       }
     ]
   }
