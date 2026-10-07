@@ -8111,7 +8111,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8124,6 +8124,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T17:20:31.606603"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T17:32:31.584500"
       }
     ]
   },
@@ -8307,11 +8311,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區壽昌路",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T17:31:31.545910"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T17:32:31.584500"
       }
     ]
   },
@@ -8321,11 +8329,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區義昌路",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T17:31:31.545910"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T17:32:31.584500"
       }
     ]
   },
@@ -8340,6 +8352,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T17:31:31.545910"
+      }
+    ]
+  },
+  "c96a4e90243ad5b9a67938d3ac66bd9f": {
+    "time": "2026/10/07 17:31:56",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市燕巢區",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T17:32:31.584500"
+      }
+    ]
+  },
+  "fc22a6117050a2519381ec6e15851ec8": {
+    "time": "2026/10/07 17:30:28",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳥松區",
+    "units": "鳥松分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T17:32:31.584500"
       }
     ]
   }
