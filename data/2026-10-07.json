@@ -7547,7 +7547,7 @@
     "sub_category": "創傷",
     "location": "高雄市前金區成功一路",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7560,6 +7560,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T16:39:31.316338"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T16:47:31.314688"
       }
     ]
   },
@@ -7671,7 +7675,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區義華路",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7680,6 +7684,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T16:43:31.294085"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T16:47:31.314688"
       }
     ]
   },
@@ -7707,11 +7715,15 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T16:46:31.306977"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T16:47:31.314688"
       }
     ]
   }
