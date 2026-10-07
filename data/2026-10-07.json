@@ -8023,7 +8023,7 @@
     "sub_category": "車禍",
     "location": "高雄市前金區成功一路",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8032,6 +8032,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T17:12:31.406307"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T17:15:31.522063"
       }
     ]
   },
@@ -8064,6 +8068,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T17:14:31.535765"
+      }
+    ]
+  },
+  "dbb76167f996352438861b2b5866df70": {
+    "time": "2026/10/07 17:14:52",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市苓雅區",
+    "units": "",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T17:15:31.522063"
       }
     ]
   }
