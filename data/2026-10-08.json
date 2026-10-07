@@ -1357,7 +1357,7 @@
     "sub_category": "車禍",
     "location": "高雄市大社區學府路",
     "units": "大社分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1370,6 +1370,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T05:58:31.131292"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T06:08:31.288825"
       }
     ]
   },
@@ -1410,6 +1414,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T06:01:31.122709"
+      }
+    ]
+  },
+  "8cafb4c5304b8d0c8a4a200f57a85dfd": {
+    "time": "2026/10/08 06:07:30",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大社區旗楠路",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T06:08:31.288825"
       }
     ]
   }
