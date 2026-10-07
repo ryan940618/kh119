@@ -2473,7 +2473,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2486,6 +2486,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T07:47:31.908315"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T07:49:31.980636"
       }
     ]
   },
@@ -2495,7 +2499,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2504,6 +2508,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T07:46:31.979698"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T07:49:31.980636"
       }
     ]
   },
@@ -2567,11 +2575,29 @@
     "sub_category": "車禍",
     "location": "高雄市旗山區旗南三路",
     "units": "旗山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T07:48:31.968143"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T07:49:31.980636"
+      }
+    ]
+  },
+  "83b2d54d02d915c7334f193168b4ad4b": {
+    "time": "2026/10/08 07:48:30",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T07:49:31.980636"
       }
     ]
   }
