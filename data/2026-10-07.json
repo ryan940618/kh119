@@ -7395,7 +7395,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區旗楠路",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -7408,6 +7408,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T16:31:31.228990"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T16:34:31.120984"
       }
     ]
   },
@@ -7417,7 +7421,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7426,6 +7430,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T16:27:31.210905"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T16:34:31.120984"
       }
     ]
   },
@@ -7453,7 +7461,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區清平街",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7462,6 +7470,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T16:29:31.120565"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T16:34:31.120984"
       }
     ]
   },
@@ -7507,11 +7519,29 @@
     "sub_category": "創傷",
     "location": "高雄市前金區成功一路",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T16:32:31.273189"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T16:34:31.120984"
+      }
+    ]
+  },
+  "206e27ba7c8d8d1af3036332dca2b60d": {
+    "time": "2026/10/07 16:33:27",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區博愛二路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T16:34:31.120984"
       }
     ]
   }
