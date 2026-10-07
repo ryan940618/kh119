@@ -2299,7 +2299,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區中和街",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2320,6 +2320,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T08:17:31.239570"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T08:21:31.290408"
       }
     ]
   },
@@ -2369,11 +2373,15 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區仁雄路",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T08:18:31.352538"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T08:21:31.290408"
       }
     ]
   },
@@ -2402,6 +2410,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T08:20:31.314542"
+      }
+    ]
+  },
+  "3ca6ada71cc44a113706802ed49e79f1": {
+    "time": "2026/10/07 08:20:02",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區高鐵路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T08:21:31.290408"
+      }
+    ]
+  },
+  "b43d826845f965fafdb62ecd1ff67542": {
+    "time": "2026/10/07 08:19:51",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鹽埕區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T08:21:31.290408"
       }
     ]
   }
