@@ -2641,11 +2641,15 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T07:52:31.980114"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T07:54:31.928823"
       }
     ]
   },
@@ -2664,6 +2668,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T07:53:31.987943"
+      }
+    ]
+  },
+  "14ad5677c08a73e7b65ca94fa151da7d": {
+    "time": "2026/10/08 07:53:30",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市林園區西汕路",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T07:54:31.928823"
       }
     ]
   }
