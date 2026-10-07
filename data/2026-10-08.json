@@ -1503,7 +1503,7 @@
     "sub_category": "車禍",
     "location": "高雄市永安區新華路",
     "units": "永安分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1516,6 +1516,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T06:18:31.272508"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T06:32:31.367809"
       }
     ]
   },
@@ -1587,11 +1591,29 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T06:31:31.322120"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T06:32:31.367809"
+      }
+    ]
+  },
+  "bacd0d263ae4ecf3cce9b88c44acb88f": {
+    "time": "2026/10/08 06:30:26",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T06:32:31.367809"
       }
     ]
   }
