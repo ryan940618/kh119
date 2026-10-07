@@ -4969,7 +4969,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4986,6 +4986,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T12:10:31.723860"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T12:19:31.611318"
       }
     ]
   },
@@ -5102,6 +5106,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T12:18:31.746597"
+      }
+    ]
+  },
+  "ec2d26f43fb61ce2ffa979eb55a778d3": {
+    "time": "2026/10/07 12:18:05",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前金區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T12:19:31.611318"
       }
     ]
   }
