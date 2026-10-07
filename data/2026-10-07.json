@@ -8349,7 +8349,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區清豐三路",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8366,6 +8366,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T17:42:31.600807"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T17:48:32.003009"
       }
     ]
   },
@@ -8647,11 +8651,15 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區仕元路",
     "units": "橋頭分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T17:47:32.132581"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T17:48:32.003009"
       }
     ]
   },
@@ -8666,6 +8674,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T17:47:32.132581"
+      }
+    ]
+  },
+  "f7315a98448faac4cc0ca54dff6af353": {
+    "time": "2026/10/07 17:47:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區仁忠路",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T17:48:32.003009"
+      }
+    ]
+  },
+  "f66dd9cd906fa7fa394bbf51bf6cf975": {
+    "time": "2026/10/07 17:47:25",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T17:48:32.003009"
+      }
+    ]
+  },
+  "122dcc0fc520e7be28a1b693611786ce": {
+    "time": "2026/10/07 17:46:43",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市大寮區成功路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T17:48:32.003009"
       }
     ]
   }
