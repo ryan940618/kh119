@@ -2389,7 +2389,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區九如一路",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -2402,6 +2402,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T07:47:31.908315"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T07:52:31.980114"
       }
     ]
   },
@@ -2499,7 +2503,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2512,6 +2516,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T07:49:31.980636"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T07:52:31.980114"
       }
     ]
   },
@@ -2620,6 +2628,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T07:51:32.113408"
+      }
+    ]
+  },
+  "e45175d70ddac0e103b1bcc560b4167a": {
+    "time": "2026/10/08 07:52:07",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T07:52:31.980114"
+      }
+    ]
+  },
+  "5e0cb0df71912a156725b450d0ac40bb": {
+    "time": "2026/10/08 07:51:58",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大社區",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T07:52:31.980114"
       }
     ]
   }
