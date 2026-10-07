@@ -4569,7 +4569,7 @@
     "sub_category": "路倒",
     "location": "高雄市大寮區會營街",
     "units": "和發分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4586,6 +4586,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T11:38:31.337218"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T11:55:31.582378"
       }
     ]
   },
@@ -4929,7 +4933,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4938,6 +4942,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T11:52:31.482045"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T11:55:31.582378"
       }
     ]
   }
