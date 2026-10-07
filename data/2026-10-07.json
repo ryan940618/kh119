@@ -4027,7 +4027,7 @@
     "sub_category": "其他",
     "location": "高雄市大寮區",
     "units": "",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4044,6 +4044,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T10:37:31.039776"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T10:48:31.195076"
       }
     ]
   },
@@ -4128,6 +4132,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T10:44:31.241988"
+      }
+    ]
+  },
+  "e62d6e2d851d12a85b55d873b4c1082a": {
+    "time": "2026/10/07 10:47:37",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市苓雅區文橫二路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T10:48:31.195076"
       }
     ]
   }
