@@ -909,7 +909,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營小隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -922,6 +922,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T04:38:31.639234"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T04:57:31.693844"
       }
     ]
   },
@@ -1015,7 +1019,7 @@
     "sub_category": "路倒",
     "location": "高雄市大寮區萬丹路",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1024,6 +1028,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T04:54:31.733285"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T04:57:31.693844"
       }
     ]
   },
@@ -1038,6 +1046,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T04:56:31.641094"
+      }
+    ]
+  },
+  "0adc51a55ea7cf55a2226254b63c700d": {
+    "time": "2026/10/08 04:56:38",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市美濃區",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T04:57:31.693844"
       }
     ]
   }
