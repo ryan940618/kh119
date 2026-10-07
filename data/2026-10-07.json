@@ -5365,7 +5365,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5378,6 +5378,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T12:49:31.678610"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T13:00:31.804884"
       }
     ]
   },
@@ -5431,7 +5435,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5440,6 +5444,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T12:53:31.804371"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T13:00:31.804884"
       }
     ]
   },
@@ -5454,6 +5462,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T12:59:31.780357"
+      }
+    ]
+  },
+  "2549d5c21b082446bc5f87b73a3ec253": {
+    "time": "2026/10/07 12:58:53",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T13:00:31.804884"
       }
     ]
   }
