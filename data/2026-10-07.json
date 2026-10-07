@@ -7111,7 +7111,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7124,6 +7124,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T15:59:30.923176"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T16:06:30.989175"
       }
     ]
   },
@@ -7201,11 +7205,29 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T16:04:30.942351"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T16:06:30.989175"
+      }
+    ]
+  },
+  "978e93ca253d3048dca4228b8854f2a8": {
+    "time": "2026/10/07 16:05:02",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區民生路",
+    "units": "鳳山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T16:06:30.989175"
       }
     ]
   }
