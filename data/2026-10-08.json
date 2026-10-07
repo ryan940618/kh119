@@ -2241,7 +2241,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區鳳屏一路",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2258,6 +2258,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T07:47:31.908315"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T07:55:31.905998"
       }
     ]
   },
@@ -2555,7 +2559,7 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區中山路",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2564,6 +2568,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T07:48:31.968143"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T07:55:31.905998"
       }
     ]
   },
@@ -2623,7 +2631,7 @@
     "sub_category": "創傷",
     "location": "高雄市小港區中安路",
     "units": "鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2632,6 +2640,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T07:51:32.113408"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T07:55:31.905998"
       }
     ]
   },
@@ -2677,11 +2689,15 @@
     "sub_category": "路倒",
     "location": "高雄市林園區西汕路",
     "units": "林園分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T07:54:31.928823"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T07:55:31.905998"
       }
     ]
   }
