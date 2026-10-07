@@ -8989,7 +8989,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "十全分隊,鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9006,6 +9006,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T18:26:31.978472"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T18:36:31.228141"
       }
     ]
   },
@@ -9263,11 +9267,15 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T18:34:32.088139"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T18:36:31.228141"
       }
     ]
   },
@@ -9282,6 +9290,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T18:35:31.034637"
+      }
+    ]
+  },
+  "0e256ec310de3d4f372fc07140854e59": {
+    "time": "2026/10/07 18:35:46",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T18:36:31.228141"
       }
     ]
   }
