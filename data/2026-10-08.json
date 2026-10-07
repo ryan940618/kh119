@@ -823,7 +823,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -836,6 +836,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T03:58:31.347507"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T04:15:31.448163"
       }
     ]
   },
@@ -845,11 +849,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T04:10:31.512170"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T04:15:31.448163"
       }
     ]
   }
