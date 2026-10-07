@@ -8977,7 +8977,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "十全分隊,鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8990,6 +8990,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T18:17:31.926182"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T18:26:31.978472"
       }
     ]
   },
@@ -9122,6 +9126,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T18:21:32.059258"
+      }
+    ]
+  },
+  "99765dbd8f3e6b51c0a49aefcb3d78a3": {
+    "time": "2026/10/07 18:25:16",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區北林路和利昌街",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T18:26:31.978472"
       }
     ]
   }
