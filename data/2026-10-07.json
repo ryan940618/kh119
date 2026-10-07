@@ -2827,7 +2827,7 @@
     "sub_category": "創傷",
     "location": "高雄市橋頭區成功南路",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -2840,6 +2840,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T09:18:31.547798"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T09:24:31.618182"
       }
     ]
   },
@@ -3020,6 +3024,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T09:23:31.661019"
+      }
+    ]
+  },
+  "51dace37073bc2a1a89e57c26268cd85": {
+    "time": "2026/10/07 09:23:19",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區八德路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T09:24:31.618182"
       }
     ]
   }
