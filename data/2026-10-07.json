@@ -11715,7 +11715,7 @@
     "sub_category": "路倒",
     "location": "高雄市苓雅區成功一路",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11724,6 +11724,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T23:18:31.659383"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T23:24:31.541704"
       }
     ]
   },
@@ -11782,6 +11786,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T23:22:31.665714"
+      }
+    ]
+  },
+  "b6decff275ebb0ce6dc493cb71933417": {
+    "time": "2026/10/07 23:24:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T23:24:31.541704"
       }
     ]
   }
