@@ -2409,11 +2409,15 @@
     "sub_category": "創傷",
     "location": "高雄市岡山區劉厝路",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T07:40:31.769588"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T07:44:31.921915"
       }
     ]
   },
@@ -2473,11 +2477,29 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-08T07:42:31.937702"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T07:44:31.921915"
+      }
+    ]
+  },
+  "4cbde5c8e83994ad9499393f78263176": {
+    "time": "2026/10/08 07:44:02",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市湖內區中山路",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T07:44:31.921915"
       }
     ]
   }
