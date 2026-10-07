@@ -9045,11 +9045,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區大學南路",
     "units": "橋頭分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T18:17:31.926182"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T18:19:31.865558"
       }
     ]
   },
@@ -9059,11 +9063,29 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T18:18:31.814564"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T18:19:31.865558"
+      }
+    ]
+  },
+  "3c9797bebe899fca6ba363a402fad0dd": {
+    "time": "2026/10/07 18:18:40",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市燕巢區",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T18:19:31.865558"
       }
     ]
   }
