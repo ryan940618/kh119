@@ -3569,7 +3569,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3582,6 +3582,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T09:59:32.046798"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T10:12:32.218697"
       }
     ]
   },
@@ -3591,7 +3595,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3608,6 +3612,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T10:04:31.896943"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T10:12:32.218697"
       }
     ]
   },
@@ -3724,6 +3732,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T10:11:31.974774"
+      }
+    ]
+  },
+  "5d4e75c3873f859dd529cb73b1527a85": {
+    "time": "2026/10/07 10:11:29",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T10:12:32.218697"
       }
     ]
   }
