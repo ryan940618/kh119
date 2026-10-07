@@ -8569,7 +8569,7 @@
     "sub_category": "其他",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8586,6 +8586,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T17:49:31.860773"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T17:58:31.794021"
       }
     ]
   },
@@ -8799,11 +8803,29 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區濃公路",
     "units": "和發分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T17:57:31.812300"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T17:58:31.794021"
+      }
+    ]
+  },
+  "0f76923158fa9d86be7e6489abaad40d": {
+    "time": "2026/10/07 17:57:28",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市燕巢區",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T17:58:31.794021"
       }
     ]
   }
