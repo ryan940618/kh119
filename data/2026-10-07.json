@@ -7463,7 +7463,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區城峰路",
     "units": "左營小隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7476,6 +7476,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T16:36:31.197353"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T17:01:31.438415"
       }
     ]
   },
@@ -7763,7 +7767,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7776,6 +7780,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T16:55:31.323846"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T17:01:31.438415"
       }
     ]
   },
@@ -7837,11 +7845,29 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區善和街",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T16:59:31.623044"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T17:01:31.438415"
+      }
+    ]
+  },
+  "0d0f76c2012594eea54101e7eb4f7e86": {
+    "time": "2026/10/07 17:00:32",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市鳳山區",
+    "units": "",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T17:01:31.438415"
       }
     ]
   }
