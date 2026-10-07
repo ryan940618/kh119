@@ -2973,7 +2973,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區永芳路",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2990,6 +2990,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T09:22:31.745056"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T09:30:31.683077"
       }
     ]
   },
@@ -3100,6 +3104,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T09:29:31.567462"
+      }
+    ]
+  },
+  "1db4f454f11744c33891a578b6945155": {
+    "time": "2026/10/07 09:29:18",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T09:30:31.683077"
       }
     ]
   }
