@@ -7649,7 +7649,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -7658,6 +7658,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T16:45:34.292541"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T16:55:31.323846"
       }
     ]
   },
@@ -7751,7 +7755,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7760,6 +7764,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T16:47:31.314688"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T16:55:31.323846"
       }
     ]
   },
@@ -7782,6 +7790,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T16:54:31.394458"
+      }
+    ]
+  },
+  "b6554df2c8cac950c6815d17080877c8": {
+    "time": "2026/10/07 16:54:08",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區永康街",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T16:55:31.323846"
       }
     ]
   }
