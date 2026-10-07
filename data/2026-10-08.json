@@ -1679,7 +1679,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區澄觀路",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1688,6 +1688,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T06:41:31.425368"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T06:59:31.636670"
       }
     ]
   },
@@ -1887,11 +1891,29 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T06:58:31.543462"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T06:59:31.636670"
+      }
+    ]
+  },
+  "129f5b2accc5cf9f413aedf53a6b6c82": {
+    "time": "2026/10/08 06:58:10",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T06:59:31.636670"
       }
     ]
   }
