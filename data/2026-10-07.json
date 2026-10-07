@@ -6957,7 +6957,7 @@
     "sub_category": "其他",
     "location": "高雄市新興區",
     "units": "",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6966,6 +6966,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T15:44:32.133601"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T15:55:30.881495"
       }
     ]
   },
@@ -7028,6 +7032,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T15:51:32.012451"
+      }
+    ]
+  },
+  "2762d7bb59b28f1d4c30017aaf0fb874": {
+    "time": "2026/10/07 15:53:54",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區翠華路",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T15:55:30.881495"
       }
     ]
   }
