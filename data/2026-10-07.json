@@ -11793,7 +11793,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11802,6 +11802,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T23:22:31.665714"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T23:30:31.633071"
       }
     ]
   },
@@ -11829,11 +11833,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區溪濱路",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T23:27:31.629445"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T23:30:31.633071"
       }
     ]
   },
@@ -11848,6 +11856,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T23:29:31.644774"
+      }
+    ]
+  },
+  "d4e7582f248602d0ad6637b7efcabb5b": {
+    "time": "2026/10/07 23:28:50",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T23:30:31.633071"
       }
     ]
   }
