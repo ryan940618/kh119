@@ -4603,7 +4603,7 @@
     "sub_category": "急病",
     "location": "高雄市彌陀區",
     "units": "彌陀分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4612,6 +4612,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T11:27:31.380416"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T11:31:31.242075"
       }
     ]
   },
@@ -4621,7 +4625,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區凱旋四路",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4630,6 +4634,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T11:29:31.434090"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T11:31:31.242075"
       }
     ]
   },
@@ -4648,6 +4656,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T11:28:31.402391"
+      }
+    ]
+  },
+  "688beafd9b3fb1ee38c7b1798efde070": {
+    "time": "2026/10/07 11:30:05",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T11:31:31.242075"
       }
     ]
   }
