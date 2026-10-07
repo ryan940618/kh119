@@ -5507,7 +5507,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5520,6 +5520,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T13:06:31.842644"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-07T13:29:31.171739"
       }
     ]
   },
@@ -5529,7 +5533,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5546,6 +5550,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-07T13:25:31.025766"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-07T13:29:31.171739"
       }
     ]
   },
@@ -5754,6 +5762,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T13:23:31.117587"
+      }
+    ]
+  },
+  "3d07890fd0ab1770d7042897b19a4584": {
+    "time": "2026/10/07 13:28:46",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市旗津區",
+    "units": "旗津分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T13:29:31.171739"
       }
     ]
   }
