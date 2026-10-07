@@ -8257,7 +8257,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區南進五街",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8266,6 +8266,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T17:27:31.793473"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T17:33:31.606287"
       }
     ]
   },
@@ -8380,6 +8384,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T17:32:31.584500"
+      }
+    ]
+  },
+  "9de6e636f2d6a02bc8cd18bff8e68232": {
+    "time": "2026/10/07 17:32:51",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市湖內區中山路",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T17:33:31.606287"
+      }
+    ]
+  },
+  "e09d791990fc2d3e20de974abf32450d": {
+    "time": "2026/10/07 17:31:51",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市橋頭區通港路",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T17:33:31.606287"
       }
     ]
   }
