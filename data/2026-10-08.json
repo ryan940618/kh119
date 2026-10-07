@@ -1767,11 +1767,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區五甲一路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-08T06:45:31.450933"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T06:56:31.452584"
       }
     ]
   },
@@ -1848,6 +1852,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T06:53:31.512608"
+      }
+    ]
+  },
+  "fe374250c105bf28ee0b7cacad9bfa43": {
+    "time": "2026/10/08 06:55:26",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市前鎮區一心二路",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T06:56:31.452584"
       }
     ]
   }
