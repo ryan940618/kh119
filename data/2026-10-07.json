@@ -7883,7 +7883,7 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7892,6 +7892,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T17:03:31.260935"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T17:07:31.443285"
       }
     ]
   },
@@ -7928,6 +7932,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T17:06:31.322246"
+      }
+    ]
+  },
+  "ff5295d34a1c3cb16e0c6fd829e3fb62": {
+    "time": "2026/10/07 17:06:45",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市湖內區自強街",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T17:07:31.443285"
+      }
+    ]
+  },
+  "e4c0c7725d40c623e3ef7b7e1d85d28c": {
+    "time": "2026/10/07 17:06:34",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區江山路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T17:07:31.443285"
       }
     ]
   }
