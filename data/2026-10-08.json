@@ -7919,7 +7919,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -7932,6 +7932,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T16:11:31.084454"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T16:21:31.444014"
       }
     ]
   },
@@ -8090,6 +8094,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T16:20:31.618284"
+      }
+    ]
+  },
+  "7889648a4edbb55f1c013223056a21ae": {
+    "time": "2026/10/08 16:20:35",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T16:21:31.444014"
       }
     ]
   }
