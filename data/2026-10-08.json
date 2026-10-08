@@ -8721,7 +8721,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8730,6 +8730,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T17:17:31.488087"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T17:21:31.686406"
       }
     ]
   },
@@ -8807,11 +8811,15 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區和平一路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-08T17:18:31.355990"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T17:21:31.686406"
       }
     ]
   },
@@ -8840,6 +8848,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T17:20:31.541003"
+      }
+    ]
+  },
+  "d682651525a65a639ef82dce559d5079": {
+    "time": "2026/10/08 17:18:16",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區中正二路",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T17:21:31.686406"
       }
     ]
   }
