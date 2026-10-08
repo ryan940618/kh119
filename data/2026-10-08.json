@@ -7665,7 +7665,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區自由四路",
     "units": "新莊分隊,鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7674,6 +7674,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T15:43:31.932570"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T15:48:30.918703"
       }
     ]
   },
@@ -7701,11 +7705,29 @@
     "sub_category": "路倒",
     "location": "高雄市左營區榮耀街",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-08T15:45:31.874121"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T15:48:30.918703"
+      }
+    ]
+  },
+  "48baeed403a541d6f6a7e203893bd47a": {
+    "time": "2026/10/08 15:47:47",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市湖內區",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T15:48:30.918703"
       }
     ]
   }
