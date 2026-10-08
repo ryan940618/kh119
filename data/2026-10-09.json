@@ -963,7 +963,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -976,6 +976,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T03:45:31.315636"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T03:58:31.264321"
       }
     ]
   },
@@ -1007,11 +1011,15 @@
     "sub_category": "創傷",
     "location": "高雄市旗山區華中街",
     "units": "旗山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T03:56:31.331747"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T03:58:31.264321"
       }
     ]
   }
