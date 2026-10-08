@@ -10353,11 +10353,15 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區武昌路",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-08T18:51:31.220218"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T18:59:31.228996"
       }
     ]
   },
@@ -10385,11 +10389,29 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T18:57:31.141211"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T18:59:31.228996"
+      }
+    ]
+  },
+  "6ae3a8216d8e7ab9add6358b76190faa": {
+    "time": "2026/10/08 18:58:54",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區博愛二路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T18:59:31.228996"
       }
     ]
   }
