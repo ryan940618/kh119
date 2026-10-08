@@ -11321,7 +11321,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區捷西路",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11338,6 +11338,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T21:25:31.853716"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T21:27:31.838283"
       }
     ]
   },
@@ -11498,6 +11502,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T21:23:31.885026"
+      }
+    ]
+  },
+  "a3f90122fc4480f29eb4a63b5b8dfae5": {
+    "time": "2026/10/08 21:27:02",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T21:27:31.838283"
       }
     ]
   }
