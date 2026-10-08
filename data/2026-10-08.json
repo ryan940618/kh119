@@ -9611,7 +9611,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區自立一路和鐵道三街",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9628,6 +9628,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T18:13:31.858699"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T18:35:31.921670"
       }
     ]
   },
@@ -9958,6 +9962,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T18:34:31.983213"
+      }
+    ]
+  },
+  "50cb887cce028c3ca99dbec99a92af65": {
+    "time": "2026/10/08 18:34:35",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市橋頭區",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T18:35:31.921670"
       }
     ]
   }
