@@ -2967,7 +2967,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區光明路",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2984,6 +2984,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T08:32:31.144192"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T08:40:31.429948"
       }
     ]
   },
@@ -3268,6 +3272,20 @@
       {
         "status": "已受理",
         "timestamp": "2026-10-08T08:39:31.346713"
+      }
+    ]
+  },
+  "19606368141049c6e8b03853de85dd96": {
+    "time": "2026/10/08 08:39:08",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T08:40:31.429948"
       }
     ]
   }
