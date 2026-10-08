@@ -8227,11 +8227,15 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T16:41:31.210959"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T16:43:31.198125"
       }
     ]
   },
@@ -8250,6 +8254,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T16:42:31.182572"
+      }
+    ]
+  },
+  "1d67827ba0bf16c8a9717abcfb202901": {
+    "time": "2026/10/08 16:42:18",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區重和路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T16:43:31.198125"
       }
     ]
   }
