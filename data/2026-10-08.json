@@ -7127,7 +7127,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7144,6 +7144,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T15:16:31.710868"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T15:28:31.812606"
       }
     ]
   },
@@ -7383,7 +7387,7 @@
     "sub_category": "創傷",
     "location": "高雄市旗津區海岸路",
     "units": "旗津分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -7392,6 +7396,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T15:25:39.651163"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T15:28:31.812606"
       }
     ]
   },
@@ -7490,6 +7498,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T15:26:31.845930"
+      }
+    ]
+  },
+  "971449495622a4a345e457e9e67dfd73": {
+    "time": "2026/10/08 15:27:45",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T15:28:31.812606"
       }
     ]
   }
