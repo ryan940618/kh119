@@ -7425,7 +7425,7 @@
     "sub_category": "車禍",
     "location": "高雄市林園區沿海三路",
     "units": "大林分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7438,6 +7438,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T15:25:39.651163"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T15:39:31.952970"
       }
     ]
   },
@@ -7473,7 +7477,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區公正路和瑞和街",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7486,6 +7490,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T15:25:39.651163"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T15:39:31.952970"
       }
     ]
   },
@@ -7539,7 +7547,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7552,6 +7560,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T15:33:31.880325"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T15:39:31.952970"
       }
     ]
   },
@@ -7561,7 +7573,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區南華一路",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7570,6 +7582,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T15:34:31.845235"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T15:39:31.952970"
       }
     ]
   },
@@ -7584,6 +7600,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T15:37:31.960284"
+      }
+    ]
+  },
+  "5f61fabcdb98e8ad4edb9d9ced05fb89": {
+    "time": "2026/10/08 15:38:53",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T15:39:31.952970"
       }
     ]
   }
