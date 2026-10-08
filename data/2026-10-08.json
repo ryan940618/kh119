@@ -5507,7 +5507,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5524,6 +5524,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T12:38:31.690993"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T12:46:31.825933"
       }
     ]
   },
@@ -5673,7 +5677,7 @@
     "sub_category": "車禍",
     "location": "高雄市大社區翠屏路",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5690,6 +5694,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T12:41:31.695998"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T12:46:31.825933"
       }
     ]
   },
@@ -5849,11 +5857,29 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區青農路",
     "units": "楠梓分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T12:45:31.752656"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T12:46:31.825933"
+      }
+    ]
+  },
+  "c12eb735b217c25a41269a97d879ff20": {
+    "time": "2026/10/08 12:45:33",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市新興區民主路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T12:46:31.825933"
       }
     ]
   }
