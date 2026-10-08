@@ -11861,7 +11861,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區青年路",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11878,6 +11878,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T22:19:31.390228"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T22:24:31.427085"
       }
     ]
   },
@@ -11953,7 +11957,7 @@
     "sub_category": "其他",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11966,6 +11970,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T22:16:31.217611"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T22:24:31.427085"
       }
     ]
   },
@@ -12078,6 +12086,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T22:22:31.219335"
+      }
+    ]
+  },
+  "e0b42014c81fa82f6df13110006ff5e4": {
+    "time": "2026/10/08 22:23:13",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市永安區",
+    "units": "永安分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T22:24:31.427085"
       }
     ]
   }
