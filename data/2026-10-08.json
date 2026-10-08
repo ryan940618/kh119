@@ -8575,7 +8575,7 @@
     "sub_category": "其他",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8588,6 +8588,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T17:09:31.430513"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T17:19:31.521031"
       }
     ]
   },
@@ -8667,11 +8671,15 @@
     "sub_category": "創傷",
     "location": "高雄市左營區自由二路",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-08T17:12:31.484552"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T17:19:31.521031"
       }
     ]
   },
@@ -8767,11 +8775,15 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區明德街",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T17:18:31.355990"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T17:19:31.521031"
       }
     ]
   },
