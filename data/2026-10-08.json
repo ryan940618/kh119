@@ -6067,11 +6067,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-08T13:00:31.844838"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T13:08:32.240564"
       }
     ]
   },
@@ -6189,7 +6193,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區義華路",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6198,6 +6202,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T13:05:31.963590"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T13:08:32.240564"
       }
     ]
   },
@@ -6207,11 +6215,29 @@
     "sub_category": "其他",
     "location": "高雄市左營區",
     "units": "",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T13:07:31.978777"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T13:08:32.240564"
+      }
+    ]
+  },
+  "cf3a827273794471b0d10510264b2fe2": {
+    "time": "2026/10/08 13:07:05",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區蓮海路",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T13:08:32.240564"
       }
     ]
   }
