@@ -11751,7 +11751,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11760,6 +11760,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T21:59:31.104824"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T22:03:31.094346"
       }
     ]
   },
@@ -11788,6 +11792,34 @@
       {
         "status": "已受理",
         "timestamp": "2026-10-08T22:01:31.185100"
+      }
+    ]
+  },
+  "f6c3d0cb7b277e9bfd868027937d5f83": {
+    "time": "2026/10/08 22:01:58",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T22:03:31.094346"
+      }
+    ]
+  },
+  "66dbe185d6a934d87e916776b8f37a20": {
+    "time": "2026/10/08 22:00:49",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區楠陽高架橋岡山往高楠公路",
+    "units": "楠梓分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T22:03:31.094346"
       }
     ]
   }
