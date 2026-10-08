@@ -8161,7 +8161,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區松園一路",
     "units": "高桂分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8178,6 +8178,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T16:36:31.330561"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T16:44:31.364349"
       }
     ]
   },
@@ -8268,6 +8272,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T16:43:31.198125"
+      }
+    ]
+  },
+  "41d7a9e17a2d9768f2c859cc3ed8112f": {
+    "time": "2026/10/08 16:43:56",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區民族一路",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T16:44:31.364349"
+      }
+    ]
+  },
+  "6982f03a5c39999ba77b46dee6edd139": {
+    "time": "2026/10/08 16:43:32",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鳳山區中山西路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T16:44:31.364349"
       }
     ]
   }
