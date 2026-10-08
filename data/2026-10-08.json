@@ -8535,7 +8535,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區新富路",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -8544,6 +8544,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T17:10:31.351547"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T17:13:31.530258"
       }
     ]
   },
@@ -8629,11 +8633,15 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T17:12:31.484552"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T17:13:31.530258"
       }
     ]
   },
@@ -8648,6 +8656,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T17:12:31.484552"
+      }
+    ]
+  },
+  "236e122c1e7fd13448e4b9555ee2190d": {
+    "time": "2026/10/08 17:12:46",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T17:13:31.530258"
+      }
+    ]
+  },
+  "e542a5c6b9a2423b9e3b75d7cd99015f": {
+    "time": "2026/10/08 17:12:25",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T17:13:31.530258"
       }
     ]
   }
