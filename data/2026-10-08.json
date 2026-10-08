@@ -3239,7 +3239,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -3252,6 +3252,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T08:39:31.346713"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T08:48:31.615623"
       }
     ]
   },
@@ -3261,7 +3265,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區勝國街",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3274,6 +3278,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T08:42:31.386799"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T08:48:31.615623"
       }
     ]
   },
@@ -3319,7 +3327,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區埤北路",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3328,6 +3336,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T08:43:31.374313"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T08:48:31.615623"
       }
     ]
   },
@@ -3337,11 +3349,15 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-08T08:43:31.374313"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T08:48:31.615623"
       }
     ]
   },
@@ -3356,6 +3372,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T08:47:31.378064"
+      }
+    ]
+  },
+  "39760d729c3905fd61d5e78703df6083": {
+    "time": "2026/10/08 08:47:05",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T08:48:31.615623"
       }
     ]
   }
