@@ -1811,7 +1811,7 @@
     "sub_category": "路倒",
     "location": "高雄市鹽埕區安石街",
     "units": "鼓山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1828,6 +1828,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T07:20:31.540100"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T07:26:31.670748"
       }
     ]
   },
@@ -1886,6 +1890,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T07:22:31.624984"
+      }
+    ]
+  },
+  "3e66a5040d84df443a5ec9c6d0f6e42f": {
+    "time": "2026/10/09 07:25:10",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T07:26:31.670748"
       }
     ]
   }
