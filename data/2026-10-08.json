@@ -5875,7 +5875,7 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -5884,6 +5884,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T12:47:31.689146"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T12:55:31.947648"
       }
     ]
   },
@@ -5973,11 +5977,15 @@
     "sub_category": "急病",
     "location": "高雄市六龜區",
     "units": "寶來分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T12:53:31.888663"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T12:55:31.947648"
       }
     ]
   },
@@ -5987,11 +5995,29 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T12:53:31.888663"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T12:55:31.947648"
+      }
+    ]
+  },
+  "28844ed4b4670716e9699d714108c4f1": {
+    "time": "2026/10/08 12:54:53",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T12:55:31.947648"
       }
     ]
   }
