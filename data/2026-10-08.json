@@ -6061,7 +6061,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6074,6 +6074,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T13:03:31.953686"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T13:17:31.969556"
       }
     ]
   },
@@ -6309,11 +6313,15 @@
     "sub_category": "燒燙傷",
     "location": "高雄市楠梓區加仁路",
     "units": "橋頭分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T13:14:31.960217"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T13:17:31.969556"
       }
     ]
   },
