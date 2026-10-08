@@ -3759,7 +3759,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區土庫一路",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已到達",
@@ -3768,6 +3768,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T09:21:31.506001"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T09:24:31.621738"
       }
     ]
   },
@@ -3795,11 +3799,15 @@
     "sub_category": "孕婦急產",
     "location": "高雄市大社區三民路",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T09:22:31.486614"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T09:24:31.621738"
       }
     ]
   },
@@ -3814,6 +3822,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T09:23:31.613836"
+      }
+    ]
+  },
+  "5c13c8dc56be1985504287b3a8aacc25": {
+    "time": "2026/10/08 09:23:27",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T09:24:31.621738"
       }
     ]
   }
