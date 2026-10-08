@@ -12155,7 +12155,7 @@
     "sub_category": "急病",
     "location": "高雄市永安區",
     "units": "永安分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12172,6 +12172,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T22:35:31.228745"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T22:45:31.328545"
       }
     ]
   },
@@ -12211,7 +12215,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12224,6 +12228,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T22:34:31.368958"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T22:45:31.328545"
       }
     ]
   },
@@ -12261,11 +12269,29 @@
     "sub_category": "車禍",
     "location": "高雄市三民區光武路",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T22:44:31.412049"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T22:45:31.328545"
+      }
+    ]
+  },
+  "5100f33dcc9ef9045d99fc14dfe5ed2b": {
+    "time": "2026/10/08 22:43:53",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區忠誠路",
+    "units": "瑞隆分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T22:45:31.328545"
       }
     ]
   }
