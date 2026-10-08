@@ -9227,11 +9227,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T17:47:31.814880"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T17:48:31.749415"
       }
     ]
   },
@@ -9241,11 +9245,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T17:47:31.814880"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T17:48:31.749415"
+      }
+    ]
+  },
+  "608a387eccc8af9e705e30d21f37fd8c": {
+    "time": "2026/10/08 17:47:01",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T17:48:31.749415"
       }
     ]
   }
