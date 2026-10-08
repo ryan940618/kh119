@@ -4721,7 +4721,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區富民路",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4738,6 +4738,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T10:42:31.082053"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T10:43:31.085124"
       }
     ]
   },
@@ -4846,6 +4850,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T10:42:31.082053"
+      }
+    ]
+  },
+  "9992d77e7f3fdb29f264914163d09d35": {
+    "time": "2026/10/08 10:42:32",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T10:43:31.085124"
       }
     ]
   }
