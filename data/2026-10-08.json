@@ -11323,7 +11323,7 @@
     "sub_category": "創傷",
     "location": "高雄市路竹區中山路",
     "units": "永安分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11332,6 +11332,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T21:07:31.746700"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T21:14:31.756022"
       }
     ]
   },
@@ -11390,6 +11394,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T21:06:31.807902"
+      }
+    ]
+  },
+  "00581bf645ea9523ea6a4d18f7f04958": {
+    "time": "2026/10/08 21:13:06",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T21:14:31.756022"
       }
     ]
   }
