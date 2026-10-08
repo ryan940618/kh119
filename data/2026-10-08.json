@@ -8327,7 +8327,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區重和路",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8344,6 +8344,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T16:57:31.403487"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T17:05:31.409078"
       }
     ]
   },
@@ -8445,7 +8449,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "大寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8458,6 +8462,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T16:59:31.480129"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T17:05:31.409078"
       }
     ]
   },
@@ -8549,11 +8557,15 @@
     "sub_category": "創傷",
     "location": "高雄市左營區左營大路",
     "units": "左營小隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T17:04:31.452476"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T17:05:31.409078"
       }
     ]
   }
