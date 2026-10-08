@@ -7853,7 +7853,7 @@
     "sub_category": "其他",
     "location": "高雄市內門區",
     "units": "內門分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -7862,6 +7862,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T16:08:31.150972"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T17:02:31.265807"
       }
     ]
   },
@@ -8494,6 +8498,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T17:00:31.476665"
+      }
+    ]
+  },
+  "a58df982efa1a7d943f44ee065430563": {
+    "time": "2026/10/08 17:01:08",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區新富路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T17:02:31.265807"
       }
     ]
   }
