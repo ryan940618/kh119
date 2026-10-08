@@ -9759,7 +9759,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區光明路",
     "units": "和發分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -9768,6 +9768,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T18:25:32.099487"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T18:39:32.036082"
       }
     ]
   },
@@ -9965,7 +9969,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳥松區中正路",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9978,6 +9982,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T18:34:31.983213"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T18:39:32.036082"
       }
     ]
   },
@@ -10023,11 +10031,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區南京路",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T18:38:32.328844"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T18:39:32.036082"
       }
     ]
   },
@@ -10037,11 +10049,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T18:38:32.328844"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T18:39:32.036082"
       }
     ]
   },
@@ -10051,11 +10067,57 @@
     "sub_category": "車禍",
     "location": "高雄市桃源區",
     "units": "寶來分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T18:38:32.328844"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T18:39:32.036082"
+      }
+    ]
+  },
+  "94b87e48f0688dccd2f184ea8c00731c": {
+    "time": "2026/10/08 18:38:39",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區明誠一路和鼎山街",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T18:39:32.036082"
+      }
+    ]
+  },
+  "d810bcabee8264fb8ef19cf16d0f5366": {
+    "time": "2026/10/08 18:38:24",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區惠春街",
+    "units": "後勁分隊,楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T18:39:32.036082"
+      }
+    ]
+  },
+  "6e8d03c2041308021130a2cd81298652": {
+    "time": "2026/10/08 18:38:13",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T18:39:32.036082"
       }
     ]
   }
