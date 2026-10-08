@@ -2891,7 +2891,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2904,6 +2904,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T08:12:31.195069"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T08:21:31.276524"
       }
     ]
   },
@@ -2913,7 +2917,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區凱旋二路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2922,6 +2926,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T08:16:31.236728"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T08:21:31.276524"
       }
     ]
   },
@@ -2959,11 +2967,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T08:20:31.163588"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T08:21:31.276524"
       }
     ]
   },
@@ -2973,11 +2985,15 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T08:20:31.163588"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T08:21:31.276524"
       }
     ]
   },
@@ -2992,6 +3008,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T08:20:31.163588"
+      }
+    ]
+  },
+  "58ac512bb13a986ce75b234d0b3bfc4a": {
+    "time": "2026/10/08 08:21:12",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區中山二路",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T08:21:31.276524"
+      }
+    ]
+  },
+  "c9da93ce7e2ab99f797ec79bdd07f729": {
+    "time": "2026/10/08 08:20:20",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區博愛路和立人街",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T08:21:31.276524"
       }
     ]
   }
