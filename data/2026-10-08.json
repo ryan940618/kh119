@@ -7949,7 +7949,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -7962,6 +7962,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T16:07:31.139554"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T16:32:31.302894"
       }
     ]
   },
@@ -8053,7 +8057,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8070,6 +8074,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T16:29:31.281516"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T16:32:31.302894"
       }
     ]
   },
@@ -8158,6 +8166,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T16:29:31.281516"
+      }
+    ]
+  },
+  "1ab47e87a39622263591afd6e788f171": {
+    "time": "2026/10/08 16:31:06",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區五權街",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T16:32:31.302894"
       }
     ]
   }
