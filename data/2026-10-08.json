@@ -2829,7 +2829,7 @@
     "sub_category": "急病",
     "location": "高雄市橋頭區",
     "units": "橋頭分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2846,6 +2846,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T08:34:31.211954"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T08:42:31.386799"
       }
     ]
   },
@@ -3249,7 +3253,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區勝國街",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3258,6 +3262,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T08:37:31.257064"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T08:42:31.386799"
       }
     ]
   },
@@ -3290,6 +3298,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T08:41:31.272403"
+      }
+    ]
+  },
+  "cc0e998b37371b017b2a9fa0c556c8bd": {
+    "time": "2026/10/08 08:41:08",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區埤北路",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T08:42:31.386799"
       }
     ]
   }
