@@ -207,11 +207,15 @@
     "sub_category": "創傷",
     "location": "高雄市三民區中華橫路",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T00:54:31.215071"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T00:58:31.309379"
       }
     ]
   },
@@ -239,11 +243,29 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區名山一街",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T00:57:31.286756"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T00:58:31.309379"
+      }
+    ]
+  },
+  "550ca37e71e993f019b21cfdf67cb09d": {
+    "time": "2026/10/09 00:57:17",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T00:58:31.309379"
       }
     ]
   }
