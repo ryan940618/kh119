@@ -11371,7 +11371,7 @@
     "sub_category": "創傷",
     "location": "高雄市路竹區中山路",
     "units": "永安分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11388,6 +11388,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T21:24:31.866458"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T21:40:31.085755"
       }
     ]
   },
@@ -11603,11 +11607,15 @@
     "sub_category": "急病",
     "location": "高雄市杉林區",
     "units": "杉林分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-08T21:31:31.865412"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T21:40:31.085755"
       }
     ]
   },
@@ -11639,11 +11647,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區文龍東路",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-08T21:34:31.935573"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T21:40:31.085755"
       }
     ]
   }
