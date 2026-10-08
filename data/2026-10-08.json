@@ -6035,7 +6035,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6052,6 +6052,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T13:16:31.964321"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T13:23:31.969645"
       }
     ]
   },
@@ -6091,7 +6095,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -6104,6 +6108,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T13:11:32.072880"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T13:23:31.969645"
       }
     ]
   },
@@ -6404,6 +6412,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T13:22:32.078674"
+      }
+    ]
+  },
+  "aaeb812c4ab98b60a27dcb4ac6e8096d": {
+    "time": "2026/10/08 13:23:11",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T13:23:31.969645"
+      }
+    ]
+  },
+  "a67d7210f52e49616012e9274ba198e2": {
+    "time": "2026/10/08 13:21:36",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區民族一路",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T13:23:31.969645"
       }
     ]
   }
