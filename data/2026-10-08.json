@@ -12067,7 +12067,7 @@
     "sub_category": "其他",
     "location": "高雄市楠梓區學專路",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12076,6 +12076,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T22:21:31.300685"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T22:27:31.463095"
       }
     ]
   },
@@ -12085,7 +12089,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12094,6 +12098,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T22:22:31.219335"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T22:27:31.463095"
       }
     ]
   },
@@ -12112,6 +12120,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T22:25:31.478263"
+      }
+    ]
+  },
+  "1353e08466ce99350ab65423b8b393df": {
+    "time": "2026/10/08 22:26:42",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市林園區北汕路",
+    "units": "大林分隊,林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T22:27:31.463095"
+      }
+    ]
+  },
+  "9701df7cb2579dfcfb0fcc55cebf97e2": {
+    "time": "2026/10/08 22:25:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T22:27:31.463095"
       }
     ]
   }
