@@ -847,7 +847,7 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區一心二路",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -864,6 +864,24 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T03:19:31.044330"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T03:24:31.150856"
+      }
+    ]
+  },
+  "ba575bae14ea7047301437d77d0723cb": {
+    "time": "2026/10/09 03:23:38",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗津區",
+    "units": "旗津分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T03:24:31.150856"
       }
     ]
   }
