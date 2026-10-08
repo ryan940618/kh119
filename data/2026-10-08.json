@@ -7211,7 +7211,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7220,6 +7220,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T15:01:31.617531"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T15:10:31.664299"
       }
     ]
   },
@@ -7242,6 +7246,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T15:04:31.508435"
+      }
+    ]
+  },
+  "87350fe0ac6c8d9592a0ca101da8f1aa": {
+    "time": "2026/10/08 15:09:00",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區福安路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T15:10:31.664299"
       }
     ]
   }
