@@ -6503,7 +6503,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區民族一路",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -6512,6 +6512,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T13:30:30.931936"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T13:44:31.140977"
       }
     ]
   },
@@ -6615,7 +6619,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6628,6 +6632,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T13:43:31.101990"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T13:44:31.140977"
       }
     ]
   },
@@ -6637,7 +6645,7 @@
     "sub_category": "車禍",
     "location": "高雄市新興區中山一路",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6646,6 +6654,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T13:40:31.035531"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T13:44:31.140977"
       }
     ]
   }
