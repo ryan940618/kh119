@@ -9655,7 +9655,7 @@
     "sub_category": "創傷",
     "location": "高雄市新興區南台路",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9672,6 +9672,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T18:27:32.008540"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T18:29:32.134624"
       }
     ]
   },
@@ -9765,7 +9769,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區康和路和衙信一街",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9778,6 +9782,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T18:23:31.974588"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T18:29:32.134624"
       }
     ]
   },
@@ -9867,7 +9875,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區鼓山二路",
     "units": "鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9876,6 +9884,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T18:25:32.099487"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T18:29:32.134624"
       }
     ]
   },
@@ -9898,6 +9910,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T18:28:31.822526"
+      }
+    ]
+  },
+  "666b791b1c0fd968bfa95a40c8cf3ee1": {
+    "time": "2026/10/08 18:27:11",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市前鎮區",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-08T18:29:32.134624"
       }
     ]
   }
