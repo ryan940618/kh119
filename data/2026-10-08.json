@@ -7749,7 +7749,7 @@
     "sub_category": "路倒",
     "location": "高雄市左營區榮耀街",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -7758,6 +7758,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T15:48:30.918703"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T16:06:31.141734"
       }
     ]
   },
@@ -7924,6 +7928,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T16:03:31.139164"
+      }
+    ]
+  },
+  "b79cf0df9cf18c81f4a9206f6e3205fd": {
+    "time": "2026/10/08 16:05:14",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區建國三路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T16:06:31.141734"
       }
     ]
   }
