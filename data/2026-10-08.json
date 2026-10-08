@@ -9311,7 +9311,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9324,6 +9324,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T17:53:31.870312"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T17:57:31.952498"
       }
     ]
   },
@@ -9444,6 +9448,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T17:55:31.722661"
+      }
+    ]
+  },
+  "dbf394b574109e9671c6443343ab2d5b": {
+    "time": "2026/10/08 17:56:41",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區明誠二路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T17:57:31.952498"
+      }
+    ]
+  },
+  "a0afc6d567c9458c364d406a64daf2e9": {
+    "time": "2026/10/08 17:55:51",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區明誠二路",
+    "units": "鼎金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T17:57:31.952498"
       }
     ]
   }
