@@ -765,7 +765,7 @@
     "sub_category": "路倒",
     "location": "高雄市茄萣區建中街",
     "units": "茄萣分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -782,6 +782,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T02:54:30.880550"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T03:10:30.915235"
       }
     ]
   },
@@ -813,7 +817,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區中正路",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -822,6 +826,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T03:07:30.958977"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T03:10:30.915235"
       }
     ]
   },
