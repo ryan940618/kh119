@@ -10869,7 +10869,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區德民路",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10882,6 +10882,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T20:21:31.418815"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T20:30:31.481568"
       }
     ]
   },
@@ -10927,11 +10931,15 @@
     "sub_category": "車禍",
     "location": "高雄市左營區自由二路",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-08T20:25:31.509900"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T20:30:31.481568"
       }
     ]
   },
@@ -10946,6 +10954,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T20:27:31.432754"
+      }
+    ]
+  },
+  "6b1f495bfa081b5eda1f944f6f2eb43e": {
+    "time": "2026/10/08 20:28:24",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區堯山街",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T20:30:31.481568"
       }
     ]
   }
