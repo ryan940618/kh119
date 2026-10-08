@@ -5113,7 +5113,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區國泰路",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5126,6 +5126,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T11:26:31.388276"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T11:34:31.422339"
       }
     ]
   },
@@ -5224,6 +5228,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T11:31:31.265350"
+      }
+    ]
+  },
+  "33b6de6fc21529349bed5ca6522562ff": {
+    "time": "2026/10/08 11:33:58",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T11:34:31.422339"
       }
     ]
   }
