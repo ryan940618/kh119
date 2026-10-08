@@ -9019,7 +9019,7 @@
     "sub_category": "急病",
     "location": "高雄市田寮區",
     "units": "崇德駐地",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9032,6 +9032,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T17:33:31.588153"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T17:45:31.595565"
       }
     ]
   },
@@ -9201,11 +9205,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區大學南路和大學十三街",
     "units": "橋頭分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T17:44:31.702054"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T17:45:31.595565"
       }
     ]
   }
