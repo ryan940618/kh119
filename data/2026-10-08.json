@@ -4059,7 +4059,7 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區久堂路",
     "units": "大樹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -4072,6 +4072,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T09:49:31.815120"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T10:08:31.972351"
       }
     ]
   },
@@ -4449,11 +4453,43 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區興隆路",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T10:06:32.027612"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T10:08:31.972351"
+      }
+    ]
+  },
+  "84e0d8bdb43e9a507608534230133b67": {
+    "time": "2026/10/08 10:07:47",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區榮總路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T10:08:31.972351"
+      }
+    ]
+  },
+  "f939bf34f1da7dff73dd6e7b4af2afa1": {
+    "time": "2026/10/08 10:06:58",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區興隆路",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T10:08:31.972351"
       }
     ]
   }
