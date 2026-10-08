@@ -8757,7 +8757,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8774,6 +8774,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T17:26:31.520663"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T17:39:31.682844"
       }
     ]
   },
@@ -8959,7 +8963,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區文中街",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8976,6 +8980,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T17:37:31.613956"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T17:39:31.682844"
       }
     ]
   },
@@ -9061,7 +9069,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區建工路",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9070,6 +9078,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T17:35:31.672769"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T17:39:31.682844"
       }
     ]
   },
@@ -9097,11 +9109,15 @@
     "sub_category": "車禍",
     "location": "高雄市左營區左營大路",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T17:37:31.613956"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T17:39:31.682844"
       }
     ]
   },
