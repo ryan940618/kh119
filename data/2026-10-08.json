@@ -9867,7 +9867,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9884,6 +9884,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T18:45:31.177705"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T18:55:31.045776"
       }
     ]
   },
@@ -10229,7 +10233,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10242,6 +10246,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T18:49:31.028135"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T18:55:31.045776"
       }
     ]
   },
@@ -10346,6 +10354,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T18:51:31.220218"
+      }
+    ]
+  },
+  "c406491edd175e42187bbaa08c007763": {
+    "time": "2026/10/08 18:54:35",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區高楠公路",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T18:55:31.045776"
       }
     ]
   }
