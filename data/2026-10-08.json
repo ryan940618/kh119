@@ -3667,7 +3667,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區大昌一路",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -3676,6 +3676,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T09:08:31.492086"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T09:21:31.506001"
       }
     ]
   },
@@ -3751,11 +3755,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區土庫一路",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已到達",
         "timestamp": "2026-10-08T09:17:31.382912"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T09:21:31.506001"
       }
     ]
   },
