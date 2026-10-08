@@ -3801,7 +3801,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3818,6 +3818,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T09:37:31.744940"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T09:39:32.158416"
       }
     ]
   },
@@ -3827,7 +3831,7 @@
     "sub_category": "孕婦急產",
     "location": "高雄市大社區三民路",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3844,6 +3848,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T09:32:31.603047"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T09:39:32.158416"
       }
     ]
   },
@@ -4038,6 +4046,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T09:38:31.743354"
+      }
+    ]
+  },
+  "ea00734145c95ee32663942d0264c267": {
+    "time": "2026/10/08 09:38:28",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T09:39:32.158416"
       }
     ]
   }
