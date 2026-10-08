@@ -3811,7 +3811,7 @@
     "sub_category": "孕婦急產",
     "location": "高雄市大社區三民路",
     "units": "大社分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3824,6 +3824,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T09:27:31.584645"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T09:32:31.603047"
       }
     ]
   },
@@ -3901,11 +3905,29 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區旗楠路",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-08T09:27:31.584645"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T09:32:31.603047"
+      }
+    ]
+  },
+  "c189a043cacdca460515105c488b3cc5": {
+    "time": "2026/10/08 09:31:05",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市大寮區工商路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T09:32:31.603047"
       }
     ]
   }
