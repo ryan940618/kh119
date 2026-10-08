@@ -11885,7 +11885,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區裕誠路",
     "units": "左營分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11894,6 +11894,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T22:09:31.318228"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T22:15:31.295201"
       }
     ]
   },
@@ -11903,7 +11907,7 @@
     "sub_category": "車禍",
     "location": "高雄市新興區中正三路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11912,6 +11916,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T22:10:31.224379"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T22:15:31.295201"
       }
     ]
   },
@@ -11962,6 +11970,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T22:14:31.531041"
+      }
+    ]
+  },
+  "5631a564965ec36485f71f42d3daf094": {
+    "time": "2026/10/08 22:14:31",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T22:15:31.295201"
+      }
+    ]
+  },
+  "f4e837f0ff6327ce7e8a838d0670b339": {
+    "time": "2026/10/08 22:13:26",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市橋頭區橋科九路",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T22:15:31.295201"
       }
     ]
   }
