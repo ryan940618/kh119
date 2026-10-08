@@ -12351,7 +12351,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12360,6 +12360,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T22:52:31.379447"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T23:00:31.462741"
       }
     ]
   },
@@ -12405,11 +12409,15 @@
     "sub_category": "其他",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T22:59:31.518167"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T23:00:31.462741"
       }
     ]
   }
