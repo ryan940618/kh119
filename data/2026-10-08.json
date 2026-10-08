@@ -5299,7 +5299,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5316,6 +5316,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T11:49:31.373519"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T12:06:31.363754"
       }
     ]
   },
@@ -5383,11 +5387,29 @@
     "sub_category": "創傷",
     "location": "高雄市燕巢區鳳加路",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T12:04:31.451226"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T12:06:31.363754"
+      }
+    ]
+  },
+  "8891909a36d98aaff00e40940594ad29": {
+    "time": "2026/10/08 12:06:03",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T12:06:31.363754"
       }
     ]
   }
