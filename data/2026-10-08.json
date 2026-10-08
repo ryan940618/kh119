@@ -12249,7 +12249,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區立德街",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12258,6 +12258,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T22:46:31.341012"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T22:50:31.485717"
       }
     ]
   },
@@ -12326,6 +12330,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T22:49:31.487278"
+      }
+    ]
+  },
+  "fd7672d78d07658346402e5cc853657f": {
+    "time": "2026/10/08 22:49:18",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T22:50:31.485717"
       }
     ]
   }
