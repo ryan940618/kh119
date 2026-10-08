@@ -3973,7 +3973,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區自強三路",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3986,6 +3986,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T09:41:31.786430"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T09:49:31.815120"
       }
     ]
   },
@@ -4035,7 +4039,7 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區久堂路",
     "units": "大樹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -4044,6 +4048,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T09:43:31.593195"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T09:49:31.815120"
       }
     ]
   },
@@ -4084,6 +4092,48 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T09:46:31.656992"
+      }
+    ]
+  },
+  "823d93fceb09b01f7ef728282bb46975": {
+    "time": "2026/10/08 09:48:44",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區康平街",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T09:49:31.815120"
+      }
+    ]
+  },
+  "6e5b1106be3a1a8836f6f81c93cbfad6": {
+    "time": "2026/10/08 09:48:25",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區中山西路",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T09:49:31.815120"
+      }
+    ]
+  },
+  "1d457352289fdbf19654c817c0221b42": {
+    "time": "2026/10/08 09:47:52",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區康平街",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T09:49:31.815120"
       }
     ]
   }
