@@ -8491,7 +8491,7 @@
     "sub_category": "車禍",
     "location": "高雄市梓官區大舍東路",
     "units": "梓官分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8508,6 +8508,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T17:15:31.544582"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T17:29:31.686489"
       }
     ]
   },
@@ -8987,11 +8991,15 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區中正路",
     "units": "湖內分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T17:28:31.691831"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T17:29:31.686489"
       }
     ]
   }
