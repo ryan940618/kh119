@@ -6743,7 +6743,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區民權二路",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6756,6 +6756,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T13:53:31.189797"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T14:01:31.101339"
       }
     ]
   },
@@ -6765,7 +6769,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區民有路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6774,6 +6778,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T13:58:31.161059"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T14:01:31.101339"
+      }
+    ]
+  },
+  "9055dbfceee2d19067085cc207252be1": {
+    "time": "2026/10/08 14:01:02",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區中華三路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T14:01:31.101339"
       }
     ]
   }
