@@ -5853,7 +5853,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5870,6 +5870,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T12:47:31.689146"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T13:03:31.953686"
       }
     ]
   },
@@ -6033,7 +6037,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6042,6 +6046,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T12:56:31.821340"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T13:03:31.953686"
       }
     ]
   },
@@ -6097,11 +6105,15 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區福祥街",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T13:02:31.959844"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T13:03:31.953686"
       }
     ]
   },
@@ -6116,6 +6128,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T13:02:31.959844"
+      }
+    ]
+  },
+  "736fc851caaf6b2bb48d08edf02e26b0": {
+    "time": "2026/10/08 13:01:07",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大樹區",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T13:03:31.953686"
       }
     ]
   }
