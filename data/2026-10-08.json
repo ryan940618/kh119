@@ -2579,7 +2579,7 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區中山路",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2592,6 +2592,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T07:55:31.905998"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T08:00:31.134685"
       }
     ]
   },
@@ -2623,7 +2627,7 @@
     "sub_category": "車禍",
     "location": "高雄市旗山區旗南三路",
     "units": "旗山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2632,6 +2636,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T07:49:31.980636"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T08:00:31.134685"
       }
     ]
   },
@@ -2699,7 +2707,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2708,6 +2716,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T07:53:31.987943"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T08:00:31.134685"
       }
     ]
   },
@@ -2735,11 +2747,15 @@
     "sub_category": "車禍",
     "location": "高雄市杉林區",
     "units": "杉林分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T07:59:31.051894"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T08:00:31.134685"
       }
     ]
   }
