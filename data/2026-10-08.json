@@ -2993,7 +2993,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區私立道明中學/正門前/建國一路",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -3006,6 +3006,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T08:32:31.144192"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T08:37:31.257064"
       }
     ]
   },
@@ -3229,11 +3233,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區勝國街",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T08:35:31.268800"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T08:37:31.257064"
       }
     ]
   }
