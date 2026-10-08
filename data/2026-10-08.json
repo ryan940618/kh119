@@ -10211,7 +10211,7 @@
     "sub_category": "急病",
     "location": "高雄市田寮區",
     "units": "阿蓮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10224,6 +10224,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T18:50:31.219349"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T19:00:31.103830"
       }
     ]
   },
@@ -10412,6 +10416,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T18:59:31.228996"
+      }
+    ]
+  },
+  "9ef0036bb23d3111c7b23bc3482da5d6": {
+    "time": "2026/10/08 18:58:36",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T19:00:31.103830"
       }
     ]
   }
