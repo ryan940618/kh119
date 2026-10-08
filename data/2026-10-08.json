@@ -3265,7 +3265,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區勝國街",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3282,6 +3282,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T08:48:31.615623"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T08:49:31.546407"
       }
     ]
   },
@@ -3367,11 +3371,15 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T08:47:31.378064"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T08:49:31.546407"
       }
     ]
   },
@@ -3381,11 +3389,29 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T08:48:31.615623"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T08:49:31.546407"
+      }
+    ]
+  },
+  "16300d3931a963237a51f6a88e1059f0": {
+    "time": "2026/10/08 08:47:56",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "左營分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T08:49:31.546407"
       }
     ]
   }
