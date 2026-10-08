@@ -11033,7 +11033,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區堯山街",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11046,6 +11046,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T20:42:31.477601"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T20:53:31.674652"
       }
     ]
   },
@@ -11106,6 +11110,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T20:51:31.622120"
+      }
+    ]
+  },
+  "b7e7fd5385c9e9efb1c6b4e380c9e9eb": {
+    "time": "2026/10/08 20:52:51",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市湖內區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T20:53:31.674652"
       }
     ]
   }
