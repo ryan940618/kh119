@@ -1071,7 +1071,7 @@
     "sub_category": "創傷",
     "location": "高雄市仁武區永仁街",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1084,6 +1084,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T04:17:31.490965"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T04:18:31.452896"
       }
     ]
   },
@@ -1093,7 +1097,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1102,6 +1106,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T04:15:31.533046"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T04:18:31.452896"
       }
     ]
   },
@@ -1130,6 +1138,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T04:17:31.490965"
+      }
+    ]
+  },
+  "befea63262ac152974e6881482086853": {
+    "time": "2026/10/09 04:16:39",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T04:18:31.452896"
       }
     ]
   }
