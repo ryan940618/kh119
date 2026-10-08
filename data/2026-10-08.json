@@ -6277,7 +6277,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區蓮海路",
     "units": "鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6286,6 +6286,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T13:12:31.861063"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T13:18:32.088282"
       }
     ]
   },
@@ -6295,7 +6299,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區五林路",
     "units": "橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6304,6 +6308,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T13:11:32.072880"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T13:18:32.088282"
       }
     ]
   },
@@ -6331,11 +6339,29 @@
     "sub_category": "其他",
     "location": "高雄市大寮區",
     "units": "",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T13:16:31.964321"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T13:18:32.088282"
+      }
+    ]
+  },
+  "c9db76f9bcf41d609a933ba3e1eb4ed6": {
+    "time": "2026/10/08 13:17:22",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市燕巢區",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T13:18:32.088282"
       }
     ]
   }
