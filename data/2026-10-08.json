@@ -12215,7 +12215,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12232,6 +12232,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T22:45:31.328545"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T22:48:31.447868"
       }
     ]
   },
@@ -12296,6 +12300,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T22:45:31.328545"
+      }
+    ]
+  },
+  "0b2eacc7015b74782cbbb8a4952f586f": {
+    "time": "2026/10/08 22:47:01",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市美濃區中正路",
+    "units": "旗山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T22:48:31.447868"
       }
     ]
   }
