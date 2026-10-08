@@ -3711,7 +3711,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3724,6 +3724,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T09:17:31.382912"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T09:29:31.671830"
       }
     ]
   },
@@ -3733,7 +3737,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區保泰路",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3750,6 +3754,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T09:23:31.613836"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T09:29:31.671830"
       }
     ]
   },
@@ -3871,11 +3879,15 @@
     "sub_category": "其他",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T09:27:31.584645"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T09:29:31.671830"
       }
     ]
   },
