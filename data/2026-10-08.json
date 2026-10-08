@@ -11527,7 +11527,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11544,6 +11544,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T21:49:31.058926"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T21:58:31.103611"
       }
     ]
   },
@@ -11661,7 +11665,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區菜公一路",
     "units": "左營小隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11678,6 +11682,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T21:50:31.114397"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T21:58:31.103611"
       }
     ]
   },
@@ -11722,6 +11730,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T21:48:31.072482"
+      }
+    ]
+  },
+  "d8ac125be23485741802f37b8ee23ea6": {
+    "time": "2026/10/08 21:58:03",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T21:58:31.103611"
       }
     ]
   }
