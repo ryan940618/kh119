@@ -7481,7 +7481,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區公正路和瑞和街",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7498,6 +7498,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T15:39:31.952970"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T15:44:31.944091"
       }
     ]
   },
@@ -7607,11 +7611,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區本舘路",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-08T15:37:31.960284"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T15:44:31.944091"
       }
     ]
   },
@@ -7662,6 +7670,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T15:43:31.932570"
+      }
+    ]
+  },
+  "dbea6bf0ab0e1955c35b933a32c6d270": {
+    "time": "2026/10/08 15:42:41",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區建國一路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T15:44:31.944091"
       }
     ]
   }
