@@ -5573,7 +5573,7 @@
     "sub_category": "創傷",
     "location": "高雄市前金區自強三路",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5586,6 +5586,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T12:23:31.649345"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T12:32:31.741687"
       }
     ]
   },
@@ -5685,11 +5689,29 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T12:31:31.653570"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T12:32:31.741687"
+      }
+    ]
+  },
+  "caa49a654ccf315c431da6253ea5a8fb": {
+    "time": "2026/10/08 12:31:34",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區建國路",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T12:32:31.741687"
       }
     ]
   }
