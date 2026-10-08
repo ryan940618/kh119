@@ -135,7 +135,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區鳳楠路",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -152,6 +152,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T00:56:31.208605"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T01:03:31.352375"
       }
     ]
   },
@@ -324,6 +328,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T01:02:31.391772"
+      }
+    ]
+  },
+  "822beb896008470acadeaa71fdf3020b": {
+    "time": "2026/10/09 01:02:43",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市燕巢區",
+    "units": "田寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T01:03:31.352375"
       }
     ]
   }
