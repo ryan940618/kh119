@@ -3733,7 +3733,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區保泰路",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3746,6 +3746,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T09:16:31.454173"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T09:23:31.613836"
       }
     ]
   },
@@ -3796,6 +3800,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T09:22:31.486614"
+      }
+    ]
+  },
+  "7227e86224ef8c74cd7c01eb76938424": {
+    "time": "2026/10/08 09:22:13",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市燕巢區",
+    "units": "燕巢分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T09:23:31.613836"
       }
     ]
   }
