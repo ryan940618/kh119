@@ -4037,7 +4037,7 @@
     "sub_category": "其他",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4054,6 +4054,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T10:22:31.999128"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T10:25:31.974114"
       }
     ]
   },
@@ -4680,6 +4684,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T10:24:31.906223"
+      }
+    ]
+  },
+  "35a172ecfcd0909a6cd221b6bb8a3e09": {
+    "time": "2026/10/08 10:22:29",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "新北市永和市中正路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-08T10:25:31.974114"
       }
     ]
   }
