@@ -3057,7 +3057,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3074,6 +3074,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T08:34:31.211954"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T08:55:31.444581"
       }
     ]
   },
@@ -3383,7 +3387,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3392,6 +3396,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T08:49:31.546407"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T08:55:31.444581"
       }
     ]
   },
@@ -3496,6 +3504,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T08:54:31.572627"
+      }
+    ]
+  },
+  "b60f378958815ac8917944e73e8e89f7": {
+    "time": "2026/10/08 08:54:12",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區光華路",
+    "units": "和發分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T08:55:31.444581"
       }
     ]
   }
