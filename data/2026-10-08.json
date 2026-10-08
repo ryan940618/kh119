@@ -2783,7 +2783,7 @@
     "sub_category": "車禍",
     "location": "高雄市杉林區",
     "units": "杉林分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2796,6 +2796,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T08:08:31.157437"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T08:16:31.236728"
       }
     ]
   },
@@ -2853,7 +2857,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區大東二路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2862,6 +2866,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T08:10:31.453015"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T08:16:31.236728"
       }
     ]
   },
@@ -2893,11 +2901,15 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區凱旋二路",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T08:15:31.166596"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T08:16:31.236728"
       }
     ]
   }
