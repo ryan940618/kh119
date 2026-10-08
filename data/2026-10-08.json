@@ -12423,7 +12423,7 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12436,6 +12436,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T23:06:31.659584"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T23:21:33.198128"
       }
     ]
   },
@@ -12445,7 +12449,7 @@
     "sub_category": "其他",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12462,6 +12466,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T23:19:31.701888"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T23:21:33.198128"
       }
     ]
   },
@@ -12534,6 +12542,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T23:19:31.701888"
+      }
+    ]
+  },
+  "0f1158d8261acadbb8c58d20a8acbe64": {
+    "time": "2026/10/08 23:20:36",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市前金區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T23:21:33.198128"
       }
     ]
   }
