@@ -2683,7 +2683,7 @@
     "sub_category": "創傷",
     "location": "高雄市小港區中安路",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2696,6 +2696,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T07:55:31.905998"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T08:15:31.166596"
       }
     ]
   },
@@ -2705,7 +2709,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2718,6 +2722,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T07:58:31.092461"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T08:15:31.166596"
       }
     ]
   },
@@ -2876,6 +2884,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T08:12:31.195069"
+      }
+    ]
+  },
+  "b2038911aaedac43610e7483b157a0ea": {
+    "time": "2026/10/08 08:14:40",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區凱旋二路",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T08:15:31.166596"
       }
     ]
   }
