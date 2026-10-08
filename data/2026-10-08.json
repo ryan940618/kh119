@@ -5069,7 +5069,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區十全一路",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -5078,6 +5078,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T11:26:31.388276"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T11:27:31.262684"
       }
     ]
   },
@@ -5182,6 +5186,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T11:26:31.388276"
+      }
+    ]
+  },
+  "227d50292dd3ead2fc7f9ae1e84923ef": {
+    "time": "2026/10/08 11:26:19",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區鳳仁路",
+    "units": "仁武分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T11:27:31.262684"
       }
     ]
   }
