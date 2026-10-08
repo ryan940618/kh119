@@ -6613,7 +6613,7 @@
     "sub_category": "路倒",
     "location": "高雄市鹽埕區新興街",
     "units": "鼓山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6630,6 +6630,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T13:52:31.123005"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T13:57:31.266394"
       }
     ]
   },
@@ -6744,6 +6748,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T13:53:31.189797"
+      }
+    ]
+  },
+  "c815d8862e50f71c166ced9f5c5d66ad": {
+    "time": "2026/10/08 13:56:32",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區民有路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T13:57:31.266394"
       }
     ]
   }
