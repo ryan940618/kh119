@@ -4791,7 +4791,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區四維二路和廣東一街",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -4800,6 +4800,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T10:39:31.229224"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T10:46:31.027150"
       }
     ]
   },
@@ -4885,11 +4889,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T10:44:31.090685"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T10:46:31.027150"
       }
     ]
   }
