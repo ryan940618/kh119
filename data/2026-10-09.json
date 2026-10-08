@@ -187,7 +187,7 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -200,6 +200,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T01:01:31.283626"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T01:05:31.302601"
       }
     ]
   },
@@ -285,7 +289,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -294,6 +298,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T01:02:31.391772"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T01:05:31.302601"
       }
     ]
   },
@@ -331,11 +339,15 @@
     "sub_category": "其他",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T01:02:31.391772"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T01:05:31.302601"
       }
     ]
   },
@@ -345,11 +357,15 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "田寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T01:03:31.352375"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T01:05:31.302601"
       }
     ]
   }
