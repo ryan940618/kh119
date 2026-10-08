@@ -6711,7 +6711,7 @@
     "sub_category": "創傷",
     "location": "高雄市林園區三官路",
     "units": "林園分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6724,6 +6724,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T13:54:31.267506"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T14:07:31.248499"
       }
     ]
   },
@@ -6747,7 +6751,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區民權二路",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6764,6 +6768,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T14:01:31.101339"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T14:07:31.248499"
       }
     ]
   },
@@ -6800,6 +6808,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T14:01:31.101339"
+      }
+    ]
+  },
+  "51278df1f36aeb94302e1abbab97694b": {
+    "time": "2026/10/08 14:07:07",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市湖內區",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T14:07:31.248499"
       }
     ]
   }
