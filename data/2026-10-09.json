@@ -31,7 +31,7 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -48,6 +48,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T00:40:31.202452"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T00:54:31.215071"
       }
     ]
   },
@@ -79,7 +83,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -92,6 +96,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T00:42:31.144539"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T00:54:31.215071"
       }
     ]
   },
@@ -186,6 +194,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T00:53:31.260071"
+      }
+    ]
+  },
+  "e48c543701fa8ccdbfcc8d921cc1defd": {
+    "time": "2026/10/09 00:53:19",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區中華橫路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T00:54:31.215071"
+      }
+    ]
+  },
+  "a705dd8dc42ce64a212e8dc8c80d9272": {
+    "time": "2026/10/09 00:52:56",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T00:54:31.215071"
       }
     ]
   }
