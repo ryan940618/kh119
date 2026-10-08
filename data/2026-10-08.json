@@ -3169,7 +3169,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區大華一路",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3186,6 +3186,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T08:44:31.494405"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T08:52:31.573181"
       }
     ]
   },
@@ -3430,6 +3434,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T08:50:31.446778"
+      }
+    ]
+  },
+  "b1d8c1f7d839d07b7bf8ecb98e7267fd": {
+    "time": "2026/10/08 08:51:37",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市那瑪夏區",
+    "units": "那瑪夏分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T08:52:31.573181"
+      }
+    ]
+  },
+  "6d1bfda80a40d123753cabe2a96c7a6b": {
+    "time": "2026/10/08 08:51:18",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T08:52:31.573181"
       }
     ]
   }
