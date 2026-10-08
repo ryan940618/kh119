@@ -2839,7 +2839,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2856,6 +2856,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T08:13:31.090277"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T08:20:31.163588"
       }
     ]
   },
@@ -2932,6 +2936,62 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T08:17:31.167605"
+      }
+    ]
+  },
+  "996c059f9a24e61f5f223bca76dde57e": {
+    "time": "2026/10/08 08:19:53",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區私立道明中學/正門前/建國一路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T08:20:31.163588"
+      }
+    ]
+  },
+  "1fc02203131209da5e8ffca555415e0e": {
+    "time": "2026/10/08 08:19:42",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T08:20:31.163588"
+      }
+    ]
+  },
+  "b9d9e91b5fa86a634973a98fd72cf4a6": {
+    "time": "2026/10/08 08:19:23",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市湖內區",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T08:20:31.163588"
+      }
+    ]
+  },
+  "de836577710d7bd09f6ed470398d35ff": {
+    "time": "2026/10/08 08:19:01",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區鳳楠路",
+    "units": "楠梓分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T08:20:31.163588"
       }
     ]
   }
