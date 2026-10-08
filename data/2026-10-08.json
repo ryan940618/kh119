@@ -8245,7 +8245,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8262,6 +8262,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-08T16:51:31.372073"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-08T17:07:31.383240"
       }
     ]
   },
@@ -8578,6 +8582,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T17:06:31.310983"
+      }
+    ]
+  },
+  "4894fb3da20b2cf448da27d7a28d35fe": {
+    "time": "2026/10/08 17:06:37",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大社區",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T17:07:31.383240"
       }
     ]
   }
