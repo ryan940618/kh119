@@ -8229,7 +8229,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8242,6 +8242,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T16:41:31.210959"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-08T16:51:31.372073"
       }
     ]
   },
@@ -8393,11 +8397,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T16:50:31.232451"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T16:51:31.372073"
       }
     ]
   }
