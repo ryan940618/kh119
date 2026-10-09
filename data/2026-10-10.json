@@ -53,7 +53,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -66,6 +66,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T00:22:31.138779"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T00:37:31.161857"
       }
     ]
   },
@@ -114,6 +118,20 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T00:35:31.088244"
+      }
+    ]
+  },
+  "1e27851697d07527e8aae95ae1fbc385": {
+    "time": "2026/10/10 00:35:57",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T00:37:31.161857"
       }
     ]
   }
