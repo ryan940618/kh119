@@ -8021,7 +8021,7 @@
     "sub_category": "其他",
     "location": "高雄市左營區",
     "units": "",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8034,6 +8034,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T16:18:31.157579"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T16:29:31.220078"
       }
     ]
   },
@@ -8117,7 +8121,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8126,6 +8130,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T16:25:31.300034"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T16:29:31.220078"
       }
     ]
   },
@@ -8144,6 +8152,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T16:28:31.314115"
+      }
+    ]
+  },
+  "aab30d98e620f725fc9eaa83e0f427d4": {
+    "time": "2026/10/09 16:28:30",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區鳳埤街",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T16:29:31.220078"
+      }
+    ]
+  },
+  "4a9f0d5acece530ca8bd52bfa23a382a": {
+    "time": "2026/10/09 16:28:24",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市岡山區大仁北路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T16:29:31.220078"
       }
     ]
   }
