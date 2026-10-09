@@ -4997,7 +4997,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "阿蓮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5014,6 +5014,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T11:51:31.607211"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T12:08:31.645609"
       }
     ]
   },
@@ -5237,7 +5241,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區博愛二路",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5250,6 +5254,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T11:59:31.568236"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T12:08:31.645609"
       }
     ]
   },
@@ -5259,7 +5267,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "崇德駐地",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5268,6 +5276,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T11:57:31.518306"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T12:08:31.645609"
       }
     ]
   },
@@ -5336,6 +5348,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T12:06:31.611369"
+      }
+    ]
+  },
+  "326acef806bd1e6b501e8d070d28eaa4": {
+    "time": "2026/10/09 12:07:25",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T12:08:31.645609"
+      }
+    ]
+  },
+  "1267fb2ea4f0f95243fa70e26055efc9": {
+    "time": "2026/10/09 12:07:15",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區安樂一街",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T12:08:31.645609"
+      }
+    ]
+  },
+  "a2a4dccfc6b6cea93dd4ae9d89c5bff7": {
+    "time": "2026/10/09 12:07:12",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區安樂一街",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T12:08:31.645609"
       }
     ]
   }
