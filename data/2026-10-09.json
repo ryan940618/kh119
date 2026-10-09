@@ -11385,7 +11385,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11394,6 +11394,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T21:41:31.166495"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T21:43:31.218385"
       }
     ]
   },
@@ -11426,6 +11430,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T21:41:31.166495"
+      }
+    ]
+  },
+  "5c136c2c59d42bfc44a61395a9d48cc6": {
+    "time": "2026/10/09 21:42:24",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T21:43:31.218385"
       }
     ]
   }
