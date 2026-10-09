@@ -10453,11 +10453,15 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T20:14:31.567386"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T20:16:31.635382"
       }
     ]
   },
@@ -10476,6 +10480,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T20:15:31.560356"
+      }
+    ]
+  },
+  "2eb5295be3a9bd12237d3a2f5e035168": {
+    "time": "2026/10/09 20:15:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T20:16:31.635382"
+      }
+    ]
+  },
+  "d857882829d3ea56509ae00cfc2387fd": {
+    "time": "2026/10/09 20:14:58",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區自強一路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T20:16:31.635382"
       }
     ]
   }
