@@ -6541,7 +6541,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區至聖路",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6554,6 +6554,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T14:24:31.529092"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T14:29:31.588219"
       }
     ]
   },
@@ -6607,7 +6611,7 @@
     "sub_category": "其他",
     "location": "高雄市左營區大中二路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6616,6 +6620,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T14:21:31.437177"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T14:29:31.588219"
       }
     ]
   },
@@ -6665,11 +6673,15 @@
     "sub_category": "急病",
     "location": "高雄市那瑪夏區",
     "units": "那瑪夏分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T14:28:31.660972"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T14:29:31.588219"
       }
     ]
   },
