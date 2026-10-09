@@ -8321,7 +8321,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -8330,6 +8330,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T16:54:31.335647"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T17:06:31.434132"
       }
     ]
   },
@@ -8493,11 +8497,29 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區湖中路和福生一街",
     "units": "湖內分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T17:05:31.486795"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T17:06:31.434132"
+      }
+    ]
+  },
+  "686e75f802041ca494ee8f7f9d82bd16": {
+    "time": "2026/10/09 17:05:57",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區江山路",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T17:06:31.434132"
       }
     ]
   }
