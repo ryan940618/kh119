@@ -1573,7 +1573,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中山四路",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1586,6 +1586,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T06:36:31.560350"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T06:55:31.698771"
       }
     ]
   },
@@ -1697,11 +1701,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T06:51:31.693617"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T06:55:31.698771"
       }
     ]
   },
