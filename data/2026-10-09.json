@@ -11839,7 +11839,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區立信街",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11856,6 +11856,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T22:43:31.626785"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T23:01:31.797664"
       }
     ]
   },
@@ -12090,6 +12094,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T23:00:31.746214"
+      }
+    ]
+  },
+  "b8fe320f92fba7030857b4265727801b": {
+    "time": "2026/10/09 23:00:57",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區瑞隆東路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T23:01:31.797664"
       }
     ]
   }
