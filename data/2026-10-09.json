@@ -2965,7 +2965,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2978,6 +2978,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T09:28:31.556391"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T09:44:31.655128"
       }
     ]
   },
@@ -3143,7 +3147,7 @@
     "sub_category": "一般(集合)住宅",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "已到達",
+    "current_status": "火已控",
     "status_history": [
       {
         "status": "已派遣",
@@ -3160,6 +3164,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T09:39:31.591899"
+      },
+      {
+        "status": "火已控",
+        "timestamp": "2026-10-09T09:44:31.655128"
       }
     ]
   },
@@ -3191,7 +3199,7 @@
     "sub_category": "汽機車",
     "location": "高雄市路竹區延平路",
     "units": "永安分隊,路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3200,6 +3208,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T09:37:31.505622"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T09:44:31.655128"
       }
     ]
   },
@@ -3227,11 +3239,15 @@
     "sub_category": "車禍",
     "location": "高雄市茄萣區仁愛路",
     "units": "茄萣分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T09:43:31.639494"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T09:44:31.655128"
       }
     ]
   }
