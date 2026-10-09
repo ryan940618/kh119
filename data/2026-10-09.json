@@ -4517,7 +4517,7 @@
     "sub_category": "創傷",
     "location": "高雄市林園區東林西路",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4534,6 +4534,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T11:14:31.369401"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T11:36:31.479231"
       }
     ]
   },
@@ -4599,7 +4603,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4612,6 +4616,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T11:15:31.400746"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T11:36:31.479231"
       }
     ]
   },
@@ -4665,7 +4673,7 @@
     "sub_category": "創傷",
     "location": "高雄市仁武區京吉二路",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -4674,6 +4682,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T11:20:31.243091"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T11:36:31.479231"
       }
     ]
   },
@@ -4731,7 +4743,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區中正一路",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -4740,6 +4752,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T11:28:31.312090"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T11:36:31.479231"
       }
     ]
   },
@@ -4878,6 +4894,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T11:33:31.322321"
+      }
+    ]
+  },
+  "97b21f7307908e0b30744dfcd949cd82": {
+    "time": "2026/10/09 11:35:30",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T11:36:31.479231"
+      }
+    ]
+  },
+  "1699224d256b3fa84fa9a285e52ac387": {
+    "time": "2026/10/09 11:35:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "阿蓮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T11:36:31.479231"
       }
     ]
   }
