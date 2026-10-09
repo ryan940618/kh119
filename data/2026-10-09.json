@@ -12327,7 +12327,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -12340,6 +12340,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T23:47:30.975255"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T23:51:30.900523"
       }
     ]
   },
@@ -12367,11 +12371,15 @@
     "sub_category": "路倒",
     "location": "高雄市左營區民族一路",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T23:48:31.025862"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T23:51:30.900523"
       }
     ]
   }
