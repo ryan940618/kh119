@@ -9841,7 +9841,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9858,6 +9858,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T19:06:31.252629"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T19:15:31.379898"
       }
     ]
   },
@@ -9959,7 +9963,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區左營大路",
     "units": "左營小隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9976,6 +9980,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T19:10:31.411147"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T19:15:31.379898"
       }
     ]
   },
@@ -10114,6 +10122,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T19:14:31.285737"
+      }
+    ]
+  },
+  "58ab0f19bf3c75070c648598039a27a9": {
+    "time": "2026/10/09 19:14:07",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市路竹區華正路",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T19:15:31.379898"
+      }
+    ]
+  },
+  "35f14b873b10089420cf26626d0fb28c": {
+    "time": "2026/10/09 19:13:45",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區鼓山二路",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T19:15:31.379898"
       }
     ]
   }
