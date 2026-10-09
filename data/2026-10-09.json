@@ -8091,7 +8091,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8104,6 +8104,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T16:27:31.248076"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T16:28:31.314115"
       }
     ]
   },
@@ -8131,11 +8135,15 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T16:26:31.220353"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T16:28:31.314115"
       }
     ]
   }
