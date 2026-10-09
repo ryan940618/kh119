@@ -10261,7 +10261,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10274,6 +10274,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T19:54:31.481368"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T20:03:31.529100"
       }
     ]
   },
@@ -10354,6 +10358,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T20:02:31.468598"
+      }
+    ]
+  },
+  "68ea99d78dbbb71264a6b15a6dbf0ace": {
+    "time": "2026/10/09 20:02:41",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T20:03:31.529100"
+      }
+    ]
+  },
+  "0fa83c50606372b3f988eee9c7baa7d8": {
+    "time": "2026/10/09 20:01:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區後興北路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T20:03:31.529100"
       }
     ]
   }
