@@ -7867,7 +7867,7 @@
     "sub_category": "急病",
     "location": "高雄市橋頭區",
     "units": "橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7876,6 +7876,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T16:03:31.181951"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T16:08:31.109130"
       }
     ]
   },
@@ -7898,6 +7902,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T16:06:31.187975"
+      }
+    ]
+  },
+  "9954122afd34b81cf5d1719f08966171": {
+    "time": "2026/10/09 16:07:33",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市阿蓮區",
+    "units": "阿蓮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T16:08:31.109130"
       }
     ]
   }
