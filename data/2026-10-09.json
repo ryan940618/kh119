@@ -11099,7 +11099,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區大豐二路",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11108,6 +11108,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T21:11:30.994444"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T21:18:31.061834"
       }
     ]
   },
@@ -11193,11 +11197,29 @@
     "sub_category": "創傷",
     "location": "高雄市仁武區大豐街",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T21:17:31.134742"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T21:18:31.061834"
+      }
+    ]
+  },
+  "fbed54824a902c00c62e1c14d8d057de": {
+    "time": "2026/10/09 21:18:10",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市新興區中正三路",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T21:18:31.061834"
       }
     ]
   }
