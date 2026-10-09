@@ -5547,7 +5547,7 @@
     "sub_category": "創傷",
     "location": "高雄市岡山區聖得路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5556,6 +5556,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T12:23:31.786273"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T12:30:31.838059"
       }
     ]
   },
@@ -5636,6 +5640,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T12:29:31.819427"
+      }
+    ]
+  },
+  "fc77844310e89b518e5d147bcf631c2e": {
+    "time": "2026/10/09 12:29:54",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大社區",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T12:30:31.838059"
+      }
+    ]
+  },
+  "666f2ff35bb625b3819c9c122cd0a1fd": {
+    "time": "2026/10/09 12:29:49",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區建國一路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T12:30:31.838059"
+      }
+    ]
+  },
+  "dfa7da4d9e7274aa09e76ef0fb9c7e6b": {
+    "time": "2026/10/09 12:29:04",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T12:30:31.838059"
       }
     ]
   }
