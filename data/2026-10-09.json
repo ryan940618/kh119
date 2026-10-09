@@ -12167,7 +12167,7 @@
     "sub_category": "創傷",
     "location": "高雄市小港區北林路",
     "units": "高桂分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12184,6 +12184,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T23:27:31.865860"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T23:32:31.944242"
       }
     ]
   },
@@ -12193,7 +12197,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12210,6 +12214,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T23:24:31.880203"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T23:32:31.944242"
       }
     ]
   },
@@ -12250,6 +12258,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T23:25:31.824247"
+      }
+    ]
+  },
+  "794fe2e947cb33f1d65e82d4623ad4a2": {
+    "time": "2026/10/09 23:30:41",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T23:32:31.944242"
       }
     ]
   }
