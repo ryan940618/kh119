@@ -2317,11 +2317,15 @@
     "sub_category": "創傷",
     "location": "高雄市鹽埕區大義街",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T07:50:31.103696"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T07:52:31.020804"
       }
     ]
   },
@@ -2336,6 +2340,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T07:51:31.064779"
+      }
+    ]
+  },
+  "9cb4772ec9c30c68a1ee1da7a20cb0d6": {
+    "time": "2026/10/10 07:51:35",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市彌陀區仁愛街",
+    "units": "彌陀分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T07:52:31.020804"
+      }
+    ]
+  },
+  "fba1ecaccbe0338b73baad1060391e87": {
+    "time": "2026/10/10 07:50:55",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區中林路",
+    "units": "大林分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T07:52:31.020804"
       }
     ]
   }
