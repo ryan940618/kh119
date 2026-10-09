@@ -7767,11 +7767,15 @@
     "sub_category": "急病",
     "location": "高雄市內門區",
     "units": "內門分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-09T15:51:31.142961"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T15:59:31.248855"
       }
     ]
   },
@@ -7790,6 +7794,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T15:56:31.044977"
+      }
+    ]
+  },
+  "cf1f70f3e70216b90fae2666f783a685": {
+    "time": "2026/10/09 15:58:55",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市楠梓區清豐五路",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T15:59:31.248855"
       }
     ]
   }
