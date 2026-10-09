@@ -8857,7 +8857,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區新民路",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8870,6 +8870,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T17:37:31.647041"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T17:58:31.817766"
       }
     ]
   },
@@ -9029,7 +9033,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -9038,6 +9042,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T17:46:31.618979"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T17:58:31.817766"
       }
     ]
   },
@@ -9047,7 +9055,7 @@
     "sub_category": "路倒",
     "location": "高雄市岡山區大公路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9064,6 +9072,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T17:54:31.858861"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T17:58:31.817766"
       }
     ]
   },
@@ -9224,6 +9236,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T17:57:31.796671"
+      }
+    ]
+  },
+  "a664c58d8501c1498937dfd3c26f3c1f": {
+    "time": "2026/10/09 17:57:46",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗津區",
+    "units": "旗津分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T17:58:31.817766"
       }
     ]
   }
