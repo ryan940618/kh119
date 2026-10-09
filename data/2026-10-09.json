@@ -10885,7 +10885,7 @@
     "sub_category": "車禍",
     "location": "高雄市新興區泰順街",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10902,6 +10902,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T20:59:31.912029"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T21:01:32.067216"
       }
     ]
   },
@@ -10986,6 +10990,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T21:00:32.111013"
+      }
+    ]
+  },
+  "9785352e2bf864d7db646d07a6e295ac": {
+    "time": "2026/10/09 21:00:20",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市左營區自由二路",
+    "units": "鼎金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T21:01:32.067216"
       }
     ]
   }
