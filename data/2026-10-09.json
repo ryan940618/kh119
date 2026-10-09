@@ -4789,7 +4789,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -4802,6 +4802,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T11:39:31.586080"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T11:47:31.605128"
       }
     ]
   },
@@ -5071,11 +5075,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區南華路和光榮街",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T11:44:31.465583"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T11:47:31.605128"
       }
     ]
   },
@@ -5104,6 +5112,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T11:46:31.563867"
+      }
+    ]
+  },
+  "983dcfe8f4f204e03d21e362c0df08e4": {
+    "time": "2026/10/09 11:46:18",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市橋頭區橋南路",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T11:47:31.605128"
       }
     ]
   }
