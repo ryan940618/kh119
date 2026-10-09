@@ -8741,7 +8741,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8758,6 +8758,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T17:40:31.653859"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T17:52:31.849615"
       }
     ]
   },
@@ -8969,7 +8973,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區馬卡道路",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8986,6 +8990,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T17:49:31.762180"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T17:52:31.849615"
       }
     ]
   },
@@ -9079,11 +9087,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區學堂路",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-09T17:44:31.677637"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T17:52:31.849615"
       }
     ]
   },
@@ -9155,7 +9167,7 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區武昌路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9164,6 +9176,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T17:48:31.755161"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T17:52:31.849615"
       }
     ]
   }
