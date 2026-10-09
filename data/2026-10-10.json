@@ -275,7 +275,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -284,6 +284,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T01:12:31.465168"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T01:16:31.460289"
       }
     ]
   },
@@ -298,6 +302,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T01:08:31.437867"
+      }
+    ]
+  },
+  "4c80fadad7e0239887295a12d52811b0": {
+    "time": "2026/10/10 01:15:15",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前金區自立一路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T01:16:31.460289"
       }
     ]
   }
