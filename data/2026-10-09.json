@@ -10313,7 +10313,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區忠孝路",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10326,6 +10326,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T20:02:31.468598"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T20:14:31.567386"
       }
     ]
   },
@@ -10427,11 +10431,43 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T20:12:31.513488"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T20:14:31.567386"
+      }
+    ]
+  },
+  "7daa84c1d495561be7a70b89e22f9975": {
+    "time": "2026/10/09 20:13:50",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T20:14:31.567386"
+      }
+    ]
+  },
+  "bf21caf0f6f0a7b46f9bc1e7c8203ff7": {
+    "time": "2026/10/09 20:13:05",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T20:14:31.567386"
       }
     ]
   }
