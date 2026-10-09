@@ -10907,7 +10907,7 @@
     "sub_category": "創傷",
     "location": "高雄市仁武區八德中路",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -10920,6 +10920,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T20:54:32.135515"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T20:58:31.932207"
       }
     ]
   },
@@ -10960,6 +10964,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T20:56:31.925062"
+      }
+    ]
+  },
+  "b06e0eccbd596f336e4bb8a8bbb27ebb": {
+    "time": "2026/10/09 20:57:20",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鳳山區南正二路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T20:58:31.932207"
       }
     ]
   }
