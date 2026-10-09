@@ -7887,7 +7887,7 @@
     "sub_category": "急病",
     "location": "高雄市橋頭區",
     "units": "橋頭分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7900,6 +7900,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T16:08:31.109130"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T16:17:31.275177"
       }
     ]
   },
@@ -8016,6 +8020,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T16:13:31.135669"
+      }
+    ]
+  },
+  "03cc966322c702b10f35426ac6b4b2b3": {
+    "time": "2026/10/09 16:17:06",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市小港區華仁街",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T16:17:31.275177"
       }
     ]
   }
