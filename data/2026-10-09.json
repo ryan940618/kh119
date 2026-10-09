@@ -6367,7 +6367,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6384,6 +6384,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T14:25:31.629944"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T14:31:31.583106"
       }
     ]
   },
@@ -6567,7 +6571,7 @@
     "sub_category": "車禍",
     "location": "高雄市林園區東林東路",
     "units": "林園分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6580,6 +6584,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T14:24:31.529092"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T14:31:31.583106"
       }
     ]
   },
@@ -6691,11 +6699,15 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T14:28:31.660972"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T14:31:31.583106"
       }
     ]
   },
@@ -6710,6 +6722,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T14:30:31.447184"
+      }
+    ]
+  },
+  "ce4a08c782c97279c37c79b93037e508": {
+    "time": "2026/10/09 14:30:11",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T14:31:31.583106"
       }
     ]
   }
