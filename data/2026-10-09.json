@@ -6743,7 +6743,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6760,6 +6760,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T14:49:31.823738"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T14:52:32.003443"
       }
     ]
   },
@@ -6839,7 +6843,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6848,6 +6852,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T14:50:31.854432"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T14:52:32.003443"
       }
     ]
   },
@@ -6871,7 +6879,7 @@
     "sub_category": "路倒",
     "location": "高雄市大寮區中庄路",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6880,6 +6888,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T14:51:31.717917"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T14:52:32.003443"
       }
     ]
   },
@@ -6908,6 +6920,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T14:50:31.854432"
+      }
+    ]
+  },
+  "2c9677c5077ab081ea42ca32c23b081c": {
+    "time": "2026/10/09 14:51:07",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市典昌路",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T14:52:32.003443"
       }
     ]
   }
