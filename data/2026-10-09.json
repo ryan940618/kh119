@@ -7221,7 +7221,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區蓮潭路",
     "units": "左營小隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7238,6 +7238,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T15:26:32.087441"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T15:38:31.919328"
       }
     ]
   },
@@ -7615,11 +7619,15 @@
     "sub_category": "創傷",
     "location": "高雄市左營區中華一路",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T15:37:32.069333"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T15:38:31.919328"
       }
     ]
   }
