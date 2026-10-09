@@ -9993,7 +9993,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區右昌街",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -10006,6 +10006,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T19:12:31.275478"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T19:17:31.364273"
       }
     ]
   },
@@ -10015,7 +10019,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10028,6 +10032,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T19:09:31.185658"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T19:17:31.364273"
       }
     ]
   },
@@ -10037,7 +10045,7 @@
     "sub_category": "創傷",
     "location": "高雄市新興區五福一路",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10050,6 +10058,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T19:11:31.268188"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T19:17:31.364273"
       }
     ]
   },
@@ -10099,11 +10111,15 @@
     "sub_category": "創傷",
     "location": "高雄市仁武區澄觀路",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-09T19:11:31.268188"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T19:17:31.364273"
       }
     ]
   },
@@ -10154,6 +10170,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T19:15:31.379898"
+      }
+    ]
+  },
+  "460385ec1bca45bfcae0f6007fb8d7cb": {
+    "time": "2026/10/09 19:16:23",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區民族一路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T19:17:31.364273"
       }
     ]
   }
