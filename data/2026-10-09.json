@@ -3221,7 +3221,7 @@
     "sub_category": "車禍",
     "location": "高雄市大社區翠屏路",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3230,6 +3230,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T09:41:31.683193"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T09:45:31.682113"
       }
     ]
   },
@@ -3248,6 +3252,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T09:44:31.655128"
+      }
+    ]
+  },
+  "6f313d11b047851857e87d4cb9758466": {
+    "time": "2026/10/09 09:43:47",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T09:45:31.682113"
       }
     ]
   }
