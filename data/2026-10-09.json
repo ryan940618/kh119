@@ -2741,7 +2741,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區北平路",
     "units": "大樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2750,6 +2750,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T09:00:31.392455"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T09:07:31.375407"
       }
     ]
   },
@@ -2828,6 +2832,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T09:06:31.323314"
+      }
+    ]
+  },
+  "e6535f879b8329aea2fd686f727bcade": {
+    "time": "2026/10/09 09:06:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T09:07:31.375407"
+      }
+    ]
+  },
+  "f671ae7b731a44f30984eedea7c1745a": {
+    "time": "2026/10/09 09:05:08",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區新榮街",
+    "units": "鼎金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T09:07:31.375407"
       }
     ]
   }
