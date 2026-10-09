@@ -11511,7 +11511,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -11520,6 +11520,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T21:48:31.347879"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T22:07:31.743776"
       }
     ]
   },
@@ -11613,7 +11617,7 @@
     "sub_category": "孕婦急產",
     "location": "高雄市鳳山區南貴街",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11622,6 +11626,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T22:04:31.604006"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T22:07:31.743776"
       }
     ]
   },
@@ -11636,6 +11644,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T22:04:31.604006"
+      }
+    ]
+  },
+  "184b16baaab5e601f98cde75809b1e9f": {
+    "time": "2026/10/09 22:06:23",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T22:07:31.743776"
       }
     ]
   }
