@@ -5549,11 +5549,15 @@
     "sub_category": "孕婦急產",
     "location": "高雄市大寮區內厝路",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T12:22:31.609221"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T12:24:31.779047"
       }
     ]
   },
@@ -5563,11 +5567,29 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區和光街",
     "units": "右昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T12:23:31.786273"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T12:24:31.779047"
+      }
+    ]
+  },
+  "9c18a1b7ae66583795984f7387e3912e": {
+    "time": "2026/10/09 12:23:47",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T12:24:31.779047"
       }
     ]
   }
