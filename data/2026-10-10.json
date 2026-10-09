@@ -1523,11 +1523,15 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T06:30:31.727233"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T06:32:34.344826"
       }
     ]
   },
@@ -1542,6 +1546,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T06:31:31.615961"
+      }
+    ]
+  },
+  "8c79dd2316d7b7ba560f1a4a8c63eac5": {
+    "time": "2026/10/10 06:31:33",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市前金區中華三路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T06:32:34.344826"
+      }
+    ]
+  },
+  "b9f6cd0a3b71e8fc22f9cc534d6fcf07": {
+    "time": "2026/10/10 06:31:13",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T06:32:34.344826"
       }
     ]
   }
