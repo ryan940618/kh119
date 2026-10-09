@@ -2161,7 +2161,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2178,6 +2178,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T08:02:30.964350"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T08:10:31.073278"
       }
     ]
   },
@@ -2231,7 +2235,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區國富路",
     "units": "鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2240,6 +2244,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T08:05:30.948153"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T08:10:31.073278"
       }
     ]
   },
@@ -2295,11 +2303,15 @@
     "sub_category": "車禍",
     "location": "高雄市旗山區旗屏二路",
     "units": "旗山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T08:09:31.125596"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T08:10:31.073278"
       }
     ]
   }
