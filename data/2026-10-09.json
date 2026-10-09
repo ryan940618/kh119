@@ -6363,7 +6363,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6376,6 +6376,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T14:13:31.350552"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T14:25:31.629944"
       }
     ]
   },
@@ -6385,7 +6389,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區大智陸橋往屏東方向橋上路",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6402,6 +6406,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T14:19:31.395530"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T14:25:31.629944"
       }
     ]
   },
@@ -6623,11 +6631,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T14:24:31.529092"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T14:25:31.629944"
       }
     ]
   }
