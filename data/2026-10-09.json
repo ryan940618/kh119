@@ -11103,7 +11103,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區大豐二路",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11116,6 +11116,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T21:18:31.061834"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T21:28:31.077385"
       }
     ]
   },
@@ -11265,7 +11269,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區西藏街",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11274,6 +11278,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T21:24:31.042040"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T21:28:31.077385"
       }
     ]
   },
@@ -11283,11 +11291,29 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T21:26:31.052408"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T21:28:31.077385"
+      }
+    ]
+  },
+  "33a3141f9f780dc9351efc6aa650c68d": {
+    "time": "2026/10/09 21:26:51",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "前金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T21:28:31.077385"
       }
     ]
   }
