@@ -135,7 +135,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -152,6 +152,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T00:57:31.336308"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T01:08:31.437867"
       }
     ]
   },
@@ -258,6 +262,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T01:03:31.450944"
+      }
+    ]
+  },
+  "6590edf1bd907da0fb99c1e455187c43": {
+    "time": "2026/10/10 01:07:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T01:08:31.437867"
+      }
+    ]
+  },
+  "8a34807ac36c07433d2473f3e8b61bae": {
+    "time": "2026/10/10 01:07:36",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市左營區文慈路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T01:08:31.437867"
       }
     ]
   }
