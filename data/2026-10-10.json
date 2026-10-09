@@ -1879,11 +1879,29 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-10T07:07:31.940691"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T07:13:31.960832"
+      }
+    ]
+  },
+  "3889d56443de6fc57bd897a4b86871c9": {
+    "time": "2026/10/10 07:12:51",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市橋頭區",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T07:13:31.960832"
       }
     ]
   }
