@@ -10731,11 +10731,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-09T20:35:31.671820"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T20:44:31.857095"
       }
     ]
   },
@@ -10759,11 +10763,15 @@
     "sub_category": "汽機車",
     "location": "高雄市小港區大平路",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T20:41:31.873759"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T20:44:31.857095"
       }
     ]
   },
@@ -10787,11 +10795,29 @@
     "sub_category": "其他",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T20:43:31.777525"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T20:44:31.857095"
+      }
+    ]
+  },
+  "b0643e928238a591c38a725fd23aee3d": {
+    "time": "2026/10/09 20:43:29",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T20:44:31.857095"
       }
     ]
   }
