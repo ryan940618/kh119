@@ -2715,7 +2715,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2732,6 +2732,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T09:05:31.375779"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T09:14:31.381906"
       }
     ]
   },
@@ -2849,7 +2853,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2858,6 +2862,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T09:08:31.358508"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T09:14:31.381906"
       }
     ]
   },
@@ -2867,11 +2875,15 @@
     "sub_category": "車禍",
     "location": "高雄市左營區新榮街",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-09T09:07:31.375407"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T09:14:31.381906"
       }
     ]
   },
@@ -2895,11 +2907,29 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區統嶺路",
     "units": "燕巢分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T09:13:31.300433"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T09:14:31.381906"
+      }
+    ]
+  },
+  "df3ec3af42e52fcd483e2c692f804510": {
+    "time": "2026/10/09 09:13:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市梓官區",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T09:14:31.381906"
       }
     ]
   }
