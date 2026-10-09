@@ -5171,7 +5171,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -5180,6 +5180,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T11:51:31.607211"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T12:04:31.589607"
       }
     ]
   },
@@ -5274,6 +5278,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T12:00:31.732209"
+      }
+    ]
+  },
+  "a6f6d825718dfafa960e617f9637635e": {
+    "time": "2026/10/09 12:03:38",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區昌富街",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T12:04:31.589607"
       }
     ]
   }
