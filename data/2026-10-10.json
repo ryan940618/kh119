@@ -1755,7 +1755,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1772,6 +1772,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T07:17:31.788101"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T07:23:31.855093"
       }
     ]
   },
@@ -1917,7 +1921,7 @@
     "sub_category": "急病",
     "location": "高雄市橋頭區",
     "units": "橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1926,6 +1930,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T07:16:31.930028"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T07:23:31.855093"
       }
     ]
   },
@@ -1935,7 +1943,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1948,6 +1956,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T07:20:31.822605"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T07:23:31.855093"
       }
     ]
   },
@@ -1998,6 +2010,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T07:22:31.876980"
+      }
+    ]
+  },
+  "61e2a5bf34efbca51e52fb3961fcd482": {
+    "time": "2026/10/10 07:22:27",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市前金區大同二路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T07:23:31.855093"
       }
     ]
   }
