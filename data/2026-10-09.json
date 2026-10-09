@@ -11021,7 +11021,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區南正二路",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11034,6 +11034,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T21:08:32.044847"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T21:10:31.197560"
       }
     ]
   },
@@ -11066,6 +11070,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T21:07:32.073560"
+      }
+    ]
+  },
+  "13fc625c4d26e1ab1ae9b11648180942": {
+    "time": "2026/10/09 21:09:25",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區大豐二路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T21:10:31.197560"
       }
     ]
   }
