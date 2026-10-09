@@ -4269,7 +4269,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4282,6 +4282,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T10:48:31.198051"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T10:57:31.309778"
       }
     ]
   },
@@ -4385,11 +4389,43 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T10:56:31.158308"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T10:57:31.309778"
+      }
+    ]
+  },
+  "17020fe77581bb42197002e4ca923c96": {
+    "time": "2026/10/09 10:57:01",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市新興區五福二路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T10:57:31.309778"
+      }
+    ]
+  },
+  "aa8bbc9b7a72dfa691cade80b6bfc636": {
+    "time": "2026/10/09 10:56:34",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T10:57:31.309778"
       }
     ]
   }
