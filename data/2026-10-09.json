@@ -10365,7 +10365,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10378,6 +10378,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T20:07:31.428506"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T20:18:31.733833"
       }
     ]
   },
@@ -10435,7 +10439,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10444,6 +10448,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T20:14:31.567386"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T20:18:31.733833"
       }
     ]
   },
@@ -10489,11 +10497,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T20:16:31.635382"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T20:18:31.733833"
       }
     ]
   },
@@ -10503,11 +10515,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區自強一路",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T20:16:31.635382"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T20:18:31.733833"
       }
     ]
   }
