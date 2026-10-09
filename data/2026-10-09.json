@@ -7165,7 +7165,7 @@
     "sub_category": "急病",
     "location": "高雄市田寮區",
     "units": "田寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7178,6 +7178,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T15:12:31.993469"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T15:29:31.912085"
       }
     ]
   },
@@ -7407,11 +7411,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區民族一路",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-09T15:25:32.105906"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T15:29:31.912085"
       }
     ]
   },
@@ -7448,6 +7456,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T15:26:32.087441"
+      }
+    ]
+  },
+  "090f77e6fb1bec247a05796dffa9f649": {
+    "time": "2026/10/09 15:28:34",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T15:29:31.912085"
       }
     ]
   }
