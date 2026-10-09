@@ -10851,7 +10851,7 @@
     "sub_category": "其他",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10864,6 +10864,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T20:51:31.989584"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T21:12:31.105056"
       }
     ]
   },
@@ -11073,11 +11077,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-09T21:07:32.073560"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T21:12:31.105056"
       }
     ]
   },
