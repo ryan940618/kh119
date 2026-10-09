@@ -11125,7 +11125,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區鼓山三路",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11138,6 +11138,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T21:16:31.059253"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T21:26:31.052408"
       }
     ]
   },
@@ -11239,7 +11243,7 @@
     "sub_category": "車禍",
     "location": "高雄市新興區中正三路",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -11248,6 +11252,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T21:19:31.073216"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T21:26:31.052408"
       }
     ]
   },
@@ -11266,6 +11274,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T21:24:31.042040"
+      }
+    ]
+  },
+  "d23a7f6af319cd08f3e23799036046c8": {
+    "time": "2026/10/09 21:25:03",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T21:26:31.052408"
       }
     ]
   }
