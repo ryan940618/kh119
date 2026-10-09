@@ -7129,7 +7129,7 @@
     "sub_category": "急病",
     "location": "高雄市田寮區",
     "units": "田寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7138,6 +7138,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T15:05:31.843251"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T15:12:31.993469"
       }
     ]
   },
@@ -7214,6 +7218,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T15:10:31.867455"
+      }
+    ]
+  },
+  "f2dbf60e42ad7909b4354dd8c45880b1": {
+    "time": "2026/10/09 15:10:19",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鳳山區五福二路",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T15:12:31.993469"
       }
     ]
   }
