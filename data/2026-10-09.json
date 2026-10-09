@@ -7565,7 +7565,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -7578,6 +7578,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T15:52:31.001260"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T15:55:31.098495"
       }
     ]
   },
@@ -7719,7 +7723,7 @@
     "sub_category": "路倒",
     "location": "高雄市鹽埕區必忠街",
     "units": "鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7728,6 +7732,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T15:52:31.001260"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T15:55:31.098495"
       }
     ]
   },
@@ -7760,6 +7768,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T15:51:31.142961"
+      }
+    ]
+  },
+  "001aba2586d47a01a0d4c7eea22bc697": {
+    "time": "2026/10/09 15:54:46",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市鳳山區明鳳十三街",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T15:55:31.098495"
       }
     ]
   }
