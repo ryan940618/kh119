@@ -9107,7 +9107,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區學堂路",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -9116,6 +9116,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T17:52:31.849615"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T17:59:31.671670"
       }
     ]
   },
@@ -9231,11 +9235,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T17:57:31.796671"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T17:59:31.671670"
       }
     ]
   },
@@ -9245,11 +9253,15 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T17:58:31.817766"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T17:59:31.671670"
       }
     ]
   }
