@@ -2381,7 +2381,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2394,6 +2394,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T08:25:31.106958"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T08:34:31.103993"
       }
     ]
   },
@@ -2465,7 +2469,7 @@
     "sub_category": "燒燙傷",
     "location": "高雄市前鎮區民權二路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2474,6 +2478,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T08:28:31.091497"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T08:34:31.103993"
       }
     ]
   },
@@ -2510,6 +2518,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T08:33:31.120219"
+      }
+    ]
+  },
+  "b4ca9c18d61d55fe9eace2fd7dc8a45c": {
+    "time": "2026/10/09 08:33:24",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市美濃區福美路",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T08:34:31.103993"
       }
     ]
   }
