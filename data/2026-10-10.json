@@ -343,7 +343,7 @@
     "sub_category": "車禍",
     "location": "高雄市前金區自立一路",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -356,6 +356,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T01:22:31.463976"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T01:31:31.784965"
       }
     ]
   },
@@ -383,11 +387,29 @@
     "sub_category": "急病",
     "location": "高雄市永安區",
     "units": "永安分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T01:30:31.591598"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T01:31:31.784965"
+      }
+    ]
+  },
+  "e1a3cd71b3a66c6b2ea6844479cba48d": {
+    "time": "2026/10/10 01:29:52",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T01:31:31.784965"
       }
     ]
   }
