@@ -9391,7 +9391,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -9400,6 +9400,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T18:10:32.112437"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T18:24:31.827623"
       }
     ]
   },
@@ -9449,7 +9453,7 @@
     "sub_category": "創傷",
     "location": "高雄市小港區丹山二路",
     "units": "大林分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9466,6 +9470,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T18:17:31.865648"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T18:24:31.827623"
       }
     ]
   },
@@ -9515,7 +9523,7 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9524,6 +9532,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T18:17:31.865648"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T18:24:31.827623"
       }
     ]
   },
@@ -9586,6 +9598,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T18:23:31.893771"
+      }
+    ]
+  },
+  "f5c9a949d351d59d2e750a7ea9d61940": {
+    "time": "2026/10/09 18:23:50",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T18:24:31.827623"
       }
     ]
   }
