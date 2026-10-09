@@ -6883,7 +6883,7 @@
     "sub_category": "路倒",
     "location": "高雄市大寮區中庄路",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6896,6 +6896,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T14:52:32.003443"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T15:02:32.017621"
       }
     ]
   },
@@ -7035,7 +7039,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7044,6 +7048,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T14:57:31.814890"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T15:02:32.017621"
       }
     ]
   },
@@ -7053,11 +7061,15 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T14:59:32.001480"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T15:02:32.017621"
       }
     ]
   },
@@ -7067,11 +7079,15 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T15:01:31.858571"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T15:02:32.017621"
       }
     ]
   }
