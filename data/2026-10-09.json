@@ -10313,7 +10313,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區忠孝路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10330,6 +10330,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T20:14:31.567386"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T20:20:31.677926"
       }
     ]
   },
@@ -10483,7 +10487,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10492,6 +10496,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T20:15:31.560356"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T20:20:31.677926"
       }
     ]
   },
@@ -10528,6 +10536,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T20:18:31.733833"
+      }
+    ]
+  },
+  "24d823c5fafc79334df3659b0f61a9d7": {
+    "time": "2026/10/09 20:19:50",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T20:20:31.677926"
+      }
+    ]
+  },
+  "f5fa3c295d50176fcb6edd750db91235": {
+    "time": "2026/10/09 20:19:40",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T20:20:31.677926"
       }
     ]
   }
