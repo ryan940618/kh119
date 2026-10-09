@@ -1135,7 +1135,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1148,6 +1148,24 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T05:01:30.759438"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T05:19:30.800862"
+      }
+    ]
+  },
+  "bfb0133a1bad140c1b3666bdce2b53f9": {
+    "time": "2026/10/10 05:18:51",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市楠梓區興楠路",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T05:19:30.800862"
       }
     ]
   }
