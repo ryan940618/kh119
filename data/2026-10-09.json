@@ -6843,7 +6843,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6856,6 +6856,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T14:52:32.003443"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T14:56:31.814931"
       }
     ]
   },
@@ -6983,11 +6987,43 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T14:55:31.829621"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T14:56:31.814931"
+      }
+    ]
+  },
+  "7eea2949be8001866841a8ebf3d947c7": {
+    "time": "2026/10/09 14:55:52",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區哈爾濱街",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T14:56:31.814931"
+      }
+    ]
+  },
+  "d40542dee4fb71c2ac2f45a338f2365d": {
+    "time": "2026/10/09 14:55:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T14:56:31.814931"
       }
     ]
   }
