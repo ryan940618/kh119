@@ -2053,7 +2053,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區萬丹路",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2074,6 +2074,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T07:51:31.806933"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T08:04:31.052957"
       }
     ]
   },
@@ -2224,6 +2228,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T08:02:30.964350"
+      }
+    ]
+  },
+  "75ae7020a3952f39ecfd86b46075f00d": {
+    "time": "2026/10/09 08:03:02",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T08:04:31.052957"
       }
     ]
   }
