@@ -451,7 +451,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -460,6 +460,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T01:45:31.791521"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T01:48:32.061510"
+      }
+    ]
+  },
+  "4d3f04c1881e6f329e614eac2475ea98": {
+    "time": "2026/10/10 01:46:47",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T01:48:32.061510"
       }
     ]
   }
