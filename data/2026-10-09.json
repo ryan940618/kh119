@@ -7905,7 +7905,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區自強二路",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7918,6 +7918,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T16:06:31.187975"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T16:11:31.093302"
       }
     ]
   },
@@ -7941,11 +7945,29 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T16:10:31.133147"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T16:11:31.093302"
+      }
+    ]
+  },
+  "88beaa7b4e583032f2de6fc4ca9217a8": {
+    "time": "2026/10/09 16:10:32",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T16:11:31.093302"
       }
     ]
   }
