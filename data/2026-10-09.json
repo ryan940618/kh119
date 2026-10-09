@@ -9129,7 +9129,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區裕誠路",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9146,6 +9146,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T17:51:31.673132"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T18:01:31.815882"
       }
     ]
   },
@@ -9221,11 +9225,15 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區大順三路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-09T17:54:31.858861"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T18:01:31.815882"
       }
     ]
   },
@@ -9262,6 +9270,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T17:59:31.671670"
+      }
+    ]
+  },
+  "dabccfba8700b15389143f5c843b1df4": {
+    "time": "2026/10/09 18:01:03",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市苓雅區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T18:01:31.815882"
       }
     ]
   }
