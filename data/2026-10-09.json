@@ -8295,7 +8295,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8308,6 +8308,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T16:46:31.283917"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T17:05:31.486795"
       }
     ]
   },
@@ -8480,6 +8484,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T17:04:31.301841"
+      }
+    ]
+  },
+  "2bf45eb15db47a50e1c203ac8b2a5c98": {
+    "time": "2026/10/09 17:04:30",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市湖內區湖中路和福生一街",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T17:05:31.486795"
       }
     ]
   }
