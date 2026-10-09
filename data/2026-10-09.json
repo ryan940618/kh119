@@ -2977,11 +2977,15 @@
     "sub_category": "其他",
     "location": "高雄市前金區六合二路",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T09:19:31.587661"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T09:20:31.540389"
       }
     ]
   },
@@ -2991,11 +2995,43 @@
     "sub_category": "急病",
     "location": "高雄市杉林區",
     "units": "杉林分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T09:19:31.587661"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T09:20:31.540389"
+      }
+    ]
+  },
+  "f03c79e816d023ba05544afe5c32ac7a": {
+    "time": "2026/10/09 09:20:04",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前金區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T09:20:31.540389"
+      }
+    ]
+  },
+  "2bb61cfc4ba2a93cdee0ec4c5af1f709": {
+    "time": "2026/10/09 09:18:16",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鳳山區中崙一路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T09:20:31.540389"
       }
     ]
   }
