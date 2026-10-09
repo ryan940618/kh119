@@ -5303,7 +5303,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區昌富街",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5312,6 +5312,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T12:05:31.585887"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T12:09:31.640170"
       }
     ]
   },
@@ -5390,6 +5394,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T12:08:31.645609"
+      }
+    ]
+  },
+  "5e17160f223809151d7a318d5b116517": {
+    "time": "2026/10/09 12:08:22",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區澄合街",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T12:09:31.640170"
       }
     ]
   }
