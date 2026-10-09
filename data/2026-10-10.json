@@ -135,7 +135,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -148,6 +148,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T00:43:31.233544"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T00:57:31.336308"
       }
     ]
   },
@@ -179,11 +183,29 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區神農路",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T00:55:31.620621"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T00:57:31.336308"
+      }
+    ]
+  },
+  "062325b2a4e544f4b783ae52c8ae41f2": {
+    "time": "2026/10/10 00:56:58",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鹽埕區",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T00:57:31.336308"
       }
     ]
   }
