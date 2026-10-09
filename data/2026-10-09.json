@@ -2361,7 +2361,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2370,6 +2370,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T08:23:31.118771"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T08:25:31.106958"
       }
     ]
   },
@@ -2401,11 +2405,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區武松街",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T08:22:30.969281"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T08:25:31.106958"
       }
     ]
   },
@@ -2420,6 +2428,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T08:22:30.969281"
+      }
+    ]
+  },
+  "f1a1a40064bdd00de808b08f851d24d6": {
+    "time": "2026/10/09 08:24:47",
+    "category": "緊急救護",
+    "sub_category": "燒燙傷",
+    "location": "高雄市前鎮區民權二路",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T08:25:31.106958"
       }
     ]
   }
