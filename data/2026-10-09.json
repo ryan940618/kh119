@@ -7441,7 +7441,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -7450,6 +7450,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T15:27:32.162038"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T15:37:32.069333"
       }
     ]
   },
@@ -7503,7 +7507,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區中華橫路",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7512,6 +7516,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T15:33:32.011817"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T15:37:32.069333"
       }
     ]
   },
@@ -7598,6 +7606,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T15:35:32.198724"
+      }
+    ]
+  },
+  "be58deb9ae04a9a7d306697c6590bb2b": {
+    "time": "2026/10/09 15:36:01",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市左營區中華一路",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T15:37:32.069333"
       }
     ]
   }
