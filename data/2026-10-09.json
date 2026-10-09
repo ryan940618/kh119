@@ -7191,7 +7191,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7208,6 +7208,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T15:25:32.105906"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T15:34:32.046498"
       }
     ]
   },
@@ -7469,7 +7473,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7478,6 +7482,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T15:30:31.957761"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T15:34:32.046498"
       }
     ]
   },
@@ -7505,11 +7513,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-09T15:31:31.976379"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T15:34:32.046498"
       }
     ]
   },
@@ -7519,11 +7531,43 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區美山路",
     "units": "和發分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T15:33:32.011817"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T15:34:32.046498"
+      }
+    ]
+  },
+  "6de1c86e4b4514ee1ed2a2ac84ab6977": {
+    "time": "2026/10/09 15:33:34",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市六龜區光復路",
+    "units": "六龜分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T15:34:32.046498"
+      }
+    ]
+  },
+  "8a8e24c259877fd582c59c78b76640fd": {
+    "time": "2026/10/09 15:33:26",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T15:34:32.046498"
       }
     ]
   }
