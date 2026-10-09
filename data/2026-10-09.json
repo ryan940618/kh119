@@ -10649,7 +10649,7 @@
     "sub_category": "一般(集合)住宅",
     "location": "高雄市大寮區新七街",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10658,6 +10658,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T20:23:31.925076"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T20:35:31.671820"
       }
     ]
   },
@@ -10702,6 +10706,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T20:27:31.826031"
+      }
+    ]
+  },
+  "75cd78ae1b35a74b12fcca6b143ec9aa": {
+    "time": "2026/10/09 20:34:25",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T20:35:31.671820"
       }
     ]
   }
