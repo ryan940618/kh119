@@ -6821,7 +6821,7 @@
     "sub_category": "其他",
     "location": "高雄市橋頭區",
     "units": "橋頭分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6838,6 +6838,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T15:10:31.867455"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T15:17:31.924673"
       }
     ]
   },
@@ -7079,7 +7083,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7096,6 +7100,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T15:13:31.923540"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T15:17:31.924673"
       }
     ]
   },
@@ -7211,7 +7219,7 @@
     "sub_category": "雜草(含廢棄物、墓地)",
     "location": "高雄市大寮區翁園路",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7220,6 +7228,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T15:09:31.925070"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T15:17:31.924673"
       }
     ]
   },
@@ -7292,6 +7304,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T15:16:31.940685"
+      }
+    ]
+  },
+  "cf86d4a3d4da21c0dca1833abeaa88e7": {
+    "time": "2026/10/09 15:15:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區東門路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T15:17:31.924673"
       }
     ]
   }
