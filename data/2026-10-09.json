@@ -2153,7 +2153,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2166,6 +2166,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T07:56:30.843775"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T08:02:30.964350"
       }
     ]
   },
@@ -2202,6 +2206,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T07:57:31.016828"
+      }
+    ]
+  },
+  "21caaca2584326d4d468acd244d2502c": {
+    "time": "2026/10/09 08:01:21",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區國富路",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T08:02:30.964350"
       }
     ]
   }
