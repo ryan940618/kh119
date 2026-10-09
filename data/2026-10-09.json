@@ -11253,7 +11253,7 @@
     "sub_category": "創傷",
     "location": "高雄市仁武區大豐街",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11266,6 +11266,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T21:25:31.038840"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T21:44:31.151864"
       }
     ]
   },
@@ -11371,11 +11375,15 @@
     "sub_category": "急病",
     "location": "高雄市內門區",
     "units": "內門分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-09T21:37:31.015037"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T21:44:31.151864"
       }
     ]
   },
@@ -11385,7 +11393,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11398,6 +11406,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T21:43:31.218385"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T21:44:31.151864"
       }
     ]
   },
@@ -11444,6 +11456,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T21:43:31.218385"
+      }
+    ]
+  },
+  "bd55980edf30802f7e886df3d836fba3": {
+    "time": "2026/10/09 21:43:38",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市左營區",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T21:44:31.151864"
       }
     ]
   }
