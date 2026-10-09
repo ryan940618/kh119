@@ -407,7 +407,7 @@
     "sub_category": "急病",
     "location": "高雄市永安區",
     "units": "永安分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -420,6 +420,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T01:38:31.742010"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T01:57:31.858990"
       }
     ]
   },
@@ -513,11 +517,15 @@
     "sub_category": "路倒",
     "location": "高雄市新興區文化路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T01:55:31.898681"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T01:57:31.858990"
       }
     ]
   },
