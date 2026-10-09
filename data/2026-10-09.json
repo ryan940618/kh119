@@ -5491,7 +5491,7 @@
     "sub_category": "其他",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5500,6 +5500,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T12:17:32.023433"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T12:23:31.786273"
       }
     ]
   },
@@ -5527,11 +5531,15 @@
     "sub_category": "創傷",
     "location": "高雄市岡山區聖得路",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T12:21:31.906386"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T12:23:31.786273"
       }
     ]
   },
@@ -5546,6 +5554,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T12:22:31.609221"
+      }
+    ]
+  },
+  "27e13d9807162e30df23f43fc2537fc0": {
+    "time": "2026/10/09 12:22:21",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區和光街",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T12:23:31.786273"
       }
     ]
   }
