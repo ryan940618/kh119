@@ -6787,7 +6787,7 @@
     "sub_category": "其他",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
@@ -6800,6 +6800,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T14:33:31.575968"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T14:48:31.758518"
       }
     ]
   },
@@ -6850,6 +6854,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T14:47:31.829684"
+      }
+    ]
+  },
+  "28704ccf579bbc9b9103c577f9213251": {
+    "time": "2026/10/09 14:47:06",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市大寮區中庄路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T14:48:31.758518"
       }
     ]
   }
