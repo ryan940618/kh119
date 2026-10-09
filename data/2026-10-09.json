@@ -6109,7 +6109,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6126,6 +6126,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T14:02:31.180238"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T14:09:31.311021"
       }
     ]
   },
@@ -6135,7 +6139,7 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區中山路",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6148,6 +6152,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T13:52:31.152541"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T14:09:31.311021"
       }
     ]
   },
@@ -6362,6 +6370,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T14:08:31.333031"
+      }
+    ]
+  },
+  "8f1e10e74e391b074a2a076dbd52c521": {
+    "time": "2026/10/09 14:08:56",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市杉林區",
+    "units": "杉林分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T14:09:31.311021"
       }
     ]
   }
