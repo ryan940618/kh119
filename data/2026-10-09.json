@@ -9369,7 +9369,7 @@
     "sub_category": "車禍",
     "location": "高雄市新興區林森一路",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -9378,6 +9378,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T18:13:31.873211"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T18:23:31.893771"
       }
     ]
   },
@@ -9551,7 +9555,7 @@
     "sub_category": "路倒",
     "location": "高雄市左營區重愛路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9560,6 +9564,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T18:20:31.861981"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T18:23:31.893771"
       }
     ]
   },
@@ -9569,11 +9577,15 @@
     "sub_category": "其他",
     "location": "高雄市田寮區",
     "units": "田寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T18:21:31.909789"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T18:23:31.893771"
       }
     ]
   }
