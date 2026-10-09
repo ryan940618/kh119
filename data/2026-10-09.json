@@ -4351,7 +4351,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4368,6 +4368,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T11:07:31.214281"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T11:16:31.318454"
       }
     ]
   },
@@ -4653,11 +4657,15 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T11:15:31.400746"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T11:16:31.318454"
       }
     ]
   }
