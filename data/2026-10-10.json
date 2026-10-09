@@ -209,7 +209,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -218,6 +218,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T01:01:31.444357"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T01:05:31.395540"
       }
     ]
   },
@@ -227,11 +231,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T01:02:31.422382"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T01:05:31.395540"
       }
     ]
   },
