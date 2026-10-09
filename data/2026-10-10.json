@@ -1439,11 +1439,15 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區南京路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-10T06:18:31.432717"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T06:30:31.727233"
       }
     ]
   },
@@ -1502,6 +1506,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T06:27:31.466081"
+      }
+    ]
+  },
+  "768ef8b0437c5c184a319bd0f0a7e0f8": {
+    "time": "2026/10/10 06:29:13",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗山區",
+    "units": "旗山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T06:30:31.727233"
       }
     ]
   }
