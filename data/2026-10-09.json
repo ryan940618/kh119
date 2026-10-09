@@ -3099,7 +3099,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區中崙一路",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3116,6 +3116,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T09:37:31.505622"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T09:49:31.585931"
       }
     ]
   },
@@ -3181,7 +3185,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3194,6 +3198,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T09:38:31.592622"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T09:49:31.585931"
       }
     ]
   },
@@ -3251,7 +3259,7 @@
     "sub_category": "車禍",
     "location": "高雄市茄萣區仁愛路",
     "units": "茄萣分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3260,6 +3268,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T09:44:31.655128"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T09:49:31.585931"
       }
     ]
   },
@@ -3288,6 +3300,48 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T09:47:31.637434"
+      }
+    ]
+  },
+  "38565e1457fbdeaae8124fe16685d3ca": {
+    "time": "2026/10/09 09:48:53",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市林園區文賢北路",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T09:49:31.585931"
+      }
+    ]
+  },
+  "6712a2f415d675151fd1a91dd8ecbbd8": {
+    "time": "2026/10/09 09:48:42",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T09:49:31.585931"
+      }
+    ]
+  },
+  "bcf6cfd20cb2b29959d16bddc7036109": {
+    "time": "2026/10/09 09:48:07",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市新興區瑞源路",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T09:49:31.585931"
       }
     ]
   }
