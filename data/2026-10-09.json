@@ -11733,7 +11733,7 @@
     "sub_category": "急病",
     "location": "高雄市內門區",
     "units": "內門分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11742,6 +11742,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T22:14:31.401583"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T22:21:31.371100"
       }
     ]
   },
@@ -11751,7 +11755,7 @@
     "sub_category": "急病",
     "location": "高雄市橋頭區",
     "units": "橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11760,6 +11764,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T22:17:31.578955"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T22:21:31.371100"
       }
     ]
   },
@@ -11774,6 +11782,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T22:19:31.475712"
+      }
+    ]
+  },
+  "f8b617d8f1b08f69ec3ee637bfeda0d9": {
+    "time": "2026/10/09 22:20:52",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區立信街",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T22:21:31.371100"
       }
     ]
   }
