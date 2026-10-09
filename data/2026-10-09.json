@@ -3427,7 +3427,7 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區鳳林三路",
     "units": "和發分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3444,6 +3444,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T10:23:32.015784"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T10:31:31.929362"
       }
     ]
   },
@@ -3967,11 +3971,15 @@
     "sub_category": "雜草(含廢棄物、墓地)",
     "location": "高雄市林園區東汕路",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "火已滅",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-09T10:18:32.060397"
+      },
+      {
+        "status": "火已滅",
+        "timestamp": "2026-10-09T10:31:31.929362"
       }
     ]
   },
@@ -4034,6 +4042,34 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T10:30:31.906490"
+      }
+    ]
+  },
+  "b65882fd2831c1bf8bcddbb4df773f40": {
+    "time": "2026/10/09 10:30:53",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區八德路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T10:31:31.929362"
+      }
+    ]
+  },
+  "956792466f97c89009b61dc04c0c591e": {
+    "time": "2026/10/09 10:30:45",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T10:31:31.929362"
       }
     ]
   }
