@@ -7945,7 +7945,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7954,6 +7954,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T16:11:31.093302"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T16:13:31.135669"
       }
     ]
   },
@@ -7991,11 +7995,15 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區琉球路",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T16:12:31.066331"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T16:13:31.135669"
       }
     ]
   }
