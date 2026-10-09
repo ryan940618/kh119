@@ -4447,7 +4447,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中華五路",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4456,6 +4456,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T10:59:31.135752"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T11:01:31.152010"
       }
     ]
   },
@@ -4465,11 +4469,29 @@
     "sub_category": "創傷",
     "location": "高雄市林園區東林西路",
     "units": "林園分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T11:00:31.104312"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T11:01:31.152010"
+      }
+    ]
+  },
+  "b86fb4ba7f1c0690e00ae82ea78c6a2a": {
+    "time": "2026/10/09 11:00:30",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T11:01:31.152010"
       }
     ]
   }
