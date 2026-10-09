@@ -7723,7 +7723,7 @@
     "sub_category": "路倒",
     "location": "高雄市鹽埕區必忠街",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7736,6 +7736,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T15:55:31.098495"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T16:00:31.104156"
       }
     ]
   },
@@ -7803,11 +7807,29 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區清豐五路",
     "units": "楠梓分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T15:59:31.248855"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T16:00:31.104156"
+      }
+    ]
+  },
+  "b1b70c5b72a97d25bd0033d52b341f30": {
+    "time": "2026/10/09 16:00:04",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區美術東六街",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T16:00:31.104156"
       }
     ]
   }
