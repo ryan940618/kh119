@@ -3193,7 +3193,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3210,6 +3210,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T09:49:31.585931"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T09:55:31.686769"
       }
     ]
   },
@@ -3301,11 +3305,15 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T09:45:31.682113"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T09:55:31.686769"
       }
     ]
   },
@@ -3315,7 +3323,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區三民街",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3324,6 +3332,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T09:52:31.698305"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T09:55:31.686769"
       }
     ]
   },
@@ -3333,7 +3345,7 @@
     "sub_category": "車禍",
     "location": "高雄市林園區文賢北路",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3342,6 +3354,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T09:50:31.813883"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T09:55:31.686769"
       }
     ]
   },
@@ -3401,11 +3417,29 @@
     "sub_category": "車禍",
     "location": "高雄市三民區大昌一路",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T09:54:31.765166"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T09:55:31.686769"
+      }
+    ]
+  },
+  "be2cf0fd41f225264022a3566cef3eae": {
+    "time": "2026/10/09 09:54:45",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T09:55:31.686769"
       }
     ]
   }
