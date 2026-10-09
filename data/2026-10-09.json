@@ -9043,7 +9043,7 @@
     "sub_category": "路倒",
     "location": "高雄市岡山區大公路",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9056,6 +9056,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T17:45:31.784440"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-09T17:54:31.858861"
       }
     ]
   },
@@ -9184,6 +9188,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T17:52:31.849615"
+      }
+    ]
+  },
+  "b399fe16d71f99c5eafa0a0cd782cf4e": {
+    "time": "2026/10/09 17:53:25",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區大順三路",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T17:54:31.858861"
       }
     ]
   }
