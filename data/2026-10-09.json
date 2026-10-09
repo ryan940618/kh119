@@ -10405,7 +10405,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區後興北路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10422,6 +10422,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-09T20:11:31.463831"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-09T20:15:31.560356"
       }
     ]
   },
@@ -10463,11 +10467,15 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T20:14:31.567386"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T20:15:31.560356"
       }
     ]
   }
