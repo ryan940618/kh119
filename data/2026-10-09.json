@@ -6839,11 +6839,15 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T14:46:31.673459"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T14:50:31.854432"
       }
     ]
   },
@@ -6872,6 +6876,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T14:48:31.758518"
+      }
+    ]
+  },
+  "4c96a2963ee5ea51a1a93d08b8af5a45": {
+    "time": "2026/10/09 14:49:24",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T14:50:31.854432"
+      }
+    ]
+  },
+  "7c4af20516b66c77944741cec72d1790": {
+    "time": "2026/10/09 14:48:53",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市橋頭區甲典街",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T14:50:31.854432"
       }
     ]
   }
