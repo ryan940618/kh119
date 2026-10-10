@@ -4417,7 +4417,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4434,6 +4434,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T11:05:31.214120"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T11:09:31.328054"
       }
     ]
   },
@@ -4521,7 +4525,7 @@
     "sub_category": "一般(集合)住宅",
     "location": "高雄市大樹區九大路",
     "units": "中庄分隊,仁武分隊,大寮分隊,大樹分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -4542,6 +4546,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T11:07:31.283160"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T11:09:31.328054"
       }
     ]
   },
