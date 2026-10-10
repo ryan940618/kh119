@@ -5371,7 +5371,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區岡山北路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5388,6 +5388,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T12:15:31.909271"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T12:19:31.958854"
       }
     ]
   },
@@ -5633,11 +5637,15 @@
     "sub_category": "車禍",
     "location": "高雄市左營區大中二路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-10T12:16:32.015556"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T12:19:31.958854"
       }
     ]
   }
