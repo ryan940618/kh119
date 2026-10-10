@@ -3023,7 +3023,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區八德西路",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3040,6 +3040,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T09:04:31.701028"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T09:07:31.618103"
       }
     ]
   },
@@ -3085,7 +3089,7 @@
     "sub_category": "創傷",
     "location": "高雄市林園區沿海路",
     "units": "林園分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3098,6 +3102,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T09:03:31.518269"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T09:07:31.618103"
       }
     ]
   },
@@ -3197,7 +3205,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3206,6 +3214,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T09:04:31.701028"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T09:07:31.618103"
       }
     ]
   },
@@ -3224,6 +3236,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T09:06:31.592409"
+      }
+    ]
+  },
+  "e29b444d73b5e555122605997769baa1": {
+    "time": "2026/10/10 09:06:00",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T09:07:31.618103"
+      }
+    ]
+  },
+  "aac10a0dcbe228a82decfdf1178a74dd": {
+    "time": "2026/10/10 09:05:16",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "台南市善化區",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-10T09:07:31.618103"
       }
     ]
   }
