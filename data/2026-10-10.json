@@ -9587,7 +9587,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9600,6 +9600,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T18:55:31.346361"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T19:03:31.434037"
       }
     ]
   },
@@ -9727,7 +9731,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9740,6 +9744,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T18:55:31.346361"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T19:03:31.434037"
       }
     ]
   },
@@ -9790,6 +9798,34 @@
       {
         "status": "已受理",
         "timestamp": "2026-10-10T19:02:31.529685"
+      }
+    ]
+  },
+  "7805886aabd63ffb2a7fc13c7eea1005": {
+    "time": "2026/10/10 19:02:32",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T19:03:31.434037"
+      }
+    ]
+  },
+  "d308b6bf84a94518d0cb3280e36c851f": {
+    "time": "2026/10/10 19:02:07",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T19:03:31.434037"
       }
     ]
   }
