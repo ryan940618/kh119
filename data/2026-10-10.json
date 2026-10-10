@@ -11427,7 +11427,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11436,6 +11436,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T21:47:31.271298"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T21:51:31.410671"
       }
     ]
   },
@@ -11459,11 +11463,15 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T21:50:31.428102"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T21:51:31.410671"
       }
     ]
   }
