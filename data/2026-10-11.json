@@ -1875,7 +1875,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區翠華路",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1892,6 +1892,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T07:26:30.945599"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T07:30:30.997876"
       }
     ]
   },
@@ -2021,11 +2025,15 @@
     "sub_category": "其他",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T07:28:30.901356"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T07:30:30.997876"
       }
     ]
   },
