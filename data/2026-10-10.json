@@ -2921,7 +2921,7 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區竹寮路",
     "units": "大樹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2938,6 +2938,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T09:01:31.509226"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T09:15:31.607261"
       }
     ]
   },
@@ -3301,11 +3305,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區瑞福路和崗山東街",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T09:14:31.569107"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T09:15:31.607261"
       }
     ]
   }
