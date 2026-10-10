@@ -223,7 +223,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -232,6 +232,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T00:50:31.503789"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T00:53:31.481364"
       }
     ]
   },
@@ -254,6 +258,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T00:52:31.450073"
+      }
+    ]
+  },
+  "de7940845c2e945816b7762216eb8207": {
+    "time": "2026/10/11 00:52:53",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市梓官區",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T00:53:31.481364"
+      }
+    ]
+  },
+  "fcec0fcfe42c52384db19fce767c9cd7": {
+    "time": "2026/10/11 00:51:07",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市梓官區",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-11T00:53:31.481364"
       }
     ]
   }
