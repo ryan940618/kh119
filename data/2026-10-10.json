@@ -12135,7 +12135,7 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12148,6 +12148,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T23:25:31.074773"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T23:37:31.187088"
       }
     ]
   },
@@ -12314,6 +12318,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T23:36:31.087379"
+      }
+    ]
+  },
+  "8f4a4505f92857a86d6d2bfb1a55ac37": {
+    "time": "2026/10/10 23:36:19",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區楠興東路",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T23:37:31.187088"
       }
     ]
   }
