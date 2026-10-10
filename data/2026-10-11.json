@@ -27,7 +27,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -40,6 +40,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T00:21:31.336941"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T00:47:31.423980"
       }
     ]
   },
@@ -220,6 +224,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T00:46:31.536626"
+      }
+    ]
+  },
+  "c5eb0f37053f49825a180606c3f1ff8e": {
+    "time": "2026/10/11 00:47:06",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市茄萣區",
+    "units": "茄萣分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T00:47:31.423980"
       }
     ]
   }
