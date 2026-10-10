@@ -7885,7 +7885,7 @@
     "sub_category": "路倒",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7902,6 +7902,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T16:11:31.049490"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T16:21:31.191657"
       }
     ]
   },
@@ -8059,11 +8063,15 @@
     "sub_category": "路倒",
     "location": "高雄市苓雅區英義街",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-10T16:14:31.205642"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T16:21:31.191657"
       }
     ]
   },
@@ -8091,11 +8099,29 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T16:19:31.421556"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T16:21:31.191657"
+      }
+    ]
+  },
+  "6557d2e08a052417f08cefa61830bb2a": {
+    "time": "2026/10/10 16:19:54",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市楠梓區青田街",
+    "units": "後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T16:21:31.191657"
       }
     ]
   }
