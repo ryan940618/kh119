@@ -9925,7 +9925,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9934,6 +9934,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T19:27:31.572607"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T19:32:31.616400"
       }
     ]
   },
@@ -10174,6 +10178,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T19:31:31.624669"
+      }
+    ]
+  },
+  "9edde2453d7372f7f6fa2ba06f68309f": {
+    "time": "2026/10/10 19:31:27",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T19:32:31.616400"
       }
     ]
   }
