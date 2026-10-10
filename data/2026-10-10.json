@@ -9035,7 +9035,7 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9052,6 +9052,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T18:31:31.151246"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T18:32:31.224445"
       }
     ]
   },
@@ -9173,7 +9177,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9182,6 +9186,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T18:28:31.197774"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T18:32:31.224445"
       }
     ]
   },
@@ -9241,11 +9249,29 @@
     "sub_category": "車禍",
     "location": "高雄市新興區林森一路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T18:31:31.151246"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T18:32:31.224445"
+      }
+    ]
+  },
+  "3b968325cfe2e27f548a6e2c4851bfad": {
+    "time": "2026/10/10 18:31:16",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區德民路",
+    "units": "橋頭分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T18:32:31.224445"
       }
     ]
   }
