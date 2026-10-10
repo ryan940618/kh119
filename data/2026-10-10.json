@@ -6281,7 +6281,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區常德路|常盛街",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -6290,6 +6290,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T13:18:31.233979"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T13:24:31.216107"
       }
     ]
   },
@@ -6366,6 +6370,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T13:21:31.304260"
+      }
+    ]
+  },
+  "0e8cb28a60ebf8d2f9a874f29b51fcb7": {
+    "time": "2026/10/10 13:23:37",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市梓官區中正路",
+    "units": "梓官分隊,橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T13:24:31.216107"
+      }
+    ]
+  },
+  "52eb4a50106d18153e8e959b42041fcc": {
+    "time": "2026/10/10 13:23:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鹽埕區",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T13:24:31.216107"
       }
     ]
   }
