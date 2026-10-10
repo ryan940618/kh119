@@ -4203,7 +4203,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4216,6 +4216,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T10:24:31.197584"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T10:34:31.213004"
       }
     ]
   },
@@ -4296,6 +4300,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T10:31:31.196119"
+      }
+    ]
+  },
+  "dae7ddb9fa1e35e10b81007468bf75c9": {
+    "time": "2026/10/10 10:34:04",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鹽埕區五福四路",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T10:34:31.213004"
       }
     ]
   }
