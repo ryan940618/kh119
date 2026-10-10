@@ -6523,7 +6523,7 @@
     "sub_category": "急病",
     "location": "高雄市杉林區",
     "units": "杉林分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6540,6 +6540,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T13:49:31.355659"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T14:04:31.403180"
       }
     ]
   },
@@ -6645,7 +6649,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區熱河一街",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -6658,6 +6662,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T14:03:31.459400"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T14:04:31.403180"
       }
     ]
   },
@@ -6760,6 +6768,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T14:02:31.532237"
+      }
+    ]
+  },
+  "4c7d946adb0a5b64dd38ee622d98203c": {
+    "time": "2026/10/10 14:03:49",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區國光路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T14:04:31.403180"
       }
     ]
   }
