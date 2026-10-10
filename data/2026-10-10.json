@@ -9977,11 +9977,15 @@
     "sub_category": "其他",
     "location": "高雄市左營區",
     "units": "",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已到達",
         "timestamp": "2026-10-10T19:24:44.312135"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T19:26:31.723385"
       }
     ]
   },
@@ -10038,6 +10042,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T19:25:32.248702"
+      }
+    ]
+  },
+  "a8dadd3f42e7ba086bbbe0df02d3a148": {
+    "time": "2026/10/10 19:25:18",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區介壽西路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T19:26:31.723385"
       }
     ]
   }
