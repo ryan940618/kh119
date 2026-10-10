@@ -1029,7 +1029,7 @@
     "sub_category": "急病",
     "location": "高雄市橋頭區",
     "units": "橋頭分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1042,6 +1042,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T03:19:31.351901"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T03:22:31.308220"
       }
     ]
   },
@@ -1051,11 +1055,15 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T03:19:31.351901"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T03:22:31.308220"
       }
     ]
   }
