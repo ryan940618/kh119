@@ -8585,7 +8585,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8598,6 +8598,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T17:40:31.661237"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T18:00:31.004924"
       }
     ]
   },
@@ -8822,6 +8826,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T17:58:31.038876"
+      }
+    ]
+  },
+  "cfca685aa0fd6085b0bba900086965a6": {
+    "time": "2026/10/10 17:59:50",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市美濃區中華路",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T18:00:31.004924"
+      }
+    ]
+  },
+  "22eaa906d0c23842ccd7c383513a697a": {
+    "time": "2026/10/10 17:59:47",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區金鼎路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T18:00:31.004924"
       }
     ]
   }
