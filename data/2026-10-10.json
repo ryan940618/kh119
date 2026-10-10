@@ -10675,7 +10675,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區文康路",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10688,6 +10688,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T20:22:32.010551"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T20:30:31.828312"
       }
     ]
   },
@@ -10773,11 +10777,29 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T20:29:31.897098"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T20:30:31.828312"
+      }
+    ]
+  },
+  "25e7d7871fcb2df3fa4e196a5f84cb12": {
+    "time": "2026/10/10 20:29:02",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市林園區林園北路",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T20:30:31.828312"
       }
     ]
   }
