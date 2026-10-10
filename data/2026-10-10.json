@@ -9163,7 +9163,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9176,6 +9176,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T18:29:31.153332"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T18:35:31.202724"
       }
     ]
   },
@@ -9301,11 +9305,15 @@
     "sub_category": "車禍",
     "location": "高雄市大社區三民路和自強街",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T18:33:31.247302"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T18:35:31.202724"
       }
     ]
   },
