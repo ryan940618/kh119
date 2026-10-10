@@ -6367,7 +6367,7 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6384,6 +6384,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T13:45:31.332633"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T13:48:31.280840"
       }
     ]
   },
@@ -6573,7 +6577,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區博愛一路和綏遠二街",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6582,6 +6586,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T13:44:31.426766"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T13:48:31.280840"
       }
     ]
   },
@@ -6591,11 +6599,43 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T13:47:31.349291"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T13:48:31.280840"
+      }
+    ]
+  },
+  "f40a82a7492c08b1345f5db96d6860a2": {
+    "time": "2026/10/10 13:47:23",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區熱河一街",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T13:48:31.280840"
+      }
+    ]
+  },
+  "f0a5853a2394b6fd6f25d8fc1d6a9691": {
+    "time": "2026/10/10 13:47:22",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T13:48:31.280840"
       }
     ]
   }
