@@ -10221,7 +10221,7 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區中華五路",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10234,6 +10234,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T19:37:31.674243"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T19:40:31.736619"
       }
     ]
   },
@@ -10297,11 +10301,29 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區朝新路",
     "units": "楠梓分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T19:39:31.682229"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T19:40:31.736619"
+      }
+    ]
+  },
+  "5198181d4aac91ec40769650b86ef692": {
+    "time": "2026/10/10 19:39:31",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T19:40:31.736619"
       }
     ]
   }
