@@ -10065,7 +10065,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10074,6 +10074,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T19:27:31.572607"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T19:33:31.656736"
       }
     ]
   },
@@ -10123,7 +10127,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10132,6 +10136,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T19:29:31.493497"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T19:33:31.656736"
       }
     ]
   },
@@ -10173,11 +10181,15 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區中華五路",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T19:31:31.624669"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T19:33:31.656736"
       }
     ]
   },
@@ -10192,6 +10204,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T19:32:31.616400"
+      }
+    ]
+  },
+  "b8acbf64a20aa3c4e389e34fbbfdad2e": {
+    "time": "2026/10/10 19:32:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市新興區仁智街",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T19:33:31.656736"
       }
     ]
   }
