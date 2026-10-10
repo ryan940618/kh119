@@ -3883,7 +3883,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3900,6 +3900,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T10:10:31.197642"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T10:12:31.103509"
       }
     ]
   },
@@ -4055,7 +4059,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳥松區文海街",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4064,6 +4068,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T10:10:31.197642"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T10:12:31.103509"
       }
     ]
   }
