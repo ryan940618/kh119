@@ -3167,7 +3167,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3176,6 +3176,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T09:01:31.509226"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T09:14:31.569107"
       }
     ]
   },
@@ -3288,6 +3292,20 @@
       {
         "status": "已受理",
         "timestamp": "2026-10-10T09:07:31.618103"
+      }
+    ]
+  },
+  "c07dfe573280eb656544c84c22907452": {
+    "time": "2026/10/10 09:13:51",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區瑞福路和崗山東街",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T09:14:31.569107"
       }
     ]
   }
