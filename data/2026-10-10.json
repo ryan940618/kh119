@@ -2797,7 +2797,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區九如一路和慶雲街",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -2810,6 +2810,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T08:40:31.389490"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T08:44:31.476313"
       }
     ]
   },
@@ -2859,7 +2863,7 @@
     "sub_category": "車禍",
     "location": "高雄市美濃區永安路",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2868,6 +2872,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T08:41:31.490686"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T08:44:31.476313"
       }
     ]
   },
@@ -2886,6 +2894,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T08:41:31.490686"
+      }
+    ]
+  },
+  "06d3d53767e0e3f9def8d1276de5c24e": {
+    "time": "2026/10/10 08:43:27",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市旗山區大同街",
+    "units": "旗山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T08:44:31.476313"
       }
     ]
   }
