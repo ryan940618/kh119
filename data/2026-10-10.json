@@ -6133,7 +6133,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6150,6 +6150,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T13:11:31.443007"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T13:25:31.218344"
       }
     ]
   },
@@ -6365,11 +6369,15 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區翁園路",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T13:21:31.304260"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T13:25:31.218344"
       }
     ]
   },
@@ -6379,11 +6387,15 @@
     "sub_category": "車禍",
     "location": "高雄市梓官區中正路",
     "units": "梓官分隊,橋頭分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T13:24:31.216107"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T13:25:31.218344"
       }
     ]
   },
