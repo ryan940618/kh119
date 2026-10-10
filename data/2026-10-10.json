@@ -11643,7 +11643,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11652,6 +11652,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T22:25:31.771160"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T22:31:34.674262"
       }
     ]
   },
@@ -11702,6 +11706,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T22:30:31.765114"
+      }
+    ]
+  },
+  "2621d6c4df780625290caf0ed838ef22": {
+    "time": "2026/10/10 22:30:33",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區成功二路",
+    "units": "前金分隊,成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T22:31:34.674262"
       }
     ]
   }
