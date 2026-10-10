@@ -7345,7 +7345,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區三多二路",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7358,6 +7358,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T14:49:31.947152"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T15:00:31.946743"
       }
     ]
   },
@@ -7394,6 +7398,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T14:56:31.747268"
+      }
+    ]
+  },
+  "190c92c34c3b778bc4a0233169b49635": {
+    "time": "2026/10/10 14:59:38",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T15:00:31.946743"
       }
     ]
   }
