@@ -8049,7 +8049,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區明賢街",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8062,6 +8062,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T16:19:31.421556"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T16:31:31.308747"
       }
     ]
   },
@@ -8141,7 +8145,7 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區青田街",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8150,6 +8154,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T16:22:31.280941"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T16:31:31.308747"
       }
     ]
   },
@@ -8164,6 +8172,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T16:27:31.290580"
+      }
+    ]
+  },
+  "a71a251332afb71558e6f53ebe3fc64f": {
+    "time": "2026/10/10 16:30:22",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T16:31:31.308747"
       }
     ]
   }
