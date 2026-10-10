@@ -4443,7 +4443,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4456,6 +4456,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T10:44:31.188128"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T11:07:31.283160"
       }
     ]
   },
@@ -4517,7 +4521,7 @@
     "sub_category": "一般(集合)住宅",
     "location": "高雄市大樹區九大路",
     "units": "中庄分隊,仁武分隊,大寮分隊,大樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4534,6 +4538,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T11:03:31.269260"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T11:07:31.283160"
       }
     ]
   },
@@ -4584,6 +4592,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T11:06:31.351155"
+      }
+    ]
+  },
+  "3672637bbde0d47ea9fbe4b5d630d87e": {
+    "time": "2026/10/10 11:06:20",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市旗山區中洲路",
+    "units": "旗山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T11:07:31.283160"
       }
     ]
   }
