@@ -9439,7 +9439,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9456,6 +9456,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T18:54:31.327823"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T19:24:44.312135"
       }
     ]
   },
@@ -9521,7 +9525,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營小隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9538,6 +9542,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T19:01:31.649070"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T19:24:44.312135"
       }
     ]
   },
@@ -9587,7 +9595,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9604,6 +9612,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T19:03:31.434037"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T19:24:44.312135"
       }
     ]
   },
@@ -9739,7 +9751,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9756,6 +9768,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T19:03:31.434037"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T19:24:44.312135"
       }
     ]
   },
@@ -9833,7 +9849,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9842,6 +9858,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T19:05:31.673340"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T19:24:44.312135"
       }
     ]
   },
@@ -9883,11 +9903,113 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T19:07:37.047396"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T19:24:44.312135"
+      }
+    ]
+  },
+  "aea0dc60201a8a53d09937cfede3bce4": {
+    "time": "2026/10/10 19:24:10",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T19:24:44.312135"
+      }
+    ]
+  },
+  "5bf40884a1eb8c3580b9f05c24c960ab": {
+    "time": "2026/10/10 19:22:36",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T19:24:44.312135"
+      }
+    ]
+  },
+  "ddb9a257ffc83716c645c23d13971679": {
+    "time": "2026/10/10 19:18:36",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市苓雅區一心二路",
+    "units": "成功分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T19:24:44.312135"
+      }
+    ]
+  },
+  "4f8b9d403936ae27159ce77fa4be601e": {
+    "time": "2026/10/10 19:15:22",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市三民區九如三路和中庸街",
+    "units": "中華分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T19:24:44.312135"
+      }
+    ]
+  },
+  "b542d608c6e01464aa707b86bd9b55ee": {
+    "time": "2026/10/10 19:10:31",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市左營區",
+    "units": "",
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T19:24:44.312135"
+      }
+    ]
+  },
+  "de0e6938f28b739974850c56bef92af8": {
+    "time": "2026/10/10 19:10:00",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T19:24:44.312135"
+      }
+    ]
+  },
+  "3028c8beecc09ca8ffea72e254767c89": {
+    "time": "2026/10/10 19:07:07",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鳳山區五甲一路",
+    "units": "鳳山分隊",
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T19:24:44.312135"
       }
     ]
   }
