@@ -4025,7 +4025,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4042,6 +4042,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T10:22:31.105804"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T10:38:31.235125"
       }
     ]
   },
@@ -4343,11 +4347,15 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區白米路",
     "units": "梓官分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T10:37:31.212917"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T10:38:31.235125"
       }
     ]
   }
