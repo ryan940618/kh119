@@ -2685,7 +2685,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區福安二街",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2694,6 +2694,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T08:24:31.274923"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T08:28:31.333016"
       }
     ]
   },
@@ -2703,11 +2707,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區文湖街",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T08:24:31.274923"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T08:28:31.333016"
       }
     ]
   },
@@ -2717,11 +2725,43 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T08:27:31.258141"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T08:28:31.333016"
+      }
+    ]
+  },
+  "f721cb6fa5ad481af148b89d103faf6d": {
+    "time": "2026/10/10 08:27:42",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大社區嘉誠路",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T08:28:31.333016"
+      }
+    ]
+  },
+  "ab485c5f9b87f79def323fbfe6c18437": {
+    "time": "2026/10/10 08:27:17",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區九如一路和慶雲街",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T08:28:31.333016"
       }
     ]
   }
