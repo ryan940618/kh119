@@ -6709,7 +6709,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6726,6 +6726,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T14:07:31.513026"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T14:13:31.451092"
       }
     ]
   },
@@ -6833,7 +6837,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區崗山西街",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6842,6 +6846,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T14:09:31.536792"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T14:13:31.451092"
       }
     ]
   },
@@ -6888,6 +6896,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T14:12:31.516857"
+      }
+    ]
+  },
+  "132f12039c735969d4dfb9ff91cb222e": {
+    "time": "2026/10/10 14:13:13",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市左營區",
+    "units": "",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T14:13:31.451092"
       }
     ]
   }
