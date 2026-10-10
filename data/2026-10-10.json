@@ -10799,7 +10799,7 @@
     "sub_category": "路倒",
     "location": "高雄市林園區林園北路",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10808,6 +10808,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T20:31:32.036893"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T20:34:30.844877"
       }
     ]
   },
@@ -10817,11 +10821,29 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T20:33:32.177736"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T20:34:30.844877"
+      }
+    ]
+  },
+  "264bbc4d08b9acb271bda6a3b1d10a9b": {
+    "time": "2026/10/10 20:33:49",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T20:34:30.844877"
       }
     ]
   }
