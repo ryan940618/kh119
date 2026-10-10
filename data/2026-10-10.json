@@ -8083,7 +8083,7 @@
     "sub_category": "路倒",
     "location": "高雄市苓雅區英義街",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -8096,6 +8096,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T16:30:31.292822"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T16:39:31.338946"
       }
     ]
   },
@@ -8161,7 +8165,7 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區青田街",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8174,6 +8178,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T16:31:31.308747"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T16:39:31.338946"
       }
     ]
   },
@@ -8183,11 +8191,15 @@
     "sub_category": "其他",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-10T16:27:31.290580"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T16:39:31.338946"
       }
     ]
   },
@@ -8219,11 +8231,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區藍田路和大學二十三街",
     "units": "右昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T16:38:31.318629"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T16:39:31.338946"
       }
     ]
   }
