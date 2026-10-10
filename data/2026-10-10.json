@@ -10667,7 +10667,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區文康路",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10676,6 +10676,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T20:14:31.865201"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T20:22:32.010551"
       }
     ]
   },
@@ -10694,6 +10698,20 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T20:21:31.895085"
+      }
+    ]
+  },
+  "42a6e53cff1cd40887f995b3bba2b746": {
+    "time": "2026/10/10 20:21:56",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市左營區文慈路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T20:22:32.010551"
       }
     ]
   }
