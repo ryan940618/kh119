@@ -7041,11 +7041,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-10T14:27:31.624698"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T14:33:31.683005"
       }
     ]
   },
@@ -7106,6 +7110,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T14:31:31.639189"
+      }
+    ]
+  },
+  "5b9909bbd84098d3fdcc33615a428037": {
+    "time": "2026/10/10 14:32:38",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市美濃區",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T14:33:31.683005"
+      }
+    ]
+  },
+  "f98fbaf4a115dd06c4e6a5ec2ddc70b5": {
+    "time": "2026/10/10 14:32:28",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T14:33:31.683005"
       }
     ]
   }
