@@ -941,7 +941,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區經武路",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -958,6 +958,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T03:18:31.336663"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T03:26:31.266889"
       }
     ]
   },
@@ -1059,7 +1063,7 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1068,6 +1072,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T03:22:31.308220"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T03:26:31.266889"
       }
     ]
   }
