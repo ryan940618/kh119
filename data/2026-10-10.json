@@ -5845,7 +5845,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5862,6 +5862,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T12:44:32.041219"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T12:55:31.175937"
       }
     ]
   },
@@ -6068,6 +6072,48 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T12:53:31.062437"
+      }
+    ]
+  },
+  "6ec79095f5d1cdb5bff12fb0935d926a": {
+    "time": "2026/10/10 12:55:04",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T12:55:31.175937"
+      }
+    ]
+  },
+  "e11a691531686b41c0a0b934633785dc": {
+    "time": "2026/10/10 12:54:47",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區大順二路和灣中街",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T12:55:31.175937"
+      }
+    ]
+  },
+  "ee09c4eb17864e9efd87af6a8879a856": {
+    "time": "2026/10/10 12:54:36",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市那瑪夏區",
+    "units": "那瑪夏分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T12:55:31.175937"
       }
     ]
   }
