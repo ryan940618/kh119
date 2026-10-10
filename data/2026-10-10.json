@@ -3979,7 +3979,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3992,6 +3992,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T10:08:31.215432"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T10:13:31.116957"
       }
     ]
   },
@@ -4045,11 +4049,15 @@
     "sub_category": "創傷",
     "location": "高雄市三民區力行路",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T10:08:31.215432"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T10:13:31.116957"
       }
     ]
   },
@@ -4072,6 +4080,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T10:12:31.103509"
+      }
+    ]
+  },
+  "f9dfa1ce6cf5f35fe7b9c7b30f5629b6": {
+    "time": "2026/10/10 10:13:10",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區民族一路",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T10:13:31.116957"
+      }
+    ]
+  },
+  "116b436d00bc300319f85299370bd571": {
+    "time": "2026/10/10 10:12:16",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T10:13:31.116957"
       }
     ]
   }
