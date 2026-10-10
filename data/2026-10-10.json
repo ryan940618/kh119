@@ -10497,7 +10497,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區凱得街",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10510,6 +10510,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T19:49:31.702946"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T20:06:31.804273"
       }
     ]
   },
@@ -10612,6 +10616,20 @@
       {
         "status": "",
         "timestamp": "2026-10-10T20:02:31.962846"
+      }
+    ]
+  },
+  "bfdad18ebc24a2dadcd6f99947f74a64": {
+    "time": "2026/10/10 20:05:07",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T20:06:31.804273"
       }
     ]
   }
