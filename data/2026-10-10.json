@@ -9993,7 +9993,7 @@
     "sub_category": "其他",
     "location": "高雄市左營區",
     "units": "",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已到達",
@@ -10002,6 +10002,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T19:26:31.723385"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T19:30:31.580027"
       }
     ]
   },
@@ -10134,6 +10138,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T19:29:31.493497"
+      }
+    ]
+  },
+  "ce0111e913c52a5a06248061e8c11a93": {
+    "time": "2026/10/10 19:29:34",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳥松分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T19:30:31.580027"
       }
     ]
   }
