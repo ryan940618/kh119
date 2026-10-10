@@ -3347,11 +3347,43 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-10T09:20:31.558945"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T09:24:31.617447"
+      }
+    ]
+  },
+  "748afa33e86312fd1abee6bd9bbfc95e": {
+    "time": "2026/10/10 09:23:38",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市茄萣區內灣路",
+    "units": "茄萣分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T09:24:31.617447"
+      }
+    ]
+  },
+  "234c0dbe31ea86c4a76d12daf8593d7f": {
+    "time": "2026/10/10 09:23:41",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市橋頭區",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T09:24:31.617447"
       }
     ]
   }
