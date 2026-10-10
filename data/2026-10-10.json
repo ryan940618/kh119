@@ -8835,7 +8835,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -8848,6 +8848,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T18:12:31.064920"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T18:22:31.200487"
       }
     ]
   },
@@ -8919,7 +8923,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8932,6 +8936,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T18:10:30.933117"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T18:22:31.200487"
       }
     ]
   },
@@ -9076,6 +9084,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T18:20:31.072264"
+      }
+    ]
+  },
+  "4cd18dda8307d9ada71fac9acba90fd5": {
+    "time": "2026/10/10 18:21:23",
+    "category": "火災",
+    "sub_category": "雜草(含廢棄物、墓地)",
+    "location": "高雄市大寮區江山路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T18:22:31.200487"
       }
     ]
   }
