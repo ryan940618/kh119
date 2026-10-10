@@ -1705,7 +1705,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊,高桂分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1714,6 +1714,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T06:42:31.520908"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T06:55:31.658235"
       }
     ]
   },
@@ -1723,11 +1727,29 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T06:53:31.609146"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T06:55:31.658235"
+      }
+    ]
+  },
+  "7438c4ca02cc3c33a77024db84c7700e": {
+    "time": "2026/10/11 06:54:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市梓官區",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T06:55:31.658235"
       }
     ]
   }
