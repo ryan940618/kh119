@@ -10029,11 +10029,15 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區五甲一路",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已到達",
         "timestamp": "2026-10-10T19:24:44.312135"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T19:31:31.624669"
       }
     ]
   },
@@ -10075,7 +10079,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區介壽西路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10084,6 +10088,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T19:28:31.519225"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T19:31:31.624669"
       }
     ]
   },
@@ -10152,6 +10160,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T19:30:31.580027"
+      }
+    ]
+  },
+  "b8e9ba1c4d64636707fad080ddaf821c": {
+    "time": "2026/10/10 19:30:57",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市前鎮區中華五路",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T19:31:31.624669"
       }
     ]
   }
