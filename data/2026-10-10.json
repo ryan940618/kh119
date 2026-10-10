@@ -5363,7 +5363,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區岡山北路",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5376,6 +5376,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T12:10:31.828200"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T12:15:31.909271"
       }
     ]
   },
@@ -5399,7 +5403,7 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區輔仁路",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5412,6 +5416,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T12:08:34.892928"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T12:15:31.909271"
       }
     ]
   },
@@ -5475,7 +5483,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區五福一路|尚義街",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5484,6 +5492,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T12:12:31.776877"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T12:15:31.909271"
       }
     ]
   },
@@ -5529,11 +5541,15 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T12:12:31.776877"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T12:15:31.909271"
       }
     ]
   },
