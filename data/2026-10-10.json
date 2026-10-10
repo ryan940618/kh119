@@ -10197,7 +10197,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10210,6 +10210,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T19:35:31.574118"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T19:49:31.702946"
       }
     ]
   },
@@ -10219,7 +10223,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -10232,6 +10236,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T19:42:31.706391"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T19:49:31.702946"
       }
     ]
   },
@@ -10425,7 +10433,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區凱得街",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10434,6 +10442,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T19:47:31.662926"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T19:49:31.702946"
       }
     ]
   }
