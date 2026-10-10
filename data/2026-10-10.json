@@ -3775,7 +3775,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區凱旋一路",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3788,6 +3788,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T09:53:31.907658"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T10:08:31.215432"
       }
     ]
   },
@@ -3955,7 +3959,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3964,6 +3968,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T10:02:31.925067"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T10:08:31.215432"
       }
     ]
   },
@@ -4000,6 +4008,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T10:05:31.991867"
+      }
+    ]
+  },
+  "ded1d7127b3ef90e7b6cb362fb4a9ccd": {
+    "time": "2026/10/10 10:08:03",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區力行路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T10:08:31.215432"
+      }
+    ]
+  },
+  "829d2d8ae5fc652fff56a59f11d0d5ce": {
+    "time": "2026/10/10 10:08:09",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鳥松區文海街",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T10:08:31.215432"
       }
     ]
   }
