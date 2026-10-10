@@ -2723,7 +2723,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區文湖街",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2740,6 +2740,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T08:43:31.465687"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T08:46:31.749010"
       }
     ]
   },
@@ -2771,7 +2775,7 @@
     "sub_category": "車禍",
     "location": "高雄市大社區嘉誠路",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2788,6 +2792,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T08:40:31.389490"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T08:46:31.749010"
       }
     ]
   },
@@ -2885,7 +2893,7 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區竹寮路",
     "units": "大樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2894,6 +2902,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T08:41:31.490686"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T08:46:31.749010"
       }
     ]
   },
@@ -2922,6 +2934,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T08:45:31.418522"
+      }
+    ]
+  },
+  "850b2ba94326226622ae291c355f26a8": {
+    "time": "2026/10/10 08:44:37",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T08:46:31.749010"
       }
     ]
   }
