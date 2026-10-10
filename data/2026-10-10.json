@@ -2917,7 +2917,7 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區竹寮路",
     "units": "大樹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2930,6 +2930,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T08:46:31.749010"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T09:01:31.509226"
       }
     ]
   },
@@ -2953,7 +2957,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -2962,6 +2966,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T08:50:31.528086"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T09:01:31.509226"
       }
     ]
   },
@@ -3101,11 +3109,15 @@
     "sub_category": "路倒",
     "location": "高雄市左營區果惠里果峰街",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T09:00:31.600500"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T09:01:31.509226"
       }
     ]
   },
@@ -3115,11 +3127,29 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T09:00:31.600500"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T09:01:31.509226"
+      }
+    ]
+  },
+  "6bdff581d96f187015da8012d128e6cb": {
+    "time": "2026/10/10 09:01:06",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T09:01:31.509226"
       }
     ]
   }
