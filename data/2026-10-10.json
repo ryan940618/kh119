@@ -7775,7 +7775,7 @@
     "sub_category": "其他",
     "location": "高雄市路竹區華山路",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7784,6 +7784,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T15:48:31.082945"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T16:00:31.179379"
       }
     ]
   },
@@ -7860,6 +7864,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T15:58:31.086946"
+      }
+    ]
+  },
+  "8d2e17b8ffbb9b82f33d9bbb09397144": {
+    "time": "2026/10/10 15:59:17",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市大社區",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T16:00:31.179379"
       }
     ]
   }
