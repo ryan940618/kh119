@@ -9131,7 +9131,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -9144,6 +9144,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T18:36:31.176718"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T18:43:31.359009"
       }
     ]
   },
@@ -9408,6 +9412,62 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T18:42:31.303103"
+      }
+    ]
+  },
+  "d12375a93808e144fd10f36d5cb4a168": {
+    "time": "2026/10/10 18:42:52",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市仁武區中正路",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T18:43:31.359009"
+      }
+    ]
+  },
+  "aa7230ce34b9d1b92c50355ec2de56cf": {
+    "time": "2026/10/10 18:42:36",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市大寮區八德路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T18:43:31.359009"
+      }
+    ]
+  },
+  "df68a66110ce2a9b639c0edcd835093f": {
+    "time": "2026/10/10 18:42:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T18:43:31.359009"
+      }
+    ]
+  },
+  "504e5bea7db8acc0b06f2814144ed3a1": {
+    "time": "2026/10/10 18:42:00",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T18:43:31.359009"
       }
     ]
   }
