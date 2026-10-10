@@ -7489,7 +7489,7 @@
     "sub_category": "車禍",
     "location": "高雄市彌陀區中華路",
     "units": "彌陀分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -7498,6 +7498,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T15:12:31.978631"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T15:25:31.065442"
       }
     ]
   },
@@ -7525,7 +7529,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7538,6 +7542,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T15:20:31.002478"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T15:25:31.065442"
       }
     ]
   },
@@ -7547,7 +7555,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7556,6 +7564,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T15:17:31.863263"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T15:25:31.065442"
       }
     ]
   },
@@ -7579,11 +7591,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-10T15:17:31.863263"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T15:25:31.065442"
       }
     ]
   },
@@ -7593,11 +7609,57 @@
     "sub_category": "創傷",
     "location": "高雄市甲仙區新興路",
     "units": "甲仙分隊",
-    "current_status": "已出動",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-10T15:17:31.863263"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T15:25:31.065442"
+      }
+    ]
+  },
+  "44fa0ffea42225dd4abca75c82185a37": {
+    "time": "2026/10/10 15:22:35",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區澄和路",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T15:25:31.065442"
+      }
+    ]
+  },
+  "0d37567ed28fe87e7ed21c27e3176d28": {
+    "time": "2026/10/10 15:21:07",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市梓官區",
+    "units": "梓官分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T15:25:31.065442"
+      }
+    ]
+  },
+  "05a88444ba60ecad6e779288cf634e9b": {
+    "time": "2026/10/10 15:19:46",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "前鎮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T15:25:31.065442"
       }
     ]
   }
