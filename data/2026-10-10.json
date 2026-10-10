@@ -9947,7 +9947,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -9956,6 +9956,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T19:29:31.493497"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T19:35:31.574118"
       }
     ]
   },
@@ -10109,24 +10113,6 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "前金分隊",
-    "current_status": "已出動",
-    "status_history": [
-      {
-        "status": "已派遣",
-        "timestamp": "2026-10-10T19:27:31.572607"
-      },
-      {
-        "status": "已出動",
-        "timestamp": "2026-10-10T19:29:31.493497"
-      }
-    ]
-  },
-  "cb48997d83f4be3f1046e3bad18f18cd": {
-    "time": "2026/10/10 19:26:13",
-    "category": "緊急救護",
-    "sub_category": "急病",
-    "location": "高雄市左營區",
-    "units": "新莊分隊",
     "current_status": "已到達",
     "status_history": [
       {
@@ -10139,7 +10125,33 @@
       },
       {
         "status": "已到達",
+        "timestamp": "2026-10-10T19:35:31.574118"
+      }
+    ]
+  },
+  "cb48997d83f4be3f1046e3bad18f18cd": {
+    "time": "2026/10/10 19:26:13",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "送醫中",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T19:27:31.572607"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T19:29:31.493497"
+      },
+      {
+        "status": "已到達",
         "timestamp": "2026-10-10T19:33:31.656736"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T19:35:31.574118"
       }
     ]
   },
@@ -10149,7 +10161,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10158,6 +10170,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T19:29:31.493497"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T19:35:31.574118"
       }
     ]
   },
@@ -10213,11 +10229,15 @@
     "sub_category": "車禍",
     "location": "高雄市新興區仁智街",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T19:33:31.656736"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T19:35:31.574118"
       }
     ]
   }
