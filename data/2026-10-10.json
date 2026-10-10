@@ -6811,7 +6811,7 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6820,6 +6820,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T14:09:31.536792"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T14:12:31.516857"
       }
     ]
   },
@@ -6856,6 +6860,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T14:11:31.537459"
+      }
+    ]
+  },
+  "0e99f3563e5e8fd177cec197a8423181": {
+    "time": "2026/10/10 14:11:26",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市",
+    "units": "和發分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T14:12:31.516857"
+      }
+    ]
+  },
+  "93356e2371540358c1b325998df222fe": {
+    "time": "2026/10/10 14:11:21",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T14:12:31.516857"
       }
     ]
   }
