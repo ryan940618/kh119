@@ -10923,7 +10923,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10936,6 +10936,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T20:43:31.168982"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T20:53:31.267086"
       }
     ]
   },
@@ -10967,7 +10971,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10976,6 +10980,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T20:50:31.039227"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T20:53:31.267086"
       }
     ]
   },
@@ -11003,11 +11011,29 @@
     "sub_category": "創傷",
     "location": "高雄市旗津區瑞竹街",
     "units": "旗津分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T20:52:31.088760"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T20:53:31.267086"
+      }
+    ]
+  },
+  "712ec85f816f8501e9ec3f18988c70cf": {
+    "time": "2026/10/10 20:52:52",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區三多一路和福海街",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T20:53:31.267086"
       }
     ]
   }
