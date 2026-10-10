@@ -5285,7 +5285,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "橋頭分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -5294,6 +5294,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T12:02:31.662274"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T12:10:31.828200"
       }
     ]
   },
@@ -5347,7 +5351,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區岡山北路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5356,6 +5360,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T12:04:31.858880"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T12:10:31.828200"
       }
     ]
   },
@@ -5419,11 +5427,29 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊,高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T12:09:32.014005"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T12:10:31.828200"
+      }
+    ]
+  },
+  "da2cda04ab3acda61a34e3ce6eb613fd": {
+    "time": "2026/10/10 12:09:51",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T12:10:31.828200"
       }
     ]
   }
