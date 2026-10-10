@@ -8831,7 +8831,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -8840,6 +8840,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T18:01:31.066647"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T18:12:31.064920"
       }
     ]
   },
@@ -8965,11 +8969,15 @@
     "sub_category": "其他",
     "location": "高雄市三民區九如三路",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T18:11:30.988656"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T18:12:31.064920"
       }
     ]
   }
