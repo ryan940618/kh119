@@ -1673,7 +1673,7 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1690,6 +1690,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T06:56:31.579132"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T07:02:31.754378"
       }
     ]
   },
@@ -1775,11 +1779,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區中山東路",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T07:00:31.715737"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T07:02:31.754378"
       }
     ]
   }
