@@ -9035,7 +9035,7 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9048,6 +9048,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T18:23:31.150590"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T18:31:31.151246"
       }
     ]
   },
@@ -9214,6 +9218,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T18:29:31.153332"
+      }
+    ]
+  },
+  "1042d44b9a1616cd9e83e376f1a77b13": {
+    "time": "2026/10/10 18:30:32",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T18:31:31.151246"
+      }
+    ]
+  },
+  "16028f3126c1b7ca546372c65fe55f19": {
+    "time": "2026/10/10 18:30:14",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市新興區林森一路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T18:31:31.151246"
       }
     ]
   }
