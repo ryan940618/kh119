@@ -12051,11 +12051,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T23:18:31.049119"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T23:20:31.065652"
       }
     ]
   },
@@ -12065,11 +12069,29 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區琉園二街",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T23:19:31.061670"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T23:20:31.065652"
+      }
+    ]
+  },
+  "6a0514be401f6233a6cb9c05e4df76e6": {
+    "time": "2026/10/10 23:19:27",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗津區",
+    "units": "旗津分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T23:20:31.065652"
       }
     ]
   }
