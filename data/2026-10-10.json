@@ -2957,7 +2957,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -2970,6 +2970,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T09:01:31.509226"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T09:05:31.500075"
       }
     ]
   },
@@ -3198,6 +3202,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T09:04:31.701028"
+      }
+    ]
+  },
+  "dd52f1a5e9d4a0ee2bd80227e99392a0": {
+    "time": "2026/10/10 09:03:51",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區新榮街",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T09:05:31.500075"
       }
     ]
   }
