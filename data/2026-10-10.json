@@ -9465,7 +9465,7 @@
     "sub_category": "路倒",
     "location": "高雄市仁武區中正路",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9482,6 +9482,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T18:54:31.327823"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T19:02:31.529685"
       }
     ]
   },
@@ -9627,7 +9631,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9644,6 +9648,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T18:58:31.385402"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T19:02:31.529685"
       }
     ]
   },
@@ -9768,6 +9776,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T18:58:31.385402"
+      }
+    ]
+  },
+  "f66968b44502db6f8aa0f6baebcec546": {
+    "time": "2026/10/10 18:59:24",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-10T19:02:31.529685"
       }
     ]
   }
