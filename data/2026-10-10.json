@@ -4465,7 +4465,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區建國一路",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4482,6 +4482,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T10:57:31.379425"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T11:06:31.351155"
       }
     ]
   },
@@ -4566,6 +4570,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T11:01:31.307442"
+      }
+    ]
+  },
+  "2b5111ed3d9a1ee631f162a4667a9ba5": {
+    "time": "2026/10/10 11:05:14",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市前鎮區",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T11:06:31.351155"
       }
     ]
   }
