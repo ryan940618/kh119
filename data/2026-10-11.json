@@ -899,7 +899,7 @@
     "sub_category": "創傷",
     "location": "高雄市新興區五福一路",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -916,6 +916,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T03:04:31.202735"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T03:10:31.264400"
       }
     ]
   },
@@ -974,6 +978,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T03:02:31.205555"
+      }
+    ]
+  },
+  "56b01e23f9e9b2aed47684663f2c3ee6": {
+    "time": "2026/10/11 03:10:21",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前金區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T03:10:31.264400"
+      }
+    ]
+  },
+  "41c29783195caf5e2e2b3f59f9378245": {
+    "time": "2026/10/11 03:09:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市橋頭區",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T03:10:31.264400"
       }
     ]
   }
