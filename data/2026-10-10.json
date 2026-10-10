@@ -9907,7 +9907,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9916,6 +9916,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T19:24:44.312135"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T19:38:31.666472"
       }
     ]
   },
@@ -10041,7 +10045,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區五甲一路",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已到達",
@@ -10050,6 +10054,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T19:31:31.624669"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T19:38:31.666472"
       }
     ]
   },
@@ -10258,6 +10266,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T19:35:31.574118"
+      }
+    ]
+  },
+  "f2bee7a3fe8bc2dfc321977c2708aa3a": {
+    "time": "2026/10/10 19:37:54",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市茄萣區",
+    "units": "茄萣分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T19:38:31.666472"
       }
     ]
   }
