@@ -10935,7 +10935,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10952,6 +10952,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T20:53:31.267086"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T20:59:31.177718"
       }
     ]
   },
@@ -11071,11 +11075,15 @@
     "sub_category": "其他",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T20:57:31.274632"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T20:59:31.177718"
       }
     ]
   }
