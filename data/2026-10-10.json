@@ -11661,11 +11661,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營小隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T22:27:31.921616"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T22:30:31.765114"
       }
     ]
   },
@@ -11684,6 +11688,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T22:28:31.564757"
+      }
+    ]
+  },
+  "0355f6381aba4b904f045a1a3deefdc1": {
+    "time": "2026/10/10 22:27:56",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市六龜區",
+    "units": "六龜分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T22:30:31.765114"
       }
     ]
   }
