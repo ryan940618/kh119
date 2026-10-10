@@ -7911,7 +7911,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區空醫院路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7928,6 +7928,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T16:11:31.049490"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T16:12:31.236062"
       }
     ]
   },
@@ -7981,7 +7985,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區海邊路",
     "units": "",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已受理",
@@ -7994,6 +7998,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T16:07:31.302921"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T16:12:31.236062"
       }
     ]
   },
@@ -8016,6 +8024,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T16:11:31.049490"
+      }
+    ]
+  },
+  "5a5bc9a1ad05c27446edca6c5605c9d6": {
+    "time": "2026/10/10 16:11:33",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區明賢街",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T16:12:31.236062"
       }
     ]
   }
