@@ -11941,7 +11941,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11950,6 +11950,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T23:01:31.900899"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T23:13:30.937158"
       }
     ]
   },
@@ -12012,6 +12016,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T23:12:31.973238"
+      }
+    ]
+  },
+  "3595df6d0f269f95f2a314c7d5cbb6b3": {
+    "time": "2026/10/10 23:12:41",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T23:13:30.937158"
       }
     ]
   }
