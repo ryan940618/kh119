@@ -2697,7 +2697,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區福安二街",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2714,6 +2714,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T08:43:31.465687"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T08:50:31.528086"
       }
     ]
   },
@@ -2753,7 +2757,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2766,6 +2770,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T08:35:31.320077"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T08:50:31.528086"
       }
     ]
   },
@@ -2831,7 +2839,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2844,6 +2852,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T08:43:31.465687"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T08:50:31.528086"
       }
     ]
   },
@@ -2929,11 +2941,15 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-10T08:45:31.418522"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T08:50:31.528086"
       }
     ]
   },
@@ -2971,11 +2987,15 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區八德西路",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T08:48:31.513491"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T08:50:31.528086"
       }
     ]
   }
