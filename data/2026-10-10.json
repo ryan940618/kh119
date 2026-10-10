@@ -9419,7 +9419,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9428,6 +9428,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T18:42:31.303103"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T18:48:31.264903"
       }
     ]
   },
@@ -9437,7 +9441,7 @@
     "sub_category": "路倒",
     "location": "高雄市仁武區中正路",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9446,6 +9450,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T18:45:31.275759"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T18:48:31.264903"
       }
     ]
   },
@@ -9531,11 +9539,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T18:45:31.275759"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T18:48:31.264903"
       }
     ]
   },
@@ -9590,6 +9602,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T18:47:31.344073"
+      }
+    ]
+  },
+  "2bfb6343faa4dfb4ce9a2cd01c48e067": {
+    "time": "2026/10/10 18:47:19",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鼓山區內惟路",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T18:48:31.264903"
+      }
+    ]
+  },
+  "2bb95ee47dc6bdf94b597d3d5258bb80": {
+    "time": "2026/10/10 18:47:13",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T18:48:31.264903"
+      }
+    ]
+  },
+  "4077433aa9a3c09b8b42c7418f04a2f8": {
+    "time": "2026/10/10 18:46:53",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T18:48:31.264903"
       }
     ]
   }
