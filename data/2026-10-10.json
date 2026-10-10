@@ -3727,7 +3727,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區萬丹路",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3744,6 +3744,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T09:53:31.907658"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T10:02:31.925067"
       }
     ]
   },
@@ -3837,7 +3841,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3846,6 +3850,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T09:54:31.937548"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T10:02:31.925067"
       }
     ]
   },
@@ -3935,11 +3943,29 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T09:59:31.962548"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T10:02:31.925067"
+      }
+    ]
+  },
+  "1664fcab3c865ee1841b941a27a27baa": {
+    "time": "2026/10/10 10:01:39",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市阿蓮區",
+    "units": "阿蓮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T10:02:31.925067"
       }
     ]
   }
