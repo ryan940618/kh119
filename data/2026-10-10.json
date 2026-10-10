@@ -11491,7 +11491,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11504,6 +11504,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T21:59:31.457439"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T22:10:31.605790"
       }
     ]
   },
@@ -11518,6 +11522,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T22:05:31.447946"
+      }
+    ]
+  },
+  "61ed99e6718bc06376e4afab9d33113f": {
+    "time": "2026/10/10 22:09:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T22:10:31.605790"
       }
     ]
   }
