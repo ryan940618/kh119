@@ -5033,7 +5033,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -5042,6 +5042,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T11:44:31.426434"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T11:56:31.630618"
       }
     ]
   },
@@ -5157,11 +5161,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-10T11:50:31.584204"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T11:56:31.630618"
       }
     ]
   },
@@ -5218,6 +5226,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T11:55:31.616579"
+      }
+    ]
+  },
+  "bf165d3079171819cbddff56acc54e1c": {
+    "time": "2026/10/10 11:55:36",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大樹區龍目路",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T11:56:31.630618"
       }
     ]
   }
