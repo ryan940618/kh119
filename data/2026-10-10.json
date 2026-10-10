@@ -5695,7 +5695,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5712,6 +5712,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T12:29:32.025241"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T12:37:31.927750"
       }
     ]
   },
@@ -5779,11 +5783,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T12:35:31.994173"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T12:37:31.927750"
       }
     ]
   },
@@ -5793,11 +5801,15 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T12:35:31.994173"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T12:37:31.927750"
       }
     ]
   }
