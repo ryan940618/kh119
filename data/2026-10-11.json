@@ -1725,7 +1725,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊,高桂分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1742,6 +1742,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T07:16:31.701709"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T07:28:30.901356"
       }
     ]
   },
@@ -1963,11 +1967,15 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區鼓山三路",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T07:26:30.945599"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T07:28:30.901356"
       }
     ]
   },
@@ -2000,6 +2008,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T07:27:30.869748"
+      }
+    ]
+  },
+  "1370958ca858c429b2612bee51df7f94": {
+    "time": "2026/10/11 07:27:49",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市鳥松區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T07:28:30.901356"
+      }
+    ]
+  },
+  "f14df3d160c08c7acd8782dd51703c17": {
+    "time": "2026/10/11 07:26:49",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T07:28:30.901356"
       }
     ]
   }
