@@ -3861,7 +3861,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3874,6 +3874,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T10:02:31.925067"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T10:15:31.177759"
       }
     ]
   },
@@ -3913,7 +3917,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區武慶二路",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -3926,6 +3930,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T10:07:32.127507"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T10:15:31.177759"
       }
     ]
   },
@@ -3979,7 +3987,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3996,6 +4004,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T10:13:31.116957"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T10:15:31.177759"
       }
     ]
   },
