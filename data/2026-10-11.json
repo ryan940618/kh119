@@ -253,7 +253,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -266,6 +266,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T00:52:31.450073"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T00:59:31.479207"
       }
     ]
   },
@@ -275,11 +279,15 @@
     "sub_category": "其他",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T00:53:31.481364"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T00:59:31.479207"
       }
     ]
   },
@@ -321,11 +329,15 @@
     "sub_category": "路倒",
     "location": "高雄市新興區六合一路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T00:58:31.663112"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T00:59:31.479207"
       }
     ]
   }
