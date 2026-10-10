@@ -335,7 +335,7 @@
     "sub_category": "急病",
     "location": "高雄市六龜區",
     "units": "六龜分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -352,6 +352,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T01:14:31.601788"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T01:44:31.896327"
       }
     ]
   },
@@ -461,7 +465,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區同盟一路和孝順街",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -474,6 +478,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T01:34:31.769471"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T01:44:31.896327"
       }
     ]
   },
@@ -549,7 +557,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -558,6 +566,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T01:41:31.757954"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T01:44:31.896327"
       }
     ]
   },
@@ -567,11 +579,15 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T01:40:31.851478"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T01:44:31.896327"
       }
     ]
   }
