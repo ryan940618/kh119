@@ -10515,7 +10515,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區中興街",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10524,6 +10524,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T19:55:31.859016"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T20:01:31.921625"
       }
     ]
   },
@@ -10556,6 +10560,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T20:00:31.947463"
+      }
+    ]
+  },
+  "50b161dba4f0a282be54d92ad207c94d": {
+    "time": "2026/10/10 20:00:48",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市湖內區中華街",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T20:01:31.921625"
+      }
+    ]
+  },
+  "21fdd7a6e6092989cf1ff8679c5b5144": {
+    "time": "2026/10/10 20:00:18",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T20:01:31.921625"
       }
     ]
   }
