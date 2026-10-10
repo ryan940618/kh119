@@ -9929,7 +9929,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9946,6 +9946,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T19:42:31.706391"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T19:56:31.738112"
       }
     ]
   },
@@ -10429,7 +10433,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10446,6 +10450,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T19:50:31.918291"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T19:56:31.738112"
       }
     ]
   },
@@ -10512,6 +10520,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T19:55:31.859016"
+      }
+    ]
+  },
+  "2a0f8a7f7456d20fad2941262ee7cf91": {
+    "time": "2026/10/10 19:55:21",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鳳山區瑞隆東路",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T19:56:31.738112"
       }
     ]
   }
