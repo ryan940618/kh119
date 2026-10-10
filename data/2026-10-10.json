@@ -6809,7 +6809,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區國光路",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6826,6 +6826,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T14:24:31.551047"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T14:28:31.553864"
       }
     ]
   },
@@ -7038,6 +7042,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T14:27:31.624698"
+      }
+    ]
+  },
+  "7122e216cb26df49d2e5c5ac5d878783": {
+    "time": "2026/10/10 14:24:59",
+    "category": "其他",
+    "sub_category": "動物救援",
+    "location": "高雄市那瑪夏區",
+    "units": "那瑪夏分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T14:28:31.553864"
       }
     ]
   }
