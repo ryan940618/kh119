@@ -1871,7 +1871,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區翠華路",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1884,6 +1884,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T07:18:31.749649"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T07:26:30.945599"
       }
     ]
   },
@@ -1950,6 +1954,48 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T07:25:31.833495"
+      }
+    ]
+  },
+  "b416c6bb526430bef01134718e549aa9": {
+    "time": "2026/10/11 07:25:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區鼓山三路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T07:26:30.945599"
+      }
+    ]
+  },
+  "585ed53b6aa85cf9fa8f69296ed761e5": {
+    "time": "2026/10/11 07:25:52",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "中庄分隊,大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T07:26:30.945599"
+      }
+    ]
+  },
+  "c7281e3031804910e3ab0a38617b99ae": {
+    "time": "2026/10/11 07:24:50",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T07:26:30.945599"
       }
     ]
   }
