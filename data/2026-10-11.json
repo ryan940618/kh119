@@ -833,7 +833,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -842,6 +842,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T02:49:31.149795"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T02:55:31.202721"
       }
     ]
   },
@@ -879,11 +883,43 @@
     "sub_category": "創傷",
     "location": "高雄市新興區五福一路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T02:54:31.179299"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T02:55:31.202721"
+      }
+    ]
+  },
+  "24b76d286d331d08e179a42fe58489b1": {
+    "time": "2026/10/11 02:54:25",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區經武路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T02:55:31.202721"
+      }
+    ]
+  },
+  "0bd55593c8b346cdd695cc618da948ec": {
+    "time": "2026/10/11 02:53:35",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市茄萣區",
+    "units": "茄萣分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T02:55:31.202721"
       }
     ]
   }
