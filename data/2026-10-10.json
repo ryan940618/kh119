@@ -8675,7 +8675,7 @@
     "sub_category": "急病",
     "location": "高雄市六龜區",
     "units": "六龜分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8692,6 +8692,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T17:58:31.038876"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T18:24:31.087806"
       }
     ]
   },
@@ -9110,6 +9114,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T18:23:31.150590"
+      }
+    ]
+  },
+  "349d9891fef0709907f875f82c528d95": {
+    "time": "2026/10/10 18:23:21",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T18:24:31.087806"
       }
     ]
   }
