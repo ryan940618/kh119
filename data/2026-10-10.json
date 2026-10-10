@@ -5253,11 +5253,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-10T11:55:31.616579"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T12:02:31.662274"
       }
     ]
   },
@@ -5322,6 +5326,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T12:01:31.713915"
+      }
+    ]
+  },
+  "0b2e1ca84b622e8a8e1d1484ceefd41b": {
+    "time": "2026/10/10 12:01:07",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區輔仁路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T12:02:31.662274"
+      }
+    ]
+  },
+  "dfb3601322646a04e6c0e1f3a3d1fdae": {
+    "time": "2026/10/10 12:00:26",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區繼光街",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T12:02:31.662274"
       }
     ]
   }
