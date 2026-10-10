@@ -3715,7 +3715,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區萬丹路",
     "units": "大寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3728,6 +3728,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T09:49:31.770747"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T09:53:31.907658"
       }
     ]
   },
@@ -3751,7 +3755,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區凱旋一路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3760,6 +3764,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T09:48:31.906987"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T09:53:31.907658"
       }
     ]
   },
@@ -3791,7 +3799,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3800,6 +3808,52 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T09:49:31.770747"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T09:53:31.907658"
+      }
+    ]
+  },
+  "b70191061b807c074ec63def11ad5add": {
+    "time": "2026/10/10 09:52:49",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T09:53:31.907658"
+      }
+    ]
+  },
+  "b6bd16627ecd83d1f57a5f3837b1707a": {
+    "time": "2026/10/10 09:52:01",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前金區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T09:53:31.907658"
+      }
+    ]
+  },
+  "4bda76f2a6f2db396620c32a95a3b146": {
+    "time": "2026/10/10 09:52:01",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鳳山區武慶二路",
+    "units": "瑞隆分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T09:53:31.907658"
       }
     ]
   }
