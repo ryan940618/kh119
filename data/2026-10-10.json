@@ -9977,7 +9977,7 @@
     "sub_category": "路倒",
     "location": "高雄市苓雅區一心二路",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -9986,6 +9986,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T19:27:31.572607"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T19:39:31.682229"
       }
     ]
   },
@@ -10275,11 +10279,29 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T19:38:31.666472"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T19:39:31.682229"
+      }
+    ]
+  },
+  "360156788fd768de6baacd955c8286ef": {
+    "time": "2026/10/10 19:39:03",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區朝新路",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T19:39:31.682229"
       }
     ]
   }
