@@ -7159,7 +7159,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7168,6 +7168,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T14:35:31.655845"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T14:49:31.947152"
       }
     ]
   },
@@ -7291,7 +7295,7 @@
     "sub_category": "創傷",
     "location": "高雄市岡山區醒路",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7304,6 +7308,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T14:48:31.781379"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-10T14:49:31.947152"
       }
     ]
   },
@@ -7313,7 +7321,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區三多二路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7322,6 +7330,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T14:44:31.823263"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T14:49:31.947152"
       }
     ]
   },
@@ -7336,6 +7348,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T14:43:31.800964"
+      }
+    ]
+  },
+  "a47934da59027695242718fe79f7319a": {
+    "time": "2026/10/10 14:48:43",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區光復路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T14:49:31.947152"
       }
     ]
   }
