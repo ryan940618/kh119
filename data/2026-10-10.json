@@ -9231,7 +9231,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9248,6 +9248,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T18:41:31.233963"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T18:44:31.275815"
       }
     ]
   },
@@ -9449,11 +9453,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營小隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T18:43:31.359009"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T18:44:31.275815"
       }
     ]
   },
@@ -9468,6 +9476,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T18:43:31.359009"
+      }
+    ]
+  },
+  "8adbb1aca661f46180e750a8c36359bf": {
+    "time": "2026/10/10 18:43:56",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鹽埕區中正四路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T18:44:31.275815"
       }
     ]
   }
