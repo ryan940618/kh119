@@ -4589,7 +4589,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4598,6 +4598,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T11:01:31.307442"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T11:13:31.343388"
       }
     ]
   },
@@ -4648,6 +4652,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T11:12:31.332787"
+      }
+    ]
+  },
+  "19c500974e7dedebe14dc866d2fb8de1": {
+    "time": "2026/10/10 11:12:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T11:13:31.343388"
+      }
+    ]
+  },
+  "39dad6a3d02d3d0fce6964dd5ffb24f2": {
+    "time": "2026/10/10 11:10:13",
+    "category": "火災",
+    "sub_category": "雜草(含廢棄物、墓地)",
+    "location": "高雄市內門區",
+    "units": "內門分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T11:13:31.343388"
       }
     ]
   }
