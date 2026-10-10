@@ -9397,7 +9397,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9414,6 +9414,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T18:45:31.275759"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T18:51:31.344150"
       }
     ]
   },
@@ -9583,7 +9587,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9592,6 +9596,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T18:47:31.344073"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T18:51:31.344150"
       }
     ]
   },
