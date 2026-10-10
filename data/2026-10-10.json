@@ -3529,7 +3529,7 @@
     "sub_category": "急病",
     "location": "高雄市橋頭區",
     "units": "橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3538,6 +3538,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T09:33:31.767744"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T09:41:31.754495"
       }
     ]
   },
@@ -3591,11 +3595,15 @@
     "sub_category": "路倒",
     "location": "高雄市茄萣區仁愛路",
     "units": "湖內分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T09:40:31.787448"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T09:41:31.754495"
       }
     ]
   }
