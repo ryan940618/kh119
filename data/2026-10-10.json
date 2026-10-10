@@ -3635,7 +3635,7 @@
     "sub_category": "路倒",
     "location": "高雄市茄萣區仁愛路",
     "units": "湖內分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3652,6 +3652,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-10T09:52:31.779225"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-10T10:05:31.991867"
       }
     ]
   },
@@ -3979,11 +3983,15 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區高楠公路",
     "units": "楠梓分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T10:04:32.206415"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T10:05:31.991867"
       }
     ]
   }
