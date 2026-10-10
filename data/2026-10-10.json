@@ -9235,11 +9235,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T18:31:31.151246"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T18:33:31.247302"
       }
     ]
   },
@@ -9272,6 +9276,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T18:32:31.224445"
+      }
+    ]
+  },
+  "c344e426c9e5ceedc1ee9a5c3bf64ed9": {
+    "time": "2026/10/10 18:32:56",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大社區三民路和自強街",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T18:33:31.247302"
+      }
+    ]
+  },
+  "6cb17a838dbb86e4b4266c739aad68fd": {
+    "time": "2026/10/10 18:32:06",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T18:33:31.247302"
       }
     ]
   }
