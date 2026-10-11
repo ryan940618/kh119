@@ -7649,7 +7649,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -7658,6 +7658,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T17:05:31.444673"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T17:19:31.544260"
       }
     ]
   },
@@ -7822,6 +7826,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T17:17:31.459643"
+      }
+    ]
+  },
+  "aed802c07aa3fc9f9151c46d982185ff": {
+    "time": "2026/10/11 17:18:24",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T17:19:31.544260"
       }
     ]
   }
