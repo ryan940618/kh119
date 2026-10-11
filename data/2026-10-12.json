@@ -2127,7 +2127,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2136,6 +2136,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T07:41:31.529399"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T07:45:31.649108"
       }
     ]
   },
@@ -2199,11 +2203,15 @@
     "sub_category": "急病",
     "location": "高雄市永安區",
     "units": "永安分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T07:44:31.701027"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T07:45:31.649108"
       }
     ]
   },
@@ -2218,6 +2226,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T07:44:31.701027"
+      }
+    ]
+  },
+  "98898ba7fd3ce3d1eb81ca71f2a6cb11": {
+    "time": "2026/10/12 07:44:42",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗山區",
+    "units": "旗山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T07:45:31.649108"
       }
     ]
   }
