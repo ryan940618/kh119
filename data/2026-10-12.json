@@ -139,7 +139,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -148,6 +148,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T00:54:31.173343"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T01:00:31.216449"
       }
     ]
   },
@@ -157,7 +161,7 @@
     "sub_category": "其他",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -166,6 +170,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T00:55:31.114601"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T01:00:31.216449"
       }
     ]
   },
@@ -194,6 +202,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T00:57:31.039579"
+      }
+    ]
+  },
+  "48fd6206539d1938cd383a5a9b8f66ed": {
+    "time": "2026/10/12 00:59:52",
+    "category": "緊急救護",
+    "sub_category": "藥物、食物中毒",
+    "location": "高雄市大寮區鳳林三路",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T01:00:31.216449"
       }
     ]
   }
