@@ -4891,7 +4891,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -4904,6 +4904,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T12:31:31.679061"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T12:38:31.904850"
       }
     ]
   },
@@ -5201,11 +5205,29 @@
     "sub_category": "車禍",
     "location": "高雄市三民區義華路",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T12:37:31.867762"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T12:38:31.904850"
+      }
+    ]
+  },
+  "1f0cc691590f682981085ca389a88867": {
+    "time": "2026/10/11 12:37:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "後勁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T12:38:31.904850"
       }
     ]
   }
