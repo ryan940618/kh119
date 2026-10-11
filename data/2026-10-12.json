@@ -375,7 +375,7 @@
     "sub_category": "路倒",
     "location": "高雄市仁武區大福街",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -384,6 +384,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T01:22:31.255230"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T01:30:32.513278"
       }
     ]
   },
@@ -420,6 +424,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T01:29:31.468459"
+      }
+    ]
+  },
+  "6b2ab3761eff9494b8ee4e69c0bc8de6": {
+    "time": "2026/10/12 01:29:34",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T01:30:32.513278"
       }
     ]
   }
