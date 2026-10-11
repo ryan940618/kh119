@@ -4165,7 +4165,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4182,6 +4182,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T11:13:31.282420"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T11:21:31.273353"
       }
     ]
   },
@@ -4322,6 +4326,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T11:20:31.339971"
+      }
+    ]
+  },
+  "9d10b8ee6b398ae17265fbb94dde26dc": {
+    "time": "2026/10/11 11:20:26",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區啟昌街",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T11:21:31.273353"
+      }
+    ]
+  },
+  "7d8a49710ea5461a5ee4bded00dc16d4": {
+    "time": "2026/10/11 11:20:08",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區蓮潭路",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T11:21:31.273353"
       }
     ]
   }
