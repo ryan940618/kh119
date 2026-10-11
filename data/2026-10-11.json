@@ -8339,7 +8339,7 @@
     "sub_category": "其他",
     "location": "高雄市林園區王公一路",
     "units": "林園分隊",
-    "current_status": "已派遣",
+    "current_status": "火已滅",
     "status_history": [
       {
         "status": "已派遣",
@@ -8352,6 +8352,10 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T18:09:31.860513"
+      },
+      {
+        "status": "火已滅",
+        "timestamp": "2026-10-11T18:29:30.929344"
       }
     ]
   },
@@ -8383,7 +8387,7 @@
     "sub_category": "車禍",
     "location": "高雄市旗津區中洲三路",
     "units": "旗津分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -8392,6 +8396,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T18:21:32.633623"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T18:29:30.929344"
       }
     ]
   },
@@ -8427,7 +8435,7 @@
     "sub_category": "生物咬螫傷",
     "location": "高雄市六龜區寶建路",
     "units": "寶來分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8440,6 +8448,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T18:26:30.968060"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T18:29:30.929344"
       }
     ]
   },
@@ -8507,11 +8519,29 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T18:27:30.985166"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T18:29:30.929344"
+      }
+    ]
+  },
+  "f7e2af159fb686e3c6afea68ea01ac99": {
+    "time": "2026/10/11 18:28:19",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區美術東二路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T18:29:30.929344"
       }
     ]
   }
