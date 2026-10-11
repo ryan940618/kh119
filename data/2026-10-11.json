@@ -10033,7 +10033,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區青年路",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10046,6 +10046,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T21:33:30.979261"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T21:40:31.054710"
       }
     ]
   },
@@ -10099,7 +10103,7 @@
     "sub_category": "車禍",
     "location": "高雄市旗津區中洲三路",
     "units": "旗津分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10108,6 +10112,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T21:34:31.088281"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T21:40:31.054710"
       }
     ]
   },
@@ -10139,11 +10147,15 @@
     "sub_category": "其他",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T21:38:31.030185"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T21:40:31.054710"
       }
     ]
   },
@@ -10153,11 +10165,15 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T21:38:31.030185"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T21:40:31.054710"
       }
     ]
   }
