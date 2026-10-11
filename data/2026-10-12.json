@@ -593,7 +593,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區明誠一路",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -602,6 +602,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T02:00:31.428410"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T02:06:31.512722"
       }
     ]
   },
@@ -616,6 +620,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T02:04:31.544124"
+      }
+    ]
+  },
+  "35d1e692e4544ec108c37f9346c9ac6c": {
+    "time": "2026/10/12 02:05:16",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T02:06:31.512722"
       }
     ]
   }
