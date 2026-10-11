@@ -2061,7 +2061,7 @@
     "sub_category": "其他",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -2074,6 +2074,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T07:34:30.950880"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T08:26:31.421786"
       }
     ]
   },
@@ -2431,11 +2435,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-11T08:22:31.307773"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T08:26:31.421786"
       }
     ]
   }
