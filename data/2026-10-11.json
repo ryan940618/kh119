@@ -2739,7 +2739,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -2752,6 +2752,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T09:18:31.605341"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T09:30:31.651538"
       }
     ]
   },
@@ -2973,7 +2977,7 @@
     "sub_category": "車禍",
     "location": "高雄市美濃區中山路",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2982,6 +2986,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T09:27:31.593363"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T09:30:31.651538"
       }
     ]
   },
