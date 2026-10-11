@@ -527,7 +527,7 @@
     "sub_category": "創傷",
     "location": "高雄市彌陀區漁港一街",
     "units": "彌陀分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -544,6 +544,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T02:58:31.008287"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T03:22:31.033449"
       }
     ]
   },
@@ -942,6 +946,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T03:17:31.002362"
+      }
+    ]
+  },
+  "f4eb6b68570e4f91f293734cb8f83fbb": {
+    "time": "2026/10/12 03:21:27",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T03:22:31.033449"
       }
     ]
   }
