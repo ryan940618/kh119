@@ -7811,7 +7811,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區白樹路和竹林街",
     "units": "橋頭分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7828,6 +7828,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T17:23:31.634814"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T17:27:31.593653"
       }
     ]
   },
@@ -7859,7 +7863,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7872,6 +7876,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T17:25:31.734370"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T17:27:31.593653"
       }
     ]
   },
@@ -7912,6 +7920,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T17:26:31.448073"
+      }
+    ]
+  },
+  "270e51ccde95f1129c840f5bb7d53e8f": {
+    "time": "2026/10/11 17:26:28",
+    "category": "火災",
+    "sub_category": "一般(集合)住宅",
+    "location": "高雄市左營區果峰街",
+    "units": "左營分隊,左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T17:27:31.593653"
       }
     ]
   }
