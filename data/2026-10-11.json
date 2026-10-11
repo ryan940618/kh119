@@ -6327,7 +6327,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區青年路",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6344,6 +6344,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T14:57:31.604235"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T14:59:31.448342"
       }
     ]
   },
@@ -6397,7 +6401,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區自由三路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6406,6 +6410,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T14:55:31.516058"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T14:59:31.448342"
       }
     ]
   },
@@ -6424,6 +6432,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T14:56:31.483841"
+      }
+    ]
+  },
+  "f8a9634c411629ac3daea527b6b77dd2": {
+    "time": "2026/10/11 14:58:24",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市前金區成功一路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T14:59:31.448342"
       }
     ]
   }
