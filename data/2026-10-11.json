@@ -9907,7 +9907,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9924,6 +9924,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T21:29:30.985360"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T21:47:31.100697"
       }
     ]
   },
@@ -9993,7 +9997,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "橋頭分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10010,6 +10014,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T21:38:31.030185"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T21:47:31.100697"
       }
     ]
   },
@@ -10101,7 +10109,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10114,6 +10122,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T21:36:31.009143"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T21:47:31.100697"
       }
     ]
   },
@@ -10149,7 +10161,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10162,6 +10174,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T21:38:31.030185"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T21:47:31.100697"
       }
     ]
   },
@@ -10171,7 +10187,7 @@
     "sub_category": "其他",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -10184,6 +10200,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T21:46:31.222030"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T21:47:31.100697"
       }
     ]
   },
@@ -10224,6 +10244,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T21:45:31.089506"
+      }
+    ]
+  },
+  "4bbb391a921193d0a909a5c011320d9c": {
+    "time": "2026/10/11 21:46:36",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市大寮區仁愛路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T21:47:31.100697"
       }
     ]
   }
