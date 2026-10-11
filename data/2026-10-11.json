@@ -8197,7 +8197,7 @@
     "sub_category": "路倒",
     "location": "高雄市大寮區鳳林一路",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8214,6 +8214,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T18:15:31.835575"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T18:20:31.952076"
       }
     ]
   },
@@ -8403,11 +8407,29 @@
     "sub_category": "生物咬螫傷",
     "location": "高雄市六龜區寶建路",
     "units": "寶來分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T18:19:31.993137"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T18:20:31.952076"
+      }
+    ]
+  },
+  "25e342d47697e1ec1c78953c2d983a0e": {
+    "time": "2026/10/11 18:20:10",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區華中南路",
+    "units": "和發分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T18:20:31.952076"
       }
     ]
   }
