@@ -9533,7 +9533,7 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9550,6 +9550,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T20:41:31.660708"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T20:57:31.785738"
       }
     ]
   },
@@ -9719,11 +9723,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T20:55:31.671623"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T20:57:31.785738"
       }
     ]
   },
@@ -9733,11 +9741,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T20:55:31.671623"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T20:57:31.785738"
       }
     ]
   }
