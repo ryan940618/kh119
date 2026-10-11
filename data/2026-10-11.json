@@ -5081,7 +5081,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區菜公一路",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5094,6 +5094,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T12:25:31.657209"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T12:40:31.813799"
       }
     ]
   },
@@ -5236,6 +5240,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T12:38:31.904850"
+      }
+    ]
+  },
+  "164ea9327b2cda85ecc42cc21d39fba2": {
+    "time": "2026/10/11 12:39:59",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T12:40:31.813799"
+      }
+    ]
+  },
+  "06814d0a8463b3c4f2e7ee0d73fef46d": {
+    "time": "2026/10/11 12:37:30",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市桃源區台20南橫公路",
+    "units": "桃源分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T12:40:31.813799"
       }
     ]
   }
