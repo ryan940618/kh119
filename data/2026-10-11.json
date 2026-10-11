@@ -4943,7 +4943,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區沿海一路",
     "units": "小港分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4960,6 +4960,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T12:31:31.679061"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T12:35:31.745015"
       }
     ]
   },
@@ -5017,7 +5021,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -5026,6 +5030,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T12:21:31.577259"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T12:35:31.745015"
       }
     ]
   },
@@ -5109,7 +5117,7 @@
     "sub_category": "急病",
     "location": "高雄市內門區",
     "units": "內門分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -5118,6 +5126,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T12:27:31.642856"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T12:35:31.745015"
       }
     ]
   },
@@ -5167,11 +5179,15 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T12:34:31.832338"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T12:35:31.745015"
       }
     ]
   }
