@@ -7035,7 +7035,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區鳳仁路",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7052,6 +7052,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T16:28:31.129224"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T16:30:31.258356"
       }
     ]
   },
@@ -7329,11 +7333,15 @@
     "sub_category": "路倒",
     "location": "高雄市小港區福隆街",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T16:28:31.129224"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T16:30:31.258356"
       }
     ]
   }
