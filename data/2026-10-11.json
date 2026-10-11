@@ -8533,7 +8533,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區自立街",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8550,6 +8550,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T18:39:31.067748"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T18:42:30.931952"
       }
     ]
   },
@@ -8595,7 +8599,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8608,6 +8612,24 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T18:34:31.020606"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T18:42:30.931952"
+      }
+    ]
+  },
+  "21e3edeefe6e51cb63f680ac4983aa58": {
+    "time": "2026/10/11 18:41:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗山區",
+    "units": "旗山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T18:42:30.931952"
       }
     ]
   }
