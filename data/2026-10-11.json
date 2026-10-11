@@ -8803,7 +8803,7 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區美昌街",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8816,6 +8816,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T19:05:31.130087"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T19:07:31.068614"
       }
     ]
   },
@@ -8830,6 +8834,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T19:05:31.130087"
+      }
+    ]
+  },
+  "ad527d398cd461d06d9cbf9699cfa7c3": {
+    "time": "2026/10/11 19:07:11",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T19:07:31.068614"
       }
     ]
   }
