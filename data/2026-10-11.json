@@ -3403,7 +3403,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3416,6 +3416,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T10:03:30.910863"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T10:15:31.001040"
       }
     ]
   },
@@ -3487,7 +3491,7 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區興山路",
     "units": "大樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3496,6 +3500,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T10:09:30.972655"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T10:15:31.001040"
       }
     ]
   },
@@ -3550,6 +3558,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T10:14:31.009933"
+      }
+    ]
+  },
+  "30cb2633e9ae67eb13cc324fd3509d99": {
+    "time": "2026/10/11 10:14:14",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市小港區宏平路",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T10:15:31.001040"
+      }
+    ]
+  },
+  "ecdc5395f0fe176fbab7d86cd40be5fc": {
+    "time": "2026/10/11 10:13:47",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區中華三路",
+    "units": "前金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T10:15:31.001040"
       }
     ]
   }
