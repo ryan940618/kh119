@@ -10991,7 +10991,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11000,6 +11000,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T23:41:31.742514"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T23:48:31.856927"
       }
     ]
   },
@@ -11031,7 +11035,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11040,6 +11044,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T23:43:31.802883"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T23:48:31.856927"
       }
     ]
   },
@@ -11054,6 +11062,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T23:47:31.742820"
+      }
+    ]
+  },
+  "fea612133c33b4f9fcc847b2be0e0c7a": {
+    "time": "2026/10/11 23:46:58",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T23:48:31.856927"
       }
     ]
   }
