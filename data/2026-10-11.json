@@ -2993,7 +2993,7 @@
     "sub_category": "車禍",
     "location": "高雄市美濃區中山路",
     "units": "美濃分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3010,6 +3010,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T09:37:31.751934"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T09:42:31.921228"
       }
     ]
   },
@@ -3081,7 +3085,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3090,6 +3094,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T09:38:31.828632"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T09:42:31.921228"
       }
     ]
   },
@@ -3117,7 +3125,7 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區區東路",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3126,6 +3134,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T09:40:31.681500"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T09:42:31.921228"
+      }
+    ]
+  },
+  "de3e7bfb4b46580f148aa32656aab177": {
+    "time": "2026/10/11 09:41:40",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T09:42:31.921228"
       }
     ]
   }
