@@ -2057,7 +2057,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2070,6 +2070,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T07:38:31.573216"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T07:44:31.701027"
       }
     ]
   },
@@ -2141,7 +2145,7 @@
     "sub_category": "急病",
     "location": "高雄市甲仙區",
     "units": "甲仙分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2150,6 +2154,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T07:39:31.606174"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T07:44:31.701027"
       }
     ]
   },
@@ -2173,11 +2181,43 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T07:42:31.603368"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T07:44:31.701027"
+      }
+    ]
+  },
+  "2de6ab85c76e61fe329b2b28393af968": {
+    "time": "2026/10/12 07:43:27",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市永安區",
+    "units": "永安分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T07:44:31.701027"
+      }
+    ]
+  },
+  "b268a394723b950a8fe1323a3de4e3e0": {
+    "time": "2026/10/12 07:43:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T07:44:31.701027"
       }
     ]
   }
