@@ -9119,7 +9119,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9136,6 +9136,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T19:46:31.370549"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T19:50:34.636486"
       }
     ]
   },
@@ -9189,7 +9193,7 @@
     "sub_category": "孕婦急產",
     "location": "高雄市美濃區龍山街",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9198,6 +9202,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T19:41:31.391278"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T19:50:34.636486"
       }
     ]
   },
@@ -9336,6 +9344,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T19:49:32.529915"
+      }
+    ]
+  },
+  "e997b89774cdf9788d19f26eb9a44935": {
+    "time": "2026/10/11 19:50:02",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T19:50:34.636486"
       }
     ]
   }
