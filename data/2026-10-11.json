@@ -6177,7 +6177,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6186,6 +6186,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T14:22:32.816439"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T14:26:31.396616"
       }
     ]
   },
@@ -6209,11 +6213,29 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區安寧街",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T14:24:31.382345"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T14:26:31.396616"
+      }
+    ]
+  },
+  "05ed80119111d69d5d01c53562cf3fa0": {
+    "time": "2026/10/11 14:25:24",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T14:26:31.396616"
       }
     ]
   }
