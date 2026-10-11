@@ -5331,7 +5331,7 @@
     "sub_category": "車禍",
     "location": "高雄市桃源區台20南橫公路",
     "units": "桃源分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5340,6 +5340,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T12:42:31.886175"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T13:38:31.062483"
       }
     ]
   },
@@ -5679,7 +5683,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5692,6 +5696,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T13:25:31.059963"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T13:38:31.062483"
       }
     ]
   },
@@ -5756,6 +5764,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T13:37:31.135610"
+      }
+    ]
+  },
+  "65f73e24a330540080a130f0278750dd": {
+    "time": "2026/10/11 13:37:45",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市旗津區",
+    "units": "旗津分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T13:38:31.062483"
+      }
+    ]
+  },
+  "8a4c946aa726707f2b3cc5f0b4881e67": {
+    "time": "2026/10/11 13:37:42",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T13:38:31.062483"
       }
     ]
   }
