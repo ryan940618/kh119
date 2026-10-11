@@ -7217,7 +7217,7 @@
     "sub_category": "創傷",
     "location": "高雄市岡山區為隨路",
     "units": "永安分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7230,6 +7230,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T16:28:31.129224"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T16:42:31.338420"
       }
     ]
   },
@@ -7283,7 +7287,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區灣興街",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7300,6 +7304,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T16:38:31.321943"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T16:42:31.338420"
       }
     ]
   },
@@ -7339,7 +7347,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7352,6 +7360,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T16:28:31.129224"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T16:42:31.338420"
       }
     ]
   },
@@ -7361,7 +7373,7 @@
     "sub_category": "路倒",
     "location": "高雄市小港區福隆街",
     "units": "小港分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7374,6 +7386,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T16:33:31.327908"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T16:42:31.338420"
       }
     ]
   },
@@ -7459,11 +7475,15 @@
     "sub_category": "車禍",
     "location": "高雄市杉林區清水路",
     "units": "杉林分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-11T16:37:31.272641"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T16:42:31.338420"
       }
     ]
   }
