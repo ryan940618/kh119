@@ -301,7 +301,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -310,6 +310,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T01:11:31.224746"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T01:18:31.345579"
       }
     ]
   },
@@ -324,6 +328,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T01:16:31.362233"
+      }
+    ]
+  },
+  "f50bda233304fb4c53b12dec25ee72dd": {
+    "time": "2026/10/12 01:17:29",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區藍田路和大學十一街",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T01:18:31.345579"
       }
     ]
   }
