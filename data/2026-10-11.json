@@ -3195,7 +3195,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3204,6 +3204,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T09:50:32.035928"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T10:22:31.046490"
       }
     ]
   },
@@ -3563,7 +3567,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區河北二路",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3572,6 +3576,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T10:13:31.123772"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T10:22:31.046490"
       }
     ]
   },
@@ -3694,6 +3702,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T10:20:31.047615"
+      }
+    ]
+  },
+  "9eef4e312ec1ab859bf9610448c62061": {
+    "time": "2026/10/11 10:21:58",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區後昌路",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T10:22:31.046490"
       }
     ]
   }
