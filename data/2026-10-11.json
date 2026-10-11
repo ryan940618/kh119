@@ -9421,7 +9421,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9438,6 +9438,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T20:07:31.610832"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T20:20:31.673196"
       }
     ]
   },
@@ -9487,7 +9491,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9496,6 +9500,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T20:12:31.529001"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T20:20:31.673196"
       }
     ]
   },
@@ -9558,6 +9566,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T20:19:31.618168"
+      }
+    ]
+  },
+  "3b3d5bb50b95f11f2c4c104f344ca272": {
+    "time": "2026/10/11 20:19:54",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T20:20:31.673196"
       }
     ]
   }
