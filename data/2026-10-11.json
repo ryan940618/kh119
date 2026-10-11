@@ -4659,7 +4659,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4676,6 +4676,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T11:51:31.466232"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T11:56:31.726869"
       }
     ]
   },
@@ -4757,7 +4761,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊,阿蓮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4766,6 +4770,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T11:50:31.578159"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T11:56:31.726869"
       }
     ]
   },
@@ -4802,6 +4810,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T11:54:31.565715"
+      }
+    ]
+  },
+  "f6b2b6a23a50dfc00f733004bf63bbe2": {
+    "time": "2026/10/11 11:56:08",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "\\高雄市左營區新庄仔路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T11:56:31.726869"
+      }
+    ]
+  },
+  "321d8a4827b169fe8df21f4b02b603f9": {
+    "time": "2026/10/11 11:56:01",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區新庄仔路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T11:56:31.726869"
       }
     ]
   }
