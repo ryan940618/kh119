@@ -10829,7 +10829,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "大林分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10846,6 +10846,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T23:30:31.642460"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T23:49:31.846609"
       }
     ]
   },
@@ -10951,7 +10955,7 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區武營路",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -10960,6 +10964,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T23:39:31.838312"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T23:49:31.846609"
       }
     ]
   },
@@ -11057,11 +11065,15 @@
     "sub_category": "急病",
     "location": "高雄市田寮區",
     "units": "田寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T23:47:31.742820"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T23:49:31.846609"
       }
     ]
   },
@@ -11071,11 +11083,15 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T23:48:31.856927"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T23:49:31.846609"
       }
     ]
   }
