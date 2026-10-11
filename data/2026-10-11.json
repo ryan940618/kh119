@@ -10855,7 +10855,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區橋南路和市場街",
     "units": "橋頭分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10868,6 +10868,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T23:26:31.634018"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T23:33:31.711834"
       }
     ]
   },
@@ -10926,6 +10930,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T23:32:31.678669"
+      }
+    ]
+  },
+  "34abe459806eb387a719eb2f2f5f3ca6": {
+    "time": "2026/10/11 23:31:49",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區武營路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T23:33:31.711834"
       }
     ]
   }
