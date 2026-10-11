@@ -7293,7 +7293,7 @@
     "sub_category": "車禍",
     "location": "高雄市福美路",
     "units": "美濃分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7306,6 +7306,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T16:27:31.216594"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T16:36:31.385104"
       }
     ]
   },
@@ -7382,6 +7386,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T16:35:31.353852"
+      }
+    ]
+  },
+  "6926ffa3966859ab5d31965ac70afbb2": {
+    "time": "2026/10/11 16:35:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T16:36:31.385104"
       }
     ]
   }
