@@ -4307,7 +4307,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "彌陀分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -4316,6 +4316,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T11:19:31.246655"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T11:30:31.276112"
       }
     ]
   },
@@ -4422,6 +4426,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T11:27:31.388245"
+      }
+    ]
+  },
+  "fad9d0e3627072bdc28ab2d23cfa2458": {
+    "time": "2026/10/11 11:28:50",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T11:30:31.276112"
       }
     ]
   }
