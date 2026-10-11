@@ -7767,7 +7767,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區壽豐路",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -7780,6 +7780,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T17:17:31.459643"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T17:23:31.634814"
       }
     ]
   },
@@ -7807,7 +7811,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區白樹路和竹林街",
     "units": "橋頭分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7820,6 +7824,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T17:16:31.504640"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T17:23:31.634814"
       }
     ]
   },
@@ -7869,11 +7877,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T17:20:31.424000"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T17:23:31.634814"
       }
     ]
   }
