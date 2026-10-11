@@ -9831,7 +9831,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9840,6 +9840,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T21:12:31.937511"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T21:17:30.961446"
       }
     ]
   },
@@ -9858,6 +9862,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T21:14:31.891007"
+      }
+    ]
+  },
+  "8693408cfa102909de0fc4e1fa93f349": {
+    "time": "2026/10/11 21:16:41",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市茄萣區",
+    "units": "茄萣分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T21:17:30.961446"
+      }
+    ]
+  },
+  "95b68321761169263c8cd5760b2741f1": {
+    "time": "2026/10/11 21:16:16",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗山區",
+    "units": "旗山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T21:17:30.961446"
       }
     ]
   }
