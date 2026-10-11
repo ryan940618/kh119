@@ -893,7 +893,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -910,6 +910,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T03:23:31.026306"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T03:27:31.052613"
       }
     ]
   },
@@ -941,7 +945,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -954,6 +958,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T03:24:31.065733"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T03:27:31.052613"
       }
     ]
   },
