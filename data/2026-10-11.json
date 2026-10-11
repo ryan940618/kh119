@@ -11065,7 +11065,7 @@
     "sub_category": "急病",
     "location": "高雄市田寮區",
     "units": "田寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11074,6 +11074,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T23:49:31.846609"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T23:54:31.844981"
       }
     ]
   },
@@ -11101,7 +11105,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11110,6 +11114,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T23:52:31.829095"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T23:54:31.844981"
       }
     ]
   },
@@ -11146,6 +11154,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T23:52:31.829095"
+      }
+    ]
+  },
+  "b046f074ed1bd3485f17d1c775780a4d": {
+    "time": "2026/10/11 23:53:47",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鳳山區五甲二路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T23:54:31.844981"
       }
     ]
   }
