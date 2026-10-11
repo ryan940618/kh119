@@ -1571,7 +1571,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1580,6 +1580,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T06:18:31.047039"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T06:23:31.038073"
       }
     ]
   },
@@ -1603,7 +1607,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1612,6 +1616,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T06:20:31.018315"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T06:23:31.038073"
       }
     ]
   },
@@ -1626,6 +1634,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T06:21:31.088380"
+      }
+    ]
+  },
+  "2bd520985b1c9cb73ef108ccdcea72f6": {
+    "time": "2026/10/12 06:22:50",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前金區六合二路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T06:23:31.038073"
       }
     ]
   }
