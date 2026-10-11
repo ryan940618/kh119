@@ -7735,7 +7735,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -7748,6 +7748,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T17:16:31.504640"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T17:31:31.897379"
       }
     ]
   },
@@ -7845,7 +7849,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7858,6 +7862,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T17:22:31.597877"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T17:31:31.897379"
       }
     ]
   },
@@ -7897,7 +7905,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7910,6 +7918,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T17:26:31.448073"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T17:31:31.897379"
       }
     ]
   },
@@ -7941,7 +7953,7 @@
     "sub_category": "一般(集合)住宅",
     "location": "高雄市左營區果峰街",
     "units": "左營分隊,左營小隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -7954,6 +7966,38 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T17:29:31.562501"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T17:31:31.897379"
+      }
+    ]
+  },
+  "3f93d889c2219b7209a3c6684f3d666c": {
+    "time": "2026/10/11 17:31:07",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鳥松區育英街",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T17:31:31.897379"
+      }
+    ]
+  },
+  "b8c6d5448c2f81d569c681c028e3cadb": {
+    "time": "2026/10/11 17:30:08",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區八德南路",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T17:31:31.897379"
       }
     ]
   }
