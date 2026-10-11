@@ -2355,7 +2355,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區文化西路",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2368,6 +2368,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T08:19:31.277667"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T08:31:31.431031"
       }
     ]
   },
@@ -2461,7 +2465,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區育樂路",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2470,6 +2474,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T08:28:31.338481"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T08:31:31.431031"
       }
     ]
   },
@@ -2479,11 +2487,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T08:30:31.473407"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T08:31:31.431031"
       }
     ]
   }
