@@ -6517,7 +6517,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6534,6 +6534,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T15:17:31.622003"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T15:30:31.726074"
       }
     ]
   },
@@ -6599,7 +6603,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區中正一路",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6616,6 +6620,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T15:27:31.686754"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T15:30:31.726074"
       }
     ]
   },
@@ -6665,11 +6673,15 @@
     "sub_category": "創傷",
     "location": "高雄市前金區自強一路",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-11T15:25:31.708887"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T15:30:31.726074"
       }
     ]
   },
@@ -6697,11 +6709,15 @@
     "sub_category": "車禍",
     "location": "高雄市桃源區南橫公路",
     "units": "桃源分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T15:28:31.702741"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T15:30:31.726074"
       }
     ]
   }
