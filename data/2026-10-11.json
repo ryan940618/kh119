@@ -2775,7 +2775,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -2788,6 +2788,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T09:18:31.605341"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T09:24:31.683948"
       }
     ]
   },
@@ -2903,11 +2907,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-11T09:17:31.555159"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T09:24:31.683948"
       }
     ]
   },
@@ -2926,6 +2934,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T09:22:31.655199"
+      }
+    ]
+  },
+  "b2514bf1bb497eda9f3eda6ad46dbdc4": {
+    "time": "2026/10/11 09:23:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T09:24:31.683948"
       }
     ]
   }
