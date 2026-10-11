@@ -1987,7 +1987,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2004,6 +2004,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T07:33:31.469573"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T07:40:31.561110"
       }
     ]
   },
@@ -2134,6 +2138,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T07:39:31.606174"
+      }
+    ]
+  },
+  "1303ef40734922a2812b7a1c294a66aa": {
+    "time": "2026/10/12 07:39:33",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市旗山區旗甲路",
+    "units": "旗山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T07:40:31.561110"
       }
     ]
   }
