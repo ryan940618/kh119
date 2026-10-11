@@ -10907,7 +10907,7 @@
     "sub_category": "車禍",
     "location": "高雄市梓官區赤崁西路",
     "units": "梓官分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10924,6 +10924,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T23:46:31.834202"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T23:47:31.742820"
       }
     ]
   },
@@ -11036,6 +11040,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T23:43:31.802883"
+      }
+    ]
+  },
+  "87cb2f92a5264bbe4d12c28f822abb7b": {
+    "time": "2026/10/11 23:46:42",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市田寮區",
+    "units": "田寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T23:47:31.742820"
       }
     ]
   }
