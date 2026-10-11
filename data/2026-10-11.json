@@ -7655,7 +7655,7 @@
     "sub_category": "創傷",
     "location": "高雄市路竹區中和街",
     "units": "永安分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -7664,6 +7664,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T17:06:31.492514"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T17:10:31.428487"
       }
     ]
   },
@@ -7742,6 +7746,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T17:05:31.444673"
+      }
+    ]
+  },
+  "5c06d281587fc110095cae5afa8f1c94": {
+    "time": "2026/10/11 17:10:00",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市橋頭區白樹路和竹林街",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T17:10:31.428487"
       }
     ]
   }
