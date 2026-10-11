@@ -9317,7 +9317,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區崇德路",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9334,6 +9334,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T20:05:31.606982"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T20:18:31.627813"
       }
     ]
   },
@@ -9532,6 +9536,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T20:16:31.522178"
+      }
+    ]
+  },
+  "ddb5aea0077c5740ab0894a34bed038d": {
+    "time": "2026/10/11 20:17:27",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T20:18:31.627813"
       }
     ]
   }
