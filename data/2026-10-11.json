@@ -4415,7 +4415,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4428,6 +4428,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T11:29:31.253908"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T11:48:31.448960"
       }
     ]
   },
@@ -4635,7 +4639,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4644,6 +4648,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T11:40:31.453469"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T11:48:31.448960"
       }
     ]
   },
@@ -4708,6 +4716,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T11:45:31.458125"
+      }
+    ]
+  },
+  "44c3fd739bcedfa65af08e8cef66c4b6": {
+    "time": "2026/10/11 11:47:17",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "路竹分隊,阿蓮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T11:48:31.448960"
       }
     ]
   }
