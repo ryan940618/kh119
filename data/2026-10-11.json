@@ -6023,7 +6023,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區澄清路",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6040,6 +6040,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T14:15:31.315569"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T14:24:31.382345"
       }
     ]
   },
@@ -6182,6 +6186,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T14:22:32.816439"
+      }
+    ]
+  },
+  "cee4ae7bddafba17dd43745181ad7601": {
+    "time": "2026/10/11 14:24:00",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗山區",
+    "units": "旗山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T14:24:31.382345"
+      }
+    ]
+  },
+  "c4d3df4dc56b0750710f1c227de8945d": {
+    "time": "2026/10/11 14:23:53",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區安寧街",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T14:24:31.382345"
       }
     ]
   }
