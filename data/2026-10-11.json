@@ -4507,7 +4507,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區葆禎路",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4516,6 +4516,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T11:33:31.366280"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T11:44:31.490635"
       }
     ]
   },
@@ -4601,7 +4605,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4610,6 +4614,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T11:39:31.469482"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T11:44:31.490635"
       }
     ]
   },
@@ -4637,7 +4645,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中華五路",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4646,6 +4654,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T11:40:31.453469"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T11:44:31.490635"
       }
     ]
   },
@@ -4660,6 +4672,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T11:39:31.469482"
+      }
+    ]
+  },
+  "818765e9042c96ead17c224f8abd3947": {
+    "time": "2026/10/11 11:43:50",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區和平二路",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T11:44:31.490635"
       }
     ]
   }
