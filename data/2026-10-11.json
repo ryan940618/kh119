@@ -6461,7 +6461,7 @@
     "sub_category": "創傷",
     "location": "高雄市前金區成功一路",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6478,6 +6478,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T15:16:31.659045"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T15:25:31.708887"
       }
     ]
   },
@@ -6565,7 +6569,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6578,6 +6582,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T15:09:31.671243"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T15:25:31.708887"
       }
     ]
   },
@@ -6609,7 +6617,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區中正二路",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6622,6 +6630,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T15:18:31.692382"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T15:25:31.708887"
       }
     ]
   },
@@ -6636,6 +6648,20 @@
       {
         "status": "已受理",
         "timestamp": "2026-10-11T15:19:31.661094"
+      }
+    ]
+  },
+  "5e7929f07a03a893f3af228266c07d39": {
+    "time": "2026/10/11 15:22:34",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市前金區自強一路",
+    "units": "前金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T15:25:31.708887"
       }
     ]
   }
