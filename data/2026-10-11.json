@@ -2953,7 +2953,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區鎮中路",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2966,6 +2966,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T09:29:31.653526"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T09:44:31.823300"
       }
     ]
   },
@@ -3188,6 +3192,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T09:43:31.807796"
+      }
+    ]
+  },
+  "2ac5ecebacbc322f3e8ecbdbe9773132": {
+    "time": "2026/10/11 09:43:47",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區江山路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T09:44:31.823300"
       }
     ]
   }
