@@ -7583,7 +7583,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7596,6 +7596,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T16:57:31.289197"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T17:11:31.448887"
       }
     ]
   },
@@ -7695,11 +7699,15 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-11T17:03:31.435112"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T17:11:31.448887"
       }
     ]
   },
@@ -7755,11 +7763,15 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區白樹路和竹林街",
     "units": "橋頭分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T17:10:31.428487"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T17:11:31.448887"
       }
     ]
   }
