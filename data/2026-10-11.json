@@ -4665,7 +4665,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中華五路",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4678,6 +4678,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T11:44:31.490635"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T11:50:31.578159"
       }
     ]
   },
@@ -4733,11 +4737,29 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊,阿蓮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T11:48:31.448960"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T11:50:31.578159"
+      }
+    ]
+  },
+  "8dfc63b2dc36402da03afff98a299e0d": {
+    "time": "2026/10/11 11:49:31",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區五甲三路",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T11:50:31.578159"
       }
     ]
   }
