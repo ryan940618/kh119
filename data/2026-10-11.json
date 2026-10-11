@@ -5041,11 +5041,15 @@
     "sub_category": "車禍",
     "location": "高雄市左營區菜公一路",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T12:21:31.577259"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T12:24:31.728725"
       }
     ]
   },
@@ -5055,7 +5059,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5064,6 +5068,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T12:22:31.725385"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T12:24:31.728725"
       }
     ]
   },
