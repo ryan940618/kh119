@@ -7935,7 +7935,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區本舘路",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7948,6 +7948,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T17:29:31.562501"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T17:40:31.664936"
       }
     ]
   },
@@ -8035,7 +8039,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8044,6 +8048,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T17:34:31.665294"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T17:40:31.664936"
       }
     ]
   },
@@ -8058,6 +8066,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T17:39:31.625152"
+      }
+    ]
+  },
+  "028a4e19c7b671ab2a7e088240188b3d": {
+    "time": "2026/10/11 17:38:37",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T17:40:31.664936"
       }
     ]
   }
