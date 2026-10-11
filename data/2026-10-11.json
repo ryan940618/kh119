@@ -3471,7 +3471,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3484,6 +3484,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T10:03:30.910863"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T10:18:31.010471"
       }
     ]
   },
@@ -3632,6 +3636,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T10:17:30.923019"
+      }
+    ]
+  },
+  "206a2ca7c33414699e3ed4c4e5e109d3": {
+    "time": "2026/10/11 10:18:02",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區崗山南街",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T10:18:31.010471"
+      }
+    ]
+  },
+  "39852a7d3383a482195ecf11b0d2beb2": {
+    "time": "2026/10/11 10:17:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T10:18:31.010471"
       }
     ]
   }
