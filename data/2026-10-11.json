@@ -3913,7 +3913,7 @@
     "sub_category": "車禍",
     "location": "高雄市阿蓮區仁愛路",
     "units": "阿蓮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3930,6 +3930,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T10:54:31.127213"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T11:05:31.129809"
       }
     ]
   },
@@ -4031,11 +4035,15 @@
     "sub_category": "雜草(含廢棄物、墓地)",
     "location": "高雄市岡山區菜寮路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-11T10:50:31.242218"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T11:05:31.129809"
       }
     ]
   },
@@ -4077,7 +4085,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區翠華路",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4090,6 +4098,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T11:01:31.203330"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T11:05:31.129809"
       }
     ]
   },
@@ -4165,11 +4177,15 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區大信街",
     "units": "和發分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T11:04:31.163253"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T11:05:31.129809"
       }
     ]
   }
