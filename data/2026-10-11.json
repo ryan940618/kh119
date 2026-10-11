@@ -10229,7 +10229,7 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10246,6 +10246,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T21:58:31.082095"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T22:00:31.343506"
       }
     ]
   },
@@ -10352,6 +10356,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T21:59:31.267645"
+      }
+    ]
+  },
+  "2865b72d381e77f57cd15974183fd909": {
+    "time": "2026/10/11 21:59:16",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T22:00:31.343506"
       }
     ]
   }
