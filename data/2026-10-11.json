@@ -8077,7 +8077,7 @@
     "sub_category": "車禍",
     "location": "高雄市茄萣區仁愛路",
     "units": "茄萣分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -8086,6 +8086,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T17:44:31.648706"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T17:54:31.720614"
       }
     ]
   },
@@ -8211,11 +8215,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T17:51:31.751245"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T17:54:31.720614"
       }
     ]
   }
