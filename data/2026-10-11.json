@@ -4093,7 +4093,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區翠華路",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4110,6 +4110,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T11:05:31.129809"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T11:14:31.201088"
       }
     ]
   },
@@ -4245,11 +4249,29 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T11:13:31.282420"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T11:14:31.201088"
+      }
+    ]
+  },
+  "54ae93bfd5c63db5c75cffe8cf0ad81c": {
+    "time": "2026/10/11 11:13:36",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市梓官區",
+    "units": "彌陀分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T11:14:31.201088"
       }
     ]
   }
