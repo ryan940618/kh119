@@ -4905,7 +4905,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區名山二街",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4918,6 +4918,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T12:10:31.582581"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T12:16:31.702551"
       }
     ]
   },
@@ -4927,11 +4931,43 @@
     "sub_category": "車禍",
     "location": "高雄市小港區沿海一路",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T12:13:31.656709"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T12:16:31.702551"
+      }
+    ]
+  },
+  "a72406e290ee38019b13a1ba223e29e1": {
+    "time": "2026/10/11 12:15:42",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區中華五路",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T12:16:31.702551"
+      }
+    ]
+  },
+  "436e0c225178d95a11fb1f4bf44beef9": {
+    "time": "2026/10/11 12:15:08",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T12:16:31.702551"
       }
     ]
   }
