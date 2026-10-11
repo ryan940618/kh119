@@ -3987,7 +3987,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4004,6 +4004,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T10:59:31.160528"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T11:13:31.282420"
       }
     ]
   },
@@ -4141,7 +4145,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4154,6 +4158,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T11:04:31.163253"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T11:13:31.282420"
       }
     ]
   },
@@ -4163,7 +4171,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4180,6 +4188,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T11:11:31.197439"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T11:13:31.282420"
       }
     ]
   },
@@ -4211,7 +4223,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區中山路",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4220,6 +4232,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T11:10:31.220439"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T11:13:31.282420"
+      }
+    ]
+  },
+  "9fdef2049386718220ff63b8e7cd6e3b": {
+    "time": "2026/10/11 11:12:10",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T11:13:31.282420"
       }
     ]
   }
