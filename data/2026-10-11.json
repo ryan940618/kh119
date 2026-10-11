@@ -5765,7 +5765,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區民族一路",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5782,6 +5782,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T13:52:31.288052"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T14:03:31.725445"
       }
     ]
   },
@@ -5821,7 +5825,7 @@
     "sub_category": "其他",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5834,6 +5838,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T13:45:31.151183"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T14:03:31.725445"
       }
     ]
   },
@@ -5952,6 +5960,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T14:00:31.235910"
+      }
+    ]
+  },
+  "deaa9bf6a4795ac705e7aa4c18ef0006": {
+    "time": "2026/10/11 14:02:46",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市六龜區",
+    "units": "六龜分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T14:03:31.725445"
       }
     ]
   }
