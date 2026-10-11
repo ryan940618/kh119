@@ -10269,7 +10269,7 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區仁愛路",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10278,6 +10278,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T21:49:31.119265"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T21:53:31.166605"
       }
     ]
   },
@@ -10287,11 +10291,29 @@
     "sub_category": "創傷",
     "location": "高雄市左營區明潭路",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T21:52:31.286103"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T21:53:31.166605"
+      }
+    ]
+  },
+  "68981b2be3c17064dd7472c944bfc103": {
+    "time": "2026/10/11 21:52:36",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市茄萣區",
+    "units": "茄萣分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T21:53:31.166605"
       }
     ]
   }
