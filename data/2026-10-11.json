@@ -9895,7 +9895,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9908,6 +9908,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T21:23:30.927756"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T21:29:30.985360"
       }
     ]
   },
@@ -10019,11 +10023,29 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區建國一路",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T21:28:31.031723"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T21:29:30.985360"
+      }
+    ]
+  },
+  "b1de451d680634f69386381c6feb2dff": {
+    "time": "2026/10/11 21:28:19",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T21:29:30.985360"
       }
     ]
   }
