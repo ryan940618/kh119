@@ -4999,7 +4999,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5016,6 +5016,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T12:33:31.684252"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T12:43:31.887151"
       }
     ]
   },
@@ -5243,11 +5247,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-11T12:38:31.904850"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T12:43:31.887151"
       }
     ]
   },
@@ -5289,11 +5297,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T12:41:31.743567"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T12:43:31.887151"
       }
     ]
   },
@@ -5308,6 +5320,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T12:42:31.886175"
+      }
+    ]
+  },
+  "b4c6dc96952085e51de725e92df1e66a": {
+    "time": "2026/10/11 12:43:01",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T12:43:31.887151"
       }
     ]
   }
