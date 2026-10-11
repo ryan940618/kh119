@@ -4413,7 +4413,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區吉林街",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4426,6 +4426,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T11:27:31.388245"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T11:32:31.367443"
       }
     ]
   },
@@ -4453,11 +4457,29 @@
     "sub_category": "其他",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T11:31:31.272800"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T11:32:31.367443"
+      }
+    ]
+  },
+  "30079beac8b0b0b77c2e7308a2c9752b": {
+    "time": "2026/10/11 11:32:01",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區葆禎路",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T11:32:31.367443"
       }
     ]
   }
