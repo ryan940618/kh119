@@ -5889,7 +5889,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5902,6 +5902,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T13:53:31.234620"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T14:08:31.299807"
       }
     ]
   },
@@ -5981,7 +5985,7 @@
     "sub_category": "車禍",
     "location": "高雄市六龜區",
     "units": "六龜分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5990,6 +5994,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T14:04:33.236101"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T14:08:31.299807"
       }
     ]
   },
@@ -6031,11 +6039,43 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T14:07:31.393088"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T14:08:31.299807"
+      }
+    ]
+  },
+  "5ea60b190783ccffd614e7e8c38d0e78": {
+    "time": "2026/10/11 14:08:09",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市路竹區延平路",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T14:08:31.299807"
+      }
+    ]
+  },
+  "4550585f0f16c79563ec4bec6b62f289": {
+    "time": "2026/10/11 14:07:00",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市旗山區興中路",
+    "units": "旗山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T14:08:31.299807"
       }
     ]
   }
