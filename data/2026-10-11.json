@@ -7195,7 +7195,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區北屋五街",
     "units": "新莊分隊,鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7212,6 +7212,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T16:39:31.380705"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T16:45:31.506545"
       }
     ]
   },
@@ -7447,7 +7451,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7456,6 +7460,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T16:38:31.321943"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T16:45:31.506545"
       }
     ]
   },
@@ -7496,6 +7504,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T16:42:31.338420"
+      }
+    ]
+  },
+  "871f68021bfa26e9cab62e6d21b27d5b": {
+    "time": "2026/10/11 16:44:16",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區光華一路",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T16:45:31.506545"
       }
     ]
   }
