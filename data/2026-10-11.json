@@ -6889,7 +6889,7 @@
     "sub_category": "車禍",
     "location": "高雄市梓官區梓官路",
     "units": "梓官分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6902,6 +6902,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T15:54:30.910208"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T16:11:31.046653"
       }
     ]
   },
@@ -7038,6 +7042,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T16:08:30.994948"
+      }
+    ]
+  },
+  "b4e6ebf7910418432ce7ffdb45269fa9": {
+    "time": "2026/10/11 16:10:30",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市梓官區",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T16:11:31.046653"
       }
     ]
   }
