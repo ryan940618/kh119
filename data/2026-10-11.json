@@ -3297,7 +3297,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3306,6 +3306,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T09:52:31.947281"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T09:55:32.004761"
       }
     ]
   },
@@ -3328,6 +3332,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T09:53:31.964924"
+      }
+    ]
+  },
+  "434694057c28503250cb5c6a5ff41616": {
+    "time": "2026/10/11 09:54:40",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市前鎮區",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T09:55:32.004761"
       }
     ]
   }
