@@ -2975,7 +2975,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -2984,6 +2984,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T09:29:31.653526"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T09:43:31.807796"
       }
     ]
   },
@@ -3107,7 +3111,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區翁園路",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3116,6 +3120,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T09:41:31.741588"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T09:43:31.807796"
       }
     ]
   },
@@ -3152,6 +3160,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T09:42:31.921228"
+      }
+    ]
+  },
+  "84638097c9f0925d193b369683caa4ff": {
+    "time": "2026/10/11 09:42:46",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區蓮海路",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T09:43:31.807796"
+      }
+    ]
+  },
+  "7683163a27e4807a9a9368a4b00e8562": {
+    "time": "2026/10/11 09:42:41",
+    "category": "緊急救護",
+    "sub_category": "燒燙傷",
+    "location": "高雄市新興區七賢一路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T09:43:31.807796"
       }
     ]
   }
