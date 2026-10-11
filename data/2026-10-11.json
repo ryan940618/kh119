@@ -7629,11 +7629,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-11T16:59:31.449637"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T17:05:31.444673"
       }
     ]
   },
@@ -7657,11 +7661,15 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區麗雄街",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T17:01:31.394282"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T17:05:31.444673"
       }
     ]
   },
@@ -7690,6 +7698,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T17:04:31.349822"
+      }
+    ]
+  },
+  "ffe944f39e1d47f097cf408cddeea668": {
+    "time": "2026/10/11 17:04:27",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區壽豐路",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T17:05:31.444673"
+      }
+    ]
+  },
+  "e3353d8e7bd2b09ed5a813c2d79431b8": {
+    "time": "2026/10/11 17:03:23",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區高楠公路",
+    "units": "後勁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T17:05:31.444673"
       }
     ]
   }
