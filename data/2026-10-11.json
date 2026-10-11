@@ -3619,7 +3619,7 @@
     "sub_category": "路倒",
     "location": "高雄市小港區宏平路",
     "units": "高桂分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3636,6 +3636,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T10:35:31.016444"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T10:36:31.066419"
       }
     ]
   },
@@ -3803,11 +3807,15 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區寶米路",
     "units": "梓官分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T10:35:31.016444"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T10:36:31.066419"
       }
     ]
   },
@@ -3822,6 +3830,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T10:35:31.016444"
+      }
+    ]
+  },
+  "5e612dcf9fc192e66091eed10c2aedcc": {
+    "time": "2026/10/11 10:35:01",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T10:36:31.066419"
       }
     ]
   }
