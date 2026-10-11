@@ -8563,7 +8563,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8580,6 +8580,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T18:47:31.088069"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T18:55:31.111800"
       }
     ]
   },
@@ -8708,6 +8712,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T18:50:31.000748"
+      }
+    ]
+  },
+  "ea284fad7d968e7769a01279e7ca97d4": {
+    "time": "2026/10/11 18:54:00",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T18:55:31.111800"
+      }
+    ]
+  },
+  "805685d140b389120b04799fdbb96458": {
+    "time": "2026/10/11 18:53:41",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區福壽街",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T18:55:31.111800"
       }
     ]
   }
