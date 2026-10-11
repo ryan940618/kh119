@@ -4515,7 +4515,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區葆禎路",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4532,6 +4532,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-11T11:47:31.447812"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T11:53:31.553745"
       }
     ]
   },
@@ -4763,11 +4767,29 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區五甲三路",
     "units": "前鎮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T11:50:31.578159"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T11:53:31.553745"
+      }
+    ]
+  },
+  "c6cd5ba6321029ad9a1d0ca3d46d6ce8": {
+    "time": "2026/10/11 11:52:40",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T11:53:31.553745"
       }
     ]
   }
