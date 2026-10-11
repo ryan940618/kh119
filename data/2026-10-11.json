@@ -4891,7 +4891,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -4900,6 +4900,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T12:06:31.626770"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T12:31:31.679061"
       }
     ]
   },
@@ -4939,7 +4943,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區沿海一路",
     "units": "小港分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4952,6 +4956,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T12:19:31.678123"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T12:31:31.679061"
       }
     ]
   },
@@ -5111,11 +5119,15 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T12:30:31.647465"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T12:31:31.679061"
       }
     ]
   }
