@@ -1667,7 +1667,7 @@
     "sub_category": "車禍",
     "location": "高雄市前金區六合二路",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1680,6 +1680,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T06:30:31.134859"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T06:42:31.120095"
       }
     ]
   },
@@ -1720,6 +1724,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T06:41:31.061481"
+      }
+    ]
+  },
+  "a73b1c8a75b7181df43f59d6a3dcd499": {
+    "time": "2026/10/12 06:42:00",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市美濃區",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T06:42:31.120095"
       }
     ]
   }
