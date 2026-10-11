@@ -5275,7 +5275,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -5284,6 +5284,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T12:43:31.887151"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-11T13:00:31.183755"
       }
     ]
   },
@@ -5337,7 +5341,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5350,6 +5354,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T12:48:31.969312"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T13:00:31.183755"
       }
     ]
   },
@@ -5536,6 +5544,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T12:59:30.998211"
+      }
+    ]
+  },
+  "53d5db465b3b710c00058aedfc3a0c9e": {
+    "time": "2026/10/11 12:59:52",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗山區",
+    "units": "杉林分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T13:00:31.183755"
       }
     ]
   }
