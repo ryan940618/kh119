@@ -7751,7 +7751,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區壽豐路",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -7760,6 +7760,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T17:09:31.432325"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T17:17:31.459643"
       }
     ]
   },
@@ -7809,11 +7813,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T17:16:31.504640"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T17:17:31.459643"
       }
     ]
   }
