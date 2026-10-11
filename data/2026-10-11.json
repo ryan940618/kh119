@@ -8785,7 +8785,7 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區中正路",
     "units": "湖內分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8798,6 +8798,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T19:02:31.182639"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T19:10:31.289441"
       }
     ]
   },
@@ -8874,6 +8878,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T19:09:31.172306"
+      }
+    ]
+  },
+  "c84c1d16197ef90d7a9ad9edba7dad7a": {
+    "time": "2026/10/11 19:09:00",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區國隆路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T19:10:31.289441"
       }
     ]
   }
