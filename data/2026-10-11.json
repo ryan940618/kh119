@@ -4247,7 +4247,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區中山路",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4260,6 +4260,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T11:13:31.282420"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-11T11:23:31.248914"
       }
     ]
   },
@@ -4349,11 +4353,43 @@
     "sub_category": "車禍",
     "location": "高雄市左營區蓮潭路",
     "units": "左營小隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T11:21:31.273353"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T11:23:31.248914"
+      }
+    ]
+  },
+  "bdc5d3ed418afc8baface4c36d83e190": {
+    "time": "2026/10/11 11:22:24",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T11:23:31.248914"
+      }
+    ]
+  },
+  "7e6b26ba37e9c48a77a3f0f711d00af7": {
+    "time": "2026/10/11 11:21:31",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區吉林街",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T11:23:31.248914"
       }
     ]
   }
