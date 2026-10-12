@@ -2749,7 +2749,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2762,6 +2762,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T08:30:32.554198"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T08:42:31.205093"
       }
     ]
   },
@@ -2973,7 +2977,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區八德南路",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2982,6 +2986,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T08:32:32.047395"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T08:42:31.205093"
       }
     ]
   },
@@ -3050,6 +3058,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T08:41:30.967155"
+      }
+    ]
+  },
+  "fa4f8ac1661cf849e9dd162fef350c97": {
+    "time": "2026/10/12 08:41:27",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區內坑路",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T08:42:31.205093"
       }
     ]
   }
