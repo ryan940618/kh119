@@ -3367,7 +3367,7 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區龍目路",
     "units": "大樹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3380,6 +3380,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T09:03:31.104508"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T09:10:31.397108"
       }
     ]
   },
@@ -3425,11 +3429,15 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區四維二路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-12T09:06:31.292985"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T09:10:31.397108"
       }
     ]
   },
@@ -3448,6 +3456,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T09:08:31.412476"
+      }
+    ]
+  },
+  "caf56bb049f14d882df96fac736616bf": {
+    "time": "2026/10/12 09:08:52",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T09:10:31.397108"
       }
     ]
   }
