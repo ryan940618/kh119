@@ -9985,7 +9985,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9998,6 +9998,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T18:44:31.577205"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T18:53:31.906065"
       }
     ]
   },
@@ -10052,6 +10056,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T18:50:31.800055"
+      }
+    ]
+  },
+  "8bc31de7916a53d287715a21d2c2a9c5": {
+    "time": "2026/10/12 18:52:33",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鼓山區華寧路",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T18:53:31.906065"
       }
     ]
   }
