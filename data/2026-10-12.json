@@ -9241,7 +9241,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區左楠路",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9254,6 +9254,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T17:53:31.240733"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T18:09:31.587310"
       }
     ]
   },
@@ -9285,7 +9289,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -9298,6 +9302,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T18:08:31.326411"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T18:09:31.587310"
       }
     ]
   },
@@ -9546,6 +9554,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T18:08:31.326411"
+      }
+    ]
+  },
+  "9f49d63ac68938b6a485bf0c97685b2f": {
+    "time": "2026/10/12 18:08:46",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區萬和街",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T18:09:31.587310"
       }
     ]
   }
