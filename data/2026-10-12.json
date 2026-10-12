@@ -2177,7 +2177,7 @@
     "sub_category": "急病",
     "location": "高雄市甲仙區",
     "units": "甲仙分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2194,6 +2194,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T07:55:31.578976"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T08:37:31.959934"
       }
     ]
   },
@@ -2759,7 +2763,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "美濃分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2776,6 +2780,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T08:36:31.977039"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T08:37:31.959934"
       }
     ]
   },
@@ -2847,7 +2855,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區加昌路",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -2856,6 +2864,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T08:33:32.088659"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T08:37:31.959934"
       }
     ]
   },
@@ -2901,7 +2913,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2914,6 +2926,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T08:35:31.963725"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T08:37:31.959934"
       }
     ]
   },
@@ -2959,11 +2975,15 @@
     "sub_category": "其他",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-12T08:31:32.211439"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T08:37:31.959934"
       }
     ]
   },
@@ -2973,11 +2993,15 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T08:36:31.977039"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T08:37:31.959934"
       }
     ]
   }
