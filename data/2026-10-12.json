@@ -8773,7 +8773,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8782,6 +8782,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T17:16:31.103911"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T17:21:31.164473"
       }
     ]
   },
@@ -8827,11 +8831,15 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T17:18:31.110977"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T17:21:31.164473"
       }
     ]
   },
@@ -8841,11 +8849,43 @@
     "sub_category": "車禍",
     "location": "高雄市三民區九如二路和哈爾濱街",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T17:20:31.142230"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T17:21:31.164473"
+      }
+    ]
+  },
+  "fa8551678a2c6f535c5eab09792ae7b8": {
+    "time": "2026/10/12 17:20:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T17:21:31.164473"
+      }
+    ]
+  },
+  "1dc455e77f1ba0e2d6ffa2e89901d4ee": {
+    "time": "2026/10/12 17:20:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T17:21:31.164473"
       }
     ]
   }
