@@ -4273,7 +4273,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區青海路",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4286,6 +4286,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T10:22:31.532559"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T10:30:31.646181"
       }
     ]
   },
@@ -4326,6 +4330,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T10:26:31.602057"
+      }
+    ]
+  },
+  "e78c1d91766c8332389ea9aef4617474": {
+    "time": "2026/10/12 10:28:49",
+    "category": "火災",
+    "sub_category": "雜草(含廢棄物、墓地)",
+    "location": "高雄市美濃區福安街",
+    "units": "美濃分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T10:30:31.646181"
       }
     ]
   }
