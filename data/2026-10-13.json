@@ -1133,7 +1133,7 @@
     "sub_category": "一般(集合)住宅",
     "location": "高雄市前金區成功一路",
     "units": "前金分隊,新興分隊,鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "已派遣",
     "status_history": [
       {
         "status": "已派遣",
@@ -1154,6 +1154,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T05:01:31.299431"
+      },
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T05:11:31.385276"
       }
     ]
   },
@@ -1315,11 +1319,15 @@
     "sub_category": "路倒",
     "location": "高雄市前金區中華三路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-13T05:05:31.446835"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T05:11:31.385276"
       }
     ]
   },
@@ -1329,11 +1337,15 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T05:08:31.370075"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T05:11:31.385276"
       }
     ]
   },
