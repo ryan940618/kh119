@@ -11145,7 +11145,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11162,6 +11162,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T20:52:31.248355"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T21:06:31.335054"
       }
     ]
   },
@@ -11342,6 +11346,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T21:03:31.400961"
+      }
+    ]
+  },
+  "50973db6d37b4d59b08ea9dbdef54064": {
+    "time": "2026/10/12 21:05:29",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T21:06:31.335054"
       }
     ]
   }
