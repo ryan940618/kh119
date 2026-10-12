@@ -8107,7 +8107,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8120,6 +8120,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T16:37:31.726640"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T16:41:31.669231"
       }
     ]
   },
@@ -8200,6 +8204,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T16:40:31.706096"
+      }
+    ]
+  },
+  "3aa87d32f416893e456fe471c066bc8f": {
+    "time": "2026/10/12 16:40:42",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區維仁路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T16:41:31.669231"
       }
     ]
   }
