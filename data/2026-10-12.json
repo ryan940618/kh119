@@ -8995,7 +8995,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區天佑路",
     "units": "路竹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9012,6 +9012,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T17:37:31.282970"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T17:48:31.336886"
       }
     ]
   },
@@ -9153,11 +9157,15 @@
     "sub_category": "路倒",
     "location": "高雄市苓雅區苓雅一路和維仁街",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T17:47:31.221311"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T17:48:31.336886"
       }
     ]
   },
@@ -9172,6 +9180,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T17:47:31.221311"
+      }
+    ]
+  },
+  "6bcf780e590101af3d8a060d25eb9aa2": {
+    "time": "2026/10/12 17:47:13",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區左楠路",
+    "units": "後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T17:48:31.336886"
+      }
+    ]
+  },
+  "909917ddadc693b3504433dd62c82ffc": {
+    "time": "2026/10/12 17:46:55",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市小港區桂誠街",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T17:48:31.336886"
       }
     ]
   }
