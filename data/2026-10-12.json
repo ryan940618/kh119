@@ -10797,7 +10797,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區沿海一路",
     "units": "高桂分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10814,6 +10814,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T20:18:31.151986"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T20:23:31.284983"
       }
     ]
   },
@@ -10924,6 +10928,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T20:19:31.057334"
+      }
+    ]
+  },
+  "5531da0ec6cfda75e48e89a9a26358be": {
+    "time": "2026/10/12 20:22:18",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區大昌二路",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T20:23:31.284983"
       }
     ]
   }
