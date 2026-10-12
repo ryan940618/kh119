@@ -7955,7 +7955,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區高松路",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7972,6 +7972,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T16:40:31.706096"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T16:45:31.749309"
       }
     ]
   },
@@ -8133,7 +8137,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區援中路",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8146,6 +8150,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T16:36:31.714116"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T16:45:31.749309"
       }
     ]
   },
@@ -8286,6 +8294,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T16:44:31.794130"
+      }
+    ]
+  },
+  "a13635d30df669b28090a4636fa0843c": {
+    "time": "2026/10/12 16:44:33",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市彌陀區",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T16:45:31.749309"
       }
     ]
   }
