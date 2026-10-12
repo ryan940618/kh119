@@ -6539,7 +6539,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -6552,6 +6552,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T14:14:31.878231"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T14:21:31.883009"
       }
     ]
   },
@@ -6704,6 +6708,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T14:20:32.046701"
+      }
+    ]
+  },
+  "4e81a5c3e1daeec0edda3db7356e5b77": {
+    "time": "2026/10/12 14:20:51",
+    "category": "火災",
+    "sub_category": "一般(集合)住宅",
+    "location": "高雄市前鎮區一心二路",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T14:21:31.883009"
+      }
+    ]
+  },
+  "2b35dabbe70477dedb75a1c36045f274": {
+    "time": "2026/10/12 14:20:38",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市美濃區自強街",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T14:21:31.883009"
       }
     ]
   }
