@@ -4743,7 +4743,7 @@
     "sub_category": "其他",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -4756,6 +4756,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T11:37:31.595202"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T11:39:30.902887"
       }
     ]
   },
@@ -4928,6 +4932,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T11:38:31.903321"
+      }
+    ]
+  },
+  "4e0d3d4f6b47a8edf1c5a447845d22a3": {
+    "time": "2026/10/12 11:38:01",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區鳳燕二街",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T11:39:30.902887"
       }
     ]
   }
