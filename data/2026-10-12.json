@@ -2529,7 +2529,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區安招路",
     "units": "燕巢分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2546,6 +2546,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T08:17:31.871368"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T08:24:31.830008"
       }
     ]
   },
@@ -2742,6 +2746,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T08:22:31.910924"
+      }
+    ]
+  },
+  "ef09f38683c9ec7a29cd026815026803": {
+    "time": "2026/10/12 08:23:33",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T08:24:31.830008"
       }
     ]
   }
