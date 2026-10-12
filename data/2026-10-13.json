@@ -1709,7 +1709,7 @@
     "sub_category": "其他",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1726,6 +1726,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T06:28:30.986040"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T06:34:30.997910"
       }
     ]
   },
@@ -1936,6 +1940,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T06:28:30.986040"
+      }
+    ]
+  },
+  "f3435cb739e46085dc70ceac10dae79f": {
+    "time": "2026/10/13 06:32:50",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "後勁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T06:34:30.997910"
       }
     ]
   }
