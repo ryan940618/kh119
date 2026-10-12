@@ -5245,7 +5245,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區漢民路",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5258,6 +5258,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T12:07:31.187552"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T12:17:31.169476"
       }
     ]
   },
@@ -5398,6 +5402,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T12:15:31.040999"
+      }
+    ]
+  },
+  "de2e482f97680406a9be2d5380bfab03": {
+    "time": "2026/10/12 12:16:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區成功路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T12:17:31.169476"
       }
     ]
   }
