@@ -8349,7 +8349,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8366,6 +8366,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T16:56:31.929621"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T17:08:31.952605"
       }
     ]
   },
@@ -8589,11 +8593,57 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區楠梓路",
     "units": "楠梓分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T17:07:31.937467"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T17:08:31.952605"
+      }
+    ]
+  },
+  "b35f57879f7b8105c7a624d79c81b507": {
+    "time": "2026/10/12 17:07:26",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市楠梓區樂群路",
+    "units": "後勁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T17:08:31.952605"
+      }
+    ]
+  },
+  "958ac2ba27d23b620a71ac8d2a809958": {
+    "time": "2026/10/12 17:07:10",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T17:08:31.952605"
+      }
+    ]
+  },
+  "eaf444decc12067851de8dfeabb015dd": {
+    "time": "2026/10/12 17:07:04",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區本館路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T17:08:31.952605"
       }
     ]
   }
