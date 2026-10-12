@@ -9065,7 +9065,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區崗山中街",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已到達",
@@ -9074,6 +9074,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T17:33:31.157845"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T17:44:31.264725"
       }
     ]
   },
@@ -9118,6 +9122,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T17:43:31.392467"
+      }
+    ]
+  },
+  "e2e2f70cc9fb0a402a35d4b9729dc21f": {
+    "time": "2026/10/12 17:43:56",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市路竹區",
+    "units": "",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T17:44:31.264725"
       }
     ]
   }
