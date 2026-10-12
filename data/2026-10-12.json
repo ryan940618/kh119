@@ -8495,7 +8495,7 @@
     "sub_category": "路倒",
     "location": "高雄市左營區重和路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8504,6 +8504,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T16:57:31.815661"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T17:03:32.182512"
       }
     ]
   },
@@ -8527,11 +8531,29 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T17:01:31.922493"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T17:03:32.182512"
+      }
+    ]
+  },
+  "bf7a532e3187fc5de5b4b02fda842173": {
+    "time": "2026/10/12 17:02:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市杉林區",
+    "units": "杉林分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T17:03:32.182512"
       }
     ]
   }
