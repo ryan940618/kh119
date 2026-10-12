@@ -10415,7 +10415,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10428,6 +10428,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T19:36:31.883427"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T19:43:31.797864"
       }
     ]
   },
@@ -10505,11 +10509,29 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T19:42:31.816987"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T19:43:31.797864"
+      }
+    ]
+  },
+  "4bf060a4feca86322ab319fe11fe88c1": {
+    "time": "2026/10/12 19:42:27",
+    "category": "其他",
+    "sub_category": "受困",
+    "location": "高雄市苓雅區海邊路",
+    "units": "成功分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T19:43:31.797864"
       }
     ]
   }
