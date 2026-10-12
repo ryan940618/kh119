@@ -1133,7 +1133,7 @@
     "sub_category": "一般(集合)住宅",
     "location": "高雄市前金區成功一路",
     "units": "前金分隊,新興分隊,鼓山分隊",
-    "current_status": "火已控",
+    "current_status": "火已滅",
     "status_history": [
       {
         "status": "已派遣",
@@ -1162,6 +1162,10 @@
       {
         "status": "火已控",
         "timestamp": "2026-10-13T05:13:31.456905"
+      },
+      {
+        "status": "火已滅",
+        "timestamp": "2026-10-13T06:04:31.784170"
       }
     ]
   },
@@ -1709,7 +1713,7 @@
     "sub_category": "路倒",
     "location": "高雄市大社區大社路",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1718,6 +1722,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T06:00:31.750505"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T06:04:31.784170"
       }
     ]
   }
