@@ -7087,7 +7087,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7104,6 +7104,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T15:03:31.231873"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T15:15:31.227912"
       }
     ]
   },
@@ -7299,11 +7303,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區大順二路",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-12T15:12:31.266376"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T15:15:31.227912"
       }
     ]
   }
