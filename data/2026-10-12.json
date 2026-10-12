@@ -8423,7 +8423,7 @@
     "sub_category": "創傷",
     "location": "高雄市仁武區善德街",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8436,6 +8436,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T17:00:31.820257"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T17:11:32.309508"
       }
     ]
   },
@@ -8660,6 +8664,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T17:09:31.998932"
+      }
+    ]
+  },
+  "5620a766cbc64cf6ca9320e46ee1570a": {
+    "time": "2026/10/12 17:10:49",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T17:11:32.309508"
       }
     ]
   }
