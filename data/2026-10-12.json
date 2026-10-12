@@ -9435,7 +9435,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區明潭路",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9448,6 +9448,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T18:08:31.326411"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T18:33:31.702072"
       }
     ]
   },
@@ -9731,7 +9735,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9744,6 +9748,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T18:29:31.485935"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T18:33:31.702072"
       }
     ]
   },
@@ -9815,11 +9823,15 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區和平一路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-12T18:28:31.456954"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T18:33:31.702072"
       }
     ]
   },
@@ -9829,11 +9841,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-12T18:29:31.485935"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T18:33:31.702072"
       }
     ]
   },
@@ -9848,6 +9864,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T18:31:31.494992"
+      }
+    ]
+  },
+  "beeeabec55bd9262d15ce90382edd476": {
+    "time": "2026/10/12 18:32:27",
+    "category": "火災",
+    "sub_category": "雜草(含廢棄物、墓地)",
+    "location": "高雄市大社區中正路",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T18:33:31.702072"
       }
     ]
   }
