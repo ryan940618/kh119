@@ -9285,7 +9285,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -9294,6 +9294,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T17:53:31.240733"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T18:08:31.326411"
       }
     ]
   },
@@ -9391,24 +9395,6 @@
     "sub_category": "車禍",
     "location": "高雄市左營區明潭路",
     "units": "左營分隊",
-    "current_status": "已出動",
-    "status_history": [
-      {
-        "status": "已派遣",
-        "timestamp": "2026-10-12T17:58:31.245480"
-      },
-      {
-        "status": "已出動",
-        "timestamp": "2026-10-12T17:59:31.270477"
-      }
-    ]
-  },
-  "5151ec6680948c554a622672f19ab2de": {
-    "time": "2026/10/12 17:57:25",
-    "category": "緊急救護",
-    "sub_category": "急病",
-    "location": "高雄市林園區",
-    "units": "林園分隊",
     "current_status": "已到達",
     "status_history": [
       {
@@ -9421,7 +9407,33 @@
       },
       {
         "status": "已到達",
+        "timestamp": "2026-10-12T18:08:31.326411"
+      }
+    ]
+  },
+  "5151ec6680948c554a622672f19ab2de": {
+    "time": "2026/10/12 17:57:25",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "送醫中",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T17:58:31.245480"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T17:59:31.270477"
+      },
+      {
+        "status": "已到達",
         "timestamp": "2026-10-12T18:06:31.353022"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T18:08:31.326411"
       }
     ]
   },
@@ -9489,7 +9501,7 @@
     "sub_category": "車禍",
     "location": "高雄市林園區鳳林路",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9498,6 +9510,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T18:03:31.384422"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T18:08:31.326411"
       }
     ]
   },
@@ -9516,6 +9532,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T18:06:31.353022"
+      }
+    ]
+  },
+  "3644076d60eb6bc8bd4bfe020f62a48f": {
+    "time": "2026/10/12 18:07:16",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區高屏大橋高雄往屏東方向[高雄市大寮區鳳屏二路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T18:08:31.326411"
       }
     ]
   }
