@@ -2571,7 +2571,7 @@
     "sub_category": "孕婦急產",
     "location": "高雄市楠梓區大學東路",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2588,6 +2588,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T08:20:31.997982"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T08:38:32.022509"
       }
     ]
   },
@@ -2649,7 +2653,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2666,6 +2670,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T08:32:32.047395"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T08:38:32.022509"
       }
     ]
   },
@@ -3002,6 +3010,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T08:37:31.959934"
+      }
+    ]
+  },
+  "eea333cfa3ab92d30b22848c64a70de1": {
+    "time": "2026/10/12 08:37:36",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區文龍路",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T08:38:32.022509"
       }
     ]
   }
