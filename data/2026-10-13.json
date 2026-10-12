@@ -2121,7 +2121,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區德昌路",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2134,6 +2134,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T06:53:31.239327"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T06:57:31.157833"
       }
     ]
   },
@@ -2206,6 +2210,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T06:56:31.084033"
+      }
+    ]
+  },
+  "4c8effa5d92077c6440ad7cb60dafc40": {
+    "time": "2026/10/13 06:56:08",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區中山四路",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T06:57:31.157833"
       }
     ]
   }
