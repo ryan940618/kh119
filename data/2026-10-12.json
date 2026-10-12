@@ -9047,7 +9047,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9060,6 +9060,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T17:33:31.157845"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T17:50:31.185876"
       }
     ]
   },
@@ -9091,7 +9095,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區一心二路",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9108,6 +9112,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T17:45:31.200618"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T17:50:31.185876"
       }
     ]
   },
@@ -9175,11 +9183,15 @@
     "sub_category": "車禍",
     "location": "高雄市小港區平治街",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T17:47:31.221311"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T17:50:31.185876"
       }
     ]
   },
