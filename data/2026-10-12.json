@@ -5435,7 +5435,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區成功路",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5444,6 +5444,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T12:20:31.235981"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T12:23:31.197071"
       }
     ]
   },
@@ -5466,6 +5470,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T12:22:31.291856"
+      }
+    ]
+  },
+  "ab69333f9d02974f59cfbef182a16c90": {
+    "time": "2026/10/12 12:22:55",
+    "category": "緊急救護",
+    "sub_category": "生物咬螫傷",
+    "location": "高雄市桃源區",
+    "units": "桃源分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T12:23:31.197071"
       }
     ]
   }
