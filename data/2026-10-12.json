@@ -3333,7 +3333,7 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3342,6 +3342,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T08:58:31.322706"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T09:04:31.329276"
       }
     ]
   },
@@ -3382,6 +3386,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T08:59:31.752183"
+      }
+    ]
+  },
+  "1e7c3791812c1329a814430408be3b00": {
+    "time": "2026/10/12 09:03:04",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市杉林區",
+    "units": "甲仙分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T09:04:31.329276"
       }
     ]
   }
