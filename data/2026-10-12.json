@@ -8093,7 +8093,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區瑞鳳街",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8106,6 +8106,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T16:34:32.048477"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T16:50:31.751472"
       }
     ]
   },
@@ -8115,7 +8119,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8132,6 +8136,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T16:41:31.669231"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T16:50:31.751472"
       }
     ]
   },
@@ -8167,7 +8175,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區大學一街",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8184,6 +8192,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T16:43:31.737238"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T16:50:31.751472"
       }
     ]
   },
@@ -8337,11 +8349,15 @@
     "sub_category": "其他",
     "location": "高雄市三民區興昌街",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T16:48:31.959362"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T16:50:31.751472"
       }
     ]
   },
