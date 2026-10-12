@@ -10049,7 +10049,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區博愛三路",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10066,6 +10066,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T19:00:31.687348"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T19:05:31.632663"
       }
     ]
   },
@@ -10137,11 +10141,29 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區松藝路",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T19:04:31.670684"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T19:05:31.632663"
+      }
+    ]
+  },
+  "b8381053573e7ddbd12aa904a91a1bae": {
+    "time": "2026/10/12 19:04:23",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區三多一路和漢昌街",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T19:05:31.632663"
       }
     ]
   }
