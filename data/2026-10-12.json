@@ -2195,7 +2195,7 @@
     "sub_category": "車禍",
     "location": "高雄市旗山區旗甲路",
     "units": "旗山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -2204,6 +2204,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T07:50:31.605122"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T08:00:44.201577"
       }
     ]
   },
@@ -2432,6 +2436,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T07:59:31.684230"
+      }
+    ]
+  },
+  "826fef4d73e342bebb45b780ecdc6d90": {
+    "time": "2026/10/12 07:59:27",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市燕巢區安招路",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T08:00:44.201577"
       }
     ]
   }
