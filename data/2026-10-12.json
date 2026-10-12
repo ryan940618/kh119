@@ -3809,7 +3809,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3822,6 +3822,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T09:37:31.408388"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T09:53:31.396439"
       }
     ]
   },
@@ -3954,6 +3958,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T09:48:31.494852"
+      }
+    ]
+  },
+  "68aabdfab3430ec34b2b88c1b6a2283a": {
+    "time": "2026/10/12 09:52:17",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區中山東路",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T09:53:31.396439"
+      }
+    ]
+  },
+  "a6523be73e3ca5e7ba820946c8fb4b4c": {
+    "time": "2026/10/12 09:52:08",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳥松區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T09:53:31.396439"
       }
     ]
   }
