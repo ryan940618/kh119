@@ -1955,7 +1955,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區東寧路",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1968,6 +1968,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T06:40:31.084612"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T06:48:31.175229"
       }
     ]
   },
@@ -2061,7 +2065,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區建國一路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2070,6 +2074,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T06:42:31.106934"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T06:48:31.175229"
       }
     ]
   },
@@ -2134,6 +2142,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T06:47:31.157968"
+      }
+    ]
+  },
+  "26c11d3468888dcbed37f7b14aa812f8": {
+    "time": "2026/10/13 06:46:25",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市梓官區信義路",
+    "units": "梓官分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T06:48:31.175229"
       }
     ]
   }
