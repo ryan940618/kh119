@@ -1477,7 +1477,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區南和街",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1486,6 +1486,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T05:44:31.580363"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T05:47:31.572427"
       }
     ]
   },
@@ -1504,6 +1508,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T05:46:31.566381"
+      }
+    ]
+  },
+  "e486b2e3133d876653402cec7bb0a8c8": {
+    "time": "2026/10/13 05:46:52",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T05:47:31.572427"
       }
     ]
   }
