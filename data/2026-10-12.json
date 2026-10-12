@@ -11397,7 +11397,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11410,6 +11410,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T21:16:31.388733"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T21:22:31.595708"
       }
     ]
   },
@@ -11463,11 +11467,15 @@
     "sub_category": "車禍",
     "location": "高雄市前金區中華四路",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T21:21:31.602526"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T21:22:31.595708"
       }
     ]
   },
@@ -11477,11 +11485,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "前鎮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T21:21:31.602526"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T21:22:31.595708"
       }
     ]
   }
