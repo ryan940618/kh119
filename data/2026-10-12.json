@@ -8177,7 +8177,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區大順二路",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8186,6 +8186,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T16:40:31.706096"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T16:42:31.862856"
       }
     ]
   },
@@ -8218,6 +8222,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T16:41:31.669231"
+      }
+    ]
+  },
+  "f8d35b507c024d2afbc1e509dc3f9f54": {
+    "time": "2026/10/12 16:41:04",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T16:42:31.862856"
+      }
+    ]
+  },
+  "ed9c59af719f3c41f2782dcafed1ea73": {
+    "time": "2026/10/12 16:40:01",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市旗山區",
+    "units": "旗山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T16:42:31.862856"
       }
     ]
   }
