@@ -4859,7 +4859,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區澄清路",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -4868,6 +4868,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T11:36:31.527706"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T11:47:31.024977"
       }
     ]
   },
@@ -4943,7 +4947,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -4952,6 +4956,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T11:38:31.903321"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T11:47:31.024977"
       }
     ]
   },
@@ -5076,6 +5084,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T11:45:31.119621"
+      }
+    ]
+  },
+  "045bea97195f11f993a4d87e94ff7ec5": {
+    "time": "2026/10/12 11:46:46",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T11:47:31.024977"
       }
     ]
   }
