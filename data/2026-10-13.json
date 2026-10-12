@@ -363,7 +363,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區南京路",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -380,6 +380,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T02:03:31.173674"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T02:07:31.191253"
       }
     ]
   },
@@ -459,11 +463,43 @@
     "sub_category": "創傷",
     "location": "高雄市三民區建國三路",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T02:03:31.173674"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T02:07:31.191253"
+      }
+    ]
+  },
+  "cdcb8aeeedbc87cfe4ea5363613673d2": {
+    "time": "2026/10/13 02:06:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市六龜區",
+    "units": "六龜分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T02:07:31.191253"
+      }
+    ]
+  },
+  "0acee7aa44c166713e214aa46cdc6992": {
+    "time": "2026/10/13 02:06:07",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T02:07:31.191253"
       }
     ]
   }
