@@ -7079,7 +7079,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "林園分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7092,6 +7092,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T14:57:31.284979"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T15:03:31.231873"
       }
     ]
   },
@@ -7151,11 +7155,15 @@
     "sub_category": "急病",
     "location": "高雄市內門區",
     "units": "內門分隊,杉林分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T14:59:31.174335"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T15:03:31.231873"
       }
     ]
   },
@@ -7188,6 +7196,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T15:02:31.263576"
+      }
+    ]
+  },
+  "588f8932b7a7895ab41085f069eba8f0": {
+    "time": "2026/10/12 15:03:06",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市六龜區",
+    "units": "六龜分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T15:03:31.231873"
       }
     ]
   }
