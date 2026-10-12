@@ -5717,7 +5717,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5734,6 +5734,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T13:06:31.498093"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T13:12:31.583636"
       }
     ]
   },
@@ -5979,11 +5983,15 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T13:08:31.407895"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T13:12:31.583636"
       }
     ]
   },
@@ -5993,11 +6001,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T13:09:32.035074"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T13:12:31.583636"
       }
     ]
   }
