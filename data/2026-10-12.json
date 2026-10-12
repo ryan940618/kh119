@@ -2845,7 +2845,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區鳳頂路",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2862,6 +2862,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T08:36:31.977039"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T08:43:31.037608"
       }
     ]
   },
@@ -3017,7 +3021,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3026,6 +3030,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T08:37:31.959934"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T08:43:31.037608"
       }
     ]
   },
@@ -3072,6 +3080,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T08:42:31.205093"
+      }
+    ]
+  },
+  "b20a237f39df0396fe3c82fbacd975c4": {
+    "time": "2026/10/12 08:42:15",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T08:43:31.037608"
       }
     ]
   }
