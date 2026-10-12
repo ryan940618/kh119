@@ -9907,7 +9907,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9924,6 +9924,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T18:43:31.527569"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T18:50:31.800055"
       }
     ]
   },
@@ -10021,11 +10025,29 @@
     "sub_category": "車禍",
     "location": "高雄市左營區博愛三路",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T18:48:31.659454"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T18:50:31.800055"
+      }
+    ]
+  },
+  "c79a1c33a6de997daf70209b5faae3fd": {
+    "time": "2026/10/12 18:49:16",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區自由一路和灣興街",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T18:50:31.800055"
       }
     ]
   }
