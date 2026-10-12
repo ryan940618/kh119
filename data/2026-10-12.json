@@ -6755,7 +6755,7 @@
     "sub_category": "創傷",
     "location": "高雄市小港區二苓路",
     "units": "小港分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6772,6 +6772,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T14:37:31.789505"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T14:40:31.181848"
       }
     ]
   },
@@ -6897,11 +6901,15 @@
     "sub_category": "創傷",
     "location": "高雄市岡山區嘉興路",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T14:38:37.339742"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T14:40:31.181848"
       }
     ]
   },
