@@ -8623,11 +8623,15 @@
     "sub_category": "路倒",
     "location": "高雄市左營區重信路",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已到達",
         "timestamp": "2026-10-12T17:06:31.886763"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T17:20:31.142230"
       }
     ]
   },
@@ -8637,7 +8641,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區楠梓路",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8650,6 +8654,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T17:10:31.963022"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T17:20:31.142230"
       }
     ]
   },
@@ -8783,7 +8791,7 @@
     "sub_category": "路倒",
     "location": "高雄市前金區河東路",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8792,6 +8800,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T17:16:31.103911"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T17:20:31.142230"
       }
     ]
   },
@@ -8820,6 +8832,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T17:18:31.110977"
+      }
+    ]
+  },
+  "a16e03d8e2f964a1bb18a3c95686ebd0": {
+    "time": "2026/10/12 17:20:01",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區九如二路和哈爾濱街",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T17:20:31.142230"
       }
     ]
   }
