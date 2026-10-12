@@ -8493,7 +8493,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已到院",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8514,6 +8514,10 @@
       {
         "status": "已到院",
         "timestamp": "2026-10-12T17:14:32.011466"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T17:15:31.932042"
       }
     ]
   },
@@ -8593,7 +8597,7 @@
     "sub_category": "急病",
     "location": "高雄市杉林區",
     "units": "杉林分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -8602,6 +8606,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T17:12:31.954592"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T17:15:31.932042"
       }
     ]
   },
@@ -8665,7 +8673,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8678,6 +8686,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T17:14:32.011466"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T17:15:31.932042"
       }
     ]
   },
@@ -8687,7 +8699,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區本館路",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8696,6 +8708,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T17:09:31.998932"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T17:15:31.932042"
       }
     ]
   },
@@ -8746,6 +8762,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T17:14:32.011466"
+      }
+    ]
+  },
+  "7da678dd2350b7a3a1e383a01c463f0d": {
+    "time": "2026/10/12 17:14:38",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市前金區河東路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T17:15:31.932042"
       }
     ]
   }
