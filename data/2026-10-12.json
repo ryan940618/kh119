@@ -10353,7 +10353,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區開發路",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -10366,6 +10366,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T19:52:31.975113"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T20:04:31.002366"
       }
     ]
   },
@@ -10487,7 +10491,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區本工東一路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10504,6 +10508,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T19:59:31.003144"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T20:04:31.002366"
       }
     ]
   },
@@ -10748,6 +10756,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T20:01:31.085166"
+      }
+    ]
+  },
+  "176165983e1a554588d4ec7e4ea54318": {
+    "time": "2026/10/12 20:03:09",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區沿海一路",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T20:04:31.002366"
       }
     ]
   }
