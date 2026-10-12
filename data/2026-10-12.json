@@ -11725,7 +11725,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -11738,6 +11738,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T22:21:31.792145"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T22:27:31.822796"
       }
     ]
   },
@@ -11835,11 +11839,29 @@
     "sub_category": "生物咬螫傷",
     "location": "高雄市甲仙區",
     "units": "甲仙分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T22:26:31.917225"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T22:27:31.822796"
+      }
+    ]
+  },
+  "3b7a4c47f0e820ee82bf3d07bae56d5c": {
+    "time": "2026/10/12 22:25:49",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T22:27:31.822796"
       }
     ]
   }
