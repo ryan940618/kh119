@@ -2433,7 +2433,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2450,6 +2450,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T08:04:31.663213"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T08:19:32.174637"
       }
     ]
   },
@@ -2579,11 +2583,15 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區武營路",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T08:16:31.843589"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T08:19:32.174637"
       }
     ]
   },
@@ -2611,11 +2619,15 @@
     "sub_category": "急病",
     "location": "高雄市永安區",
     "units": "永安分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T08:18:31.922284"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T08:19:32.174637"
       }
     ]
   },
@@ -2630,6 +2642,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T08:18:31.922284"
+      }
+    ]
+  },
+  "7c44446f948a8779557cf4e8b21bd85b": {
+    "time": "2026/10/12 08:19:12",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區建興路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T08:19:32.174637"
+      }
+    ]
+  },
+  "844239a8f1dea87b75faf8280708df6d": {
+    "time": "2026/10/12 08:18:35",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "和發分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T08:19:32.174637"
+      }
+    ]
+  },
+  "e3048db0594e7587f7fc4d5f794daa01": {
+    "time": "2026/10/12 08:18:34",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗山區",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T08:19:32.174637"
       }
     ]
   }
