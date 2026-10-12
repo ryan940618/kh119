@@ -7053,7 +7053,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區惠豐街",
     "units": "後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7070,6 +7070,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T15:00:31.178831"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T15:05:31.224016"
       }
     ]
   },
@@ -7214,6 +7218,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T15:04:31.237880"
+      }
+    ]
+  },
+  "2dfb969ee0d8d2df66ef25496f343f5b": {
+    "time": "2026/10/12 15:04:36",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區長明街",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T15:05:31.224016"
+      }
+    ]
+  },
+  "96caba566623197eb2523e283d8cd94f": {
+    "time": "2026/10/12 15:04:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大社區",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T15:05:31.224016"
       }
     ]
   }
