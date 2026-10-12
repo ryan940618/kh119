@@ -7515,7 +7515,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區五甲三路",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7532,6 +7532,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T15:52:31.512347"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T15:54:31.597629"
       }
     ]
   },
@@ -7705,11 +7709,15 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T15:51:31.594138"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T15:54:31.597629"
       }
     ]
   },
@@ -7719,11 +7727,29 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T15:52:31.512347"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T15:54:31.597629"
+      }
+    ]
+  },
+  "9e90a7d2033704e015386a99cb8e4809": {
+    "time": "2026/10/12 15:53:39",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市岡山區大公路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T15:54:31.597629"
       }
     ]
   }
