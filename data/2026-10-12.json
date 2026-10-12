@@ -9159,7 +9159,7 @@
     "sub_category": "其他",
     "location": "高雄市路竹區",
     "units": "",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9172,6 +9172,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T17:56:31.284972"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T17:58:31.245480"
       }
     ]
   },
@@ -9203,7 +9207,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區平治街",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9216,6 +9220,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T17:54:31.232069"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T17:58:31.245480"
       }
     ]
   },
@@ -9345,11 +9353,43 @@
     "sub_category": "急病",
     "location": "高雄市六龜區",
     "units": "茂林分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T17:56:31.284972"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T17:58:31.245480"
+      }
+    ]
+  },
+  "15ddea3ba04e3e9fa726083d75d71cae": {
+    "time": "2026/10/12 17:57:57",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區明潭路",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T17:58:31.245480"
+      }
+    ]
+  },
+  "5151ec6680948c554a622672f19ab2de": {
+    "time": "2026/10/12 17:57:25",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T17:58:31.245480"
       }
     ]
   }
