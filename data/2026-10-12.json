@@ -9825,7 +9825,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區興平路",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9842,6 +9842,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T18:43:31.527569"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T18:44:31.577205"
       }
     ]
   },
@@ -9961,7 +9965,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9970,6 +9974,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T18:40:31.546847"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T18:44:31.577205"
       }
     ]
   },
@@ -9979,11 +9987,15 @@
     "sub_category": "創傷",
     "location": "高雄市三民區覺民路",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-12T18:39:31.597449"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T18:44:31.577205"
       }
     ]
   }
