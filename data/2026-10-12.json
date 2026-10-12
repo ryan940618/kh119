@@ -9207,7 +9207,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區平治街",
     "units": "高桂分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9224,6 +9224,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T17:58:31.245480"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T18:03:31.384422"
       }
     ]
   },
@@ -9255,7 +9259,7 @@
     "sub_category": "路倒",
     "location": "高雄市小港區桂誠街",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9264,6 +9268,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T17:55:31.416745"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T18:03:31.384422"
       }
     ]
   },
@@ -9425,7 +9433,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9434,6 +9442,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T18:00:31.347475"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T18:03:31.384422"
       }
     ]
   },
@@ -9443,11 +9455,15 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區武昌路",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T18:02:31.357250"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T18:03:31.384422"
       }
     ]
   },
@@ -9457,11 +9473,15 @@
     "sub_category": "車禍",
     "location": "高雄市林園區鳳林路",
     "units": "林園分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T18:02:31.357250"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T18:03:31.384422"
       }
     ]
   }
