@@ -6897,7 +6897,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6914,6 +6914,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T14:55:31.320265"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T14:59:31.174335"
       }
     ]
   },
@@ -6975,7 +6979,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區明誠二路",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6992,6 +6996,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T14:56:31.123815"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T14:59:31.174335"
       }
     ]
   },
@@ -7089,11 +7097,15 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區久堂路",
     "units": "大樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-12T14:50:31.370146"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T14:59:31.174335"
       }
     ]
   },
@@ -7122,6 +7134,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T14:57:31.284979"
+      }
+    ]
+  },
+  "1abb43c55ded11310fb6c73eba95b707": {
+    "time": "2026/10/12 14:58:47",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市內門區",
+    "units": "內門分隊,杉林分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T14:59:31.174335"
+      }
+    ]
+  },
+  "c9d03ff1bfed7627a29b8289c3644486": {
+    "time": "2026/10/12 14:58:29",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T14:59:31.174335"
       }
     ]
   }
