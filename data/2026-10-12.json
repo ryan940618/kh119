@@ -11885,7 +11885,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11902,6 +11902,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T22:47:31.869937"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T23:01:30.885427"
       }
     ]
   },
@@ -12004,6 +12008,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T23:00:30.921028"
+      }
+    ]
+  },
+  "349b171ab68d5adbaa29208079182faa": {
+    "time": "2026/10/12 22:59:21",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區明誠一路",
+    "units": "鼎金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T23:01:30.885427"
       }
     ]
   }
