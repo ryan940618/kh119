@@ -5933,7 +5933,7 @@
     "sub_category": "急病",
     "location": "高雄市內門區",
     "units": "內門分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -5942,6 +5942,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T13:07:31.537843"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T13:20:31.420697"
       }
     ]
   },
@@ -5995,7 +5999,7 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6004,6 +6008,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T13:12:31.583636"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T13:20:31.420697"
       }
     ]
   },
@@ -6040,6 +6048,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T13:17:31.780549"
+      }
+    ]
+  },
+  "6f51101301957d92d2e2107ca1ecb4c3": {
+    "time": "2026/10/12 13:20:08",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T13:20:31.420697"
       }
     ]
   }
