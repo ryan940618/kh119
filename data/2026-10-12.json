@@ -8041,7 +8041,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8054,6 +8054,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T16:34:32.048477"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T16:48:31.959362"
       }
     ]
   },
@@ -8211,7 +8215,7 @@
     "sub_category": "急病",
     "location": "高雄市六龜區",
     "units": "六龜分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8220,6 +8224,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T16:40:31.706096"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T16:48:31.959362"
       }
     ]
   },
@@ -8243,7 +8251,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營小隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8252,6 +8260,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T16:43:31.737238"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T16:48:31.959362"
       }
     ]
   },
@@ -8316,6 +8328,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T16:47:31.847148"
+      }
+    ]
+  },
+  "06a48ff3dd6cfbb49135493a82c8da69": {
+    "time": "2026/10/12 16:47:54",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市三民區興昌街",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T16:48:31.959362"
       }
     ]
   }
