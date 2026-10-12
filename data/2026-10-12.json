@@ -12397,7 +12397,7 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12406,6 +12406,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T23:56:31.331940"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T00:00:31.307087"
       }
     ]
   },
@@ -12415,11 +12419,43 @@
     "sub_category": "雜草(含廢棄物、墓地)",
     "location": "高雄市美濃區成功路",
     "units": "美濃分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T23:59:31.334845"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T00:00:31.307087"
+      }
+    ]
+  },
+  "dd7b792b8b704664809abb4de8eff158": {
+    "time": "2026/10/12 23:59:50",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區經武路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T00:00:31.307087"
+      }
+    ]
+  },
+  "bc29fe7aa5dc251f0eb24541e3b24679": {
+    "time": "2026/10/12 23:59:00",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市燕巢區",
+    "units": "",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T00:00:31.307087"
       }
     ]
   }
