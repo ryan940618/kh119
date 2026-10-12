@@ -7187,7 +7187,7 @@
     "sub_category": "急病",
     "location": "高雄市內門區",
     "units": "內門分隊,杉林分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7204,6 +7204,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T15:16:31.554512"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T15:30:31.237837"
       }
     ]
   },
@@ -7415,11 +7419,29 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "大林分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T15:29:31.279772"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T15:30:31.237837"
+      }
+    ]
+  },
+  "529c7a66a631d49af0b43674dfb9bb2d": {
+    "time": "2026/10/12 15:29:25",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區大平路",
+    "units": "高桂分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T15:30:31.237837"
       }
     ]
   }
