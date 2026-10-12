@@ -7209,7 +7209,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -7222,6 +7222,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T15:19:31.364169"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T15:25:31.335154"
       }
     ]
   },
@@ -7301,7 +7305,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7314,6 +7318,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T15:13:31.385647"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T15:25:31.335154"
       }
     ]
   },
@@ -7323,7 +7331,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區大順二路",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -7332,6 +7340,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T15:15:31.227912"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T15:25:31.335154"
       }
     ]
   },
@@ -7341,7 +7353,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7350,6 +7362,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T15:19:31.364169"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T15:25:31.335154"
+      }
+    ]
+  },
+  "a023ee82aa148630dd24fb836cfb7b55": {
+    "time": "2026/10/12 15:24:52",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區武昌路和宜昌街",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T15:25:31.335154"
       }
     ]
   }
