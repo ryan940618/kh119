@@ -7053,7 +7053,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區惠豐街",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7066,6 +7066,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T14:53:31.302167"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T15:00:31.178831"
       }
     ]
   },
@@ -7162,6 +7166,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T14:59:31.174335"
+      }
+    ]
+  },
+  "fd535118a12f63de00512d3bc27a8106": {
+    "time": "2026/10/12 14:59:21",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T15:00:31.178831"
       }
     ]
   }
