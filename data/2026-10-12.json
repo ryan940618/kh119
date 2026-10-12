@@ -4915,7 +4915,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區自強三路",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -4924,6 +4924,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T11:36:31.527706"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T11:57:31.077068"
       }
     ]
   },
@@ -5200,6 +5204,48 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T11:56:31.058696"
+      }
+    ]
+  },
+  "6cea64d99cb85f6367e25da5b72b5bf3": {
+    "time": "2026/10/12 11:57:11",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區漢民路",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T11:57:31.077068"
+      }
+    ]
+  },
+  "54db77c79d6221c699288a045e4bef69": {
+    "time": "2026/10/12 11:56:58",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區博愛二路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T11:57:31.077068"
+      }
+    ]
+  },
+  "8130ccbdc6eea147d0f5fc486f49d218": {
+    "time": "2026/10/12 11:56:21",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區善和街",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T11:57:31.077068"
       }
     ]
   }
