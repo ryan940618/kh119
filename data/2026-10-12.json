@@ -10823,7 +10823,7 @@
     "sub_category": "車禍",
     "location": "高雄市大社區鳳加路",
     "units": "燕巢分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10836,6 +10836,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T20:14:31.197272"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T20:19:31.057334"
       }
     ]
   },
@@ -10903,11 +10907,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T20:17:31.087880"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T20:19:31.057334"
       }
     ]
   }
