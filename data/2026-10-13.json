@@ -1107,7 +1107,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳥松區濱山街",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1116,6 +1116,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T04:26:31.088081"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T04:34:31.195123"
       }
     ]
   },
@@ -1125,11 +1129,15 @@
     "sub_category": "一般(集合)住宅",
     "location": "高雄市前金區成功一路",
     "units": "前金分隊,新興分隊,鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T04:32:31.162432"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T04:34:31.195123"
       }
     ]
   },
@@ -1144,6 +1152,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T04:33:31.135004"
+      }
+    ]
+  },
+  "67f585591cd60ff0067a683e985053de": {
+    "time": "2026/10/13 04:33:20",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市梓官區赤崁北路",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T04:34:31.195123"
       }
     ]
   }
