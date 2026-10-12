@@ -1753,7 +1753,7 @@
     "sub_category": "路倒",
     "location": "高雄市大社區大社路",
     "units": "大社分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1766,6 +1766,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T06:04:31.784170"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T06:18:31.834976"
       }
     ]
   },
@@ -1806,6 +1810,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T06:15:31.832079"
+      }
+    ]
+  },
+  "b4a56e88eb805f699492669e135a8b8b": {
+    "time": "2026/10/13 06:17:34",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T06:18:31.834976"
       }
     ]
   }
