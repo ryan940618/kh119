@@ -1813,7 +1813,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1826,6 +1826,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T06:22:32.250918"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T06:26:31.170229"
       }
     ]
   },
@@ -1871,11 +1875,29 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T06:24:32.225147"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T06:26:31.170229"
+      }
+    ]
+  },
+  "6cbc9bee2a25d203f03ba032e0368219": {
+    "time": "2026/10/13 06:25:20",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區楠梓射擊場[高雄市楠梓區旗楠路",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T06:26:31.170229"
       }
     ]
   }
