@@ -2297,7 +2297,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2314,6 +2314,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T07:23:31.189110"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T07:29:31.249285"
       }
     ]
   },
@@ -2345,7 +2349,7 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2358,6 +2362,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T07:16:31.213019"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T07:29:31.249285"
       }
     ]
   },
@@ -2394,6 +2402,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T07:27:31.269388"
+      }
+    ]
+  },
+  "d5f65f7e5deb42003a3ef8c18f05d58e": {
+    "time": "2026/10/13 07:28:19",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T07:29:31.249285"
+      }
+    ]
+  },
+  "420204ded3737692090334dd6173e822": {
+    "time": "2026/10/13 07:28:06",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T07:29:31.249285"
       }
     ]
   }
