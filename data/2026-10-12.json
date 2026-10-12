@@ -3699,11 +3699,15 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區瓦厝街",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-12T09:21:31.213381"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T09:27:31.339172"
       }
     ]
   },
@@ -3718,6 +3722,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T09:26:31.384699"
+      }
+    ]
+  },
+  "ddc5ca9ffdc18d3c0102518674a622e2": {
+    "time": "2026/10/12 09:26:19",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T09:27:31.339172"
+      }
+    ]
+  },
+  "eda5ce514b281377414c478919cfacbe": {
+    "time": "2026/10/12 09:26:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T09:27:31.339172"
       }
     ]
   }
