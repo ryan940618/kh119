@@ -4705,7 +4705,7 @@
     "sub_category": "車禍",
     "location": "高雄市前金區文武一街",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4714,6 +4714,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T11:16:31.686238"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T11:19:31.846284"
       }
     ]
   },
@@ -4742,6 +4746,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T11:18:31.846930"
+      }
+    ]
+  },
+  "45f34d755c071cf9a87ccb979d3a9dad": {
+    "time": "2026/10/12 11:17:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T11:19:31.846284"
       }
     ]
   }
