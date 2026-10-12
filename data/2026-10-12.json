@@ -3671,7 +3671,7 @@
     "sub_category": "車禍",
     "location": "高雄市旗山區仁和街",
     "units": "旗山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3684,6 +3684,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T09:31:31.287897"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T09:33:31.333339"
       }
     ]
   },
@@ -3715,7 +3719,7 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區瓦厝街",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -3724,6 +3728,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T09:27:31.339172"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T09:33:31.333339"
       }
     ]
   },
@@ -3774,6 +3782,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T09:28:31.243127"
+      }
+    ]
+  },
+  "35e56bae5118cef3a05a4f171ace108f": {
+    "time": "2026/10/12 09:31:36",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T09:33:31.333339"
       }
     ]
   }
