@@ -9435,7 +9435,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區明潭路",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9452,6 +9452,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T18:33:31.702072"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T18:35:31.458455"
       }
     ]
   },
@@ -9890,6 +9894,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T18:34:31.562520"
+      }
+    ]
+  },
+  "f0f6661b04641b1d033848e6143f3a50": {
+    "time": "2026/10/12 18:34:45",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區青年路",
+    "units": "鳥松分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T18:35:31.458455"
       }
     ]
   }
