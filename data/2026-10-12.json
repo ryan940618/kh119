@@ -3069,7 +3069,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3086,6 +3086,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T08:56:31.162918"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T09:08:31.412476"
       }
     ]
   },
@@ -3139,7 +3143,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區內坑路",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3156,6 +3160,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T08:59:31.752183"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T09:08:31.412476"
       }
     ]
   },
@@ -3431,11 +3439,15 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T09:07:31.346152"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T09:08:31.412476"
       }
     ]
   }
