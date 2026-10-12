@@ -10193,7 +10193,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10202,6 +10202,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T19:10:31.765115"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T19:15:31.746245"
       }
     ]
   },
@@ -10238,6 +10242,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T19:14:31.803997"
+      }
+    ]
+  },
+  "2a96f76a71eadefc1de00c7dc7aa619e": {
+    "time": "2026/10/12 19:14:05",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區鼎正街",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T19:15:31.746245"
       }
     ]
   }
