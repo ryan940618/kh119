@@ -1151,7 +1151,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1160,6 +1160,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T04:35:31.201534"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T04:41:31.156450"
       }
     ]
   },
@@ -1169,7 +1173,7 @@
     "sub_category": "創傷",
     "location": "高雄市梓官區赤崁北路",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1178,6 +1182,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T04:36:31.155594"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T04:41:31.156450"
+      }
+    ]
+  },
+  "5f179853de441b28a646480f78c14f10": {
+    "time": "2026/10/13 04:40:03",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T04:41:31.156450"
       }
     ]
   }
