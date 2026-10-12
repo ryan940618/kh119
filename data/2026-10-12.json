@@ -10983,7 +10983,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10996,6 +10996,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T20:29:31.843806"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T20:33:31.280943"
       }
     ]
   },
@@ -11005,7 +11009,7 @@
     "sub_category": "車禍",
     "location": "高雄市田寮區崗安路",
     "units": "崇德駐地",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11014,6 +11018,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T20:28:31.172633"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T20:33:31.280943"
       }
     ]
   },
@@ -11032,6 +11040,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T20:31:31.478056"
+      }
+    ]
+  },
+  "19b6fec29457d7921cd025255bd28732": {
+    "time": "2026/10/12 20:32:38",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區明誠二路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T20:33:31.280943"
       }
     ]
   }
