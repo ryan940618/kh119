@@ -5727,7 +5727,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區吉林街",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5740,6 +5740,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T12:40:31.519143"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T12:52:31.472668"
       }
     ]
   },
@@ -5771,7 +5775,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5780,6 +5784,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T12:47:31.366540"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T12:52:31.472668"
       }
     ]
   },
@@ -5808,6 +5816,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T12:51:31.333649"
+      }
+    ]
+  },
+  "474733fd19f0a803676769f041176b44": {
+    "time": "2026/10/12 12:51:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T12:52:31.472668"
       }
     ]
   }
