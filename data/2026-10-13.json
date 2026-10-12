@@ -273,7 +273,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -286,6 +286,24 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T01:19:30.798478"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T01:30:31.158948"
+      }
+    ]
+  },
+  "82b812d1f1b4e16475319ab8dce1198b": {
+    "time": "2026/10/13 01:28:57",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T01:30:31.158948"
       }
     ]
   }
