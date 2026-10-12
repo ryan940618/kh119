@@ -3329,7 +3329,7 @@
     "sub_category": "車禍",
     "location": "高雄市旗山區中寮二路",
     "units": "田寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3358,6 +3358,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T09:28:31.243127"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T09:30:31.427561"
       }
     ]
   },
@@ -3721,11 +3725,15 @@
     "sub_category": "創傷",
     "location": "高雄市左營區天祥二路",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-12T09:26:31.384699"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T09:30:31.427561"
       }
     ]
   },
