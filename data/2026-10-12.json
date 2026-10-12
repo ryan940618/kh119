@@ -10947,7 +10947,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10964,6 +10964,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T20:37:31.137273"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T20:45:31.578871"
       }
     ]
   },
@@ -11073,7 +11077,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區明誠二路",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11086,6 +11090,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T20:39:31.203989"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T20:45:31.578871"
       }
     ]
   },
@@ -11095,7 +11103,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11108,6 +11116,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T20:40:31.181287"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T20:45:31.578871"
       }
     ]
   },
@@ -11139,11 +11151,29 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T20:43:31.386777"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T20:45:31.578871"
+      }
+    ]
+  },
+  "c8901c2f4909688318f44529bba2c2e7": {
+    "time": "2026/10/12 20:45:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市茄萣區",
+    "units": "茄萣分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T20:45:31.578871"
       }
     ]
   }
