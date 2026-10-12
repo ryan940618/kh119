@@ -3977,7 +3977,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3994,6 +3994,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T10:07:31.475266"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T10:23:31.740899"
       }
     ]
   },
@@ -4129,7 +4133,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區藍昌路",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -4142,6 +4146,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T10:13:31.567207"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T10:23:31.740899"
       }
     ]
   },
@@ -4151,7 +4159,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區中山路",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4160,6 +4168,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T10:14:31.463366"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T10:23:31.740899"
       }
     ]
   },
@@ -4280,6 +4292,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T10:20:31.405774"
+      }
+    ]
+  },
+  "4f7faf054898fa1be538a0f847bbd97b": {
+    "time": "2026/10/12 10:23:10",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區中山東路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T10:23:31.740899"
       }
     ]
   }
