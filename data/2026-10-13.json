@@ -641,7 +641,7 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -654,6 +654,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T02:36:31.461462"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T02:40:31.509997"
       }
     ]
   },
@@ -663,11 +667,15 @@
     "sub_category": "其他",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T02:39:31.443307"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T02:40:31.509997"
       }
     ]
   }
