@@ -6699,7 +6699,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6716,6 +6716,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T14:35:31.538703"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T14:38:37.339742"
       }
     ]
   },
@@ -6866,6 +6870,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T14:37:31.789505"
+      }
+    ]
+  },
+  "29d7ae3e270d081099d16dd0376e5a95": {
+    "time": "2026/10/12 14:38:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T14:38:37.339742"
+      }
+    ]
+  },
+  "50fb720b88dc048bafe6db3c7a8c3706": {
+    "time": "2026/10/12 14:37:42",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市岡山區嘉興路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T14:38:37.339742"
       }
     ]
   }
