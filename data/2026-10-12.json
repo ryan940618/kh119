@@ -8327,7 +8327,7 @@
     "sub_category": "車禍",
     "location": "高雄市旗山區堤防邊過福壽街",
     "units": "旗山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -8340,6 +8340,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T17:06:31.886763"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T17:14:32.011466"
       }
     ]
   },
@@ -8489,7 +8493,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8506,6 +8510,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T17:13:31.937053"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T17:14:32.011466"
       }
     ]
   },
@@ -8537,7 +8545,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區大同路",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -8546,6 +8554,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T17:07:31.937467"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T17:14:32.011466"
       }
     ]
   },
@@ -8635,11 +8647,15 @@
     "sub_category": "路倒",
     "location": "高雄市楠梓區樂群路",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-12T17:08:31.952605"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T17:14:32.011466"
       }
     ]
   },
@@ -8649,7 +8665,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8658,6 +8674,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T17:10:31.963022"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T17:14:32.011466"
       }
     ]
   },
@@ -8703,11 +8723,29 @@
     "sub_category": "其他",
     "location": "高雄市旗山區",
     "units": "",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T17:12:31.954592"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T17:14:32.011466"
+      }
+    ]
+  },
+  "f06543b34b9b074ce7935bdbb35d8ca0": {
+    "time": "2026/10/12 17:12:10",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T17:14:32.011466"
       }
     ]
   }
