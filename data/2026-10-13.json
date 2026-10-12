@@ -2297,7 +2297,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2310,6 +2310,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T07:13:31.142503"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T07:23:31.189110"
       }
     ]
   },
@@ -2363,11 +2367,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區班超路和崗山中街",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T07:21:31.142035"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T07:23:31.189110"
       }
     ]
   }
