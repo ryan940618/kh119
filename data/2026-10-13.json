@@ -2059,7 +2059,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2072,6 +2072,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T06:47:31.157968"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T07:03:31.269365"
       }
     ]
   },
@@ -2209,7 +2213,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區自立一路",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2218,6 +2222,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T06:56:31.084033"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T07:03:31.269365"
       }
     ]
   },
@@ -2236,6 +2244,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T07:00:31.192239"
+      }
+    ]
+  },
+  "627a547cad23153633de8c96ae730c99": {
+    "time": "2026/10/13 07:01:49",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鹽埕區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T07:03:31.269365"
       }
     ]
   }
