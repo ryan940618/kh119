@@ -4677,7 +4677,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區黃厝新路",
     "units": "和發分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4694,6 +4694,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-12T11:30:31.850811"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-12T11:40:31.127993"
       }
     ]
   },
@@ -4946,6 +4950,48 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T11:39:30.902887"
+      }
+    ]
+  },
+  "6e0a9949cbfdbb1ee8006673cf65ad8f": {
+    "time": "2026/10/12 11:39:50",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市內門區",
+    "units": "內門分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T11:40:31.127993"
+      }
+    ]
+  },
+  "6191fd7a8393301d9bab8adfbca4d713": {
+    "time": "2026/10/12 11:39:40",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T11:40:31.127993"
+      }
+    ]
+  },
+  "9c79ea5d9b964b2a2ee9a188d441f447": {
+    "time": "2026/10/12 11:39:13",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市新興區中正三路",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T11:40:31.127993"
       }
     ]
   }
