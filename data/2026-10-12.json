@@ -7395,7 +7395,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區武昌路和宜昌街",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7408,6 +7408,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T15:31:31.400429"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-12T15:37:31.309515"
       }
     ]
   },
@@ -7471,11 +7475,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區五甲三路",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T15:35:31.316337"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T15:37:31.309515"
       }
     ]
   },
