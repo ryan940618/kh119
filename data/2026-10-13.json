@@ -2817,7 +2817,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區大春街",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2830,6 +2830,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T07:59:31.583317"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T08:12:31.699428"
       }
     ]
   },
@@ -3067,7 +3071,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3076,6 +3080,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T08:07:31.742279"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T08:12:31.699428"
       }
     ]
   },
@@ -3177,11 +3185,15 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區博愛一路",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T08:11:31.665763"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T08:12:31.699428"
       }
     ]
   }
