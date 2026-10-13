@@ -11693,7 +11693,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區球場路",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11706,6 +11706,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T21:52:31.558773"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T22:05:31.565937"
       }
     ]
   },
@@ -11715,7 +11719,7 @@
     "sub_category": "其他",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11728,6 +11732,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T21:57:31.443727"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T22:05:31.565937"
       }
     ]
   },
@@ -11737,11 +11745,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T22:02:31.482374"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T22:05:31.565937"
       }
     ]
   },
@@ -11756,6 +11768,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T22:04:31.637308"
+      }
+    ]
+  },
+  "085d5810ecf3c1e6ff4c08dbd5bcfde0": {
+    "time": "2026/10/13 22:04:24",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市林園區至學路",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T22:05:31.565937"
       }
     ]
   }
