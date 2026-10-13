@@ -4241,11 +4241,15 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區鳳林四路",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T09:37:31.166714"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T09:40:31.275121"
       }
     ]
   },
@@ -4273,11 +4277,29 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T09:38:31.231732"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T09:40:31.275121"
+      }
+    ]
+  },
+  "087455f20a20c4eb93ff9ac5cc3cfa97": {
+    "time": "2026/10/13 09:39:38",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T09:40:31.275121"
       }
     ]
   }
