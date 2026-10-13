@@ -3819,7 +3819,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3828,6 +3828,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T09:00:31.413644"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T09:08:31.119334"
       }
     ]
   },
@@ -3846,6 +3850,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T09:07:31.196252"
+      }
+    ]
+  },
+  "dc7afca578d39ee529a81158dc225833": {
+    "time": "2026/10/13 09:07:21",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "後勁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T09:08:31.119334"
       }
     ]
   }
