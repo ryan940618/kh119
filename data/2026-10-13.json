@@ -4945,7 +4945,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區保泰路",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4962,6 +4962,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T10:52:31.747150"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T10:59:31.963116"
       }
     ]
   },
@@ -5320,6 +5324,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T10:57:31.734400"
+      }
+    ]
+  },
+  "b437c495a0e8d66638887ca53747ea13": {
+    "time": "2026/10/13 10:58:43",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市旗山區延平一路",
+    "units": "內門分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T10:59:31.963116"
       }
     ]
   }
