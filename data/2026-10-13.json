@@ -9951,7 +9951,7 @@
     "sub_category": "路倒",
     "location": "高雄市燕巢區中興路",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9960,6 +9960,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T18:35:31.456098"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T18:44:31.609849"
       }
     ]
   },
@@ -9987,7 +9991,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9996,6 +10000,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T18:38:31.623703"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T18:44:31.609849"
       }
     ]
   },
@@ -10041,11 +10049,15 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T18:41:31.515846"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T18:44:31.609849"
       }
     ]
   },
@@ -10092,6 +10104,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T18:43:31.563478"
+      }
+    ]
+  },
+  "a6f264e53bae039b60a1ad264bd0d337": {
+    "time": "2026/10/13 18:43:25",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T18:44:31.609849"
       }
     ]
   }
