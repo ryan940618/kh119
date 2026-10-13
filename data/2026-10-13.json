@@ -5411,7 +5411,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "美濃分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5428,6 +5428,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T11:25:32.087906"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T11:29:32.006520"
       }
     ]
   },
@@ -5621,7 +5625,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5634,6 +5638,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T11:18:31.979413"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T11:29:32.006520"
       }
     ]
   },
@@ -5777,11 +5785,15 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T11:27:32.021085"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T11:29:32.006520"
       }
     ]
   }
