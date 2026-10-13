@@ -9201,7 +9201,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9214,6 +9214,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T17:52:31.360174"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T18:03:31.211182"
       }
     ]
   },
@@ -9413,11 +9417,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T18:01:31.456798"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T18:03:31.211182"
       }
     ]
   },
@@ -9427,11 +9435,43 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T18:02:31.453951"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T18:03:31.211182"
+      }
+    ]
+  },
+  "610fd9eaad1feeb129d615beaa2d10f0": {
+    "time": "2026/10/13 18:02:21",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區學府路",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T18:03:31.211182"
+      }
+    ]
+  },
+  "86b4ac19d1eb09c5a3892f87968b1ca8": {
+    "time": "2026/10/13 18:01:35",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T18:03:31.211182"
       }
     ]
   }
