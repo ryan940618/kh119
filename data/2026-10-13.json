@@ -3081,7 +3081,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3098,6 +3098,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T08:20:32.050441"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T08:34:31.905524"
       }
     ]
   },
@@ -3429,11 +3433,29 @@
     "sub_category": "車禍",
     "location": "高雄市三民區萬全街",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T08:33:31.766648"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T08:34:31.905524"
+      }
+    ]
+  },
+  "a6d0f778f3d8c529627f7b6c7a60a4c5": {
+    "time": "2026/10/13 08:33:49",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區大順一路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T08:34:31.905524"
       }
     ]
   }
