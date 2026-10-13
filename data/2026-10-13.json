@@ -6287,7 +6287,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區環球路",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6296,6 +6296,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T12:18:31.235497"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T12:23:31.279937"
       }
     ]
   },
@@ -6327,11 +6331,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-13T12:18:31.235497"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T12:23:31.279937"
       }
     ]
   },
@@ -6341,7 +6349,7 @@
     "sub_category": "車禍",
     "location": "高雄市林園區林園北路",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6350,6 +6358,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T12:20:31.236683"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T12:23:31.279937"
       }
     ]
   },
@@ -6377,7 +6389,7 @@
     "sub_category": "創傷",
     "location": "高雄市六龜區中正路",
     "units": "寶來分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6386,6 +6398,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T12:21:31.243961"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T12:23:31.279937"
       }
     ]
   },
@@ -6404,6 +6420,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T12:22:31.183014"
+      }
+    ]
+  },
+  "069b2bd55084d6d590efc03cd354029f": {
+    "time": "2026/10/13 12:22:34",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區廣州一街",
+    "units": "苓雅分隊",
+    "current_status": "",
+    "status_history": [
+      {
+        "status": "",
+        "timestamp": "2026-10-13T12:23:31.279937"
+      }
+    ]
+  },
+  "8107b2557d8d78bbe5eacb7a067aa357": {
+    "time": "2026/10/13 12:22:30",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區五福一路和廣州一街",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T12:23:31.279937"
       }
     ]
   }
