@@ -6633,7 +6633,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -6646,6 +6646,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T12:53:31.510188"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T12:55:31.604920"
       }
     ]
   },
@@ -6754,6 +6758,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T12:54:31.475396"
+      }
+    ]
+  },
+  "66fcb8a026dba66cc4c1b853052c40e0": {
+    "time": "2026/10/13 12:54:28",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區大學南路和大學十一街",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T12:55:31.604920"
       }
     ]
   }
