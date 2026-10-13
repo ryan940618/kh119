@@ -5217,7 +5217,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "大社分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5230,6 +5230,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T10:49:31.652747"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T11:01:31.725255"
       }
     ]
   },
@@ -5342,6 +5346,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T11:00:31.718727"
+      }
+    ]
+  },
+  "78c519f79999818343674c3746631123": {
+    "time": "2026/10/13 11:00:39",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗山區",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T11:01:31.725255"
       }
     ]
   }
