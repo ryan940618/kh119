@@ -2889,7 +2889,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區本舘路",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2898,6 +2898,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T07:53:31.534571"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T08:01:31.550863"
       }
     ]
   },
@@ -2942,6 +2946,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T08:00:31.634059"
+      }
+    ]
+  },
+  "17754ce1603c1ceee0e67960bed50a56": {
+    "time": "2026/10/13 08:01:04",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T08:01:31.550863"
       }
     ]
   }
