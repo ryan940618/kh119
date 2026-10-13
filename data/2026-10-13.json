@@ -5407,7 +5407,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5416,6 +5416,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T11:02:31.752842"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T11:19:32.112403"
       }
     ]
   },
@@ -5624,6 +5628,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T11:18:31.979413"
+      }
+    ]
+  },
+  "f52a8d30d1437b912f3db9e51ef358e5": {
+    "time": "2026/10/13 11:18:49",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區鎮海路和鎮海五街",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T11:19:32.112403"
+      }
+    ]
+  },
+  "b38cc0a298625774e5e4cde2a8103999": {
+    "time": "2026/10/13 11:18:46",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區仁德街",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T11:19:32.112403"
       }
     ]
   }
