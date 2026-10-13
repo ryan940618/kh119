@@ -6793,7 +6793,7 @@
     "sub_category": "其他",
     "location": "高雄市前鎮區",
     "units": "",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6806,6 +6806,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T13:03:31.353987"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T13:24:32.768731"
       }
     ]
   },
@@ -6815,7 +6819,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區大學南路和大學十一街",
     "units": "橋頭分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6832,6 +6836,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T13:13:31.550768"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T13:24:32.768731"
       }
     ]
   },
@@ -7020,6 +7028,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T13:17:31.559134"
+      }
+    ]
+  },
+  "e1d7e70d9204d7d43fdf29a3ed7f3cf7": {
+    "time": "2026/10/13 13:23:37",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T13:24:32.768731"
+      }
+    ]
+  },
+  "1da883986f8f0598e99b7f7e400bdd74": {
+    "time": "2026/10/13 13:22:47",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市苓雅區永定街",
+    "units": "新興分隊,苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T13:24:32.768731"
       }
     ]
   }
