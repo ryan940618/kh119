@@ -9663,7 +9663,7 @@
     "sub_category": "創傷",
     "location": "高雄市美濃區五穀街",
     "units": "美濃分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9680,6 +9680,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T18:25:31.589536"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T18:37:31.553313"
       }
     ]
   },
@@ -9901,7 +9905,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "永安分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9910,6 +9914,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T18:29:31.609937"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T18:37:31.553313"
       }
     ]
   },
@@ -9946,6 +9954,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T18:33:31.769302"
+      }
+    ]
+  },
+  "cc3f53b1778f8d753b8cbda9b13571fc": {
+    "time": "2026/10/13 18:36:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳥松區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T18:37:31.553313"
       }
     ]
   }
