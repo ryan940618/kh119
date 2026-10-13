@@ -4891,7 +4891,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區鳳仁路",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4904,6 +4904,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T10:29:31.744243"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T10:35:32.016511"
       }
     ]
   },
@@ -5034,6 +5038,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T10:34:31.707130"
+      }
+    ]
+  },
+  "5b948b9a968863c8eab87ec766de23be": {
+    "time": "2026/10/13 10:34:15",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市美濃區",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-13T10:35:32.016511"
+      }
+    ]
+  },
+  "4d73abfdab0b249f6681238d4bfcd7a7": {
+    "time": "2026/10/13 10:33:59",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T10:35:32.016511"
       }
     ]
   }
