@@ -6685,7 +6685,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6698,6 +6698,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T12:43:31.385563"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T13:01:31.527515"
       }
     ]
   },
@@ -6751,11 +6755,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-13T12:52:31.371751"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T13:01:31.527515"
       }
     ]
   },
@@ -6824,6 +6832,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T12:59:31.280131"
+      }
+    ]
+  },
+  "682d4e6f3bad58852a0ee1a3898392ac": {
+    "time": "2026/10/13 13:00:35",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T13:01:31.527515"
       }
     ]
   }
