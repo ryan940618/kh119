@@ -8681,7 +8681,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區自由路",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -8694,6 +8694,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T17:24:32.328937"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T17:29:31.398497"
       }
     ]
   },
@@ -9006,6 +9010,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T17:22:32.151215"
+      }
+    ]
+  },
+  "1d9f94a3ab1d9fbb057bbc1ba3237932": {
+    "time": "2026/10/13 17:28:27",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T17:29:31.398497"
       }
     ]
   }
