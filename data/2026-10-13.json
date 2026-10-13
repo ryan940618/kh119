@@ -6961,7 +6961,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6978,6 +6978,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T13:36:31.577677"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T13:43:31.668417"
       }
     ]
   },
@@ -7147,7 +7151,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7156,6 +7160,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T13:38:31.810918"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T13:43:31.668417"
       }
     ]
   },
@@ -7165,11 +7173,29 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T13:42:31.715065"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T13:43:31.668417"
+      }
+    ]
+  },
+  "862d485a85641cc7f1d99d84e66a4c3d": {
+    "time": "2026/10/13 13:42:25",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市岡山區平和路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T13:43:31.668417"
       }
     ]
   }
