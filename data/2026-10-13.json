@@ -4707,7 +4707,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "鼓山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4720,6 +4720,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T10:17:31.678114"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T10:30:31.647636"
       }
     ]
   },
@@ -4835,7 +4839,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4844,6 +4848,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T10:23:31.710762"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T10:30:31.647636"
       }
     ]
   },
@@ -4960,6 +4968,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T10:28:31.730668"
+      }
+    ]
+  },
+  "7ea2e197d67b4aeb2eb60f571a273741": {
+    "time": "2026/10/13 10:29:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T10:30:31.647636"
       }
     ]
   }
