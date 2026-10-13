@@ -1045,7 +1045,7 @@
     "sub_category": "一般(集合)住宅",
     "location": "高雄市三民區中和街",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "火已滅",
     "status_history": [
       {
         "status": "已派遣",
@@ -1058,6 +1058,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T05:15:31.166397"
+      },
+      {
+        "status": "火已滅",
+        "timestamp": "2026-10-14T05:32:34.069415"
       }
     ]
   },
@@ -1067,7 +1071,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1080,6 +1084,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T05:14:31.421575"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T05:32:34.069415"
       }
     ]
   },
@@ -1089,7 +1097,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區昭良街",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1098,6 +1106,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T05:18:31.276515"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T05:32:34.069415"
+      }
+    ]
+  },
+  "452f9f74e8aafbfcf5a793340cbc20d3": {
+    "time": "2026/10/14 05:23:25",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T05:32:34.069415"
       }
     ]
   }
