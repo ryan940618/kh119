@@ -3799,7 +3799,7 @@
     "sub_category": "車禍",
     "location": "高雄市鹽埕區富野路和瀨南街",
     "units": "鼓山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3816,6 +3816,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T09:10:31.169825"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T09:16:31.136678"
       }
     ]
   },
@@ -3923,11 +3927,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T09:15:31.153870"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T09:16:31.136678"
+      }
+    ]
+  },
+  "a9c22140f27187c1084fea000637557b": {
+    "time": "2026/10/13 09:16:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T09:16:31.136678"
       }
     ]
   }
