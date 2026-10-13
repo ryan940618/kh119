@@ -6165,7 +6165,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6182,6 +6182,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T12:12:31.229517"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T12:18:31.235497"
       }
     ]
   },
@@ -6279,11 +6283,15 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區環球路",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T12:16:31.146482"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T12:18:31.235497"
       }
     ]
   },
@@ -6298,6 +6306,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T12:16:31.146482"
+      }
+    ]
+  },
+  "5690e7caeead34e9b5efe85353383566": {
+    "time": "2026/10/13 12:17:21",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T12:18:31.235497"
       }
     ]
   }
