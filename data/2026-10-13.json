@@ -5679,7 +5679,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區仁德街",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5688,6 +5688,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T11:20:31.855456"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T11:27:32.021085"
       }
     ]
   },
@@ -5747,11 +5751,29 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "楠梓分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T11:26:31.987120"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T11:27:32.021085"
+      }
+    ]
+  },
+  "7fa73644666960fa3466cfa008bf137e": {
+    "time": "2026/10/13 11:25:52",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T11:27:32.021085"
       }
     ]
   }
