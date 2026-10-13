@@ -6685,7 +6685,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6702,6 +6702,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T13:01:31.527515"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T13:09:31.563353"
       }
     ]
   },
@@ -6711,7 +6715,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6728,6 +6732,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T13:03:31.353987"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T13:09:31.563353"
       }
     ]
   },
@@ -6906,6 +6914,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T13:07:31.615698"
+      }
+    ]
+  },
+  "ef64e4479f1192f1bf96f562067180a0": {
+    "time": "2026/10/13 13:08:45",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T13:09:31.563353"
       }
     ]
   }
