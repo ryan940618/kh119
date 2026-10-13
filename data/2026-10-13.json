@@ -5527,7 +5527,7 @@
     "sub_category": "創傷",
     "location": "高雄市新興區仁愛一街",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5536,6 +5536,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T11:09:31.908245"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T11:15:32.157650"
       }
     ]
   },
@@ -5568,6 +5572,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T11:14:32.006959"
+      }
+    ]
+  },
+  "f78b843090e973b84d437a6ade1ee89d": {
+    "time": "2026/10/13 11:14:24",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T11:15:32.157650"
       }
     ]
   }
