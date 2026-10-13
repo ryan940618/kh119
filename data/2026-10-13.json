@@ -9253,7 +9253,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區角宿路",
     "units": "燕巢分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9266,6 +9266,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T18:01:31.456798"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T18:08:31.328928"
       }
     ]
   },
@@ -9301,7 +9305,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9314,6 +9318,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T18:00:31.407415"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T18:08:31.328928"
       }
     ]
   },
@@ -9429,7 +9437,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9438,6 +9446,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T18:03:31.211182"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T18:08:31.328928"
       }
     ]
   },
@@ -9502,6 +9514,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T18:06:31.227067"
+      }
+    ]
+  },
+  "742fe5c7f16da5b3cf7fcf502cf3aec1": {
+    "time": "2026/10/13 18:07:24",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T18:08:31.328928"
       }
     ]
   }
