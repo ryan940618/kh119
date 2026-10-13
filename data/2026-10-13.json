@@ -10573,11 +10573,15 @@
     "sub_category": "其他",
     "location": "高雄市小港區",
     "units": "",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T19:19:31.780675"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T19:22:31.811885"
       }
     ]
   },
@@ -10592,6 +10596,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T19:19:31.780675"
+      }
+    ]
+  },
+  "20ae3ee738a72e6242abf4086e1583c6": {
+    "time": "2026/10/13 19:21:44",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市美濃區光明路",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T19:22:31.811885"
+      }
+    ]
+  },
+  "ac8a5ef1a5a9a4c0e6088d49536d5a27": {
+    "time": "2026/10/13 19:21:42",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市小港區",
+    "units": "大林分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T19:22:31.811885"
       }
     ]
   }
