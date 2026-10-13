@@ -5753,7 +5753,7 @@
     "sub_category": "創傷",
     "location": "高雄市前金區六合二路",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5770,6 +5770,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T11:35:31.993367"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T11:41:32.147156"
       }
     ]
   },
@@ -5833,7 +5837,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5850,6 +5854,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T11:38:31.936101"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T11:41:32.147156"
       }
     ]
   },
@@ -5899,11 +5907,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T11:39:32.132163"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T11:41:32.147156"
       }
     ]
   },
@@ -5913,11 +5925,43 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區後昌路",
     "units": "右昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T11:40:32.029911"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T11:41:32.147156"
+      }
+    ]
+  },
+  "d3287dffcdefcc6847cc98ee6230814a": {
+    "time": "2026/10/13 11:40:42",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區中華一路",
+    "units": "中華分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T11:41:32.147156"
+      }
+    ]
+  },
+  "3c07c244c6a7329628105ce4c1638c61": {
+    "time": "2026/10/13 11:40:45",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區中華一路",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T11:41:32.147156"
       }
     ]
   }
