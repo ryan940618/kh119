@@ -12285,7 +12285,7 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區昇平街",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12298,6 +12298,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T23:29:31.191829"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T23:36:31.258222"
       }
     ]
   },
@@ -12325,11 +12329,15 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T23:33:31.108926"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T23:36:31.258222"
       }
     ]
   }
