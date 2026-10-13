@@ -5243,7 +5243,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5252,6 +5252,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T10:53:31.708416"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T11:02:31.752842"
       }
     ]
   },
@@ -5355,11 +5359,29 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "美濃分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T11:01:31.725255"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T11:02:31.752842"
+      }
+    ]
+  },
+  "f72b384b7d004fe5af13fb95df444d0c": {
+    "time": "2026/10/13 11:01:25",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T11:02:31.752842"
       }
     ]
   }
