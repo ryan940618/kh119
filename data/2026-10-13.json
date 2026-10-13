@@ -8141,7 +8141,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8150,6 +8150,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T15:40:31.862738"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T15:46:31.626449"
       }
     ]
   },
@@ -8259,11 +8263,43 @@
     "sub_category": "車禍",
     "location": "高雄市三民區義華路和應安街",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T15:45:31.438360"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T15:46:31.626449"
+      }
+    ]
+  },
+  "02fb14b21fcf72070221dc591c18dcad": {
+    "time": "2026/10/13 15:45:44",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鹽埕區北端街",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T15:46:31.626449"
+      }
+    ]
+  },
+  "498d17113a335467589c14fcaa56c8f1": {
+    "time": "2026/10/13 15:43:16",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市岡山區岡山北路",
+    "units": "岡山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T15:46:31.626449"
       }
     ]
   }
