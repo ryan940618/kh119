@@ -1629,7 +1629,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區中庸街",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1646,6 +1646,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T07:24:31.121986"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T07:29:31.135204"
       }
     ]
   },
@@ -1815,11 +1819,15 @@
     "sub_category": "其他",
     "location": "高雄市仁武區義大二路",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T07:28:30.978357"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T07:29:31.135204"
       }
     ]
   }
