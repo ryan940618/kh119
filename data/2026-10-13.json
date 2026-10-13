@@ -11003,7 +11003,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -11012,6 +11012,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T20:08:31.902697"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T20:15:31.072502"
       }
     ]
   },
@@ -11048,6 +11052,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T20:14:30.992904"
+      }
+    ]
+  },
+  "4ca646c688d8ac09bc993d2324ca1f84": {
+    "time": "2026/10/13 20:13:32",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區保華二路",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T20:15:31.072502"
+      }
+    ]
+  },
+  "5cc35af70ae57ea4d0d6ae98ce103cae": {
+    "time": "2026/10/13 20:13:29",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鼓山區龍德路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T20:15:31.072502"
       }
     ]
   }
