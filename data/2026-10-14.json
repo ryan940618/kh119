@@ -2129,11 +2129,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-14T07:45:31.166619"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T07:53:31.309072"
       }
     ]
   },
@@ -2269,11 +2273,43 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區本舘路",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T07:52:31.290657"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T07:53:31.309072"
+      }
+    ]
+  },
+  "d26beb390fdd12834bd6a4da884cfab5": {
+    "time": "2026/10/14 07:52:23",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區楠梓加工區中央路和楠梓加工區中二街",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T07:53:31.309072"
+      }
+    ]
+  },
+  "b68aa9b89d3106d1ce0b986c557db528": {
+    "time": "2026/10/14 07:52:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T07:53:31.309072"
       }
     ]
   }
