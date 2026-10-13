@@ -1483,7 +1483,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1492,6 +1492,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T06:56:31.802704"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T07:00:30.838655"
       }
     ]
   },
@@ -1501,7 +1505,7 @@
     "sub_category": "創傷",
     "location": "高雄市大社區新興路",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1510,6 +1514,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T06:56:31.802704"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T07:00:30.838655"
       }
     ]
   },
@@ -1519,11 +1527,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T06:59:31.877427"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T07:00:30.838655"
       }
     ]
   }
