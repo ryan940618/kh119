@@ -5353,7 +5353,7 @@
     "sub_category": "車禍",
     "location": "高雄市旗山區延平一路",
     "units": "內門分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5362,6 +5362,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T11:00:31.718727"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T11:08:32.396416"
       }
     ]
   },
@@ -5462,6 +5466,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T11:07:31.838159"
+      }
+    ]
+  },
+  "6a50d18ceebbb95b1ec2eb576ba5f2d3": {
+    "time": "2026/10/13 11:07:11",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市新興區仁愛一街",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T11:08:32.396416"
       }
     ]
   }
