@@ -8177,7 +8177,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8194,6 +8194,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T15:52:31.364979"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T16:04:31.709200"
       }
     ]
   },
@@ -8391,7 +8395,7 @@
     "sub_category": "其他",
     "location": "高雄市岡山區岡山北路",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
@@ -8416,6 +8420,10 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T16:03:31.653313"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T16:04:31.709200"
       }
     ]
   },
@@ -8501,11 +8509,15 @@
     "sub_category": "車禍",
     "location": "高雄市左營區高鐵路",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T16:01:32.297492"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T16:04:31.709200"
       }
     ]
   },
@@ -8520,6 +8532,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T16:01:32.297492"
+      }
+    ]
+  },
+  "3dd314e946ab4b5b9d23c0aa47246368": {
+    "time": "2026/10/13 16:03:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T16:04:31.709200"
       }
     ]
   }
