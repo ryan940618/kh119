@@ -7201,7 +7201,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7214,6 +7214,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T13:50:31.926104"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T13:59:31.797738"
       }
     ]
   },
@@ -7307,7 +7311,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7316,6 +7320,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T13:55:31.817729"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T13:59:31.797738"
       }
     ]
   },
@@ -7325,11 +7333,15 @@
     "sub_category": "創傷",
     "location": "高雄市新興區忠孝一路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T13:58:31.671680"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T13:59:31.797738"
       }
     ]
   },
