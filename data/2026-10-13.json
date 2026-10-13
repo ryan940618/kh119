@@ -7599,7 +7599,7 @@
     "sub_category": "創傷",
     "location": "高雄市仁武區澄合街",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7616,6 +7616,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T14:21:32.103724"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T14:28:32.291912"
       }
     ]
   },
@@ -7718,6 +7722,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T14:24:31.940911"
+      }
+    ]
+  },
+  "ddf160dae56cb50757a1d3c953a7ad56": {
+    "time": "2026/10/13 14:27:10",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市永安區市立新港國小[高雄市永安區新興路",
+    "units": "永安分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T14:28:32.291912"
       }
     ]
   }
