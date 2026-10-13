@@ -7167,7 +7167,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7180,6 +7180,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T13:43:31.668417"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T13:50:31.926104"
       }
     ]
   },
@@ -7189,7 +7193,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7198,6 +7202,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T13:43:31.668417"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T13:50:31.926104"
       }
     ]
   },
@@ -7230,6 +7238,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T13:49:31.560311"
+      }
+    ]
+  },
+  "a0126730d3d7582d74c5c6b373f7f62c": {
+    "time": "2026/10/13 13:50:14",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區石潭路",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T13:50:31.926104"
+      }
+    ]
+  },
+  "b0d813ab4d8cc509d1acb13219eae86e": {
+    "time": "2026/10/13 13:48:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "左營分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T13:50:31.926104"
       }
     ]
   }
