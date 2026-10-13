@@ -3891,11 +3891,43 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-13T09:08:31.119334"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T09:15:31.153870"
+      }
+    ]
+  },
+  "c872ed250a3df7ef6da1be42fe42695c": {
+    "time": "2026/10/13 09:15:07",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T09:15:31.153870"
+      }
+    ]
+  },
+  "a57b9353607c06c7feb5fa58d6855c3e": {
+    "time": "2026/10/13 09:14:41",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T09:15:31.153870"
       }
     ]
   }
