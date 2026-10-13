@@ -10431,7 +10431,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10444,6 +10444,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T19:14:32.118896"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T19:25:31.810313"
       }
     ]
   },
@@ -10645,11 +10649,15 @@
     "sub_category": "其他",
     "location": "高雄市小港區中林路",
     "units": "大林分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T19:23:31.837824"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T19:25:31.810313"
       }
     ]
   }
