@@ -3859,7 +3859,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3876,6 +3876,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T09:27:31.306188"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T09:52:31.307208"
       }
     ]
   },
@@ -4023,7 +4027,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區明祥街",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -4036,6 +4040,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T09:43:31.148504"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T09:52:31.307208"
       }
     ]
   },
@@ -4201,7 +4209,7 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -4210,6 +4218,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T09:48:31.354202"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T09:52:31.307208"
       }
     ]
   },
@@ -4421,11 +4433,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區南福街",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T09:50:31.329496"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T09:52:31.307208"
       }
     ]
   }
