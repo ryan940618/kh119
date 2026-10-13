@@ -1673,7 +1673,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區西七街",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1682,6 +1682,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T07:16:31.027190"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T07:21:31.078524"
       }
     ]
   },
@@ -1718,6 +1722,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T07:18:31.012030"
+      }
+    ]
+  },
+  "210f8216f2fba264c8c68caa2a06d7c9": {
+    "time": "2026/10/14 07:21:02",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市小港區小港路",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T07:21:31.078524"
       }
     ]
   }
