@@ -83,7 +83,7 @@
     "sub_category": "其他",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -96,6 +96,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T00:56:31.480763"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T01:06:31.733973"
       }
     ]
   },
@@ -105,7 +109,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營小隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -114,6 +118,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T01:04:31.630061"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T01:06:31.733973"
+      }
+    ]
+  },
+  "fd53283e4b4b61614a70a068382a232e": {
+    "time": "2026/10/14 01:06:14",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區光復路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T01:06:31.733973"
       }
     ]
   }
