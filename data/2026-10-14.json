@@ -1861,7 +1861,7 @@
     "sub_category": "動物救援",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1870,6 +1870,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T07:31:31.088451"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T07:47:31.226182"
       }
     ]
   },
@@ -2119,11 +2123,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區楠梓路",
     "units": "楠梓分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T07:46:31.158776"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T07:47:31.226182"
       }
     ]
   },
@@ -2133,11 +2141,29 @@
     "sub_category": "創傷",
     "location": "高雄市新興區文化路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T07:46:31.158776"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T07:47:31.226182"
+      }
+    ]
+  },
+  "b56ca013ed3709a3dee50e4ef580419d": {
+    "time": "2026/10/14 07:45:42",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市美濃區",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T07:47:31.226182"
       }
     ]
   }
