@@ -2215,11 +2215,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區後勁東路",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-14T07:49:31.272276"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T07:52:31.290657"
       }
     ]
   },
@@ -2229,11 +2233,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "前鎮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T07:50:31.323232"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T07:52:31.290657"
       }
     ]
   },
@@ -2252,6 +2260,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T07:51:31.294693"
+      }
+    ]
+  },
+  "3f8aab148c31038b9ed0a549f71579d7": {
+    "time": "2026/10/14 07:51:45",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區本舘路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T07:52:31.290657"
       }
     ]
   }
