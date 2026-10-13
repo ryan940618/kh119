@@ -5511,7 +5511,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -5520,6 +5520,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T11:09:31.908245"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T11:26:31.987120"
       }
     ]
   },
@@ -5693,7 +5697,7 @@
     "sub_category": "創傷",
     "location": "高雄市前金區六合二路",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5702,6 +5706,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T11:22:32.038943"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T11:26:31.987120"
       }
     ]
   },
@@ -5730,6 +5738,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T11:24:31.869213"
+      }
+    ]
+  },
+  "724019957bbf4c7f32a42faaff86807b": {
+    "time": "2026/10/13 11:24:58",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大社區",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T11:26:31.987120"
       }
     ]
   }
