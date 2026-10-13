@@ -3201,7 +3201,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區正義路",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3214,6 +3214,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T08:17:31.726140"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T08:22:31.749892"
       }
     ]
   },
@@ -3294,6 +3298,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T08:19:31.623027"
+      }
+    ]
+  },
+  "6b3f2662f7e1e5aef0574a1cef5e7c93": {
+    "time": "2026/10/13 08:21:17",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區華夏路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T08:22:31.749892"
       }
     ]
   }
