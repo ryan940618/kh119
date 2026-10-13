@@ -1923,7 +1923,7 @@
     "sub_category": "車禍",
     "location": "高雄市大社區旗楠路",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1940,6 +1940,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T07:49:31.272276"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T07:56:31.405398"
       }
     ]
   },
@@ -2015,7 +2019,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2032,6 +2036,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T07:49:31.272276"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T07:56:31.405398"
       }
     ]
   },
@@ -2089,7 +2097,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中安路",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2102,6 +2110,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T07:51:31.294693"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T07:56:31.405398"
       }
     ]
   },
@@ -2325,11 +2337,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "橋頭分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T07:53:31.309072"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T07:56:31.405398"
       }
     ]
   },
@@ -2353,11 +2369,15 @@
     "sub_category": "創傷",
     "location": "高雄市三民區寶鼎街",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T07:55:31.338178"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T07:56:31.405398"
       }
     ]
   }
