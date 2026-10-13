@@ -4437,7 +4437,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4454,6 +4454,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T10:08:31.439802"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T10:20:31.731391"
       }
     ]
   },
@@ -4767,11 +4771,29 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T10:18:31.755097"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T10:20:31.731391"
+      }
+    ]
+  },
+  "b3dadd1af37057ac779ea43ef0658750": {
+    "time": "2026/10/13 10:18:40",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鼓山區登山街",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T10:20:31.731391"
       }
     ]
   }
