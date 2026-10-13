@@ -9377,7 +9377,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9394,6 +9394,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T18:16:31.370924"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T18:39:31.513249"
       }
     ]
   },
@@ -9791,7 +9795,7 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區中正一路",
     "units": "大樹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9804,6 +9808,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T18:26:31.712450"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T18:39:31.513249"
       }
     ]
   },
@@ -9972,6 +9980,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T18:38:31.623703"
+      }
+    ]
+  },
+  "e4ac3d1c0b437bcf59d323a3eb943d72": {
+    "time": "2026/10/13 18:37:57",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市鼓山區富農路",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T18:39:31.513249"
       }
     ]
   }
