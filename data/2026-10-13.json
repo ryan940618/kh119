@@ -7175,7 +7175,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7192,6 +7192,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T13:50:31.926104"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T14:10:31.847415"
       }
     ]
   },
@@ -7433,7 +7437,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7442,6 +7446,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T14:08:31.947331"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T14:10:31.847415"
       }
     ]
   },
@@ -7506,6 +7514,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T14:09:31.840262"
+      }
+    ]
+  },
+  "5e88fa9377d711e36ff8ddcdd9b520b7": {
+    "time": "2026/10/13 14:08:32",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市仁武區澄合街",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T14:10:31.847415"
       }
     ]
   }
