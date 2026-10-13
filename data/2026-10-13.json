@@ -6105,7 +6105,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區自立街",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6114,6 +6114,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T11:53:31.161866"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T12:01:31.062944"
       }
     ]
   },
@@ -6123,7 +6127,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6132,6 +6136,52 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T11:58:31.136510"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T12:01:31.062944"
+      }
+    ]
+  },
+  "e667a5dcdcdf781e2f623e4d47aa352e": {
+    "time": "2026/10/13 12:00:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大社區",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T12:01:31.062944"
+      }
+    ]
+  },
+  "70b4e75acfe54736b109cbdc0071ce1d": {
+    "time": "2026/10/13 12:00:43",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T12:01:31.062944"
+      }
+    ]
+  },
+  "b1084a94d757e1678eaa28e1906aceaa": {
+    "time": "2026/10/13 11:50:40",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市苓雅區正義路",
+    "units": "鳳山分隊",
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T12:01:31.062944"
       }
     ]
   }
