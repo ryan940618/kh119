@@ -7579,7 +7579,7 @@
     "sub_category": "創傷",
     "location": "高雄市仁武區澄合街",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7592,6 +7592,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T14:16:32.165975"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T14:21:32.103724"
       }
     ]
   },
@@ -7623,7 +7627,7 @@
     "sub_category": "其他",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
@@ -7636,6 +7640,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T14:14:31.866820"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T14:21:32.103724"
       }
     ]
   },
@@ -7650,6 +7658,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T14:16:32.165975"
+      }
+    ]
+  },
+  "3263e846a55ab2ce6352eebd66681c19": {
+    "time": "2026/10/13 14:20:14",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區經武路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T14:21:32.103724"
       }
     ]
   }
