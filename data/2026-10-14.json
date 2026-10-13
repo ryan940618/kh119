@@ -1905,7 +1905,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區文教路",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1918,6 +1918,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T07:42:31.183728"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T07:58:31.449429"
       }
     ]
   },
@@ -2053,7 +2057,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區凱旋三路",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2070,6 +2074,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T07:55:31.338178"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T07:58:31.449429"
       }
     ]
   },
@@ -2335,11 +2343,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區楠梓加工區中央路和楠梓加工區中二街",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-14T07:53:31.309072"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T07:58:31.449429"
       }
     ]
   },
@@ -2390,6 +2402,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T07:56:31.405398"
+      }
+    ]
+  },
+  "f01f17606e121588954f47af0fb8b59f": {
+    "time": "2026/10/14 07:57:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區工協市場[高雄市鳳山區勝利路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T07:58:31.449429"
       }
     ]
   }
