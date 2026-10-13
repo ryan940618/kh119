@@ -7991,7 +7991,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區漢民路",
     "units": "小港分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -8000,6 +8000,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T15:34:31.284333"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T15:40:31.862738"
       }
     ]
   },
@@ -8075,7 +8079,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區新富路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8084,6 +8088,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T15:33:31.265949"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T15:40:31.862738"
       }
     ]
   },
@@ -8111,11 +8119,15 @@
     "sub_category": "路倒",
     "location": "高雄市大社區金龍路",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T15:37:31.455665"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T15:40:31.862738"
       }
     ]
   },
@@ -8125,11 +8137,43 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T15:38:31.328923"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T15:40:31.862738"
+      }
+    ]
+  },
+  "f083e9192b865204b9d9c1c7bb7572f2": {
+    "time": "2026/10/13 15:39:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T15:40:31.862738"
+      }
+    ]
+  },
+  "6c7ab59d415f5a04973020bb2ae43dc1": {
+    "time": "2026/10/13 15:38:36",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市大社區金龍路",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T15:40:31.862738"
       }
     ]
   }
