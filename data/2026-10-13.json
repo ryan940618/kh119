@@ -9751,7 +9751,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營小隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9768,6 +9768,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T18:29:31.609937"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T18:43:31.563478"
       }
     ]
   },
@@ -9825,7 +9829,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9838,6 +9842,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T18:34:31.698771"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T18:43:31.563478"
       }
     ]
   },
@@ -10015,11 +10023,15 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T18:40:31.963039"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T18:43:31.563478"
       }
     ]
   },
@@ -10052,6 +10064,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T18:42:31.625541"
+      }
+    ]
+  },
+  "caa262fbf7f9994cefba4a2b1df7a0ae": {
+    "time": "2026/10/13 18:42:33",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T18:43:31.563478"
+      }
+    ]
+  },
+  "b0788c10d9e9cee5854467916c67f8d5": {
+    "time": "2026/10/13 18:42:22",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區水源路",
+    "units": "大昌分隊",
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T18:43:31.563478"
       }
     ]
   }
