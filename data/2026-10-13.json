@@ -7379,11 +7379,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區中山西路",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-13T13:58:31.671680"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T14:09:31.840262"
       }
     ]
   },
@@ -7393,11 +7397,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T14:00:31.834542"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T14:09:31.840262"
       }
     ]
   },
@@ -7470,6 +7478,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T14:08:31.947331"
+      }
+    ]
+  },
+  "0cf9b4d1e23c8abefc7bae3f2e41934e": {
+    "time": "2026/10/13 14:08:41",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市三民區",
+    "units": "",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T14:09:31.840262"
+      }
+    ]
+  },
+  "3e6a5d8ae1bb8b79af2083565b23ac20": {
+    "time": "2026/10/13 14:08:32",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T14:09:31.840262"
       }
     ]
   }
