@@ -9853,7 +9853,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9866,6 +9866,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T18:31:31.667368"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T18:35:31.456098"
       }
     ]
   },
@@ -9875,7 +9879,7 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9884,6 +9888,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T18:28:31.581854"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T18:35:31.456098"
       }
     ]
   },
@@ -9911,11 +9919,15 @@
     "sub_category": "路倒",
     "location": "高雄市燕巢區中興路",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T18:30:31.690089"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T18:35:31.456098"
       }
     ]
   },
