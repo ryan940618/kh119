@@ -4215,7 +4215,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -4224,6 +4224,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T09:39:31.230441"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T09:49:31.724075"
       }
     ]
   },
@@ -4233,7 +4237,7 @@
     "sub_category": "車禍",
     "location": "高雄市前金區新田路",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -4246,6 +4250,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T09:43:31.148504"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T09:49:31.724075"
       }
     ]
   },
@@ -4378,6 +4386,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T09:47:31.472468"
+      }
+    ]
+  },
+  "ea3a9289941da32d1fd4c5869dfd814e": {
+    "time": "2026/10/13 09:48:05",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市楠梓區安民街",
+    "units": "楠梓分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T09:49:31.724075"
       }
     ]
   }
