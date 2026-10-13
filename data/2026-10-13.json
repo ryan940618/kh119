@@ -10143,11 +10143,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區水源路",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已到達",
         "timestamp": "2026-10-13T18:43:31.563478"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T18:58:31.681288"
       }
     ]
   },
@@ -10272,6 +10276,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T18:56:31.681795"
+      }
+    ]
+  },
+  "af20f5c9d233fdd2ffe6a0d48257acc0": {
+    "time": "2026/10/13 18:57:49",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區萬丹路",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T18:58:31.681288"
       }
     ]
   }
