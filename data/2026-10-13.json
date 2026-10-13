@@ -6867,7 +6867,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區和平二路",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6884,6 +6884,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T13:19:31.584315"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T13:26:31.669368"
       }
     ]
   },
@@ -7064,6 +7068,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T13:24:32.768731"
+      }
+    ]
+  },
+  "db417a65e40603ecaa5158bf9d65c735": {
+    "time": "2026/10/13 13:25:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T13:26:31.669368"
       }
     ]
   }
