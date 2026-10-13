@@ -10959,7 +10959,7 @@
     "sub_category": "汽機車",
     "location": "高雄市三民區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10968,6 +10968,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T20:04:32.218780"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T20:14:30.992904"
       }
     ]
   },
@@ -11017,7 +11021,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11026,6 +11030,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T20:10:31.905145"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T20:14:30.992904"
+      }
+    ]
+  },
+  "b354541b73e73c391ea4434ba6187c4d": {
+    "time": "2026/10/13 20:13:29",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T20:14:30.992904"
       }
     ]
   }
