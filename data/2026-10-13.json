@@ -5251,7 +5251,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5268,6 +5268,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T11:28:31.905733"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T11:30:32.188553"
       }
     ]
   },
@@ -5753,11 +5757,15 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區中正一路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-13T11:24:31.869213"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T11:30:32.188553"
       }
     ]
   },
