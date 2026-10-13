@@ -1629,7 +1629,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區中庸街",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1642,6 +1642,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T07:16:31.027190"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T07:24:31.121986"
       }
     ]
   },
@@ -1739,11 +1743,29 @@
     "sub_category": "創傷",
     "location": "高雄市小港區小港路",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T07:21:31.078524"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T07:24:31.121986"
+      }
+    ]
+  },
+  "a4a92028e3d4ccf488d11eb3c1609b85": {
+    "time": "2026/10/14 07:23:26",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T07:24:31.121986"
       }
     ]
   }
