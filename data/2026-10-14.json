@@ -1615,11 +1615,15 @@
     "sub_category": "急病",
     "location": "高雄市茂林區",
     "units": "茂林分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-14T07:06:30.984011"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T07:31:31.088451"
       }
     ]
   },
@@ -1805,11 +1809,15 @@
     "sub_category": "動物救援",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T07:28:30.978357"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T07:31:31.088451"
       }
     ]
   },
@@ -1842,6 +1850,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T07:30:31.018100"
+      }
+    ]
+  },
+  "e393fea047b53615e23e6a29dcd71cce": {
+    "time": "2026/10/14 07:30:13",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大社區旗楠路",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T07:31:31.088451"
       }
     ]
   }
