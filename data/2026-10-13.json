@@ -3335,7 +3335,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區華夏路",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3344,6 +3344,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T08:26:31.764965"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T08:32:32.247756"
       }
     ]
   },
@@ -3367,7 +3371,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中山四與五甲三路",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3376,6 +3380,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T08:30:31.909964"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T08:32:32.247756"
       }
     ]
   },
@@ -3390,6 +3398,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T08:31:31.772039"
+      }
+    ]
+  },
+  "536ad4f992133626fdb1f20a8fd70657": {
+    "time": "2026/10/13 08:31:30",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市美濃區",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T08:32:32.247756"
       }
     ]
   }
