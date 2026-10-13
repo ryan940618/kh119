@@ -2041,7 +2041,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區凱旋三路",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2054,6 +2054,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T07:43:31.377134"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T07:55:31.338178"
       }
     ]
   },
@@ -2107,7 +2111,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區光華三路",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2120,6 +2124,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T07:50:31.323232"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T07:55:31.338178"
       }
     ]
   },
@@ -2169,7 +2177,7 @@
     "sub_category": "創傷",
     "location": "高雄市新興區文化路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2178,6 +2186,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T07:47:31.226182"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T07:55:31.338178"
       }
     ]
   },
@@ -2241,7 +2253,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2250,6 +2262,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T07:52:31.290657"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T07:55:31.338178"
       }
     ]
   },
@@ -2328,6 +2344,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T07:54:31.682244"
+      }
+    ]
+  },
+  "5255ca90d5206e65517fb89d76b00527": {
+    "time": "2026/10/14 07:54:15",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區寶鼎街",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T07:55:31.338178"
       }
     ]
   }
