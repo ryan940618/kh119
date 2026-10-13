@@ -1347,7 +1347,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區福德三路",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -1360,6 +1360,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T06:45:31.818032"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T06:51:31.837073"
       }
     ]
   },
@@ -1454,6 +1458,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T06:50:31.880816"
+      }
+    ]
+  },
+  "bd91296d6c3d786bbe77b73c8af8473e": {
+    "time": "2026/10/14 06:51:11",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T06:51:31.837073"
+      }
+    ]
+  },
+  "687455c64518aa3afe4a9489dd228121": {
+    "time": "2026/10/14 06:49:37",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市大社區新興路",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T06:51:31.837073"
       }
     ]
   }
