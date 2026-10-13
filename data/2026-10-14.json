@@ -251,7 +251,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -268,6 +268,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T01:42:31.003931"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T01:47:30.902661"
       }
     ]
   },
@@ -357,11 +361,43 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T01:44:30.844834"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T01:47:30.902661"
+      }
+    ]
+  },
+  "340e16d43d99ba94e1632f1c0b7013dc": {
+    "time": "2026/10/14 01:46:09",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市新興區青年一路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T01:47:30.902661"
+      }
+    ]
+  },
+  "a4320ae5d3ecdabbb5511c1a1de5cd43": {
+    "time": "2026/10/14 01:46:07",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "前金分隊,新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T01:47:30.902661"
       }
     ]
   }
