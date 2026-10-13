@@ -6357,7 +6357,7 @@
     "sub_category": "車禍",
     "location": "高雄市林園區林園北路",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6374,6 +6374,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T12:25:31.224129"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T12:31:31.355670"
       }
     ]
   },
@@ -6498,6 +6502,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T12:30:31.183739"
+      }
+    ]
+  },
+  "316c55d8448991a4fe04db22e3b00c83": {
+    "time": "2026/10/13 12:31:01",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T12:31:31.355670"
+      }
+    ]
+  },
+  "7e2a9fcbaf86e1b16d08dd89578bd83b": {
+    "time": "2026/10/13 12:30:18",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市美濃區",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T12:31:31.355670"
       }
     ]
   }
