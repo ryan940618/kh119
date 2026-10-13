@@ -9173,7 +9173,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9182,6 +9182,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T17:48:31.219435"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T17:52:31.360174"
       }
     ]
   },
@@ -9196,6 +9200,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T17:50:31.289325"
+      }
+    ]
+  },
+  "6d68ec608c21da6c48f01ff0a0248d4f": {
+    "time": "2026/10/13 17:51:45",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市燕巢區角宿路",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T17:52:31.360174"
+      }
+    ]
+  },
+  "0b01d3f0ade1454e7a843be041ba64ac": {
+    "time": "2026/10/13 17:51:03",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區擴建路和建基街",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T17:52:31.360174"
       }
     ]
   }
