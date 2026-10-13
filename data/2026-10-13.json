@@ -6199,7 +6199,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6212,6 +6212,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T12:07:31.175495"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T12:24:31.174182"
       }
     ]
   },
@@ -6443,11 +6447,15 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區五福一路和廣州一街",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T12:23:31.279937"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T12:24:31.174182"
       }
     ]
   }
