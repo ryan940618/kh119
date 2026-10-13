@@ -6355,7 +6355,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -6368,6 +6368,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T12:48:31.435176"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T12:51:31.387308"
       }
     ]
   },
@@ -6599,7 +6603,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -6612,6 +6616,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T12:46:31.318147"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T12:51:31.387308"
       }
     ]
   },
@@ -6692,6 +6700,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T12:49:31.336448"
+      }
+    ]
+  },
+  "9c1f141c7e122ebb45ade3444d0716aa": {
+    "time": "2026/10/13 12:50:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區三多三路",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T12:51:31.387308"
       }
     ]
   }
