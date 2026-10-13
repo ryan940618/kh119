@@ -1625,7 +1625,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區中庸街",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1634,6 +1634,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T07:11:31.008297"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T07:16:31.027190"
       }
     ]
   },
@@ -1661,11 +1665,29 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區西七街",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T07:13:31.031443"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T07:16:31.027190"
+      }
+    ]
+  },
+  "86a432e513ab91f3cf6f938e621d6972": {
+    "time": "2026/10/14 07:15:30",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T07:16:31.027190"
       }
     ]
   }
