@@ -6835,7 +6835,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區和平二路",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6844,6 +6844,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T12:59:31.280131"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T13:06:31.517836"
       }
     ]
   },
@@ -6853,7 +6857,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6862,6 +6866,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T13:02:31.344752"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T13:06:31.517836"
+      }
+    ]
+  },
+  "0ac1a08f3bf50cc4903b87396a18831b": {
+    "time": "2026/10/13 13:05:47",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T13:06:31.517836"
       }
     ]
   }
