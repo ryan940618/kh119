@@ -6483,7 +6483,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區五福一路和廣州一街",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6496,6 +6496,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T12:28:31.272701"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T12:37:31.389331"
       }
     ]
   },
@@ -6586,6 +6590,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T12:35:31.311959"
+      }
+    ]
+  },
+  "3241feefee34d2b8efd84244b8b192fc": {
+    "time": "2026/10/13 12:36:30",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區鳳仁路",
+    "units": "鳥松分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T12:37:31.389331"
       }
     ]
   }
