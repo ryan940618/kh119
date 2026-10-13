@@ -11731,7 +11731,7 @@
     "sub_category": "其他",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11748,6 +11748,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T22:05:31.565937"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T22:13:31.632690"
       }
     ]
   },
@@ -11833,11 +11837,29 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T22:09:31.606622"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T22:13:31.632690"
+      }
+    ]
+  },
+  "237c6bffd5a227a655dc7f2ec74786c8": {
+    "time": "2026/10/13 22:12:25",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市新興區民族二路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T22:13:31.632690"
       }
     ]
   }
