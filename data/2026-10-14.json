@@ -531,7 +531,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -544,6 +544,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T02:20:31.224856"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T02:44:31.467456"
       }
     ]
   },
@@ -678,6 +682,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T02:43:31.343818"
+      }
+    ]
+  },
+  "bb77cc2fefc66922c6b64e5044bda062": {
+    "time": "2026/10/14 02:43:15",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T02:44:31.467456"
       }
     ]
   }
