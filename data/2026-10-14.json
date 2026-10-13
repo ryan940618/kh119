@@ -1963,7 +1963,7 @@
     "sub_category": "其他",
     "location": "高雄市三民區康平街",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1972,6 +1972,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T07:34:31.084352"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T07:45:31.166619"
       }
     ]
   },
@@ -2084,6 +2088,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T07:43:31.377134"
+      }
+    ]
+  },
+  "caeea9a2f6f0a7a7944eb68bd879a44f": {
+    "time": "2026/10/14 07:44:10",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T07:45:31.166619"
       }
     ]
   }
