@@ -7111,7 +7111,7 @@
     "sub_category": "其他",
     "location": "高雄市苓雅區永定街",
     "units": "新興分隊,苓雅分隊",
-    "current_status": "火已控",
+    "current_status": "火已滅",
     "status_history": [
       {
         "status": "已出動",
@@ -7132,6 +7132,10 @@
       {
         "status": "火已控",
         "timestamp": "2026-10-13T13:45:31.647135"
+      },
+      {
+        "status": "火已滅",
+        "timestamp": "2026-10-13T13:52:31.686899"
       }
     ]
   },
@@ -7141,7 +7145,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7158,6 +7162,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T13:47:31.884619"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T13:52:31.686899"
       }
     ]
   },
@@ -7251,11 +7259,15 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區石潭路",
     "units": "梓官分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T13:50:31.926104"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T13:52:31.686899"
       }
     ]
   },
