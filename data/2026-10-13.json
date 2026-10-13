@@ -10231,7 +10231,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區鳳東七街",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10248,6 +10248,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T19:01:31.527592"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T19:04:31.666235"
       }
     ]
   },
@@ -10328,6 +10332,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T19:02:31.796551"
+      }
+    ]
+  },
+  "42132b1f76d708c51150a976d7350277": {
+    "time": "2026/10/13 19:03:41",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T19:04:31.666235"
       }
     ]
   }
