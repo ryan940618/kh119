@@ -6811,7 +6811,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區大學南路和大學十一街",
     "units": "橋頭分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6824,6 +6824,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T13:02:31.344752"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T13:13:31.550768"
       }
     ]
   },
@@ -6869,7 +6873,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6882,6 +6886,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T13:06:31.517836"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T13:13:31.550768"
       }
     ]
   },
@@ -6913,7 +6921,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6922,6 +6930,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T13:10:31.507320"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T13:13:31.550768"
       }
     ]
   },
@@ -6967,11 +6979,15 @@
     "sub_category": "其他",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T13:11:31.588807"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T13:13:31.550768"
       }
     ]
   }
