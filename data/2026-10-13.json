@@ -3977,7 +3977,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3990,6 +3990,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T09:27:31.306188"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T09:32:31.320107"
       }
     ]
   },
@@ -4017,7 +4021,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4030,6 +4034,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T09:28:31.214401"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T09:32:31.320107"
       }
     ]
   },
@@ -4039,7 +4047,7 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區瑞和街",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4048,6 +4056,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T09:27:31.306188"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T09:32:31.320107"
       }
     ]
   },
@@ -4112,6 +4124,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T09:31:31.260478"
+      }
+    ]
+  },
+  "c167dacc081ce821f73260daf9c05bec": {
+    "time": "2026/10/13 09:31:47",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗津區",
+    "units": "旗津分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T09:32:31.320107"
       }
     ]
   }
