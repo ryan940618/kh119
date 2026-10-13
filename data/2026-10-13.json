@@ -10177,7 +10177,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10194,6 +10194,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-13T19:08:31.828285"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-13T19:11:31.931857"
       }
     ]
   },
@@ -10413,11 +10417,43 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T19:10:31.738188"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T19:11:31.931857"
+      }
+    ]
+  },
+  "7a4d45c328d44690f96c59c06da03eb7": {
+    "time": "2026/10/13 19:10:24",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T19:11:31.931857"
+      }
+    ]
+  },
+  "08ef76b5a4e9c665e61d26a9379748ea": {
+    "time": "2026/10/13 19:09:41",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市左營區海景街",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T19:11:31.931857"
       }
     ]
   }
