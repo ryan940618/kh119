@@ -5803,7 +5803,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5812,6 +5812,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T11:27:32.021085"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T11:37:32.031591"
       }
     ]
   },
@@ -5852,6 +5856,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T11:33:31.947703"
+      }
+    ]
+  },
+  "fd5f5bef5f9c7ba3643f5e3cac7250d1": {
+    "time": "2026/10/13 11:36:43",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市杉林區",
+    "units": "杉林分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T11:37:32.031591"
       }
     ]
   }
