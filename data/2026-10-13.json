@@ -11847,7 +11847,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區至學路",
     "units": "和發分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -11856,6 +11856,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T22:17:31.906269"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T22:35:31.807062"
       }
     ]
   },
@@ -11992,6 +11996,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T22:23:31.835691"
+      }
+    ]
+  },
+  "ac2e628d87757e79285f2153c69290d5": {
+    "time": "2026/10/13 22:34:52",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T22:35:31.807062"
+      }
+    ]
+  },
+  "1eb4d3d47b76eb39214ba5a787ece4c1": {
+    "time": "2026/10/13 22:34:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T22:35:31.807062"
       }
     ]
   }
