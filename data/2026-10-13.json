@@ -12203,7 +12203,7 @@
     "sub_category": "創傷",
     "location": "高雄市新興區林森一路",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12216,6 +12216,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T23:19:31.057230"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T23:31:31.146874"
       }
     ]
   },
@@ -12247,7 +12251,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -12256,6 +12260,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T23:26:31.019188"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-13T23:31:31.146874"
       }
     ]
   },
@@ -12278,6 +12286,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T23:29:31.191829"
+      }
+    ]
+  },
+  "0fd3ca19448dab58744246414fe4746a": {
+    "time": "2026/10/13 23:30:15",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鼓山區明華路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T23:31:31.146874"
       }
     ]
   }
