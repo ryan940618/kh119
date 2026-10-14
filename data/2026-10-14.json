@@ -7079,11 +7079,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區天興街",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T15:04:32.019359"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T15:06:30.925454"
       }
     ]
   },
@@ -7093,11 +7097,43 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T15:05:30.979253"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T15:06:30.925454"
+      }
+    ]
+  },
+  "fcf798f09d2cec8c78236dc764994638": {
+    "time": "2026/10/14 15:05:40",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區文武三街",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T15:06:30.925454"
+      }
+    ]
+  },
+  "a3ef884f0182b1faa84bc82aece6fbb3": {
+    "time": "2026/10/14 15:05:21",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T15:06:30.925454"
       }
     ]
   }
