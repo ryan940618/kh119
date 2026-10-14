@@ -8791,7 +8791,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區明鳳十街",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8808,6 +8808,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T17:54:31.000423"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T18:13:31.179428"
       }
     ]
   },
@@ -8843,7 +8847,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8864,6 +8868,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T18:03:31.103812"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T18:13:31.179428"
       }
     ]
   },
@@ -9113,11 +9121,15 @@
     "sub_category": "車禍",
     "location": "高雄市阿蓮區民權路",
     "units": "阿蓮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T18:12:31.150931"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T18:13:31.179428"
       }
     ]
   }
