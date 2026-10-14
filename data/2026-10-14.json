@@ -7939,7 +7939,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區智仁街",
     "units": "路竹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7956,6 +7956,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T16:25:31.588375"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T16:31:31.574598"
       }
     ]
   },
@@ -8077,11 +8081,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區草衙二路",
     "units": "前鎮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T16:29:31.553823"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T16:31:31.574598"
       }
     ]
   },
@@ -8096,6 +8104,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T16:30:31.641171"
+      }
+    ]
+  },
+  "27e3fcb8555f516378a217411cb60db4": {
+    "time": "2026/10/14 16:30:55",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區九如二路",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T16:31:31.574598"
       }
     ]
   }
