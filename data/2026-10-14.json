@@ -9291,7 +9291,7 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區立德路",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9300,6 +9300,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T18:24:31.183104"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T18:26:31.111037"
       }
     ]
   },
@@ -9309,11 +9313,43 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T18:24:31.183104"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T18:26:31.111037"
+      }
+    ]
+  },
+  "a4434b6c9b151147dcea45d0d6a52fc9": {
+    "time": "2026/10/14 18:25:39",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T18:26:31.111037"
+      }
+    ]
+  },
+  "a48faca24638b42543a63183000fa9e2": {
+    "time": "2026/10/14 18:25:04",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T18:26:31.111037"
       }
     ]
   }
