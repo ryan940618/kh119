@@ -8635,7 +8635,7 @@
     "sub_category": "創傷",
     "location": "高雄市路竹區民治路",
     "units": "永安分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8652,6 +8652,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T17:51:31.979727"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T17:55:31.030509"
       }
     ]
   },
@@ -8942,6 +8946,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T17:54:31.000423"
+      }
+    ]
+  },
+  "642e3016a7a09f37657c7c4c8b1acfbe": {
+    "time": "2026/10/14 17:54:00",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市大寮區水源路",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T17:55:31.030509"
       }
     ]
   }
