@@ -8171,7 +8171,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區正氣路",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8188,6 +8188,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T16:41:31.599676"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T16:52:31.555981"
       }
     ]
   },
@@ -8219,7 +8223,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8228,6 +8232,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T16:46:31.522881"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T16:52:31.555981"
       }
     ]
   },
@@ -8255,11 +8263,15 @@
     "sub_category": "急病",
     "location": "高雄市茂林區",
     "units": "茂林分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T16:50:31.622260"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T16:52:31.555981"
       }
     ]
   }
