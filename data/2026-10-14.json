@@ -5095,7 +5095,7 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區濃公路",
     "units": "和發分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5112,6 +5112,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T11:42:31.812409"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T12:01:32.119227"
       }
     ]
   },
@@ -5143,7 +5147,7 @@
     "sub_category": "車禍",
     "location": "高雄市茄萣區大發路",
     "units": "茄萣分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -5156,6 +5160,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T11:39:31.907001"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T12:01:32.119227"
       }
     ]
   },
@@ -5476,6 +5484,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T12:00:32.076064"
+      }
+    ]
+  },
+  "91d11df215fcf87c197ecae57c6ef83b": {
+    "time": "2026/10/14 12:00:51",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T12:01:32.119227"
+      }
+    ]
+  },
+  "9472b46b57b030459db6b08f947130db": {
+    "time": "2026/10/14 12:00:24",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市燕巢區深興路",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T12:01:32.119227"
       }
     ]
   }
