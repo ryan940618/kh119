@@ -9385,11 +9385,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-14T18:26:31.111037"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T18:37:31.201246"
       }
     ]
   },
@@ -9458,6 +9462,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T18:36:31.252821"
+      }
+    ]
+  },
+  "639849dbaa754e4fa489ac1373c733c6": {
+    "time": "2026/10/14 18:35:36",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區鳳仁路",
+    "units": "仁武分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T18:37:31.201246"
       }
     ]
   }
