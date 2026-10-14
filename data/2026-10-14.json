@@ -3627,7 +3627,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區一心二路",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3640,6 +3640,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T10:00:31.230642"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T10:05:31.212311"
       }
     ]
   },
@@ -3788,6 +3792,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T10:04:31.373046"
+      }
+    ]
+  },
+  "80003c807b3d4e38395346e44520f4aa": {
+    "time": "2026/10/14 10:04:22",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T10:05:31.212311"
       }
     ]
   }
