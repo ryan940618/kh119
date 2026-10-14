@@ -11571,7 +11571,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區吉林街",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11588,6 +11588,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T22:29:31.757086"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T22:31:35.994064"
       }
     ]
   },
@@ -11703,11 +11707,15 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T22:27:31.734114"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T22:31:35.994064"
       }
     ]
   },
@@ -11722,6 +11730,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T22:30:31.839815"
+      }
+    ]
+  },
+  "3446470f3ebd51a6a01ab166a5c810fd": {
+    "time": "2026/10/14 22:30:51",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T22:31:35.994064"
       }
     ]
   }
