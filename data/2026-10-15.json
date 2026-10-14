@@ -1391,7 +1391,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1404,6 +1404,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T07:03:31.843433"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T07:21:30.970746"
       }
     ]
   },
@@ -1601,11 +1605,15 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區育才路",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T07:17:33.721773"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T07:21:30.970746"
       }
     ]
   },
@@ -1615,11 +1623,15 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T07:17:33.721773"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T07:21:30.970746"
       }
     ]
   },
@@ -1680,6 +1692,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T07:20:31.649798"
+      }
+    ]
+  },
+  "3abb2a922a9cf19e524f3dbbf0d0a4a3": {
+    "time": "2026/10/15 07:19:53",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區後昌路",
+    "units": "後勁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T07:21:30.970746"
       }
     ]
   }
