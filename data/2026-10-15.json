@@ -985,7 +985,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1002,6 +1002,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T06:04:31.354649"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T06:14:31.425515"
       }
     ]
   },
@@ -1024,6 +1028,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T06:08:31.386996"
+      }
+    ]
+  },
+  "0c7c453ffea8c6b907b9ac1ef17ff036": {
+    "time": "2026/10/15 06:13:29",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市美濃區民族路",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T06:14:31.425515"
       }
     ]
   }
