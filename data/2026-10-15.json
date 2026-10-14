@@ -1361,7 +1361,7 @@
     "sub_category": "路倒",
     "location": "高雄市小港區港中街",
     "units": "小港分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1378,6 +1378,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T07:03:31.843433"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T07:20:31.649798"
       }
     ]
   },
@@ -1648,6 +1652,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T07:19:31.063302"
+      }
+    ]
+  },
+  "d2d107d749b8c7749aa274c6975e4f3c": {
+    "time": "2026/10/15 07:19:40",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T07:20:31.649798"
+      }
+    ]
+  },
+  "6d3a8bf983308403a7a4d5455106a735": {
+    "time": "2026/10/15 07:19:53",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區左楠路",
+    "units": "後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T07:20:31.649798"
       }
     ]
   }
