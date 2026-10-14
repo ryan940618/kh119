@@ -3009,7 +3009,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -3022,6 +3022,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T09:13:31.669705"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T09:26:31.820443"
       }
     ]
   },
@@ -3259,11 +3263,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "左營分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-14T09:18:31.809270"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T09:26:31.820443"
       }
     ]
   },
@@ -3296,6 +3304,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T09:25:31.866084"
+      }
+    ]
+  },
+  "897c4b32778cbf111ca40998f74b34b7": {
+    "time": "2026/10/14 09:25:38",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T09:26:31.820443"
       }
     ]
   }
