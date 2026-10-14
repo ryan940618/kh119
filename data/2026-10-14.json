@@ -3465,7 +3465,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -3474,6 +3474,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T09:45:30.924019"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T09:54:31.085015"
       }
     ]
   },
@@ -3560,6 +3564,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T09:53:30.887292"
+      }
+    ]
+  },
+  "bbe2e047ebd5439793e3fff5d3d0a6e3": {
+    "time": "2026/10/14 09:54:00",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區新莊一路",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T09:54:31.085015"
+      }
+    ]
+  },
+  "5a4178dcf5cd05d206aa3651dbe42e9b": {
+    "time": "2026/10/14 09:53:10",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區一心二路",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T09:54:31.085015"
       }
     ]
   }
