@@ -11519,7 +11519,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11528,6 +11528,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T22:11:31.693377"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T22:19:31.648849"
       }
     ]
   },
@@ -11555,7 +11559,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區吉林街",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11564,6 +11568,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T22:15:31.594464"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T22:19:31.648849"
       }
     ]
   },
@@ -11627,11 +11635,15 @@
     "sub_category": "車禍",
     "location": "高雄市茄萣區正順北路",
     "units": "茄萣分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T22:18:31.717343"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T22:19:31.648849"
       }
     ]
   }
