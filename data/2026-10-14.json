@@ -7727,7 +7727,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區武營路",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7744,6 +7744,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T16:17:31.489133"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T16:25:31.588375"
       }
     ]
   },
@@ -7927,7 +7931,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區智仁街",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7940,6 +7944,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T16:19:31.376976"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T16:25:31.588375"
       }
     ]
   },
@@ -7994,6 +8002,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T16:23:31.630863"
+      }
+    ]
+  },
+  "037241cb4fb9564218d35f0c7fc3c2c4": {
+    "time": "2026/10/14 16:23:59",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T16:25:31.588375"
       }
     ]
   }
