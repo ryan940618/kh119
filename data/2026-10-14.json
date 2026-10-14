@@ -8721,7 +8721,7 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區忠孝街",
     "units": "湖內分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8738,6 +8738,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T17:45:32.077912"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T17:56:31.103546"
       }
     ]
   },
@@ -8955,11 +8959,29 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區水源路",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T17:55:31.030509"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T17:56:31.103546"
+      }
+    ]
+  },
+  "ac5f7ac76e52357f68bea49d826ce079": {
+    "time": "2026/10/14 17:55:59",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市左營區文才街",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T17:56:31.103546"
       }
     ]
   }
