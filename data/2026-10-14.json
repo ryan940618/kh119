@@ -11117,7 +11117,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11134,6 +11134,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T21:22:31.181742"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T21:36:31.416918"
       }
     ]
   },
@@ -11143,7 +11147,7 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區成功二路",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11160,6 +11164,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T21:30:31.230774"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T21:36:31.416918"
       }
     ]
   },
@@ -11265,7 +11273,7 @@
     "sub_category": "路倒",
     "location": "高雄市林園區東林西路",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11274,6 +11282,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T21:32:31.278159"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T21:36:31.416918"
       }
     ]
   },
@@ -11292,6 +11304,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T21:35:31.369075"
+      }
+    ]
+  },
+  "e3c33c21725e73cbcdff8ff2ad1b6af9": {
+    "time": "2026/10/14 21:35:17",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市阿蓮區",
+    "units": "阿蓮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T21:36:31.416918"
       }
     ]
   }
