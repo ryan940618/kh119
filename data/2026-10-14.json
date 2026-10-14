@@ -11407,7 +11407,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11424,6 +11424,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T22:08:31.616494"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T22:15:31.594464"
       }
     ]
   },
@@ -11547,11 +11551,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區吉林街",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T22:13:31.548804"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T22:15:31.594464"
       }
     ]
   },
@@ -11561,11 +11569,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T22:14:31.799837"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T22:15:31.594464"
       }
     ]
   }
