@@ -4919,7 +4919,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4928,6 +4928,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T11:13:31.509493"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T11:19:31.565255"
       }
     ]
   },
@@ -4955,7 +4959,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區平等路",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4964,6 +4968,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T11:15:31.596510"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T11:19:31.565255"
       }
     ]
   },
@@ -4973,11 +4981,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T11:18:31.516450"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T11:19:31.565255"
       }
     ]
   },
@@ -5015,11 +5027,29 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區濃公路",
     "units": "和發分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T11:18:31.516450"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T11:19:31.565255"
+      }
+    ]
+  },
+  "e62522c2bb89cd3811b192048f4f5bfc": {
+    "time": "2026/10/14 11:18:26",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市六龜區",
+    "units": "六龜分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T11:19:31.565255"
       }
     ]
   }
