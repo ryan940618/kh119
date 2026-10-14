@@ -11627,7 +11627,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11640,6 +11640,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T22:26:31.755727"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T22:38:31.838720"
       }
     ]
   },
@@ -11679,7 +11683,7 @@
     "sub_category": "車禍",
     "location": "高雄市茄萣區正順北路",
     "units": "茄萣分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11692,6 +11696,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T22:23:31.663049"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T22:38:31.838720"
       }
     ]
   },
@@ -11812,6 +11820,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T22:37:31.750185"
+      }
+    ]
+  },
+  "447ac94125c4fd7ef194aae17bf2bdb6": {
+    "time": "2026/10/14 22:36:52",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市新興區八德一路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T22:38:31.838720"
       }
     ]
   }
