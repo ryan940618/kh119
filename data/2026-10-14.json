@@ -9397,7 +9397,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -9406,6 +9406,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T18:37:31.201246"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T18:46:31.416550"
       }
     ]
   },
@@ -9595,11 +9599,15 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T18:44:31.273460"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T18:46:31.416550"
       }
     ]
   },
@@ -9628,6 +9636,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T18:44:31.273460"
+      }
+    ]
+  },
+  "c77572d93f5531634598f5a71db2646e": {
+    "time": "2026/10/14 18:45:42",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區德賢路",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T18:46:31.416550"
+      }
+    ]
+  },
+  "013577e75c2ff428e618c751dd98e9e6": {
+    "time": "2026/10/14 18:45:35",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區德賢路",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T18:46:31.416550"
       }
     ]
   }
