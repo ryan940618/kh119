@@ -1325,7 +1325,7 @@
     "sub_category": "路倒",
     "location": "高雄市小港區港中街",
     "units": "小港分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1338,6 +1338,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T06:59:31.882489"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T07:03:31.843433"
       }
     ]
   },
@@ -1347,7 +1351,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1356,6 +1360,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T06:53:31.724477"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T07:03:31.843433"
       }
     ]
   },
@@ -1387,11 +1395,15 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T06:58:31.793129"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T07:03:31.843433"
       }
     ]
   },
