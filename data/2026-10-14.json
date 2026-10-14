@@ -1839,7 +1839,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1856,6 +1856,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T07:57:31.360177"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T08:04:31.626407"
       }
     ]
   },
@@ -2257,7 +2261,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區民益路",
     "units": "小港分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2274,6 +2278,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T07:59:31.383373"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T08:04:31.626407"
       }
     ]
   },
@@ -2393,7 +2401,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2402,6 +2410,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T07:56:31.405398"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T08:04:31.626407"
       }
     ]
   },
@@ -2461,7 +2473,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區十全一路54巷和自忠街",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2470,6 +2482,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T08:01:31.640024"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T08:04:31.626407"
       }
     ]
   },
@@ -2515,11 +2531,29 @@
     "sub_category": "車禍",
     "location": "高雄市三民區大順一路",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T08:02:31.473171"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T08:04:31.626407"
+      }
+    ]
+  },
+  "fd7bca55fe12847d0d67420f2c304e35": {
+    "time": "2026/10/14 07:55:35",
+    "category": "其他",
+    "sub_category": "捕蜂",
+    "location": "高雄市美濃區中山路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-14T08:04:31.626407"
       }
     ]
   }
