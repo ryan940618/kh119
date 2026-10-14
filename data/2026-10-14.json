@@ -6433,7 +6433,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6446,6 +6446,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T14:03:31.675324"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T14:16:31.633947"
       }
     ]
   },
@@ -6554,6 +6558,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T14:13:31.567808"
+      }
+    ]
+  },
+  "ed3083c177aec20f26b12d3d4c93d7ad": {
+    "time": "2026/10/14 14:15:04",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區鳳崗路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T14:16:31.633947"
+      }
+    ]
+  },
+  "a5d7feda5ba51a97c91ee132f2e37239": {
+    "time": "2026/10/14 14:14:53",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T14:16:31.633947"
+      }
+    ]
+  },
+  "02262670116761ac6013544c135e6c49": {
+    "time": "2026/10/14 14:14:21",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市鳥松區",
+    "units": "鳥松分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T14:16:31.633947"
       }
     ]
   }
