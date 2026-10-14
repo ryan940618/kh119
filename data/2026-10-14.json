@@ -9861,7 +9861,7 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區建國一路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9870,6 +9870,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T19:03:31.422103"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T19:09:31.631543"
       }
     ]
   },
@@ -9952,6 +9956,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T19:08:31.607625"
+      }
+    ]
+  },
+  "6033487a87fdc6a0123ff249c4503d1a": {
+    "time": "2026/10/14 19:08:35",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T19:09:31.631543"
+      }
+    ]
+  },
+  "0e2c06e4d04307acb7034eb6782e5258": {
+    "time": "2026/10/14 19:08:04",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區左楠路",
+    "units": "後勁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T19:09:31.631543"
       }
     ]
   }
