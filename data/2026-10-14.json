@@ -11545,7 +11545,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11554,6 +11554,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T22:11:31.693377"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T22:24:31.678809"
       }
     ]
   },
@@ -11656,6 +11660,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T22:23:31.663049"
+      }
+    ]
+  },
+  "04722a44077c6045651823ed319c7033": {
+    "time": "2026/10/14 22:23:58",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市燕巢區橫山路",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T22:24:31.678809"
       }
     ]
   }
