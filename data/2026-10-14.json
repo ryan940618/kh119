@@ -2401,7 +2401,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區寶鼎街",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2410,6 +2410,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T07:56:31.405398"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T08:00:31.513365"
       }
     ]
   },
@@ -2424,6 +2428,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T07:58:31.449429"
+      }
+    ]
+  },
+  "d544b973714046d25082230f36394ff4": {
+    "time": "2026/10/14 07:58:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區十全一路54巷和自忠街",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T08:00:31.513365"
+      }
+    ]
+  },
+  "74b0dda8901cb384a18e0ccee539401c": {
+    "time": "2026/10/14 07:57:59",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區勝利路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T08:00:31.513365"
       }
     ]
   }
