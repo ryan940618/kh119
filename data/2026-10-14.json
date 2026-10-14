@@ -3601,7 +3601,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區新莊一路",
     "units": "左營小隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3610,6 +3610,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T09:57:31.046222"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T10:02:32.520476"
       }
     ]
   },
@@ -3709,11 +3713,29 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T10:01:31.559146"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T10:02:32.520476"
+      }
+    ]
+  },
+  "39e4954dbd4099383d8811453c4105c3": {
+    "time": "2026/10/14 10:01:24",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市苓雅區武昌路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T10:02:32.520476"
       }
     ]
   }
