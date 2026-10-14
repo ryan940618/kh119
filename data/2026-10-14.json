@@ -8337,11 +8337,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區一心一路",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T17:00:31.746288"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T17:03:31.652562"
       }
     ]
   },
@@ -8365,11 +8369,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T17:02:31.704224"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T17:03:31.652562"
+      }
+    ]
+  },
+  "d916d0494f6d93838cfe3b265a53a0f4": {
+    "time": "2026/10/14 17:02:57",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T17:03:31.652562"
       }
     ]
   }
