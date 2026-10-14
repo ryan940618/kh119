@@ -3075,7 +3075,7 @@
     "sub_category": "其他",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3088,6 +3088,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T09:11:31.762799"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T09:17:31.813953"
       }
     ]
   },
@@ -3178,6 +3182,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T09:15:31.622963"
+      }
+    ]
+  },
+  "df67d5be371991efc889d8f06c241cdb": {
+    "time": "2026/10/14 09:16:52",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鳳山區中山路",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T09:17:31.813953"
+      }
+    ]
+  },
+  "eb51a53f6c37552c4f796f6c14ca7072": {
+    "time": "2026/10/14 09:14:28",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鳳山區中山西路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-14T09:17:31.813953"
       }
     ]
   }
