@@ -3307,7 +3307,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -3320,6 +3320,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T09:42:30.883166"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T09:45:30.924019"
       }
     ]
   },
@@ -3351,7 +3355,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區橋新五路",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -3364,6 +3368,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T09:40:31.873167"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T09:45:30.924019"
       }
     ]
   },
@@ -3457,11 +3465,15 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-14T09:41:30.922363"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T09:45:30.924019"
       }
     ]
   },
