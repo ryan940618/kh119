@@ -1607,7 +1607,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1624,6 +1624,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T07:24:31.009492"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T07:28:31.033001"
       }
     ]
   },
@@ -1699,7 +1703,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區88橋下與保成一路",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1708,6 +1712,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T07:22:31.033196"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T07:28:31.033001"
       }
     ]
   },
@@ -1753,11 +1761,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區後昌路",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-15T07:21:30.970746"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T07:28:31.033001"
       }
     ]
   },
@@ -1767,11 +1779,15 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T07:27:31.042288"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T07:28:31.033001"
       }
     ]
   },
@@ -1781,11 +1797,15 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區成功南路",
     "units": "橋頭分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T07:27:31.042288"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T07:28:31.033001"
       }
     ]
   }
