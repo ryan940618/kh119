@@ -10209,7 +10209,7 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區軍校路",
     "units": "右昌分隊,後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -10222,6 +10222,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T19:32:31.655393"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T19:36:31.536795"
       }
     ]
   },
@@ -10327,11 +10331,29 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T19:35:31.683727"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T19:36:31.536795"
+      }
+    ]
+  },
+  "8ef2f9e881c555a2ae0c0a53c53bc3ed": {
+    "time": "2026/10/14 19:35:13",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "和發分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T19:36:31.536795"
       }
     ]
   }
