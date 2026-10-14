@@ -9783,7 +9783,7 @@
     "sub_category": "車禍",
     "location": "高雄市永安區保安路",
     "units": "永安分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9796,6 +9796,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T18:54:31.553387"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T19:05:31.546898"
       }
     ]
   },
@@ -9805,7 +9809,7 @@
     "sub_category": "受困",
     "location": "高雄市新興區民主路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9814,6 +9818,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T18:59:31.525925"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T19:05:31.546898"
       }
     ]
   },
@@ -9863,11 +9871,29 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T19:04:31.468148"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T19:05:31.546898"
+      }
+    ]
+  },
+  "bd85754fa586c1d5c53a29006bf96003": {
+    "time": "2026/10/14 19:04:37",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市旗津區",
+    "units": "旗津分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T19:05:31.546898"
       }
     ]
   }
