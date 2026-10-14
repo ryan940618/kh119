@@ -1049,7 +1049,7 @@
     "sub_category": "車禍",
     "location": "高雄市美濃區民族路",
     "units": "美濃分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1062,6 +1062,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T06:23:31.404137"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T06:30:31.574836"
       }
     ]
   },
@@ -1089,11 +1093,15 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區光復路",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T06:29:31.511329"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T06:30:31.574836"
       }
     ]
   }
