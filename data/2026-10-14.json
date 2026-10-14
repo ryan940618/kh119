@@ -10033,7 +10033,7 @@
     "sub_category": "急病",
     "location": "高雄市橋頭區",
     "units": "橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10042,6 +10042,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T19:12:31.560532"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T19:17:31.633867"
       }
     ]
   },
@@ -10102,6 +10106,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T19:16:31.513694"
+      }
+    ]
+  },
+  "157233ded7922213d9fcdf5b1fad2257": {
+    "time": "2026/10/14 19:16:34",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區九如三路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T19:17:31.633867"
+      }
+    ]
+  },
+  "51d364852047441cbf621898cc4a9c04": {
+    "time": "2026/10/14 19:14:52",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市楠梓區軍校路",
+    "units": "右昌分隊,後勁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T19:17:31.633867"
       }
     ]
   }
