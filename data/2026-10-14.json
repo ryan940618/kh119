@@ -2139,7 +2139,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區光華三路",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2156,6 +2156,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T07:55:31.338178"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T08:01:31.640024"
       }
     ]
   },
@@ -2183,7 +2187,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區楠梓路",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2200,6 +2204,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T07:57:31.360177"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T08:01:31.640024"
       }
     ]
   },
@@ -2333,7 +2341,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區本舘路",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2342,6 +2350,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T07:53:31.309072"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T08:01:31.640024"
       }
     ]
   },
@@ -2437,11 +2449,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區十全一路54巷和自忠街",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T08:00:31.513365"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T08:01:31.640024"
       }
     ]
   },
@@ -2451,11 +2467,29 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區勝利路",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T08:00:31.513365"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T08:01:31.640024"
+      }
+    ]
+  },
+  "4e2d2494fc9d8c8907362ffc2055ae69": {
+    "time": "2026/10/14 08:01:03",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區嘉峰路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T08:01:31.640024"
       }
     ]
   }
