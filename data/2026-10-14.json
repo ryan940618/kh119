@@ -5475,7 +5475,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區南屏路",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5492,6 +5492,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T12:09:32.087962"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T12:12:32.056769"
       }
     ]
   },
@@ -5581,7 +5585,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5594,6 +5598,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T12:07:32.035250"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T12:12:32.056769"
       }
     ]
   },
@@ -5634,6 +5642,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T12:09:32.087962"
+      }
+    ]
+  },
+  "49ef5d74aaa18e122673d3eb71919f69": {
+    "time": "2026/10/14 12:11:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳥松區",
+    "units": "鳥松分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T12:12:32.056769"
       }
     ]
   }
