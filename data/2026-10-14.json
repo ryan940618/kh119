@@ -7779,7 +7779,7 @@
     "sub_category": "車禍",
     "location": "高雄市新興區五福一路",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7796,6 +7796,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T16:18:31.499554"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T16:23:31.630863"
       }
     ]
   },
@@ -7968,6 +7972,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T16:22:31.553736"
+      }
+    ]
+  },
+  "184b1132adcf26e0fecc7075620f1ab6": {
+    "time": "2026/10/14 16:21:06",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區西陵街",
+    "units": "左營小隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T16:23:31.630863"
       }
     ]
   }
