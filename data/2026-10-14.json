@@ -3015,11 +3015,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區龍德東路",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T09:05:32.023437"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T09:06:31.532075"
       }
     ]
   },
@@ -3029,11 +3033,29 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區龍目路",
     "units": "大樹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T09:05:32.023437"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T09:06:31.532075"
+      }
+    ]
+  },
+  "7da7924c5be76fa3c571859a8b87134a": {
+    "time": "2026/10/14 09:05:41",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T09:06:31.532075"
       }
     ]
   }
