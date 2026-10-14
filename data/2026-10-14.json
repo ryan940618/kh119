@@ -9495,11 +9495,15 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區鳳仁路",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-14T18:37:31.201246"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T18:44:31.273460"
       }
     ]
   },
@@ -9574,6 +9578,48 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T18:43:31.293949"
+      }
+    ]
+  },
+  "ee1ca8d17ef754d3f01ba8100d2b208e": {
+    "time": "2026/10/14 18:43:36",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T18:44:31.273460"
+      }
+    ]
+  },
+  "ae31848c5fe058cfb2e932765f091df7": {
+    "time": "2026/10/14 18:42:15",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區曹公路",
+    "units": "鳳山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T18:44:31.273460"
+      }
+    ]
+  },
+  "a904f1f849459fc9f284cab73781c930": {
+    "time": "2026/10/14 18:42:12",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區和平一路",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T18:44:31.273460"
       }
     ]
   }
