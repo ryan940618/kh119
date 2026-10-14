@@ -1731,7 +1731,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區88橋下與保成一路",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1748,6 +1748,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T07:41:31.189439"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T07:49:31.215689"
       }
     ]
   },
@@ -1871,7 +1875,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1888,6 +1892,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T07:43:31.263045"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T07:49:31.215689"
       }
     ]
   },
@@ -1897,7 +1905,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1914,6 +1922,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T07:41:31.189439"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T07:49:31.215689"
       }
     ]
   },
@@ -1923,7 +1935,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區學府路",
     "units": "高桂分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1940,6 +1952,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T07:46:31.179876"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T07:49:31.215689"
       }
     ]
   },
@@ -2180,6 +2196,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T07:48:31.150908"
+      }
+    ]
+  },
+  "b5242349b1070608b55c8faec2e9ea12": {
+    "time": "2026/10/15 07:48:47",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T07:49:31.215689"
       }
     ]
   }
