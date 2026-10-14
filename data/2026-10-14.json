@@ -2983,11 +2983,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-14T08:59:31.674931"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T09:05:32.023437"
       }
     ]
   },
@@ -3002,6 +3006,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T09:00:31.651885"
+      }
+    ]
+  },
+  "69e093570c355b055ae08f256bcb3c17": {
+    "time": "2026/10/14 09:05:01",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區龍德東路",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T09:05:32.023437"
+      }
+    ]
+  },
+  "388d8739f6605bb639a9b77dcbc333cb": {
+    "time": "2026/10/14 09:04:57",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大樹區龍目路",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T09:05:32.023437"
       }
     ]
   }
