@@ -7083,7 +7083,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7100,6 +7100,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T15:29:31.119449"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T15:32:31.054046"
       }
     ]
   },
@@ -7351,7 +7355,7 @@
     "sub_category": "車禍",
     "location": "高雄市新興區七賢一路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7360,6 +7364,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T15:28:31.072386"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T15:32:31.054046"
       }
     ]
   },
@@ -7392,6 +7400,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T15:28:31.072386"
+      }
+    ]
+  },
+  "5a320ac61e265c092090e3ca140fe505": {
+    "time": "2026/10/14 15:31:55",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T15:32:31.054046"
       }
     ]
   }
