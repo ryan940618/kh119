@@ -8519,7 +8519,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8528,6 +8528,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T17:13:31.702967"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T17:20:31.965218"
       }
     ]
   },
@@ -8560,6 +8564,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T17:19:31.813273"
+      }
+    ]
+  },
+  "5b39dc5e374392323bf8158a96f710ce": {
+    "time": "2026/10/14 17:18:44",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市大樹區中興北路",
+    "units": "大樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T17:20:31.965218"
       }
     ]
   }
