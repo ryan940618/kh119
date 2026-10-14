@@ -7997,11 +7997,15 @@
     "sub_category": "車禍",
     "location": "高雄市左營區西陵街",
     "units": "左營小隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-14T16:23:31.630863"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T16:27:31.617089"
       }
     ]
   },
@@ -8020,6 +8024,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T16:26:31.462185"
+      }
+    ]
+  },
+  "9321a3bb99f677fc28800506a0df51f8": {
+    "time": "2026/10/14 16:27:00",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T16:27:31.617089"
+      }
+    ]
+  },
+  "d530b4efa5c219ce1cf46a2bd3775d34": {
+    "time": "2026/10/14 16:26:24",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區新強路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T16:27:31.617089"
       }
     ]
   }
