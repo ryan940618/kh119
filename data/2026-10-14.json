@@ -8133,7 +8133,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區草衙二路",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8146,6 +8146,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T16:35:31.694671"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T16:45:31.532856"
       }
     ]
   },
@@ -8194,6 +8198,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T16:36:31.638693"
+      }
+    ]
+  },
+  "b8620e3d4d09da3e538e2e4e26b9adcc": {
+    "time": "2026/10/14 16:44:52",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T16:45:31.532856"
       }
     ]
   }
