@@ -2113,7 +2113,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區中安路",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2130,6 +2130,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T07:56:31.405398"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T08:03:31.453969"
       }
     ]
   },
@@ -2297,7 +2301,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2310,6 +2314,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T07:55:31.338178"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T08:03:31.453969"
       }
     ]
   },
@@ -2319,7 +2327,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區高楠公路",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2332,6 +2340,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T07:57:31.360177"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T08:03:31.453969"
       }
     ]
   },
@@ -2485,11 +2497,15 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區嘉峰路",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T08:01:31.640024"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T08:03:31.453969"
       }
     ]
   },
