@@ -1205,7 +1205,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1218,6 +1218,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T06:49:31.792951"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T07:08:31.898825"
       }
     ]
   },
@@ -1470,6 +1474,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T07:07:31.848517"
+      }
+    ]
+  },
+  "0d71c5d64c6eac11b2fe2db54beb44ef": {
+    "time": "2026/10/15 07:07:49",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T07:08:31.898825"
       }
     ]
   }
