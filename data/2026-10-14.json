@@ -5949,7 +5949,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5962,6 +5962,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T12:45:31.199554"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T13:16:31.439489"
       }
     ]
   },
@@ -6091,7 +6095,7 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區中正路",
     "units": "湖內分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6100,6 +6104,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T13:14:31.375319"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T13:16:31.439489"
       }
     ]
   },
@@ -6114,6 +6122,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T13:14:31.375319"
+      }
+    ]
+  },
+  "7d37d98240a8fde10478199a0b3d7f84": {
+    "time": "2026/10/14 13:15:28",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市新興區八德一路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T13:16:31.439489"
       }
     ]
   }
