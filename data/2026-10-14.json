@@ -8279,7 +8279,7 @@
     "sub_category": "急病",
     "location": "高雄市茂林區",
     "units": "茂林分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8292,6 +8292,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T16:58:31.647493"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T17:06:31.656578"
       }
     ]
   },
@@ -8395,11 +8399,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-14T17:03:31.652562"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T17:06:31.656578"
       }
     ]
   },
