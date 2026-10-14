@@ -4853,7 +4853,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區華興街",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4866,6 +4866,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T11:07:31.434577"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T11:15:31.596510"
       }
     ]
   },
@@ -4875,11 +4879,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區武營路和崗山北街",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-14T11:08:31.555674"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T11:15:31.596510"
       }
     ]
   },
@@ -4935,11 +4943,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區平等路",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T11:14:31.594058"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T11:15:31.596510"
       }
     ]
   }
