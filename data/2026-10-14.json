@@ -3147,7 +3147,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3160,6 +3160,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T09:19:31.804879"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T09:27:31.939266"
       }
     ]
   },
@@ -3231,7 +3235,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區中山路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3240,6 +3244,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T09:18:31.809270"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T09:27:31.939266"
       }
     ]
   },
@@ -3318,6 +3326,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T09:26:31.820443"
+      }
+    ]
+  },
+  "2946b546a6f1b65ef9a497882baeee5a": {
+    "time": "2026/10/14 09:26:28",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市梓官區",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T09:27:31.939266"
       }
     ]
   }
