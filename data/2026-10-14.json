@@ -6373,7 +6373,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6390,6 +6390,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T13:55:31.538705"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T14:01:31.442923"
       }
     ]
   },
@@ -6421,11 +6425,29 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T13:59:31.564076"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T14:01:31.442923"
+      }
+    ]
+  },
+  "b9cc493688c2a0bd53d1b2cc011902bb": {
+    "time": "2026/10/14 14:00:39",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市前鎮區遠東SOGO百貨[高雄市前鎮區三多三路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T14:01:31.442923"
       }
     ]
   }
