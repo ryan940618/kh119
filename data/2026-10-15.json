@@ -1497,7 +1497,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區文慈路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1506,6 +1506,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T07:12:31.838517"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T07:17:33.721773"
       }
     ]
   },
@@ -1568,6 +1572,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T07:16:31.904079"
+      }
+    ]
+  },
+  "925bf343a06649024829dec0619d989b": {
+    "time": "2026/10/15 07:16:22",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區育才路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T07:17:33.721773"
+      }
+    ]
+  },
+  "203a52147963a1df5247d79ee6da8cbc": {
+    "time": "2026/10/15 07:16:19",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T07:17:33.721773"
       }
     ]
   }
