@@ -9123,7 +9123,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9136,6 +9136,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T18:16:31.232335"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T18:18:31.239532"
       }
     ]
   },
@@ -9167,7 +9171,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9176,6 +9180,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T18:16:31.232335"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T18:18:31.239532"
       }
     ]
   },
@@ -9190,6 +9198,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T18:17:31.204274"
+      }
+    ]
+  },
+  "749519b6ddbb0995440e44714fd830f3": {
+    "time": "2026/10/14 18:17:18",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前金區成功一路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T18:18:31.239532"
       }
     ]
   }
