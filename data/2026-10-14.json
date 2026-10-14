@@ -6425,7 +6425,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6434,6 +6434,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T14:01:31.442923"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T14:03:31.675324"
       }
     ]
   },
@@ -6448,6 +6452,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T14:01:31.442923"
+      }
+    ]
+  },
+  "b9ecd04f234313fb1a3ce38f07a4f51e": {
+    "time": "2026/10/14 14:02:53",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T14:03:31.675324"
+      }
+    ]
+  },
+  "ed3ed6e39de8a21b1785cf8ca55a327a": {
+    "time": "2026/10/14 14:00:39",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市前鎮區三多三路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T14:03:31.675324"
       }
     ]
   }
