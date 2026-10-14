@@ -11549,7 +11549,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11562,6 +11562,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T22:24:31.678809"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T22:32:32.669808"
       }
     ]
   },
@@ -11645,7 +11649,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11658,6 +11662,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T22:23:31.663049"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T22:32:32.669808"
       }
     ]
   },
@@ -11689,7 +11697,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區橫山路",
     "units": "燕巢分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11698,6 +11706,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T22:27:31.734114"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T22:32:32.669808"
       }
     ]
   },
@@ -11739,11 +11751,15 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T22:31:35.994064"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T22:32:32.669808"
       }
     ]
   }
