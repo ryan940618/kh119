@@ -6201,7 +6201,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6218,6 +6218,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T13:31:31.384199"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T13:36:31.450840"
       }
     ]
   },
@@ -6298,6 +6302,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T13:29:31.444892"
+      }
+    ]
+  },
+  "a23019e281751d445fed43614ed12df4": {
+    "time": "2026/10/14 13:35:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T13:36:31.450840"
       }
     ]
   }
