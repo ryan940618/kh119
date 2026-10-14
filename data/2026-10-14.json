@@ -7419,7 +7419,7 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區中正一路",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -7428,6 +7428,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T15:34:31.088214"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T15:47:31.400985"
       }
     ]
   },
@@ -7557,11 +7561,29 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區中正一路",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T15:46:31.182176"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T15:47:31.400985"
+      }
+    ]
+  },
+  "0a68850381ea276d93bd1d7b5a2e2e8a": {
+    "time": "2026/10/14 15:46:01",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市湖內區",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T15:47:31.400985"
       }
     ]
   }
