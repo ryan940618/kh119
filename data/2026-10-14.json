@@ -7671,7 +7671,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7688,6 +7688,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T16:01:31.297168"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T16:14:31.487109"
       }
     ]
   },
@@ -7825,11 +7829,43 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區中山東路",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T16:12:31.406411"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T16:14:31.487109"
+      }
+    ]
+  },
+  "7609548e884a954d3fd4d82927dce509": {
+    "time": "2026/10/14 16:14:00",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T16:14:31.487109"
+      }
+    ]
+  },
+  "6431e75ab03e78a7aa93a8bcc61f6215": {
+    "time": "2026/10/14 16:13:10",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T16:14:31.487109"
       }
     ]
   }
