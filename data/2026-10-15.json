@@ -2245,11 +2245,15 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T07:51:31.260088"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T07:53:31.315225"
       }
     ]
   },
@@ -2273,11 +2277,15 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區內坑路",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T07:52:31.325584"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T07:53:31.315225"
       }
     ]
   },
@@ -2292,6 +2300,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T07:52:31.325584"
+      }
+    ]
+  },
+  "15edb965d1904f2f349a2482afec27fa": {
+    "time": "2026/10/15 07:52:44",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市橋頭區鐵道北路",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T07:53:31.315225"
+      }
+    ]
+  },
+  "ee0d5846e242d567152c0536f11d62d1": {
+    "time": "2026/10/15 07:52:15",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市彌陀區中正東路",
+    "units": "彌陀分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T07:53:31.315225"
       }
     ]
   }
