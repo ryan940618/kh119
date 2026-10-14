@@ -7109,7 +7109,7 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7118,6 +7118,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T15:06:30.925454"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T15:10:30.933645"
       }
     ]
   },
@@ -7172,6 +7176,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T15:09:30.871400"
+      }
+    ]
+  },
+  "a4eea06503c3a73660aa3a74e68e3d8e": {
+    "time": "2026/10/14 15:10:01",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T15:10:30.933645"
       }
     ]
   }
