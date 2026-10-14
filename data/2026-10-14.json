@@ -10567,7 +10567,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10584,6 +10584,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T20:27:32.032573"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T20:35:32.286600"
       }
     ]
   },
@@ -10863,7 +10867,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10872,6 +10876,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T20:31:32.031986"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T20:35:32.286600"
+      }
+    ]
+  },
+  "20b35cd808ff3a6604bbf4f2059cecf3": {
+    "time": "2026/10/14 20:34:04",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市新興區六合一路",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T20:35:32.286600"
       }
     ]
   }
