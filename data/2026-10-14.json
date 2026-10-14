@@ -5309,7 +5309,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區漢民路",
     "units": "小港分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5318,6 +5318,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T11:46:31.752112"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T11:51:31.763843"
       }
     ]
   },
@@ -5363,11 +5367,29 @@
     "sub_category": "其他",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T11:49:31.814894"
+      },
+      {
+        "status": "",
+        "timestamp": "2026-10-14T11:51:31.763843"
+      }
+    ]
+  },
+  "dd4709a6d39ac18d91b5dc4b6538a20d": {
+    "time": "2026/10/14 11:50:22",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗山區",
+    "units": "旗山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T11:51:31.763843"
       }
     ]
   }
