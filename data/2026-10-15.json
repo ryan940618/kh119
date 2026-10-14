@@ -1701,7 +1701,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1718,6 +1718,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T07:32:31.185330"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T07:44:31.172485"
       }
     ]
   },
@@ -1947,7 +1951,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -1956,6 +1960,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T07:38:31.214381"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T07:44:31.172485"
       }
     ]
   },
@@ -2091,11 +2099,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區一心二路",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T07:41:31.189439"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T07:44:31.172485"
       }
     ]
   },
