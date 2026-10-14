@@ -3769,11 +3769,15 @@
     "sub_category": "車禍",
     "location": "高雄市鹽埕區北端街",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T10:03:31.203896"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T10:06:31.237260"
       }
     ]
   },
@@ -3801,11 +3805,43 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T10:05:31.212311"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T10:06:31.237260"
+      }
+    ]
+  },
+  "bd207ce7bc644455bb8d317ffd8ff8f7": {
+    "time": "2026/10/14 10:05:30",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T10:06:31.237260"
+      }
+    ]
+  },
+  "a7f82e77d690431e275c3cd8f4483888": {
+    "time": "2026/10/14 10:03:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T10:06:31.237260"
       }
     ]
   }
