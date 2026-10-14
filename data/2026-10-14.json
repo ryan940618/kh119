@@ -9973,7 +9973,7 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9990,6 +9990,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T19:20:31.562841"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T19:29:31.672388"
       }
     ]
   },
@@ -10159,7 +10163,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區九如三路",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10172,6 +10176,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T19:21:31.862306"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T19:29:31.672388"
       }
     ]
   },
@@ -10221,7 +10229,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區中華二路",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10230,6 +10238,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T19:22:31.592004"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T19:29:31.672388"
       }
     ]
   },
@@ -10248,6 +10260,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T19:28:31.756883"
+      }
+    ]
+  },
+  "430f9701b2cd5e01fe0c2d20e895dfc4": {
+    "time": "2026/10/14 19:28:32",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區凱旋三路",
+    "units": "瑞隆分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T19:29:31.672388"
       }
     ]
   }
