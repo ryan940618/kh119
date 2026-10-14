@@ -3191,11 +3191,15 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區中山路",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T09:17:31.813953"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T09:18:31.809270"
       }
     ]
   },
@@ -3210,6 +3214,20 @@
       {
         "status": "已受理",
         "timestamp": "2026-10-14T09:17:31.813953"
+      }
+    ]
+  },
+  "7823ec6507cb8c254e9336afc3283d5b": {
+    "time": "2026/10/14 09:16:53",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "左營分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T09:18:31.809270"
       }
     ]
   }
