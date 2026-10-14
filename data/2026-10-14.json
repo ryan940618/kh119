@@ -8873,7 +8873,7 @@
     "sub_category": "其他",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8886,6 +8886,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T17:52:30.923524"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T18:06:31.180287"
       }
     ]
   },
@@ -9005,7 +9009,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區文才街",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9014,6 +9018,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T17:57:30.957571"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T18:06:31.180287"
       }
     ]
   },
@@ -9041,11 +9049,29 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T18:04:30.982053"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T18:06:31.180287"
+      }
+    ]
+  },
+  "0733df462e0f9d9044f4833ab3e6d21e": {
+    "time": "2026/10/14 18:05:36",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T18:06:31.180287"
       }
     ]
   }
