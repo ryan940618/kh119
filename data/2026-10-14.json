@@ -5091,7 +5091,7 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區濃公路",
     "units": "和發分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5104,6 +5104,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T11:26:31.664718"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T11:42:31.812409"
       }
     ]
   },
@@ -5240,6 +5244,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T11:38:31.860883"
+      }
+    ]
+  },
+  "0399254546de15b2c2bb1a9d2576bdc1": {
+    "time": "2026/10/14 11:41:47",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T11:42:31.812409"
+      }
+    ]
+  },
+  "6d01cb9d37325f6c2374905c09bc521b": {
+    "time": "2026/10/14 11:41:46",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市前鎮區后平路",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T11:42:31.812409"
       }
     ]
   }
