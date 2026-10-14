@@ -1507,7 +1507,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1520,6 +1520,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T07:10:32.020687"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T07:26:31.092467"
       }
     ]
   },
@@ -1551,7 +1555,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1568,6 +1572,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T07:22:31.033196"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T07:26:31.092467"
       }
     ]
   },
@@ -1647,7 +1655,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1656,6 +1664,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T07:21:30.970746"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T07:26:31.092467"
       }
     ]
   },
