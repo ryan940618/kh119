@@ -6961,7 +6961,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6978,6 +6978,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T15:14:31.203893"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T15:28:31.072386"
       }
     ]
   },
@@ -7189,7 +7193,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7206,6 +7210,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T15:25:31.499445"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T15:28:31.072386"
       }
     ]
   },
@@ -7327,11 +7335,15 @@
     "sub_category": "車禍",
     "location": "高雄市新興區七賢一路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T15:27:31.077145"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T15:28:31.072386"
       }
     ]
   },
@@ -7346,6 +7358,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T15:27:31.077145"
+      }
+    ]
+  },
+  "f0f1c1f9eb94a9fd279d4c626ab2fdc3": {
+    "time": "2026/10/14 15:26:52",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區中正一路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T15:28:31.072386"
       }
     ]
   }
