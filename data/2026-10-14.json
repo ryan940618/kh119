@@ -3031,7 +3031,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區龍德東路",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3048,6 +3048,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T09:21:31.759780"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T09:25:31.866084"
       }
     ]
   },
@@ -3269,11 +3273,29 @@
     "sub_category": "路倒",
     "location": "高雄市左營區立信路",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T09:24:31.749539"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T09:25:31.866084"
+      }
+    ]
+  },
+  "e941637a9c8491ba4ace7793872a2d47": {
+    "time": "2026/10/14 09:24:25",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市橋頭區橋新五路",
+    "units": "楠梓分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T09:25:31.866084"
       }
     ]
   }
