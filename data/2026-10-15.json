@@ -1079,7 +1079,7 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區德安街",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -1092,6 +1092,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T06:46:31.605489"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T06:53:31.724477"
       }
     ]
   },
@@ -1287,11 +1291,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T06:52:31.947441"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T06:53:31.724477"
       }
     ]
   },
@@ -1315,11 +1323,29 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T06:52:31.947441"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T06:53:31.724477"
+      }
+    ]
+  },
+  "35deaf312ebbeb11ce8b86aa14450d4a": {
+    "time": "2026/10/15 06:52:19",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區中崙路",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T06:53:31.724477"
       }
     ]
   }
