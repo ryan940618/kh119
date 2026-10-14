@@ -11451,7 +11451,7 @@
     "sub_category": "創傷",
     "location": "高雄市前金區中山橫路",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11468,6 +11468,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T22:09:31.640555"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T22:11:31.693377"
       }
     ]
   },
@@ -11477,7 +11481,7 @@
     "sub_category": "急病",
     "location": "高雄市彌陀區",
     "units": "彌陀分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11490,6 +11494,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T22:07:31.511403"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T22:11:31.693377"
       }
     ]
   },
@@ -11499,11 +11507,15 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T22:10:31.665464"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T22:11:31.693377"
       }
     ]
   },
@@ -11513,11 +11525,15 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T22:10:31.665464"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T22:11:31.693377"
       }
     ]
   }
