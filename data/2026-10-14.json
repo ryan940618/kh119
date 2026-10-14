@@ -11135,7 +11135,7 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區成功二路",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11148,6 +11148,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T21:26:31.250163"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T21:30:31.230774"
       }
     ]
   },
@@ -11179,7 +11183,7 @@
     "sub_category": "路倒",
     "location": "高雄市仁武區八德西路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11188,6 +11192,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T21:25:31.456396"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T21:30:31.230774"
       }
     ]
   },
@@ -11210,6 +11218,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T21:28:31.222474"
+      }
+    ]
+  },
+  "e8f57d8f7ebb0c541ed66f89f782fc1b": {
+    "time": "2026/10/14 21:29:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區新庄路",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T21:30:31.230774"
       }
     ]
   }
