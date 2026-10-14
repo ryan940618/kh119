@@ -2623,7 +2623,7 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2640,6 +2640,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T08:25:31.493031"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T08:31:31.453976"
       }
     ]
   },
@@ -2719,7 +2723,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2732,6 +2736,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T08:26:31.534768"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T08:31:31.453976"
       }
     ]
   },
@@ -2773,11 +2781,15 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區福壽街",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T08:30:31.717991"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T08:31:31.453976"
       }
     ]
   },
