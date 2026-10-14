@@ -8287,7 +8287,7 @@
     "sub_category": "急病",
     "location": "高雄市茂林區",
     "units": "茂林分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8304,6 +8304,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T17:06:31.656578"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T17:30:31.882115"
       }
     ]
   },
@@ -8611,7 +8615,7 @@
     "sub_category": "創傷",
     "location": "高雄市路竹區民治路",
     "units": "永安分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8620,6 +8624,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T17:25:31.802177"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T17:30:31.882115"
       }
     ]
   },
@@ -8656,6 +8664,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T17:29:31.890653"
+      }
+    ]
+  },
+  "57c642206dd3a4ff91ad6d73b5532916": {
+    "time": "2026/10/14 17:29:23",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市湖內區忠孝街",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T17:30:31.882115"
       }
     ]
   }
