@@ -1717,7 +1717,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1726,6 +1726,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T07:24:31.009492"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T07:27:31.042288"
       }
     ]
   },
@@ -1754,6 +1758,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T07:21:30.970746"
+      }
+    ]
+  },
+  "c3742338142cea25d86ef80f67c5be3b": {
+    "time": "2026/10/15 07:27:01",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T07:27:31.042288"
+      }
+    ]
+  },
+  "52e2bbd6860dd8918ac37288bb25cff7": {
+    "time": "2026/10/15 07:26:07",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市橋頭區成功南路",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T07:27:31.042288"
       }
     ]
   }
