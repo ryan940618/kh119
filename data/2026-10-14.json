@@ -6407,7 +6407,7 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區英明路",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6420,6 +6420,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T13:55:31.538705"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T14:13:31.567808"
       }
     ]
   },
@@ -6532,6 +6536,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T14:12:31.535269"
+      }
+    ]
+  },
+  "32aafac07623d35f644ed73e28a0c611": {
+    "time": "2026/10/14 14:11:32",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市梓官區",
+    "units": "梓官分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T14:13:31.567808"
       }
     ]
   }
