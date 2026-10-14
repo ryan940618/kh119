@@ -7723,7 +7723,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區武營路",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7736,6 +7736,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T16:00:31.328306"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T16:17:31.489133"
       }
     ]
   },
@@ -7891,11 +7895,15 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區智仁街",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T16:15:31.558163"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T16:17:31.489133"
       }
     ]
   }
