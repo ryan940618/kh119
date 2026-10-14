@@ -1727,7 +1727,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區88橋下與保成一路",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1740,6 +1740,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T07:28:31.033001"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T07:41:31.189439"
       }
     ]
   },
@@ -1829,7 +1833,7 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區成功南路",
     "units": "橋頭分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1842,6 +1846,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T07:34:31.097960"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T07:41:31.189439"
       }
     ]
   },
@@ -1873,7 +1881,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1886,6 +1894,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T07:37:31.135451"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T07:41:31.189439"
       }
     ]
   },
@@ -2022,6 +2034,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T07:39:31.102757"
+      }
+    ]
+  },
+  "78f6eb13096c296ae5432128a30d3f60": {
+    "time": "2026/10/15 07:40:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區濱山街",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T07:41:31.189439"
+      }
+    ]
+  },
+  "69ff144ec3da3c5b3c8155b42f4d2487": {
+    "time": "2026/10/15 07:40:28",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T07:41:31.189439"
+      }
+    ]
+  },
+  "5476b4d48a16d0b33eb47614befb491a": {
+    "time": "2026/10/15 07:40:23",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區一心二路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T07:41:31.189439"
       }
     ]
   }
