@@ -11097,7 +11097,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11110,6 +11110,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T21:17:31.100823"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T21:22:31.181742"
       }
     ]
   },
@@ -11138,6 +11142,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T21:21:31.090985"
+      }
+    ]
+  },
+  "4bb8301c400bae0ae16f0ac471ba7074": {
+    "time": "2026/10/14 21:21:38",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市仁武區八德西路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T21:22:31.181742"
       }
     ]
   }
