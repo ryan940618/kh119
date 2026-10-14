@@ -4201,7 +4201,7 @@
     "sub_category": "急病",
     "location": "高雄市田寮區",
     "units": "崇德駐地",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4214,6 +4214,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T10:23:31.422161"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T10:30:31.561252"
       }
     ]
   },
@@ -4291,7 +4295,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4300,6 +4304,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T10:24:31.389182"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T10:30:31.561252"
       }
     ]
   },
@@ -4327,7 +4335,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4336,6 +4344,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T10:23:31.422161"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T10:30:31.561252"
       }
     ]
   },
@@ -4413,11 +4425,43 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T10:29:31.442777"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T10:30:31.561252"
+      }
+    ]
+  },
+  "17a34d3ac4b04c09b5c623ddeef1d4f5": {
+    "time": "2026/10/14 10:30:05",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T10:30:31.561252"
+      }
+    ]
+  },
+  "34d0c39f24edc183333e1218a7cfb8ff": {
+    "time": "2026/10/14 10:25:36",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區興楠路",
+    "units": "大社分隊,楠梓分隊",
+    "current_status": "",
+    "status_history": [
+      {
+        "status": "",
+        "timestamp": "2026-10-14T10:30:31.561252"
       }
     ]
   }
