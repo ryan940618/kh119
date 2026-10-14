@@ -4853,7 +4853,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區華興街",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4870,6 +4870,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T11:15:31.596510"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T11:18:31.516450"
       }
     ]
   },
@@ -4960,6 +4964,62 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T11:15:31.596510"
+      }
+    ]
+  },
+  "c37d8461769de76309c5c06ccc40f049": {
+    "time": "2026/10/14 11:18:13",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T11:18:31.516450"
+      }
+    ]
+  },
+  "e3e55b3f3feff77ad0a08540925b2b60": {
+    "time": "2026/10/14 11:17:47",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T11:18:31.516450"
+      }
+    ]
+  },
+  "c6679984fef5f635da4f82ae87bde41b": {
+    "time": "2026/10/14 11:17:07",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區藍昌路",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T11:18:31.516450"
+      }
+    ]
+  },
+  "bf2a618f8cefe9e9c1c8f892cd51911d": {
+    "time": "2026/10/14 11:16:34",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市大寮區濃公路",
+    "units": "和發分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T11:18:31.516450"
       }
     ]
   }
