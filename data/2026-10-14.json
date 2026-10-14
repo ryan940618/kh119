@@ -6041,7 +6041,7 @@
     "sub_category": "路倒",
     "location": "高雄市大樹區中興東路",
     "units": "大樹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6058,6 +6058,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T13:22:31.485998"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T13:40:35.552491"
       }
     ]
   },
@@ -6297,11 +6301,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-14T13:29:31.444892"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T13:40:35.552491"
       }
     ]
   },
