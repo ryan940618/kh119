@@ -4895,7 +4895,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區武營路和崗山北街",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -4908,6 +4908,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T11:23:31.633177"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T11:27:31.692301"
       }
     ]
   },
@@ -5049,7 +5053,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區藍昌路",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -5058,6 +5062,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T11:22:31.658366"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T11:27:31.692301"
       }
     ]
   },
@@ -5148,6 +5156,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T11:24:31.610957"
+      }
+    ]
+  },
+  "c6a6fb3b1a9b8de57675355551aaa1af": {
+    "time": "2026/10/14 11:27:11",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市小港區",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T11:27:31.692301"
       }
     ]
   }
