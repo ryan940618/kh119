@@ -1823,7 +1823,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1836,6 +1836,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T07:38:31.214381"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T07:50:31.264651"
       }
     ]
   },
@@ -2151,7 +2155,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區一心二路",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2160,6 +2164,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T07:44:31.172485"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T07:50:31.264651"
       }
     ]
   },
@@ -2205,11 +2213,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T07:49:31.215689"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T07:50:31.264651"
+      }
+    ]
+  },
+  "0c6fb586d5a2deaa904ff4e617270cee": {
+    "time": "2026/10/15 07:49:08",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區楠梓加工區內環西路  西五街",
+    "units": "後勁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T07:50:31.264651"
       }
     ]
   }
