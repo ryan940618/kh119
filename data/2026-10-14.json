@@ -7399,11 +7399,15 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區中正一路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-14T15:28:31.072386"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T15:34:31.088214"
       }
     ]
   },
@@ -7418,6 +7422,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T15:32:31.054046"
+      }
+    ]
+  },
+  "a8dbbf2d20084df7005b4222b0eb17a4": {
+    "time": "2026/10/14 15:33:16",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T15:34:31.088214"
       }
     ]
   }
