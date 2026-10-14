@@ -11523,7 +11523,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11536,6 +11536,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T22:19:31.648849"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T22:27:31.734114"
       }
     ]
   },
@@ -11677,11 +11681,29 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區橫山路",
     "units": "燕巢分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T22:24:31.678809"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T22:27:31.734114"
+      }
+    ]
+  },
+  "848ec773809064b56924502c9db43697": {
+    "time": "2026/10/14 22:26:51",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前金區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T22:27:31.734114"
       }
     ]
   }
