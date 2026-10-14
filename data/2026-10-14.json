@@ -3645,7 +3645,7 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3654,6 +3654,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T09:56:31.032289"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T10:03:31.203896"
       }
     ]
   },
@@ -3681,7 +3685,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3690,6 +3694,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T09:58:31.009952"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T10:03:31.203896"
       }
     ]
   },
@@ -3699,11 +3707,15 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區京吉五路",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T10:00:31.230642"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T10:03:31.203896"
       }
     ]
   },
@@ -3736,6 +3748,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T10:02:32.520476"
+      }
+    ]
+  },
+  "d48227a08a5165941c873862e6d72223": {
+    "time": "2026/10/14 10:02:57",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鹽埕區北端街",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T10:03:31.203896"
+      }
+    ]
+  },
+  "b60142a5e7e1a4c61865c545385aac97": {
+    "time": "2026/10/14 10:02:46",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T10:03:31.203896"
       }
     ]
   }
