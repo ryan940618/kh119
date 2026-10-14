@@ -10845,7 +10845,7 @@
     "sub_category": "路倒",
     "location": "高雄市前金區光復一街",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10858,6 +10858,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T20:30:31.979238"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-14T20:38:31.244678"
       }
     ]
   },
@@ -10907,11 +10911,29 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T20:37:31.015138"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T20:38:31.244678"
+      }
+    ]
+  },
+  "c445432d6d91e4de5054d39b31c63b52": {
+    "time": "2026/10/14 20:36:42",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大社區學府路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-14T20:38:31.244678"
       }
     ]
   }
