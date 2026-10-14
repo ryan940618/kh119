@@ -6729,7 +6729,7 @@
     "sub_category": "創傷",
     "location": "高雄市小港區宏光街",
     "units": "高桂分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6746,6 +6746,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T14:57:31.816713"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T15:04:32.019359"
       }
     ]
   },
@@ -6919,7 +6923,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區佛德街",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6936,6 +6940,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-14T14:55:31.916572"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-14T15:04:32.019359"
       }
     ]
   },
@@ -6985,7 +6993,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區楠梓新路",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6994,6 +7002,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T15:01:31.963067"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T15:04:32.019359"
       }
     ]
   },
@@ -7058,6 +7070,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T15:03:31.916037"
+      }
+    ]
+  },
+  "339c05d71028e111fc3160fccaf7a03a": {
+    "time": "2026/10/14 15:03:46",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區天興街",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T15:04:32.019359"
       }
     ]
   }
