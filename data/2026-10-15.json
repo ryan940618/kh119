@@ -12569,7 +12569,7 @@
     "sub_category": "創傷",
     "location": "高雄市小港區福隆街",
     "units": "小港分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -12582,6 +12582,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T22:33:31.874667"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T22:40:31.639870"
       }
     ]
   },
@@ -12609,11 +12613,15 @@
     "sub_category": "其他",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T22:39:31.604646"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T22:40:31.639870"
       }
     ]
   }
