@@ -7199,7 +7199,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7216,6 +7216,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T14:04:31.653212"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T14:09:31.608450"
       }
     ]
   },
@@ -7225,7 +7229,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區鳳東六街",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7242,6 +7246,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T14:00:31.594084"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T14:09:31.608450"
       }
     ]
   },
@@ -7291,11 +7299,15 @@
     "sub_category": "雜草(含廢棄物、墓地)",
     "location": "高雄市燕巢區深水路",
     "units": "燕巢分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-15T13:53:31.478352"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T14:09:31.608450"
       }
     ]
   },
