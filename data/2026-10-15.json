@@ -5567,11 +5567,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區右昌街",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-15T11:41:31.780991"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T11:48:31.720755"
       }
     ]
   },
@@ -5613,11 +5617,43 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T11:47:31.601087"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T11:48:31.720755"
+      }
+    ]
+  },
+  "3672b15088e3210c14c3ed4106eb6cdf": {
+    "time": "2026/10/15 11:47:28",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T11:48:31.720755"
+      }
+    ]
+  },
+  "3b04519e2709c473f07099a702f5c268": {
+    "time": "2026/10/15 11:47:18",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市林園區文化街",
+    "units": "林園分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T11:48:31.720755"
       }
     ]
   }
