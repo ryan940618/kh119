@@ -8883,7 +8883,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "橋頭分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8896,6 +8896,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T16:36:31.685368"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T16:44:31.607127"
       }
     ]
   },
@@ -8936,6 +8940,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T16:39:31.538357"
+      }
+    ]
+  },
+  "589ed7c92e440fb0a30f2029eb5198ae": {
+    "time": "2026/10/15 16:43:46",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區文龍東路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T16:44:31.607127"
       }
     ]
   }
