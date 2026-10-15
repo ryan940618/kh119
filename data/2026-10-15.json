@@ -5117,7 +5117,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區德信街",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5126,6 +5126,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T11:18:32.537800"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T11:22:31.688459"
       }
     ]
   },
@@ -5193,11 +5197,15 @@
     "sub_category": "急病",
     "location": "高雄市大社區",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T11:20:31.526691"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T11:22:31.688459"
       }
     ]
   },
@@ -5212,6 +5220,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T11:21:31.571715"
+      }
+    ]
+  },
+  "eef7f6271020047a922c7a63c8c05772": {
+    "time": "2026/10/15 11:21:13",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T11:22:31.688459"
       }
     ]
   }
