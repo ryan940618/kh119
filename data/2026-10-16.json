@@ -1773,11 +1773,15 @@
     "sub_category": "車禍",
     "location": "高雄市新興區自立二路",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T07:17:30.932513"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T07:22:31.060200"
       }
     ]
   },
@@ -1823,11 +1827,29 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T07:20:31.138376"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T07:22:31.060200"
+      }
+    ]
+  },
+  "98e6466d49cd76ba78181a64cdf784a3": {
+    "time": "2026/10/16 07:21:42",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區和發路",
+    "units": "和發分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T07:22:31.060200"
       }
     ]
   }
