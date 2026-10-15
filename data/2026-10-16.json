@@ -5,7 +5,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -18,6 +18,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T00:16:31.183720"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T00:36:31.266126"
       }
     ]
   },
@@ -79,7 +83,7 @@
     "sub_category": "其他",
     "location": "高雄市楠梓區益群路",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -88,6 +92,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T00:29:31.324508"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T00:36:31.266126"
       }
     ]
   },
@@ -97,11 +105,15 @@
     "sub_category": "其他",
     "location": "高雄市左營區",
     "units": "",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T00:35:31.382395"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T00:36:31.266126"
       }
     ]
   }
