@@ -2879,7 +2879,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2888,6 +2888,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T08:37:31.410334"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T08:42:31.479051"
       }
     ]
   },
@@ -2906,6 +2910,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T08:40:31.382842"
+      }
+    ]
+  },
+  "3e27c06e406974763cf587861b9178f0": {
+    "time": "2026/10/15 08:41:46",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市新興區民主路",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T08:42:31.479051"
+      }
+    ]
+  },
+  "7720e7a3b4ed620db81e5ca2d7d19fb6": {
+    "time": "2026/10/15 08:40:59",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市那瑪夏區",
+    "units": "那瑪夏分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T08:42:31.479051"
       }
     ]
   }
