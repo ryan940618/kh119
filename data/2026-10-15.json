@@ -9803,7 +9803,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區興發路",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9816,6 +9816,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T17:41:31.999873"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T17:49:32.034059"
       }
     ]
   },
@@ -9897,11 +9901,15 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T17:46:31.931625"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T17:49:32.034059"
       }
     ]
   },
@@ -9911,11 +9919,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區五甲二路",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T17:47:31.925379"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T17:49:32.034059"
       }
     ]
   },
@@ -9934,6 +9946,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T17:48:32.025890"
+      }
+    ]
+  },
+  "8501a49499b54b5f27c8a27db64430ad": {
+    "time": "2026/10/15 17:48:07",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T17:49:32.034059"
       }
     ]
   }
