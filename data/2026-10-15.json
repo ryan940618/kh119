@@ -6453,7 +6453,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區內坑路",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6470,6 +6470,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T13:05:31.194809"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T13:20:31.387752"
       }
     ]
   },
@@ -6571,7 +6575,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區嘉陵街",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -6580,6 +6584,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T13:08:31.143739"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T13:20:31.387752"
       }
     ]
   },
@@ -6739,7 +6747,7 @@
     "sub_category": "路倒",
     "location": "高雄市新興區五福一路和福建街",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6748,6 +6756,38 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T13:18:31.314272"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T13:20:31.387752"
+      }
+    ]
+  },
+  "a9b4287f52814a0462595f1a7d480a72": {
+    "time": "2026/10/15 13:19:26",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T13:20:31.387752"
+      }
+    ]
+  },
+  "e744b25549e52c9d4ac2b0c3a40a85f3": {
+    "time": "2026/10/15 13:19:00",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區文濱路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T13:20:31.387752"
       }
     ]
   }
