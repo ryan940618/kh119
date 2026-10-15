@@ -11121,7 +11121,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區德昌路",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11138,6 +11138,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T19:44:31.459927"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T19:51:31.668023"
       }
     ]
   },
@@ -11147,7 +11151,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -11160,6 +11164,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T19:46:32.064194"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T19:51:31.668023"
       }
     ]
   },
@@ -11169,7 +11177,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11178,6 +11186,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T19:41:31.503250"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T19:51:31.668023"
       }
     ]
   },
@@ -11205,7 +11217,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11214,6 +11226,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T19:48:31.545570"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T19:51:31.668023"
       }
     ]
   },
@@ -11246,6 +11262,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T19:49:31.522524"
+      }
+    ]
+  },
+  "7b6fae9ad8d84cb12fa7e3f8eeb1a6a2": {
+    "time": "2026/10/15 19:49:40",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T19:51:31.668023"
       }
     ]
   }
