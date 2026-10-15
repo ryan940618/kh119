@@ -10037,7 +10037,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -10046,6 +10046,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T17:59:32.082571"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T18:15:31.432546"
       }
     ]
   },
@@ -10273,7 +10277,7 @@
     "sub_category": "創傷",
     "location": "高雄市林園區中芸路",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10282,6 +10286,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T18:08:31.213302"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T18:15:31.432546"
       }
     ]
   },
@@ -10398,6 +10406,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T18:13:31.659422"
+      }
+    ]
+  },
+  "afee4e1f8b8e453bae22317d2501451f": {
+    "time": "2026/10/15 18:14:16",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前金區新田路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T18:15:31.432546"
       }
     ]
   }
