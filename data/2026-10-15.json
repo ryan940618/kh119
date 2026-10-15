@@ -7559,7 +7559,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區澄清路",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7572,6 +7572,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T14:32:31.741062"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T14:42:31.718937"
       }
     ]
   },
@@ -7621,7 +7625,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區大埤路",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7630,6 +7634,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T14:38:31.650638"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T14:42:31.718937"
       }
     ]
   },
@@ -7639,11 +7647,15 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區七叉路",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T14:38:31.650638"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T14:42:31.718937"
       }
     ]
   },
