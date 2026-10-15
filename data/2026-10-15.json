@@ -4661,7 +4661,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4670,6 +4670,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T10:41:31.158943"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T10:47:31.492072"
       }
     ]
   },
@@ -4679,7 +4683,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4688,6 +4692,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T10:45:31.340310"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T10:47:31.492072"
       }
     ]
   },
@@ -4729,11 +4737,15 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區三隆路",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T10:45:31.340310"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T10:47:31.492072"
       }
     ]
   },
@@ -4748,6 +4760,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T10:46:31.820658"
+      }
+    ]
+  },
+  "fcf7b391b058e5ee3f8a25bc0afe6ce8": {
+    "time": "2026/10/15 10:45:50",
+    "category": "火災",
+    "sub_category": "一般(集合)住宅",
+    "location": "高雄市鳳山區中山東路",
+    "units": "中庄分隊,鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T10:47:31.492072"
       }
     ]
   }
