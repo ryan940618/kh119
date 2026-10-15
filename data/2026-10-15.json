@@ -5021,7 +5021,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區信義街",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5038,6 +5038,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T11:18:32.537800"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T11:21:31.571715"
       }
     ]
   },
@@ -5131,7 +5135,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區保泰路",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5140,6 +5144,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T11:18:32.537800"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T11:21:31.571715"
       }
     ]
   },
@@ -5190,6 +5198,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T11:20:31.526691"
+      }
+    ]
+  },
+  "a2d3dc6ce6cfa268e75ab0c5bdbb42f5": {
+    "time": "2026/10/15 11:17:41",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市鳳山區",
+    "units": "",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T11:21:31.571715"
       }
     ]
   }
