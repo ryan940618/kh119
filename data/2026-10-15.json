@@ -7321,7 +7321,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區高楠公路",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7338,6 +7338,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T14:12:31.709927"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T14:16:31.862099"
       }
     ]
   },
@@ -7425,7 +7429,7 @@
     "sub_category": "創傷",
     "location": "高雄市路竹區國昌路",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7438,6 +7442,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T14:11:31.780652"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T14:16:31.862099"
       }
     ]
   },
@@ -7456,6 +7464,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T14:15:31.637410"
+      }
+    ]
+  },
+  "1809fdeff92312ae5b0dc57746e5dd51": {
+    "time": "2026/10/15 14:16:15",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區五甲二路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T14:16:31.862099"
       }
     ]
   }
