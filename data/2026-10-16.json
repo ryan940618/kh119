@@ -609,11 +609,15 @@
     "sub_category": "路倒",
     "location": "高雄市楠梓區後勁南路",
     "units": "後勁分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T03:01:31.238456"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T03:02:31.197740"
       }
     ]
   },
@@ -628,6 +632,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T03:01:31.238456"
+      }
+    ]
+  },
+  "a696c8bb70fc2529bb5111fd1b677e28": {
+    "time": "2026/10/16 03:01:43",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T03:02:31.197740"
+      }
+    ]
+  },
+  "22b8eba24ef19bbe4f016d1f37984500": {
+    "time": "2026/10/16 03:01:25",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市前鎮區漁港路",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T03:02:31.197740"
       }
     ]
   }
