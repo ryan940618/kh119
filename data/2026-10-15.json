@@ -2617,7 +2617,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2634,6 +2634,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T08:23:31.315657"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T08:28:31.657523"
       }
     ]
   },
@@ -2665,7 +2669,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區左營大路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2674,6 +2678,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T08:19:31.349339"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T08:28:31.657523"
       }
     ]
   },
@@ -2764,6 +2772,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T08:25:31.513718"
+      }
+    ]
+  },
+  "c8a60af8fdb5c3d0908d2aa971bdae61": {
+    "time": "2026/10/15 08:26:43",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區康平街",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T08:28:31.657523"
       }
     ]
   }
