@@ -3067,7 +3067,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3084,6 +3084,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T09:15:31.709935"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T09:30:31.765678"
       }
     ]
   },
@@ -3471,7 +3475,7 @@
     "sub_category": "創傷",
     "location": "高雄市美濃區中山路",
     "units": "美濃分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3484,6 +3488,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T09:20:31.634367"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T09:30:31.765678"
       }
     ]
   },
@@ -3493,7 +3501,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3502,6 +3510,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T09:24:31.767694"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T09:30:31.765678"
       }
     ]
   },
@@ -3556,6 +3568,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T09:29:31.809855"
+      }
+    ]
+  },
+  "8f101a18544e27bc98c7f72da0380d89": {
+    "time": "2026/10/15 09:29:49",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大社區翠屏路",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T09:30:31.765678"
+      }
+    ]
+  },
+  "024f4f31975563db121e74694169c61b": {
+    "time": "2026/10/15 09:28:57",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鼓山區鼓山一路",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T09:30:31.765678"
       }
     ]
   }
