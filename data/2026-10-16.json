@@ -1689,7 +1689,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區華榮路",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1702,6 +1702,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T07:18:30.984075"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T07:23:30.956900"
       }
     ]
   },
@@ -1845,11 +1849,29 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區和發路",
     "units": "和發分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T07:22:31.060200"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T07:23:30.956900"
+      }
+    ]
+  },
+  "f50fc0736a04e525943ba4ff22abc8a6": {
+    "time": "2026/10/16 07:22:27",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T07:23:30.956900"
       }
     ]
   }
