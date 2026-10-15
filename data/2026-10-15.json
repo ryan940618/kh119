@@ -9275,7 +9275,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9292,6 +9292,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T17:27:31.917504"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T17:37:32.150913"
       }
     ]
   },
@@ -9535,7 +9539,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區澄觀路",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -9548,6 +9552,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T17:30:31.780874"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T17:37:32.150913"
       }
     ]
   },
@@ -9557,7 +9565,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9574,6 +9582,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T17:28:31.788343"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T17:37:32.150913"
       }
     ]
   },
@@ -9744,6 +9756,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T17:36:31.881823"
+      }
+    ]
+  },
+  "08967fe9120aa4337b750189bd4d30af": {
+    "time": "2026/10/15 17:36:11",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市楠梓區德中路",
+    "units": "後勁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T17:37:32.150913"
       }
     ]
   }
