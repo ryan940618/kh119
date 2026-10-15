@@ -10061,7 +10061,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10074,6 +10074,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T18:01:32.260062"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T18:02:31.218068"
       }
     ]
   },
@@ -10083,7 +10087,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10092,6 +10096,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T17:59:32.082571"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T18:02:31.218068"
       }
     ]
   },
@@ -10156,6 +10164,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T18:00:32.642189"
+      }
+    ]
+  },
+  "3c53ceae5bd52accc967057fbf163cd1": {
+    "time": "2026/10/15 18:01:45",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市大樹區中興街",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T18:02:31.218068"
+      }
+    ]
+  },
+  "7a1c3a58cd0fcdccdeb1dc452ef9c22b": {
+    "time": "2026/10/15 18:01:17",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市旗津區中洲三路",
+    "units": "旗津分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T18:02:31.218068"
       }
     ]
   }
