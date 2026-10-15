@@ -6515,7 +6515,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6532,6 +6532,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T13:05:31.194809"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T13:11:31.114776"
       }
     ]
   },
@@ -6603,11 +6607,43 @@
     "sub_category": "創傷",
     "location": "高雄市梓官區廣澤路",
     "units": "梓官分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T13:10:31.622367"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T13:11:31.114776"
+      }
+    ]
+  },
+  "d25144dcd4e4b44d8fe9e27955dbec94": {
+    "time": "2026/10/15 13:10:30",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區松華路",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T13:11:31.114776"
+      }
+    ]
+  },
+  "c6219d4a955cc2a6596ee7ec7c9996d5": {
+    "time": "2026/10/15 13:10:24",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T13:11:31.114776"
       }
     ]
   }
