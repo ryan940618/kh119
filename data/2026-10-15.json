@@ -12065,7 +12065,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12078,6 +12078,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T21:40:31.588558"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T21:46:31.691514"
       }
     ]
   },
@@ -12087,7 +12091,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -12100,6 +12104,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T21:43:31.458025"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T21:46:31.691514"
       }
     ]
   },
@@ -12131,7 +12139,7 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區和光街",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12148,6 +12156,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T21:42:31.585027"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T21:46:31.691514"
       }
     ]
   },
@@ -12290,6 +12302,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T21:44:31.631238"
+      }
+    ]
+  },
+  "6763e4fec8d5c3da4f9b56a1c5c21fb9": {
+    "time": "2026/10/15 21:43:32",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "台中市北區五權路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-15T21:46:31.691514"
       }
     ]
   }
