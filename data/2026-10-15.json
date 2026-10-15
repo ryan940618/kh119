@@ -6411,7 +6411,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6424,6 +6424,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T12:52:31.169561"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T13:04:31.275592"
       }
     ]
   },
@@ -6540,6 +6544,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T13:00:31.104125"
+      }
+    ]
+  },
+  "5888aa74f7a487bd607adf5e1f7d4e42": {
+    "time": "2026/10/15 13:03:50",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T13:04:31.275592"
       }
     ]
   }
