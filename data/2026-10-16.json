@@ -2013,7 +2013,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2026,6 +2026,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T07:44:31.124681"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T07:54:31.212791"
       }
     ]
   },
@@ -2057,7 +2061,7 @@
     "sub_category": "車禍",
     "location": "高雄市旗津區旗津二路和義竹街",
     "units": "旗津分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2070,6 +2074,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T07:46:31.119292"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T07:54:31.212791"
       }
     ]
   },
@@ -2119,7 +2127,7 @@
     "sub_category": "車禍",
     "location": "高雄市旗津區旗津三路",
     "units": "旗津分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2128,6 +2136,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T07:49:31.192957"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T07:54:31.212791"
       }
     ]
   },
@@ -2159,11 +2171,15 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T07:51:31.155477"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T07:54:31.212791"
       }
     ]
   },
@@ -2187,11 +2203,29 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T07:52:31.166649"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T07:54:31.212791"
+      }
+    ]
+  },
+  "b86db6a7179b1cc4b30a331bc729dd46": {
+    "time": "2026/10/16 07:53:10",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T07:54:31.212791"
       }
     ]
   }
