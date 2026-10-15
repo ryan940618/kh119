@@ -7865,7 +7865,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區五福二路",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7882,6 +7882,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T15:17:31.185245"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T15:30:31.166938"
       }
     ]
   },
@@ -7978,6 +7982,20 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T15:26:31.294688"
+      }
+    ]
+  },
+  "e624b20a296b0bcf4f7e1d68970281dc": {
+    "time": "2026/10/15 15:29:35",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T15:30:31.166938"
       }
     ]
   }
