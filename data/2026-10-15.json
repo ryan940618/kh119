@@ -11013,7 +11013,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -11026,6 +11026,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T19:25:31.479832"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T19:31:31.429356"
       }
     ]
   },
@@ -11035,7 +11039,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11044,6 +11048,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T19:22:31.284118"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T19:31:31.429356"
       }
     ]
   },
@@ -11066,6 +11074,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T19:29:31.557523"
+      }
+    ]
+  },
+  "0976f178edecfbba1db3c2741ad96bee": {
+    "time": "2026/10/15 19:31:18",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市林園區中芸路",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T19:31:31.429356"
       }
     ]
   }
