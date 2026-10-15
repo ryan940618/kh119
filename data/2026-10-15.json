@@ -5923,7 +5923,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區經武路",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5932,6 +5932,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T12:15:31.937186"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T12:20:31.901127"
       }
     ]
   },
@@ -6005,11 +6009,15 @@
     "sub_category": "急病",
     "location": "高雄市前金區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T12:17:32.107061"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T12:20:31.901127"
       }
     ]
   },
@@ -6038,6 +6046,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T12:19:32.193201"
+      }
+    ]
+  },
+  "92d48928b9a3d550ccf0b7512e84bffa": {
+    "time": "2026/10/15 12:20:03",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市左營區左營新路",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T12:20:31.901127"
+      }
+    ]
+  },
+  "30f0217f7f739fb1cd1154a2ada6dbe0": {
+    "time": "2026/10/15 12:18:19",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區小港機場機車停車場出口處[高雄市小港區中山四路",
+    "units": "前鎮分隊,高桂分隊",
+    "current_status": "",
+    "status_history": [
+      {
+        "status": "",
+        "timestamp": "2026-10-15T12:20:31.901127"
       }
     ]
   }
