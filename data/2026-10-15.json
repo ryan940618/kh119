@@ -7073,7 +7073,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7086,6 +7086,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T13:41:31.406340"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T13:46:31.309262"
       }
     ]
   },
@@ -7095,7 +7099,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7108,6 +7112,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T13:43:31.472249"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T13:46:31.309262"
       }
     ]
   },
@@ -7135,11 +7143,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T13:42:31.375149"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T13:46:31.309262"
       }
     ]
   },
@@ -7149,11 +7161,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區鳳東六街",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T13:43:31.472249"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T13:46:31.309262"
       }
     ]
   }
