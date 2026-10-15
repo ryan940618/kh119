@@ -6039,7 +6039,7 @@
     "sub_category": "其他",
     "location": "高雄市小港區",
     "units": "",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -6052,6 +6052,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T12:40:32.058941"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T12:47:31.028913"
       }
     ]
   },
@@ -6383,11 +6387,15 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T12:44:31.088702"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T12:47:31.028913"
       }
     ]
   },
@@ -6416,6 +6424,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T12:46:31.053594"
+      }
+    ]
+  },
+  "8720debe18dfeb10baf06fddea97baa9": {
+    "time": "2026/10/15 12:46:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T12:47:31.028913"
       }
     ]
   }
