@@ -10479,7 +10479,7 @@
     "sub_category": "車禍",
     "location": "高雄市前金區新田路",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10492,6 +10492,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T18:23:31.215836"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T18:30:31.267915"
       }
     ]
   },
@@ -10594,6 +10598,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T18:28:31.343405"
+      }
+    ]
+  },
+  "25d7968695ea8a84aad0cf32244f08ac": {
+    "time": "2026/10/15 18:28:17",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T18:30:31.267915"
       }
     ]
   }
