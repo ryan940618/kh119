@@ -1097,7 +1097,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區五甲一路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1106,6 +1106,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T05:01:31.275985"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T05:05:31.045140"
       }
     ]
   },
@@ -1160,6 +1164,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T05:00:31.170719"
+      }
+    ]
+  },
+  "3461fc2ef791d4f63ddfbc55702fc7d2": {
+    "time": "2026/10/16 05:04:23",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市小港區華美街",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T05:05:31.045140"
       }
     ]
   }
