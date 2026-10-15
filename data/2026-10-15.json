@@ -8761,7 +8761,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區四維路",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8778,6 +8778,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T16:35:31.669668"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T16:46:31.524463"
       }
     ]
   },
@@ -8975,11 +8979,43 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區土庫五路",
     "units": "楠梓分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T16:45:31.749623"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T16:46:31.524463"
+      }
+    ]
+  },
+  "1dffcf8f532ecafa47bec5a6b478e384": {
+    "time": "2026/10/15 16:46:02",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區大昌一路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T16:46:31.524463"
+      }
+    ]
+  },
+  "8efd2a8f4906b9764232abb971df0b83": {
+    "time": "2026/10/15 16:45:50",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市旗津區",
+    "units": "旗津分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T16:46:31.524463"
       }
     ]
   }
