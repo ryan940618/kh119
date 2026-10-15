@@ -6689,7 +6689,7 @@
     "sub_category": "車禍",
     "location": "高雄市梓官區公館路",
     "units": "橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6698,6 +6698,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T13:14:31.371265"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T13:22:31.360406"
       }
     ]
   },
@@ -6810,6 +6814,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T13:21:31.317318"
+      }
+    ]
+  },
+  "8906f8fc811dd77d9af8c7b4fa2a7389": {
+    "time": "2026/10/15 13:21:53",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市美濃區",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T13:22:31.360406"
       }
     ]
   }
