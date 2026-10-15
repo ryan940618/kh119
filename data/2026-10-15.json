@@ -9853,7 +9853,7 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區德中路",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -9862,6 +9862,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T17:51:32.018174"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T18:00:32.642189"
       }
     ]
   },
@@ -10103,11 +10107,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T17:59:32.082571"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T18:00:32.642189"
       }
     ]
   },
@@ -10117,11 +10125,29 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T17:59:32.082571"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T18:00:32.642189"
+      }
+    ]
+  },
+  "3d469899ca04e595053047c51954155b": {
+    "time": "2026/10/15 17:59:48",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鹽埕區五福四路",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T18:00:32.642189"
       }
     ]
   }
