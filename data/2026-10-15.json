@@ -6673,7 +6673,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區松華路",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6690,6 +6690,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T13:35:31.979912"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T13:51:31.597553"
       }
     ]
   },
@@ -6885,7 +6889,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -6898,6 +6902,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T13:40:31.374872"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T13:51:31.597553"
       }
     ]
   },
@@ -6929,7 +6937,7 @@
     "sub_category": "路倒",
     "location": "高雄市大寮區正氣路",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6946,6 +6954,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T13:39:31.383146"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T13:51:31.597553"
       }
     ]
   },
@@ -7133,7 +7145,7 @@
     "sub_category": "創傷",
     "location": "高雄市永安區永安路",
     "units": "永安分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -7142,6 +7154,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T13:44:31.520510"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T13:51:31.597553"
       }
     ]
   },
@@ -7186,6 +7202,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T13:49:31.557218"
+      }
+    ]
+  },
+  "8b679721dfe57977737207115d058e16": {
+    "time": "2026/10/15 13:49:25",
+    "category": "火災",
+    "sub_category": "雜草(含廢棄物、墓地)",
+    "location": "高雄市燕巢區",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T13:51:31.597553"
       }
     ]
   }
