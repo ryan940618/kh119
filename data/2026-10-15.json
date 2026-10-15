@@ -4289,7 +4289,7 @@
     "sub_category": "創傷",
     "location": "高雄市小港區下橫路",
     "units": "小港分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4306,6 +4306,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T10:31:31.279044"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T10:36:31.234947"
       }
     ]
   },
@@ -4520,6 +4524,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T10:35:31.213105"
+      }
+    ]
+  },
+  "86e3ed261b196c415785f5914113eefd": {
+    "time": "2026/10/15 10:36:07",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大樹區久堂路",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T10:36:31.234947"
       }
     ]
   }
