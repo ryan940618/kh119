@@ -2613,7 +2613,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2626,6 +2626,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T08:19:31.349339"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T08:23:31.315657"
       }
     ]
   },
@@ -2675,7 +2679,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區明道路",
     "units": "前鎮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2684,6 +2688,38 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T08:21:31.452293"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T08:23:31.315657"
+      }
+    ]
+  },
+  "285e97ace24be3e742400d271b882e7d": {
+    "time": "2026/10/15 08:22:22",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T08:23:31.315657"
+      }
+    ]
+  },
+  "64a7d66498fc03603684d8fae74fde84": {
+    "time": "2026/10/15 08:22:15",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市新興區新興路",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T08:23:31.315657"
       }
     ]
   }
