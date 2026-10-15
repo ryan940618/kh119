@@ -12819,7 +12819,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12836,6 +12836,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T23:30:31.163794"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T23:33:30.944043"
       }
     ]
   },
@@ -12858,6 +12862,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T23:32:30.934415"
+      }
+    ]
+  },
+  "e572b5f9fb9648c2e416a555d9435c20": {
+    "time": "2026/10/15 23:32:12",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市阿蓮區",
+    "units": "阿蓮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T23:33:30.944043"
       }
     ]
   }
