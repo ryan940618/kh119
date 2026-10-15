@@ -2953,11 +2953,15 @@
     "sub_category": "急病",
     "location": "高雄市那瑪夏區",
     "units": "那瑪夏分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-15T08:42:31.479051"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T08:47:31.531770"
       }
     ]
   },
@@ -2967,7 +2971,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區經武路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2976,6 +2980,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T08:44:31.537248"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T08:47:31.531770"
       }
     ]
   },
@@ -3008,6 +3016,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T08:45:31.400245"
+      }
+    ]
+  },
+  "9d23d2a67040557d377b9c1154087797": {
+    "time": "2026/10/15 08:46:07",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區英明路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T08:47:31.531770"
       }
     ]
   }
