@@ -10211,7 +10211,7 @@
     "sub_category": "路倒",
     "location": "高雄市鹽埕區五福四路",
     "units": "鼓山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10228,6 +10228,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T18:13:31.659422"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T18:17:31.332285"
       }
     ]
   },
@@ -10423,11 +10427,15 @@
     "sub_category": "車禍",
     "location": "高雄市前金區新田路",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T18:15:31.432546"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T18:17:31.332285"
       }
     ]
   },
@@ -10437,11 +10445,15 @@
     "sub_category": "異物哽塞",
     "location": "高雄市三民區凱歌路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T18:16:31.290673"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T18:17:31.332285"
       }
     ]
   }
