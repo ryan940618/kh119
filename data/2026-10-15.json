@@ -3995,7 +3995,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區明正二街",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4012,6 +4012,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T10:11:31.068536"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T10:22:31.341566"
       }
     ]
   },
@@ -4143,7 +4147,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區三多四路",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4156,6 +4160,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T10:11:31.068536"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T10:22:31.341566"
       }
     ]
   },
@@ -4271,7 +4279,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已派遣",
     "status_history": [
       {
         "status": "已派遣",
@@ -4280,6 +4288,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T10:21:31.165297"
+      },
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T10:22:31.341566"
       }
     ]
   },
@@ -4312,6 +4324,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T10:21:31.165297"
+      }
+    ]
+  },
+  "116b9f87c676b0e3dd143a4f58c17d1d": {
+    "time": "2026/10/15 10:21:00",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市小港區下橫路",
+    "units": "小港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T10:22:31.341566"
       }
     ]
   }
