@@ -3853,7 +3853,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3870,6 +3870,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T09:56:31.812123"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T10:01:31.998682"
       }
     ]
   },
@@ -3990,6 +3994,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T09:59:32.106938"
+      }
+    ]
+  },
+  "63682a1ef979145e5234e9053fe85fa8": {
+    "time": "2026/10/15 10:00:44",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市路竹區大同路",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T10:01:31.998682"
+      }
+    ]
+  },
+  "8a0b71dfe70505820220582dd9887ae5": {
+    "time": "2026/10/15 09:59:57",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市阿蓮區",
+    "units": "阿蓮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T10:01:31.998682"
       }
     ]
   }
