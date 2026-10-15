@@ -8821,7 +8821,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8834,6 +8834,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T16:39:31.538357"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T16:49:31.543093"
       }
     ]
   },
@@ -8873,7 +8877,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8890,6 +8894,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T16:42:31.684888"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T16:49:31.543093"
       }
     ]
   },
@@ -8983,7 +8991,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區土庫五路",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8992,6 +9000,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T16:46:31.524463"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T16:49:31.543093"
       }
     ]
   },
@@ -9060,6 +9072,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T16:48:31.657527"
+      }
+    ]
+  },
+  "b74403bd43f0a6c7b52c731911571568": {
+    "time": "2026/10/15 16:48:24",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市燕巢區",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T16:49:31.543093"
       }
     ]
   }
