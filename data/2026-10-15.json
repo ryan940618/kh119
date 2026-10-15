@@ -9773,7 +9773,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區喜峯街",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9786,6 +9786,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T17:39:32.067221"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T17:46:31.931625"
       }
     ]
   },
@@ -9831,7 +9835,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9840,6 +9844,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T17:42:32.080382"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T17:46:31.931625"
       }
     ]
   },
@@ -9872,6 +9880,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T17:45:32.228941"
+      }
+    ]
+  },
+  "0af456476602065100e37a710f8a927c": {
+    "time": "2026/10/15 17:45:35",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T17:46:31.931625"
       }
     ]
   }
