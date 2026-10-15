@@ -3263,7 +3263,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3280,6 +3280,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T09:19:31.711218"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T09:23:31.712904"
       }
     ]
   },
@@ -3474,6 +3478,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T09:21:31.759130"
+      }
+    ]
+  },
+  "4ba7f93e8fdffd199efc20da8aa08217": {
+    "time": "2026/10/15 09:22:13",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市楠梓區高雄大學路",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T09:23:31.712904"
       }
     ]
   }
