@@ -4613,7 +4613,7 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區久堂路",
     "units": "大樹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4630,6 +4630,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T10:54:31.354334"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T11:08:31.618535"
       }
     ]
   },
@@ -4843,7 +4847,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4856,6 +4860,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T11:01:31.301647"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T11:08:31.618535"
       }
     ]
   },
@@ -4962,6 +4970,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T11:06:31.729685"
+      }
+    ]
+  },
+  "ab05dfb5ffbff4e70b6a123a315a312f": {
+    "time": "2026/10/15 11:07:55",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T11:08:31.618535"
+      }
+    ]
+  },
+  "e8283262b9a2a2ef363e56b7f6a475fa": {
+    "time": "2026/10/15 11:07:27",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區信義街",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T11:08:31.618535"
       }
     ]
   }
