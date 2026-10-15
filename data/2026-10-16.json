@@ -1927,7 +1927,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1940,6 +1940,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T07:32:30.962520"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T07:44:31.124681"
       }
     ]
   },
@@ -1993,7 +1997,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2002,6 +2006,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T07:39:31.023604"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T07:44:31.124681"
       }
     ]
   },
@@ -2020,6 +2028,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T07:41:31.025254"
+      }
+    ]
+  },
+  "bd7677fe0ab42856f8db8d6084dd9d69": {
+    "time": "2026/10/16 07:43:50",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市旗津區旗津二路和義竹街",
+    "units": "旗津分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T07:44:31.124681"
       }
     ]
   }
