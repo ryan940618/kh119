@@ -5215,7 +5215,7 @@
     "sub_category": "其他",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5228,6 +5228,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T11:25:31.622832"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T11:35:31.656210"
       }
     ]
   },
@@ -5393,11 +5397,29 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T11:33:31.587671"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T11:35:31.656210"
+      }
+    ]
+  },
+  "ebc03b2efeb962f366ec79812424e351": {
+    "time": "2026/10/15 11:33:50",
+    "category": "火災",
+    "sub_category": "一般(集合)住宅",
+    "location": "高雄市內門區",
+    "units": "內門分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T11:35:31.656210"
       }
     ]
   }
