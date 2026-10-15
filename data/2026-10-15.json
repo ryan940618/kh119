@@ -3323,7 +3323,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區京吉三路",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3340,6 +3340,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T09:20:31.634367"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T09:27:31.739388"
       }
     ]
   },
@@ -3349,7 +3353,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區勝利路",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3366,6 +3370,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T09:22:31.711644"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T09:27:31.739388"
       }
     ]
   },
@@ -3397,7 +3405,7 @@
     "sub_category": "路倒",
     "location": "高雄市大寮區民族路",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3410,6 +3418,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T09:17:31.776300"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T09:27:31.739388"
       }
     ]
   },
@@ -3508,6 +3520,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T09:24:31.767694"
+      }
+    ]
+  },
+  "c215cacb5b792d0655a9dbae66f35306": {
+    "time": "2026/10/15 09:26:10",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區高松路",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T09:27:31.739388"
       }
     ]
   }
