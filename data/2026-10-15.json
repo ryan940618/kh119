@@ -5865,7 +5865,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區鳳松路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5874,6 +5874,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T12:09:31.880579"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T12:15:31.937186"
       }
     ]
   },
@@ -5915,11 +5919,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區經武路",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T12:12:31.960616"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T12:15:31.937186"
       }
     ]
   },
@@ -5947,11 +5955,29 @@
     "sub_category": "藥物、食物中毒",
     "location": "高雄市小港區宏平路",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T12:14:31.864876"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T12:15:31.937186"
+      }
+    ]
+  },
+  "559f56783b4481fb67f84167ac586b81": {
+    "time": "2026/10/15 12:14:32",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市鼓山區九如四路",
+    "units": "鼓山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T12:15:31.937186"
       }
     ]
   }
