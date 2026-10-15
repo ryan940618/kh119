@@ -5219,7 +5219,7 @@
     "sub_category": "其他",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5236,6 +5236,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T11:35:31.656210"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T11:37:31.623526"
       }
     ]
   },
@@ -5387,7 +5391,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5396,6 +5400,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T11:33:31.587671"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T11:37:31.623526"
       }
     ]
   },
@@ -5446,6 +5454,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T11:36:31.693172"
+      }
+    ]
+  },
+  "4b91cd77245eae7ee624745c18fc9efd": {
+    "time": "2026/10/15 11:36:30",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區青年路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T11:37:31.623526"
       }
     ]
   }
