@@ -12097,7 +12097,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12106,6 +12106,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T21:35:31.344045"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T21:39:31.921380"
       }
     ]
   },
@@ -12155,11 +12159,43 @@
     "sub_category": "車禍",
     "location": "高雄市三民區鼎山街",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T21:38:31.422835"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T21:39:31.921380"
+      }
+    ]
+  },
+  "8816db9740e3a856d05c6bd6203caed1": {
+    "time": "2026/10/15 21:38:55",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區建工路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T21:39:31.921380"
+      }
+    ]
+  },
+  "51d339cbc49b25a2b946c2e7ef2b205b": {
+    "time": "2026/10/15 21:38:35",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鳳山區五甲二路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T21:39:31.921380"
       }
     ]
   }
