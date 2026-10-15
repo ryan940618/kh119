@@ -6223,7 +6223,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -6232,6 +6232,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T12:34:32.006955"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T12:44:31.088702"
       }
     ]
   },
@@ -6263,7 +6267,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6276,6 +6280,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T12:40:32.058941"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T12:44:31.088702"
       }
     ]
   },
@@ -6358,6 +6366,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T12:42:31.056730"
+      }
+    ]
+  },
+  "65a0999905d01ec3ca3410f2fe57c651": {
+    "time": "2026/10/15 12:43:12",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T12:44:31.088702"
       }
     ]
   }
