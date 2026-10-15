@@ -2691,7 +2691,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區明道路",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2704,6 +2704,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T08:23:31.315657"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T08:29:31.495536"
       }
     ]
   },
@@ -2731,7 +2735,7 @@
     "sub_category": "創傷",
     "location": "高雄市新興區新興路",
     "units": "前金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2740,6 +2744,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T08:24:31.422855"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T08:29:31.495536"
       }
     ]
   },
@@ -2781,11 +2789,29 @@
     "sub_category": "路倒",
     "location": "高雄市三民區康平街",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T08:28:31.657523"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T08:29:31.495536"
+      }
+    ]
+  },
+  "5746df911c3226b69417cad667bc386d": {
+    "time": "2026/10/15 08:28:15",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區正勤路",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T08:29:31.495536"
       }
     ]
   }
