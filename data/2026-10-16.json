@@ -1641,7 +1641,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區崗山中街",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1654,6 +1654,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T07:03:31.971976"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T07:13:31.901508"
       }
     ]
   },
@@ -1685,11 +1689,15 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區華榮路",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T07:10:31.960736"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T07:13:31.901508"
       }
     ]
   },
@@ -1699,11 +1707,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區中正路",
     "units": "鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T07:11:32.060201"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T07:13:31.901508"
       }
     ]
   }
