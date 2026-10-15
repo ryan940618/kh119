@@ -12093,11 +12093,15 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T21:34:31.880060"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T21:35:31.344045"
       }
     ]
   },
@@ -12107,11 +12111,29 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區和光街",
     "units": "右昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T21:34:31.880060"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T21:35:31.344045"
+      }
+    ]
+  },
+  "a1f3c76e1ed1b68e3bde2df036e66b10": {
+    "time": "2026/10/15 21:34:52",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區京吉一路",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T21:35:31.344045"
       }
     ]
   }
