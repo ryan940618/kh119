@@ -8099,7 +8099,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區大信街",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8116,6 +8116,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T15:59:31.091670"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T16:13:31.876587"
       }
     ]
   },
@@ -8323,7 +8327,7 @@
     "sub_category": "創傷",
     "location": "高雄市鼓山區美術東三路",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8336,6 +8340,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T16:10:31.369291"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T16:13:31.876587"
       }
     ]
   },
@@ -8367,11 +8375,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T16:11:31.213991"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T16:13:31.876587"
       }
     ]
   },
@@ -8400,6 +8412,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T16:12:31.446499"
+      }
+    ]
+  },
+  "165aafaaa8b3f04174d760a763cb4adb": {
+    "time": "2026/10/15 16:12:11",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區義華路和清華街",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T16:13:31.876587"
       }
     ]
   }
