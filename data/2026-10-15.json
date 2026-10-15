@@ -8485,7 +8485,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區義華路和清華街",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8498,6 +8498,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T16:20:31.809090"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T16:27:31.494769"
       }
     ]
   },
@@ -8525,7 +8529,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8538,6 +8542,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T16:23:31.470219"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T16:27:31.494769"
       }
     ]
   },
@@ -8609,7 +8617,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8618,6 +8626,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T16:18:31.549500"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T16:27:31.494769"
       }
     ]
   },
@@ -8743,11 +8755,29 @@
     "sub_category": "車禍",
     "location": "高雄市永安區保安路",
     "units": "永安分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T16:26:31.622378"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T16:27:31.494769"
+      }
+    ]
+  },
+  "d86b0cf41f67714f091f071edec77e50": {
+    "time": "2026/10/15 16:26:01",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T16:27:31.494769"
       }
     ]
   }
