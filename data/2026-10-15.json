@@ -2739,7 +2739,7 @@
     "sub_category": "創傷",
     "location": "高雄市新興區新興路",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2756,6 +2756,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T08:38:31.405129"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T08:43:31.465910"
       }
     ]
   },
@@ -2835,7 +2839,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區正勤路",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2848,6 +2852,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T08:34:31.307787"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T08:43:31.465910"
       }
     ]
   },
@@ -2919,11 +2927,15 @@
     "sub_category": "創傷",
     "location": "高雄市新興區民主路",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T08:42:31.479051"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T08:43:31.465910"
       }
     ]
   },
@@ -2938,6 +2950,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T08:42:31.479051"
+      }
+    ]
+  },
+  "8846018ffbe4e57161e4ac211e5cc7e3": {
+    "time": "2026/10/15 08:42:35",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區經武路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T08:43:31.465910"
+      }
+    ]
+  },
+  "f33eb6561f73dedb00e501bfff75b7b0": {
+    "time": "2026/10/15 08:42:18",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T08:43:31.465910"
       }
     ]
   }
