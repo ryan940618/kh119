@@ -7025,7 +7025,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區仁林路",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7034,6 +7034,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T13:35:31.979912"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T13:42:31.375149"
       }
     ]
   },
@@ -7096,6 +7100,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T13:35:31.979912"
+      }
+    ]
+  },
+  "5f92f79ee7da312785bec596bed6809a": {
+    "time": "2026/10/15 13:41:41",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市永安區永安路",
+    "units": "永安分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T13:42:31.375149"
+      }
+    ]
+  },
+  "f5e5aead09dbea91f9bd8859411aef03": {
+    "time": "2026/10/15 13:41:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T13:42:31.375149"
       }
     ]
   }
