@@ -5519,7 +5519,7 @@
     "sub_category": "一般(集合)住宅",
     "location": "高雄市內門區",
     "units": "內門分隊",
-    "current_status": "已到達",
+    "current_status": "火已控",
     "status_history": [
       {
         "status": "已派遣",
@@ -5532,6 +5532,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T11:49:31.952625"
+      },
+      {
+        "status": "火已控",
+        "timestamp": "2026-10-15T12:05:32.080742"
       }
     ]
   },
@@ -5771,7 +5775,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區復興三路和建隆街",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5784,6 +5788,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T11:59:31.931705"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T12:05:32.080742"
       }
     ]
   },
@@ -5806,6 +5814,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T12:04:32.135676"
+      }
+    ]
+  },
+  "634b92e2d18ddbaf0483c441f9b8daaa": {
+    "time": "2026/10/15 12:04:51",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T12:05:32.080742"
       }
     ]
   }
