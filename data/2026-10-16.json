@@ -2093,7 +2093,7 @@
     "sub_category": "車禍",
     "location": "高雄市彌陀區中正東路",
     "units": "彌陀分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2102,6 +2102,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T07:48:31.165887"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T07:52:31.166649"
       }
     ]
   },
@@ -2166,6 +2170,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T07:51:31.155477"
+      }
+    ]
+  },
+  "7f08faf2a63b6753c8d89be09ab1f96a": {
+    "time": "2026/10/16 07:50:46",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T07:52:31.166649"
       }
     ]
   }
