@@ -10547,7 +10547,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區經武路",
     "units": "鳳山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10564,6 +10564,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T18:33:31.663902"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T18:40:31.268833"
       }
     ]
   },
@@ -10741,11 +10745,15 @@
     "sub_category": "車禍",
     "location": "高雄市大社區中山路",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T18:37:31.302678"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T18:40:31.268833"
       }
     ]
   },
@@ -10769,11 +10777,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區正義路",
     "units": "大昌分隊,苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T18:39:31.444047"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T18:40:31.268833"
       }
     ]
   }
