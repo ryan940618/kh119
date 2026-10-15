@@ -8685,7 +8685,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區四維路",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8694,6 +8694,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T16:24:31.552685"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T16:25:31.475538"
       }
     ]
   },
@@ -8708,6 +8712,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T16:24:31.552685"
+      }
+    ]
+  },
+  "4155ec69e1d832b3e57499e649898715": {
+    "time": "2026/10/15 16:23:37",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T16:25:31.475538"
       }
     ]
   }
