@@ -5149,11 +5149,15 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區興樹路",
     "units": "橋頭分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T11:19:31.470626"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T11:20:31.526691"
       }
     ]
   },
@@ -5163,11 +5167,29 @@
     "sub_category": "其他",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T11:19:31.470626"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T11:20:31.526691"
+      }
+    ]
+  },
+  "7b736382889a2e982c48f70f3a68a5b9": {
+    "time": "2026/10/15 11:19:46",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大社區",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T11:20:31.526691"
       }
     ]
   }
