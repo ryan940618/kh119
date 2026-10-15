@@ -8201,7 +8201,7 @@
     "sub_category": "汽機車",
     "location": "高雄市鳥松區中正路",
     "units": "鳥松分隊",
-    "current_status": "火已控",
+    "current_status": "火已滅",
     "status_history": [
       {
         "status": "已派遣",
@@ -8214,6 +8214,10 @@
       {
         "status": "火已控",
         "timestamp": "2026-10-15T15:59:31.091670"
+      },
+      {
+        "status": "火已滅",
+        "timestamp": "2026-10-15T16:05:31.247711"
       }
     ]
   },
@@ -8276,6 +8280,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T16:04:31.244959"
+      }
+    ]
+  },
+  "962d0f3e464bd28d45be6f7fdb4cfb86": {
+    "time": "2026/10/15 16:04:28",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市美濃區",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T16:05:31.247711"
+      }
+    ]
+  },
+  "cec5bce852332f3e03a93bcb550ff47f": {
+    "time": "2026/10/15 16:04:02",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鼓山區美術東三路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T16:05:31.247711"
       }
     ]
   }
