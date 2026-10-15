@@ -7999,7 +7999,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8012,6 +8012,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T16:15:31.306656"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T16:16:31.467985"
       }
     ]
   },
@@ -8401,11 +8405,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-15T16:12:31.446499"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T16:16:31.467985"
       }
     ]
   },
@@ -8465,11 +8473,15 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T16:15:31.306656"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T16:16:31.467985"
       }
     ]
   },
@@ -8479,11 +8491,57 @@
     "sub_category": "其他",
     "location": "高雄市鳥松區",
     "units": "",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T16:15:31.306656"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T16:16:31.467985"
+      }
+    ]
+  },
+  "cbe36d5a6a95445f5a3ebaa80cb7844d": {
+    "time": "2026/10/15 16:16:10",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市湖內區信義路",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T16:16:31.467985"
+      }
+    ]
+  },
+  "512d4a367d8a803e16e6500700ad7e5a": {
+    "time": "2026/10/15 16:15:30",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區瑞明街",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T16:16:31.467985"
+      }
+    ]
+  },
+  "cd806c9752d4a8dcfda22a0f2efc280b": {
+    "time": "2026/10/15 16:15:21",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T16:16:31.467985"
       }
     ]
   }
