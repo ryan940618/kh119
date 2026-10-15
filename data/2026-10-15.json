@@ -8389,7 +8389,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區民族一路",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8406,6 +8406,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T16:18:31.549500"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T16:26:31.622378"
       }
     ]
   },
@@ -8721,11 +8725,29 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T16:25:31.475538"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T16:26:31.622378"
+      }
+    ]
+  },
+  "a48ba6c5c260b195f3cf69447943cf18": {
+    "time": "2026/10/15 16:25:37",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市永安區保安路",
+    "units": "永安分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T16:26:31.622378"
       }
     ]
   }
