@@ -1525,7 +1525,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區九如一路",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1538,6 +1538,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T06:24:31.653300"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T06:36:31.695998"
       }
     ]
   },
@@ -1565,11 +1569,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T06:31:31.597176"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T06:36:31.695998"
       }
     ]
   }
