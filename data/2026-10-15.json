@@ -4445,11 +4445,15 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T10:31:31.279044"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T10:33:31.169058"
       }
     ]
   },
@@ -4468,6 +4472,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T10:32:31.187429"
+      }
+    ]
+  },
+  "3a59a582cbcbaf7fdfac10036eaef8a1": {
+    "time": "2026/10/15 10:32:34",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T10:33:31.169058"
       }
     ]
   }
