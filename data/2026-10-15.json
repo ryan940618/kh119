@@ -7109,7 +7109,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7126,6 +7126,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T13:46:31.309262"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T14:00:31.594084"
       }
     ]
   },
@@ -7205,7 +7209,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區鳳東六街",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7218,6 +7222,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T13:49:31.557218"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T14:00:31.594084"
       }
     ]
   },
@@ -7295,11 +7303,29 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T13:58:31.594010"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T14:00:31.594084"
+      }
+    ]
+  },
+  "f8f8e5ad51da4fd5b2ff5b14ac4ad8a4": {
+    "time": "2026/10/15 13:59:55",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T14:00:31.594084"
       }
     ]
   }
