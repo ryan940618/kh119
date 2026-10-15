@@ -4955,7 +4955,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4972,6 +4972,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T11:19:31.470626"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T11:28:31.515054"
       }
     ]
   },
@@ -5276,6 +5280,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T11:27:31.656268"
+      }
+    ]
+  },
+  "966c7a27222612855a72b5709cb62b7d": {
+    "time": "2026/10/15 11:27:53",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳥松區美山路",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T11:28:31.515054"
       }
     ]
   }
