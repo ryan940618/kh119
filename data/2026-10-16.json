@@ -2175,7 +2175,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2184,6 +2184,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T07:54:31.212791"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T07:58:31.358213"
       }
     ]
   },
@@ -2262,6 +2266,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T07:57:31.253236"
+      }
+    ]
+  },
+  "b53daffc80f14b8451aab254d5b1ab8e": {
+    "time": "2026/10/16 07:57:16",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區藍昌路",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T07:58:31.358213"
       }
     ]
   }
