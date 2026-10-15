@@ -12017,7 +12017,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區鼎中路",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12030,6 +12030,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T21:28:31.369667"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T21:42:31.585027"
       }
     ]
   },
@@ -12123,7 +12127,7 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區和光街",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12136,6 +12140,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T21:38:31.422835"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T21:42:31.585027"
       }
     ]
   },
@@ -12145,7 +12153,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區京吉一路",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12154,6 +12162,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T21:36:31.955534"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T21:42:31.585027"
       }
     ]
   },
@@ -12185,7 +12197,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區建工路",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12194,6 +12206,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T21:40:31.588558"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T21:42:31.585027"
       }
     ]
   },
@@ -12212,6 +12228,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T21:41:31.454334"
+      }
+    ]
+  },
+  "260e731af31fab267a4f7516b0430f9d": {
+    "time": "2026/10/15 21:41:14",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區一心一路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T21:42:31.585027"
+      }
+    ]
+  },
+  "161e75cced0b4e6c99f7de92049cab7a": {
+    "time": "2026/10/15 21:41:11",
+    "category": "其他",
+    "sub_category": "受困",
+    "location": "高雄市岡山區大仁北路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T21:42:31.585027"
       }
     ]
   }
