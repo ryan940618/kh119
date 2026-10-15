@@ -4799,7 +4799,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "大社分隊,楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4816,6 +4816,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T10:58:31.669246"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T11:12:31.515090"
       }
     ]
   },
@@ -5019,11 +5023,15 @@
     "sub_category": "創傷",
     "location": "高雄市三民區凱歌路",
     "units": "十全分隊,大昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T11:11:31.806273"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T11:12:31.515090"
       }
     ]
   },
@@ -5038,6 +5046,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T11:11:31.806273"
+      }
+    ]
+  },
+  "cc6176b2589aecaefbcc0b0b8fd5fd1e": {
+    "time": "2026/10/15 11:11:56",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區廣西路",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T11:12:31.515090"
       }
     ]
   }
