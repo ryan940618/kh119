@@ -1979,7 +1979,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區建國路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1988,6 +1988,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T07:37:31.088122"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T07:45:31.102497"
       }
     ]
   },
@@ -2037,11 +2041,29 @@
     "sub_category": "車禍",
     "location": "高雄市旗津區旗津二路和義竹街",
     "units": "旗津分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T07:44:31.124681"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T07:45:31.102497"
+      }
+    ]
+  },
+  "e455eb21bf51f818c2fa4b88205e3e28": {
+    "time": "2026/10/16 07:43:58",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T07:45:31.102497"
       }
     ]
   }
