@@ -1805,7 +1805,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區後昌路",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -1814,6 +1814,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T07:28:31.033001"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T08:03:31.400317"
       }
     ]
   },
@@ -2411,7 +2415,7 @@
     "sub_category": "車禍",
     "location": "高雄市彌陀區中正東路",
     "units": "彌陀分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2424,6 +2428,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T07:58:31.547737"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T08:03:31.400317"
       }
     ]
   },
@@ -2433,7 +2441,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區茂大街",
     "units": "大林分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2442,6 +2450,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T07:55:31.406544"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T08:03:31.400317"
       }
     ]
   },
@@ -2478,6 +2490,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T08:01:31.402203"
+      }
+    ]
+  },
+  "1c05ff35b403fcba7a92afcdd3404272": {
+    "time": "2026/10/15 08:02:21",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T08:03:31.400317"
       }
     ]
   }
