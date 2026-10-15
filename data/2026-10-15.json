@@ -4323,7 +4323,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4344,6 +4344,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T10:30:31.107117"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T10:45:31.340310"
       }
     ]
   },
@@ -4529,7 +4533,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4542,6 +4546,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T10:37:31.296760"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T10:45:31.340310"
       }
     ]
   },
@@ -4565,7 +4573,7 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區久堂路",
     "units": "大樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4574,6 +4582,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T10:37:31.296760"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T10:45:31.340310"
       }
     ]
   },
@@ -4583,7 +4595,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4592,6 +4604,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T10:39:31.272813"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T10:45:31.340310"
       }
     ]
   },
@@ -4623,7 +4639,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4632,6 +4648,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T10:43:31.272947"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T10:45:31.340310"
       }
     ]
   },
@@ -4659,11 +4679,15 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T10:42:31.386796"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T10:45:31.340310"
       }
     ]
   },
@@ -4696,6 +4720,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T10:44:31.327340"
+      }
+    ]
+  },
+  "7c559cacf69cc5740a55895b824c5cfb": {
+    "time": "2026/10/15 10:43:34",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市大寮區三隆路",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T10:45:31.340310"
       }
     ]
   }
