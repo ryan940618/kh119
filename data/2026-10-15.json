@@ -12277,7 +12277,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區一心一路",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12290,6 +12290,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T21:49:31.688564"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T21:56:31.554394"
       }
     ]
   },
@@ -12375,7 +12379,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12384,6 +12388,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T21:54:31.511716"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T21:56:31.554394"
       }
     ]
   },
@@ -12402,6 +12410,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T21:54:31.511716"
+      }
+    ]
+  },
+  "8d62f68d655943b189e6e6991d23a844": {
+    "time": "2026/10/15 21:54:23",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鼓山區東門路",
+    "units": "左營分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T21:56:31.554394"
       }
     ]
   }
