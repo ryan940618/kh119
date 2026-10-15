@@ -8243,7 +8243,7 @@
     "sub_category": "其他",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8260,6 +8260,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T16:11:31.213991"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T16:17:31.397920"
       }
     ]
   },
@@ -8269,7 +8273,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區明衙路",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8286,6 +8290,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T16:10:31.369291"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T16:17:31.397920"
       }
     ]
   },
@@ -8542,6 +8550,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T16:16:31.467985"
+      }
+    ]
+  },
+  "baee0c6af5af771f9bccb9f6c2d61e8c": {
+    "time": "2026/10/15 16:16:12",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大社區民生路",
+    "units": "大社分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T16:17:31.397920"
       }
     ]
   }
