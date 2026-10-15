@@ -7667,7 +7667,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區七叉路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7684,6 +7684,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T14:55:31.926585"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T14:57:31.875162"
       }
     ]
   },
@@ -7737,11 +7741,15 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T14:53:32.031121"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T14:57:31.875162"
       }
     ]
   },
