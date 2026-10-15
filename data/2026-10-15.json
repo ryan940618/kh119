@@ -7701,7 +7701,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊,瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7714,6 +7714,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T14:45:32.911358"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T15:11:32.191204"
       }
     ]
   },
@@ -7874,6 +7878,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T15:09:32.093510"
+      }
+    ]
+  },
+  "76e96a1c7951e7932a05762637f55021": {
+    "time": "2026/10/15 15:10:43",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區八德路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T15:11:32.191204"
       }
     ]
   }
