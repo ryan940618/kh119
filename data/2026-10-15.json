@@ -10655,7 +10655,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10668,6 +10668,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T18:38:31.483788"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T18:45:31.259603"
       }
     ]
   },
@@ -10761,7 +10765,7 @@
     "sub_category": "車禍",
     "location": "高雄市大社區中山路",
     "units": "大社分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10770,6 +10774,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T18:40:31.268833"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T18:45:31.259603"
       }
     ]
   },
@@ -10815,11 +10823,15 @@
     "sub_category": "其他",
     "location": "高雄市苓雅區",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T18:42:31.249384"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T18:45:31.259603"
       }
     ]
   }
