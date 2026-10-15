@@ -3775,7 +3775,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區鐵道一街",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3792,6 +3792,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T09:57:31.805577"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T10:20:31.161964"
       }
     ]
   },
@@ -4246,6 +4250,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T10:19:31.119724"
+      }
+    ]
+  },
+  "a1c3da2848d97141e8b656de74d2b639": {
+    "time": "2026/10/15 10:20:01",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T10:20:31.161964"
+      }
+    ]
+  },
+  "248bdac345d4dec89db8a0bf7c81e182": {
+    "time": "2026/10/15 10:19:34",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T10:20:31.161964"
       }
     ]
   }
