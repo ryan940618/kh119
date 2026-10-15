@@ -3197,7 +3197,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3210,6 +3210,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T09:04:31.580035"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T09:07:31.757171"
       }
     ]
   },
@@ -3246,6 +3250,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T09:03:32.129315"
+      }
+    ]
+  },
+  "a3299d7466a8c786eed66d27a1d6a5ea": {
+    "time": "2026/10/15 09:05:56",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市仁武區京吉三路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T09:07:31.757171"
+      }
+    ]
+  },
+  "e5415b6e9fac9cb37d92410a9fa698a7": {
+    "time": "2026/10/15 09:05:52",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區勝利路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T09:07:31.757171"
       }
     ]
   }
