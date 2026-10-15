@@ -11207,7 +11207,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區楠梓加工區經二路",
     "units": "後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -11220,6 +11220,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T19:53:31.647426"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T20:01:31.613018"
       }
     ]
   },
@@ -11300,6 +11304,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T19:57:31.586597"
+      }
+    ]
+  },
+  "956e96c186350a1178d1ba8cf482ebd3": {
+    "time": "2026/10/15 20:00:54",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T20:01:31.613018"
       }
     ]
   }
