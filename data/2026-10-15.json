@@ -9729,7 +9729,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9742,6 +9742,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T17:39:32.067221"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-15T17:47:31.925379"
       }
     ]
   },
@@ -9894,6 +9898,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T17:46:31.931625"
+      }
+    ]
+  },
+  "7168bdef1a6c98d91fd038bdacaad394": {
+    "time": "2026/10/15 17:46:19",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區五甲二路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T17:47:31.925379"
+      }
+    ]
+  },
+  "ffeb9c4e9f7c050de01b7f1d8495ab1c": {
+    "time": "2026/10/15 17:46:02",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區大學二十六街",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T17:47:31.925379"
       }
     ]
   }
