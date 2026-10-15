@@ -2519,7 +2519,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區翠華路",
     "units": "左營小隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2536,6 +2536,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-15T08:12:31.548436"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-15T08:17:31.434226"
       }
     ]
   },
@@ -2615,11 +2619,29 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區鳳林三路",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T08:15:31.525664"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T08:17:31.434226"
+      }
+    ]
+  },
+  "d6e5867d0df54ee26bde0a2b7489dfdc": {
+    "time": "2026/10/15 08:16:16",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區左營大路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T08:17:31.434226"
       }
     ]
   }
