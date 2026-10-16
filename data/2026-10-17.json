@@ -1283,7 +1283,7 @@
     "sub_category": "急病",
     "location": "高雄市甲仙區",
     "units": "甲仙分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -1300,6 +1300,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T03:54:32.032809"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T04:23:31.104124"
       }
     ]
   },
@@ -1416,6 +1420,20 @@
       {
         "status": "已到院",
         "timestamp": "2026-10-17T04:13:32.091086"
+      }
+    ]
+  },
+  "1113dd92fac347e7c54ede0197a69594": {
+    "time": "2026/10/17 04:22:28",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市田寮區崗安路",
+    "units": "崇德駐地",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T04:23:31.104124"
       }
     ]
   }
