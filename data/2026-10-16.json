@@ -5795,7 +5795,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5812,6 +5812,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T12:40:31.327636"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T12:46:31.475571"
       }
     ]
   },
@@ -5971,11 +5975,29 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區五甲二路",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T12:45:31.345181"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T12:46:31.475571"
+      }
+    ]
+  },
+  "a3367a3e51f859fa9dddaad0bd440f67": {
+    "time": "2026/10/16 12:45:59",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市桃源區",
+    "units": "桃源分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T12:46:31.475571"
       }
     ]
   }
