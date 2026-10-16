@@ -5685,7 +5685,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區重慶街",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5694,6 +5694,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T12:22:31.307367"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T12:27:31.323788"
       }
     ]
   },
@@ -5730,6 +5734,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T12:23:31.392493"
+      }
+    ]
+  },
+  "64c9ea1c69d67dfc133e8d8e9d9cae6a": {
+    "time": "2026/10/16 12:26:54",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T12:27:31.323788"
       }
     ]
   }
