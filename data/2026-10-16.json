@@ -2579,7 +2579,7 @@
     "sub_category": "創傷",
     "location": "高雄市鼓山區裕豐街",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2596,6 +2596,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T08:29:31.452573"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T08:38:31.633080"
       }
     ]
   },
@@ -3032,6 +3036,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T08:37:31.575942"
+      }
+    ]
+  },
+  "bdef9a0772b6a6658236ab1141f3363c": {
+    "time": "2026/10/16 08:37:23",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市旗山區旗甲路",
+    "units": "旗山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T08:38:31.633080"
       }
     ]
   }
