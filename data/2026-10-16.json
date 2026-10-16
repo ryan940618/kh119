@@ -7735,11 +7735,15 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T15:45:31.371194"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T15:47:31.657680"
       }
     ]
   },
@@ -7754,6 +7758,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T15:46:31.543270"
+      }
+    ]
+  },
+  "dd0fd5ac7b9291bbc4d820d6871a1367": {
+    "time": "2026/10/16 15:46:42",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區鳳仁路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T15:47:31.657680"
+      }
+    ]
+  },
+  "7ef36e7a80cef487097fca14a65f3558": {
+    "time": "2026/10/16 15:46:39",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T15:47:31.657680"
       }
     ]
   }
