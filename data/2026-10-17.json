@@ -5,7 +5,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區中山路",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -18,6 +18,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T00:07:31.567984"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T00:11:31.592589"
       }
     ]
   },
@@ -27,11 +31,15 @@
     "sub_category": "其他",
     "location": "高雄市小港區桂華街",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T00:09:31.548021"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T00:11:31.592589"
       }
     ]
   },
@@ -46,6 +54,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T00:10:31.710291"
+      }
+    ]
+  },
+  "9e19e1fb3c6cef894d95a9e498b58f67": {
+    "time": "2026/10/17 00:10:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T00:11:31.592589"
       }
     ]
   }
