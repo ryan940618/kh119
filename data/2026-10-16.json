@@ -2581,7 +2581,7 @@
     "sub_category": "其他",
     "location": "高雄市旗山區",
     "units": "",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2590,6 +2590,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T08:16:31.406643"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T08:23:31.344617"
       }
     ]
   },
@@ -2599,7 +2603,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2608,6 +2612,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T08:17:31.232659"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T08:23:31.344617"
       }
     ]
   },
@@ -2704,6 +2712,34 @@
       {
         "status": "已受理",
         "timestamp": "2026-10-16T08:22:31.437445"
+      }
+    ]
+  },
+  "e17080eb0d6110424cf7d829846ce7ad": {
+    "time": "2026/10/16 08:23:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T08:23:31.344617"
+      }
+    ]
+  },
+  "f28f33e86e9eb9b26d605ca97a0c48db": {
+    "time": "2026/10/16 08:04:34",
+    "category": "火災",
+    "sub_category": "汽機車",
+    "location": "高雄市三民區十全三路",
+    "units": "中華分隊",
+    "current_status": "火已滅",
+    "status_history": [
+      {
+        "status": "火已滅",
+        "timestamp": "2026-10-16T08:23:31.344617"
       }
     ]
   }
