@@ -1135,7 +1135,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1148,6 +1148,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T03:24:31.715996"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T03:34:31.810893"
       }
     ]
   },
@@ -1157,7 +1161,7 @@
     "sub_category": "車禍",
     "location": "高雄市新興區六合二路",
     "units": "前金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1170,6 +1174,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T03:27:31.749080"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T03:34:31.810893"
       }
     ]
   },
@@ -1225,11 +1233,15 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區義和路",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T03:32:31.856863"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T03:34:31.810893"
       }
     ]
   },
@@ -1239,11 +1251,15 @@
     "sub_category": "急病",
     "location": "高雄市甲仙區",
     "units": "甲仙分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T03:33:31.771595"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T03:34:31.810893"
       }
     ]
   }
