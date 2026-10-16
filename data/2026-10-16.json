@@ -6753,7 +6753,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -6766,6 +6766,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T14:22:32.059414"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T14:33:32.011172"
       }
     ]
   },
@@ -6793,7 +6797,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6810,6 +6814,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T14:24:32.014857"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T14:33:32.011172"
       }
     ]
   },
@@ -6961,11 +6969,15 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T14:31:32.109062"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T14:33:32.011172"
       }
     ]
   },
@@ -6975,11 +6987,15 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T14:32:32.014098"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T14:33:32.011172"
       }
     ]
   }
