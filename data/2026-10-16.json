@@ -4217,7 +4217,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4234,6 +4234,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T10:18:31.507918"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T10:27:31.629743"
       }
     ]
   },
@@ -4440,6 +4444,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T10:26:31.626619"
+      }
+    ]
+  },
+  "dab4563c8d0a56fc0a7dd344a50fb33d": {
+    "time": "2026/10/16 10:27:07",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "鼓山分隊",
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T10:27:31.629743"
+      }
+    ]
+  },
+  "115c65f89dc2e95319cb9b4608283233": {
+    "time": "2026/10/16 10:26:24",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市茄萣區",
+    "units": "茄萣分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T10:27:31.629743"
       }
     ]
   }
