@@ -11875,7 +11875,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11892,6 +11892,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T22:59:31.121012"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T23:02:31.184502"
       }
     ]
   },
@@ -11996,6 +12000,48 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T23:01:31.173708"
+      }
+    ]
+  },
+  "564f2b2c5b5edf12b47d94eb7443ea9e": {
+    "time": "2026/10/16 23:01:50",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市左營區重立路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T23:02:31.184502"
+      }
+    ]
+  },
+  "be79367cdd4cd7e72d3880c25fd465b1": {
+    "time": "2026/10/16 23:01:49",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T23:02:31.184502"
+      }
+    ]
+  },
+  "648ab4a1cc37e55aaf7a7a292d8f4914": {
+    "time": "2026/10/16 22:58:49",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市左營區重立路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-16T23:02:31.184502"
       }
     ]
   }
