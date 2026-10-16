@@ -71,7 +71,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -80,6 +80,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T00:12:31.449473"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T00:17:31.619463"
       }
     ]
   },
@@ -89,11 +93,15 @@
     "sub_category": "路倒",
     "location": "高雄市大樹區九曲路",
     "units": "大樹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T00:15:31.547126"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T00:17:31.619463"
       }
     ]
   }
