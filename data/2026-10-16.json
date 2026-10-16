@@ -12057,7 +12057,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區重立路",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12074,6 +12074,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T23:24:31.210910"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T23:29:31.361763"
       }
     ]
   },
@@ -12153,7 +12157,7 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區水管路和仁和街",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12170,6 +12174,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T23:21:31.306701"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T23:29:31.361763"
       }
     ]
   },
@@ -12241,7 +12249,7 @@
     "sub_category": "創傷",
     "location": "高雄市彌陀區文安路",
     "units": "彌陀分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12250,6 +12258,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T23:26:31.295765"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T23:29:31.361763"
       }
     ]
   },
@@ -12259,11 +12271,15 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區三多一路",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T23:28:31.342891"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T23:29:31.361763"
       }
     ]
   }
