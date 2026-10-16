@@ -3567,7 +3567,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區陽明路",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -3576,6 +3576,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T09:11:31.992332"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T09:28:32.205561"
       }
     ]
   },
@@ -3655,7 +3659,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區河堤路",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3668,6 +3672,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T09:22:32.057304"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T09:28:32.205561"
       }
     ]
   },
@@ -3716,6 +3724,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T09:23:32.107110"
+      }
+    ]
+  },
+  "3e8c545771270e5963cad91001855bb0": {
+    "time": "2026/10/16 09:27:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市梓官區",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T09:28:32.205561"
       }
     ]
   }
