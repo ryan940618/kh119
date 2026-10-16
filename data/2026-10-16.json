@@ -4757,7 +4757,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -4766,6 +4766,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T10:55:31.724399"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T10:57:31.981437"
       }
     ]
   },
@@ -4815,11 +4819,29 @@
     "sub_category": "急病",
     "location": "高雄市桃源區",
     "units": "桃源分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T10:56:31.786993"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T10:57:31.981437"
+      }
+    ]
+  },
+  "4d66a33e820b370a32c1b364c04199a3": {
+    "time": "2026/10/16 10:56:26",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "和發分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T10:57:31.981437"
       }
     ]
   }
