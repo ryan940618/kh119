@@ -5033,7 +5033,7 @@
     "sub_category": "創傷",
     "location": "高雄市大樹區興山路",
     "units": "大樹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -5046,6 +5046,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T11:21:32.115960"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T11:38:31.963190"
       }
     ]
   },
@@ -5255,7 +5259,7 @@
     "sub_category": "路倒",
     "location": "高雄市楠梓區興楠橫巷和興楠路",
     "units": "楠梓分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -5264,6 +5268,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T11:34:31.907865"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T11:38:31.963190"
       }
     ]
   },
@@ -5310,6 +5318,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T11:36:31.916967"
+      }
+    ]
+  },
+  "e950d6f48a8e2089c1d34d780f47a01a": {
+    "time": "2026/10/16 11:37:12",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鼓山區九如四路",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T11:38:31.963190"
       }
     ]
   }
