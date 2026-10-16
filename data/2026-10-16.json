@@ -3077,7 +3077,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -3086,6 +3086,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T08:42:31.760881"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T09:00:31.811341"
       }
     ]
   },
@@ -3307,7 +3311,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區平正街",
     "units": "小港分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3316,6 +3320,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T08:58:31.811246"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T09:00:31.811341"
       }
     ]
   },
@@ -3352,6 +3360,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T08:58:31.811246"
+      }
+    ]
+  },
+  "50e2e6727162a0135e77424c3af90612": {
+    "time": "2026/10/16 08:59:36",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T09:00:31.811341"
+      }
+    ]
+  },
+  "ef3e2310f3e4e051da4920688513dcf4": {
+    "time": "2026/10/16 08:59:26",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "屏東縣屏東市高屏大橋[屏東縣屏東市建國路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T09:00:31.811341"
       }
     ]
   }
