@@ -7869,7 +7869,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7878,6 +7878,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T15:56:31.448198"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T16:00:31.643679"
       }
     ]
   },
@@ -7914,6 +7918,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T15:59:31.655825"
+      }
+    ]
+  },
+  "ff746217d774988d54860ce554e861d5": {
+    "time": "2026/10/16 15:59:45",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區軍校路",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T16:00:31.643679"
+      }
+    ]
+  },
+  "ce5017bf93ad62e36d21078370539e2d": {
+    "time": "2026/10/16 15:59:32",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗津區",
+    "units": "旗津分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T16:00:31.643679"
       }
     ]
   }
