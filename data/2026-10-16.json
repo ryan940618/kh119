@@ -10185,7 +10185,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10198,6 +10198,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T19:16:31.920973"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T19:24:31.711776"
       }
     ]
   },
@@ -10261,7 +10265,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區鳳屏一路",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10270,6 +10274,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T19:15:31.931490"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T19:24:31.711776"
       }
     ]
   },
@@ -10347,11 +10355,29 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區鳳埤街",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T19:23:31.842111"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T19:24:31.711776"
+      }
+    ]
+  },
+  "5a9b68119fadfd7bd5e5e072918a0f14": {
+    "time": "2026/10/16 19:15:40",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區博愛路",
+    "units": "鳳山分隊",
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T19:24:31.711776"
       }
     ]
   }
