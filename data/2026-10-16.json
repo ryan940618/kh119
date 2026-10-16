@@ -3793,11 +3793,29 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-16T09:32:32.185881"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T09:37:32.285871"
+      }
+    ]
+  },
+  "b67d4deb6c5838a5948d0505f3063e32": {
+    "time": "2026/10/16 09:36:33",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市湖內區",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T09:37:32.285871"
       }
     ]
   }
