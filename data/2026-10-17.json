@@ -171,7 +171,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -180,6 +180,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T00:27:31.554516"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T00:34:31.623640"
       }
     ]
   },
@@ -225,11 +229,29 @@
     "sub_category": "路倒",
     "location": "高雄市旗山區大同街",
     "units": "旗山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T00:33:31.580364"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T00:34:31.623640"
+      }
+    ]
+  },
+  "6eaaaed7b5826f150ff0d31fd0cc8378": {
+    "time": "2026/10/17 00:33:53",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T00:34:31.623640"
       }
     ]
   }
