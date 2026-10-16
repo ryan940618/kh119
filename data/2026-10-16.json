@@ -12053,7 +12053,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區重立路",
     "units": "新莊分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12066,6 +12066,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T23:08:31.275103"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T23:24:31.210910"
       }
     ]
   },
@@ -12159,7 +12163,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12168,6 +12172,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T23:21:31.306701"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T23:24:31.210910"
+      }
+    ]
+  },
+  "bb86c39ee72ef0d5fdd57f0d5cd11091": {
+    "time": "2026/10/16 23:24:00",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區左楠路",
+    "units": "後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T23:24:31.210910"
       }
     ]
   }
