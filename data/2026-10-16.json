@@ -4731,7 +4731,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4744,6 +4744,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T10:49:31.717547"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T10:56:31.786993"
       }
     ]
   },
@@ -4793,11 +4797,29 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區典昌路",
     "units": "橋頭分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T10:54:31.691535"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T10:56:31.786993"
+      }
+    ]
+  },
+  "cfff764ee9cd67e51f0942f88dd3d653": {
+    "time": "2026/10/16 10:55:56",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市桃源區",
+    "units": "桃源分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T10:56:31.786993"
       }
     ]
   }
