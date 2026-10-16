@@ -6549,7 +6549,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6562,6 +6562,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T13:55:31.978677"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T14:05:31.816680"
       }
     ]
   },
@@ -6748,6 +6752,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T14:04:32.018233"
+      }
+    ]
+  },
+  "5621fcac51bb37f560925c7fc664760d": {
+    "time": "2026/10/16 14:05:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T14:05:31.816680"
       }
     ]
   }
