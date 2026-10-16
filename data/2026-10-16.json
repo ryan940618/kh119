@@ -7553,7 +7553,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -7562,6 +7562,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T15:29:31.348381"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T15:34:31.476453"
       }
     ]
   },
@@ -7589,7 +7593,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7598,6 +7602,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T15:31:31.369604"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T15:34:31.476453"
       }
     ]
   },
@@ -7616,6 +7624,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T15:33:31.386334"
+      }
+    ]
+  },
+  "2e2a10abfe758e6318f2c48bd5241edd": {
+    "time": "2026/10/16 15:33:27",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "後勁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T15:34:31.476453"
+      }
+    ]
+  },
+  "41ce9321693bd38c92621366dd44ef29": {
+    "time": "2026/10/16 15:31:48",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市前鎮區林森三路",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T15:34:31.476453"
       }
     ]
   }
