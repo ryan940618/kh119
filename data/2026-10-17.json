@@ -473,7 +473,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區大順二路",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -486,6 +486,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T01:10:32.057468"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T01:24:31.963350"
       }
     ]
   },
@@ -526,6 +530,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T01:20:31.925406"
+      }
+    ]
+  },
+  "d7bede4c650bdbe747f4b4e01dd418c8": {
+    "time": "2026/10/17 01:24:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T01:24:31.963350"
+      }
+    ]
+  },
+  "2e24c9e44c58b5ce5cf6e1d991e53cdc": {
+    "time": "2026/10/17 01:23:23",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區林森一路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T01:24:31.963350"
       }
     ]
   }
