@@ -10479,7 +10479,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10492,6 +10492,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T19:34:31.991120"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T19:47:32.076574"
       }
     ]
   },
@@ -10549,7 +10553,7 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區光復路",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10558,6 +10562,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T19:38:32.213662"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T19:47:32.076574"
       }
     ]
   },
@@ -10648,6 +10656,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T19:46:32.104448"
+      }
+    ]
+  },
+  "70c251dfa57dd77dd4fdb0c79ab9b8f0": {
+    "time": "2026/10/16 19:46:55",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T19:47:32.076574"
       }
     ]
   }
