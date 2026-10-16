@@ -127,7 +127,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -144,6 +144,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T00:31:31.611777"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T00:42:31.697693"
       }
     ]
   },
@@ -272,6 +276,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T00:36:31.632094"
+      }
+    ]
+  },
+  "b937ab3166fec61e61abe9969031e0a1": {
+    "time": "2026/10/17 00:41:52",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區五甲二路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T00:42:31.697693"
       }
     ]
   }
