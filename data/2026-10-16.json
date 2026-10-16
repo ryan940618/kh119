@@ -4793,7 +4793,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -4806,6 +4806,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T10:57:31.981437"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T11:10:31.807529"
       }
     ]
   },
@@ -5020,6 +5024,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T11:09:31.810278"
+      }
+    ]
+  },
+  "33ea3fea368cbea9121b101cb1b3ca9e": {
+    "time": "2026/10/16 11:09:40",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區立信路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T11:10:31.807529"
       }
     ]
   }
