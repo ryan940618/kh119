@@ -3523,7 +3523,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3536,6 +3536,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T09:09:31.979787"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T09:29:32.109442"
       }
     ]
   },
@@ -3733,11 +3737,29 @@
     "sub_category": "急病",
     "location": "高雄市梓官區",
     "units": "梓官分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T09:28:32.205561"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T09:29:32.109442"
+      }
+    ]
+  },
+  "f99df1c6c4a50630268a59fc126ab0ea": {
+    "time": "2026/10/16 09:27:05",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "苗栗縣苗栗市啟賢街",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-16T09:29:32.109442"
       }
     ]
   }
