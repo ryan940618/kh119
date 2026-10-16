@@ -8867,7 +8867,7 @@
     "sub_category": "急病",
     "location": "高雄市鹽埕區",
     "units": "前金分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8884,6 +8884,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T17:42:32.349643"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T17:51:31.281055"
       }
     ]
   },
@@ -9167,7 +9171,7 @@
     "sub_category": "其他",
     "location": "高雄市楠梓區清平街",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9176,6 +9180,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T17:43:32.452240"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T17:51:31.281055"
       }
     ]
   },
@@ -9256,6 +9264,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T17:48:32.479201"
+      }
+    ]
+  },
+  "cc3459baedfbade9b994bc595974473d": {
+    "time": "2026/10/16 17:50:36",
+    "category": "緊急救護",
+    "sub_category": "異物哽塞",
+    "location": "高雄市鳳山區經武路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T17:51:31.281055"
       }
     ]
   }
