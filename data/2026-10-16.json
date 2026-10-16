@@ -2129,7 +2129,7 @@
     "sub_category": "車禍",
     "location": "高雄市彌陀區中正東路",
     "units": "彌陀分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2146,6 +2146,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T08:03:31.501919"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T08:22:31.437445"
       }
     ]
   },
@@ -2507,7 +2511,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區五甲一路",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -2516,6 +2520,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T08:13:31.354985"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T08:22:31.437445"
       }
     ]
   },
@@ -2525,7 +2533,7 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區宏毅二路",
     "units": "後勁分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2538,6 +2546,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T08:14:31.243529"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T08:22:31.437445"
       }
     ]
   },
@@ -2605,11 +2617,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區察哈爾一街",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-16T08:18:31.410083"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T08:22:31.437445"
       }
     ]
   },
@@ -2674,6 +2690,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T08:21:31.296680"
+      }
+    ]
+  },
+  "7d636010ac1112d5d0bfe888a794b4a6": {
+    "time": "2026/10/16 08:21:27",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區鳳林路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-16T08:22:31.437445"
       }
     ]
   }
