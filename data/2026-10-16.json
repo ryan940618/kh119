@@ -6515,7 +6515,7 @@
     "sub_category": "車禍",
     "location": "高雄市茄萣區仁愛路",
     "units": "茄萣分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -6524,6 +6524,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T13:45:31.625004"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T13:51:31.698430"
       }
     ]
   },
@@ -6583,11 +6587,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T13:48:31.808144"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T13:51:31.698430"
       }
     ]
   },
