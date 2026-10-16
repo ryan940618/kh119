@@ -9941,7 +9941,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9958,6 +9958,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T19:10:31.848773"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T19:14:31.874473"
       }
     ]
   },
@@ -10095,7 +10099,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區過埤路",
     "units": "鳳祥分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10104,6 +10108,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T19:13:31.720238"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T19:14:31.874473"
       }
     ]
   },
@@ -10131,7 +10139,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區大中二路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10140,6 +10148,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T19:13:31.720238"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T19:14:31.874473"
       }
     ]
   },
@@ -10167,11 +10179,15 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T19:11:31.776998"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T19:14:31.874473"
       }
     ]
   },
@@ -10200,6 +10216,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T19:13:31.720238"
+      }
+    ]
+  },
+  "d2bda28cc52c28023439c5f0e3d30c11": {
+    "time": "2026/10/16 19:13:52",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區鳳屏一路",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T19:14:31.874473"
       }
     ]
   }
