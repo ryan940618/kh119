@@ -1763,24 +1763,6 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
-    "status_history": [
-      {
-        "status": "已派遣",
-        "timestamp": "2026-10-17T05:50:31.619290"
-      },
-      {
-        "status": "已出動",
-        "timestamp": "2026-10-17T05:52:31.660976"
-      }
-    ]
-  },
-  "d5c63d91271ef87e6fa9162ee676cdc9": {
-    "time": "2026/10/17 05:49:38",
-    "category": "緊急救護",
-    "sub_category": "急病",
-    "location": "高雄市仁武區",
-    "units": "仁武分隊",
     "current_status": "已到達",
     "status_history": [
       {
@@ -1793,7 +1775,33 @@
       },
       {
         "status": "已到達",
+        "timestamp": "2026-10-17T06:01:31.671671"
+      }
+    ]
+  },
+  "d5c63d91271ef87e6fa9162ee676cdc9": {
+    "time": "2026/10/17 05:49:38",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市仁武區",
+    "units": "仁武分隊",
+    "current_status": "送醫中",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T05:50:31.619290"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T05:52:31.660976"
+      },
+      {
+        "status": "已到達",
         "timestamp": "2026-10-17T05:54:31.705141"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T06:01:31.671671"
       }
     ]
   },
