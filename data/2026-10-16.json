@@ -9405,7 +9405,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9422,6 +9422,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T18:21:31.613507"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T18:42:31.684156"
       }
     ]
   },
@@ -9717,7 +9721,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9726,6 +9730,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T18:31:31.498052"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T18:42:31.684156"
       }
     ]
   },
@@ -9775,11 +9783,29 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T18:40:31.845696"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T18:42:31.684156"
+      }
+    ]
+  },
+  "3bb5f0c374d0e2ace5b1551580c94269": {
+    "time": "2026/10/16 18:41:33",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T18:42:31.684156"
       }
     ]
   }
