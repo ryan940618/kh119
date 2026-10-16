@@ -10033,7 +10033,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區正心路",
     "units": "和發分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -10042,6 +10042,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T19:08:31.729917"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T19:12:31.785219"
       }
     ]
   },
@@ -10137,11 +10141,15 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T19:10:31.848773"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T19:12:31.785219"
       }
     ]
   },
@@ -10156,6 +10164,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T19:11:31.776998"
+      }
+    ]
+  },
+  "5a10adfdc838a0d5e9735f131b3c2ed1": {
+    "time": "2026/10/16 19:08:47",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區裕誠路",
+    "units": "新莊分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T19:12:31.785219"
       }
     ]
   }
