@@ -5701,7 +5701,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區重慶街",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5714,6 +5714,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T12:27:31.323788"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T12:38:31.400224"
       }
     ]
   },
@@ -5891,11 +5895,15 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區鳳旗路",
     "units": "大社分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T12:35:31.378244"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T12:38:31.400224"
       }
     ]
   },
