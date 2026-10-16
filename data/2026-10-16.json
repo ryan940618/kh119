@@ -9375,7 +9375,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9392,6 +9392,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T18:24:31.696890"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T18:30:31.549379"
       }
     ]
   },
@@ -9641,7 +9645,7 @@
     "sub_category": "急病",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9654,6 +9658,38 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T18:23:31.603637"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T18:30:31.549379"
+      }
+    ]
+  },
+  "3676eebb486dff08d93f7b67968fc8b9": {
+    "time": "2026/10/16 18:30:00",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市林園區後厝路",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T18:30:31.549379"
+      }
+    ]
+  },
+  "2a7c3731981df77cd0c4afaa328c9f1c": {
+    "time": "2026/10/16 18:29:27",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T18:30:31.549379"
       }
     ]
   }
