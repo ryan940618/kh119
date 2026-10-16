@@ -4473,7 +4473,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4490,6 +4490,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T10:45:31.704353"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T11:00:31.671415"
       }
     ]
   },
@@ -4871,11 +4875,15 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區新國街",
     "units": "五甲分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T10:58:31.821554"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T11:00:31.671415"
       }
     ]
   }
