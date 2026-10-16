@@ -12079,7 +12079,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12092,6 +12092,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T23:09:32.187267"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T23:25:31.394123"
       }
     ]
   },
@@ -12115,7 +12119,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12128,6 +12132,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T23:12:31.100645"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T23:25:31.394123"
       }
     ]
   },
@@ -12185,11 +12193,43 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區左楠路",
     "units": "後勁分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T23:24:31.210910"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T23:25:31.394123"
+      }
+    ]
+  },
+  "da75d6473003c27036c4bc14ce05b1d1": {
+    "time": "2026/10/16 23:24:37",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市橋頭區",
+    "units": "橋頭分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T23:25:31.394123"
+      }
+    ]
+  },
+  "01db3dad2e7b999e73704ec86854801d": {
+    "time": "2026/10/16 23:24:29",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市彌陀區文安路",
+    "units": "彌陀分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T23:25:31.394123"
       }
     ]
   }
