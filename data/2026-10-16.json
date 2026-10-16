@@ -6099,7 +6099,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區一心一路和育群街",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6112,6 +6112,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T12:55:31.752229"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T12:58:31.560641"
       }
     ]
   },
@@ -6135,11 +6139,15 @@
     "sub_category": "其他",
     "location": "高雄市前鎮區中山二路",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T12:57:31.583221"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T12:58:31.560641"
       }
     ]
   }
