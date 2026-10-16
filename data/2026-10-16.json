@@ -10071,7 +10071,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區環河街",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10088,6 +10088,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T19:21:31.739255"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T19:31:31.928624"
       }
     ]
   },
@@ -10436,6 +10440,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T19:27:31.916120"
+      }
+    ]
+  },
+  "4d323e3ce4baca0e444151ee82fb2d2b": {
+    "time": "2026/10/16 19:30:25",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市阿蓮區",
+    "units": "阿蓮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T19:31:31.928624"
       }
     ]
   }
