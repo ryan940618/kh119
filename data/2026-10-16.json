@@ -2679,11 +2679,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區察哈爾一街",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-16T08:19:31.626012"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T08:25:31.363291"
       }
     ]
   },
@@ -2749,11 +2753,15 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T08:24:31.342513"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T08:25:31.363291"
       }
     ]
   },
@@ -2763,11 +2771,15 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區佛公路",
     "units": "前鎮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T08:24:31.342513"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T08:25:31.363291"
       }
     ]
   },
@@ -2777,11 +2789,29 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區鳳林一路",
     "units": "林園分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T08:24:31.342513"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T08:25:31.363291"
+      }
+    ]
+  },
+  "5a8e8c540192f479f43f55c55df1190c": {
+    "time": "2026/10/16 08:24:13",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T08:25:31.363291"
       }
     ]
   }
