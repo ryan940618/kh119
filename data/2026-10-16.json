@@ -4895,7 +4895,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區新國街",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4904,6 +4904,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T11:00:31.671415"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T11:06:31.825871"
       }
     ]
   },
@@ -4931,11 +4935,57 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區自立路",
     "units": "中庄分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T11:03:31.870045"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T11:06:31.825871"
+      }
+    ]
+  },
+  "18b8ab7487c1c9127b6ba0f77ddd262c": {
+    "time": "2026/10/16 11:05:34",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市大樹區興山路",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T11:06:31.825871"
+      }
+    ]
+  },
+  "022134955b2583e78c6e7aaf28cc1fe1": {
+    "time": "2026/10/16 11:05:18",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市小港區沿海二路",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T11:06:31.825871"
+      }
+    ]
+  },
+  "ed4abaa38e3d16577e5a550bd197645b": {
+    "time": "2026/10/16 11:05:11",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市大樹區興山路",
+    "units": "大樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T11:06:31.825871"
       }
     ]
   }
