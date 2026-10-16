@@ -2421,7 +2421,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區大順二路",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2434,6 +2434,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T07:38:31.383527"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T07:48:31.531151"
       }
     ]
   },
@@ -2511,11 +2515,15 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T07:46:31.432259"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T07:48:31.531151"
       }
     ]
   },
@@ -2525,11 +2533,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區鼎金後路",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T07:47:31.435336"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T07:48:31.531151"
       }
     ]
   }
