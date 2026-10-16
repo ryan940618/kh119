@@ -2195,7 +2195,7 @@
     "sub_category": "車禍",
     "location": "高雄市左營區埤子頭路",
     "units": "左營小隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2208,6 +2208,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T07:05:32.247316"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T07:19:31.176913"
       }
     ]
   },
@@ -2217,7 +2221,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區合江街",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2230,6 +2234,24 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T07:12:34.394268"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T07:19:31.176913"
+      }
+    ]
+  },
+  "4c3f6b2ed0c41e25b2525d5b275634d9": {
+    "time": "2026/10/17 07:19:01",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市楠梓區高雄大學路",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T07:19:31.176913"
       }
     ]
   }
