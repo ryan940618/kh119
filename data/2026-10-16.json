@@ -4091,7 +4091,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區忠孝路",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4104,6 +4104,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T10:11:31.416804"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T10:21:31.588159"
       }
     ]
   },
@@ -4179,7 +4183,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區大學南路和大學十七街",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4188,6 +4192,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T10:11:31.416804"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T10:21:31.588159"
       }
     ]
   },
@@ -4353,11 +4361,29 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T10:20:31.548596"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T10:21:31.588159"
+      }
+    ]
+  },
+  "88df708a63fb3b5d46a340c49c10ae7b": {
+    "time": "2026/10/16 10:20:41",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區樹人路",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T10:21:31.588159"
       }
     ]
   }
