@@ -8583,7 +8583,7 @@
     "sub_category": "路倒",
     "location": "高雄市湖內區保生路",
     "units": "湖內分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8592,6 +8592,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T16:59:31.947239"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T17:11:32.033950"
       }
     ]
   },
@@ -8707,11 +8711,15 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-16T17:07:32.228524"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T17:11:32.033950"
       }
     ]
   },
