@@ -5133,7 +5133,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區民族一路",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5150,6 +5150,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T11:34:31.907865"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T11:36:31.916967"
       }
     ]
   },
@@ -5229,7 +5233,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "大社分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5238,6 +5242,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T11:31:31.968503"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T11:36:31.916967"
       }
     ]
   },
@@ -5288,6 +5296,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T11:33:31.867880"
+      }
+    ]
+  },
+  "39573e1dedf15a2846d35c50e1e04927": {
+    "time": "2026/10/16 11:35:34",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市旗山區",
+    "units": "",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T11:36:31.916967"
       }
     ]
   }
