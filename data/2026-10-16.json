@@ -2275,7 +2275,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "前鎮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2288,6 +2288,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T07:59:31.260068"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T08:32:31.269588"
       }
     ]
   },
@@ -2645,7 +2649,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區察哈爾一街",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -2654,6 +2658,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T08:22:31.437445"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T08:32:31.269588"
       }
     ]
   },
@@ -2925,11 +2933,29 @@
     "sub_category": "車禍",
     "location": "高雄市三民區鼎中路",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T08:31:31.442975"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T08:32:31.269588"
+      }
+    ]
+  },
+  "87bb82ccb2e572a4dbfdb97ac05753d4": {
+    "time": "2026/10/16 08:28:07",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區三多一路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T08:32:31.269588"
       }
     ]
   }
