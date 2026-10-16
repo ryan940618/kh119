@@ -11347,7 +11347,7 @@
     "sub_category": "路倒",
     "location": "高雄市大寮區溪寮路",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11360,6 +11360,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T21:48:31.602761"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T21:56:31.689490"
       }
     ]
   },
@@ -11546,6 +11550,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T21:55:31.728944"
+      }
+    ]
+  },
+  "9443910e24af651384a14c661b5ca257": {
+    "time": "2026/10/16 21:55:14",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區打狗英國領事館[高雄市鼓山區蓮海路",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T21:56:31.689490"
       }
     ]
   }
