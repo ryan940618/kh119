@@ -5833,7 +5833,7 @@
     "sub_category": "車禍",
     "location": "高雄市桃源區",
     "units": "桃源分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5850,6 +5850,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T13:33:31.681703"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T15:11:31.244060"
       }
     ]
   },
@@ -7135,7 +7139,7 @@
     "sub_category": "急病",
     "location": "高雄市橋頭區",
     "units": "橋頭分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7152,6 +7156,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T15:04:31.646606"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T15:11:31.244060"
       }
     ]
   },
@@ -7161,7 +7169,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7178,6 +7186,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T15:03:31.245630"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T15:11:31.244060"
       }
     ]
   },
@@ -7372,6 +7384,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T15:08:31.282648"
+      }
+    ]
+  },
+  "6ed61c17e832bed0fbe525893f607c10": {
+    "time": "2026/10/16 15:10:25",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T15:11:31.244060"
       }
     ]
   }
