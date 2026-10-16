@@ -4061,7 +4061,7 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4070,6 +4070,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T10:07:31.169553"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T10:13:31.503492"
       }
     ]
   },
@@ -4101,11 +4105,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-16T10:08:31.457960"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T10:13:31.503492"
       }
     ]
   },
@@ -4169,11 +4177,15 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T10:11:31.416804"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T10:13:31.503492"
       }
     ]
   },
@@ -4201,11 +4213,15 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T10:12:31.519174"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T10:13:31.503492"
       }
     ]
   },
@@ -4220,6 +4236,48 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T10:12:31.519174"
+      }
+    ]
+  },
+  "fd62175a39bdc599d7645b72f10a5cef": {
+    "time": "2026/10/16 10:12:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區泰康街",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T10:13:31.503492"
+      }
+    ]
+  },
+  "ca95dde9aa98123ae9dc39279d102682": {
+    "time": "2026/10/16 10:12:46",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市內門區",
+    "units": "內門分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T10:13:31.503492"
+      }
+    ]
+  },
+  "8c2deaec7fd01957b9b0abf5db1e9e5e": {
+    "time": "2026/10/16 10:10:33",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-16T10:13:31.503492"
       }
     ]
   }
