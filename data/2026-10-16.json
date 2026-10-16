@@ -5339,7 +5339,7 @@
     "sub_category": "創傷",
     "location": "高雄市鼓山區九如四路",
     "units": "左營分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5348,6 +5348,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T11:39:31.984674"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T11:42:32.132961"
       }
     ]
   },
@@ -5362,6 +5366,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T11:41:32.101977"
+      }
+    ]
+  },
+  "0cec7a153acced155e5cf06950dc7f7e": {
+    "time": "2026/10/16 11:41:37",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市湖內區東方路",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T11:42:32.132961"
       }
     ]
   }
