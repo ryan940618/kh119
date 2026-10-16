@@ -7767,7 +7767,7 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7780,6 +7780,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T15:56:31.448198"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T16:08:31.871645"
       }
     ]
   },
@@ -7965,7 +7969,7 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7978,6 +7982,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T16:05:31.549812"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T16:08:31.871645"
       }
     ]
   },
@@ -8005,11 +8013,15 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區翠華路",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T16:06:31.678282"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T16:08:31.871645"
       }
     ]
   }
