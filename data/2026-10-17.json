@@ -2303,11 +2303,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T07:28:31.291575"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T07:31:31.287240"
       }
     ]
   },
@@ -2317,11 +2321,15 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區壽天路",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T07:30:31.259970"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T07:31:31.287240"
       }
     ]
   },
@@ -2336,6 +2344,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T07:30:31.259970"
+      }
+    ]
+  },
+  "db9dc8243a8704aacf8dd3d320085a09": {
+    "time": "2026/10/17 07:30:35",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區翠華路",
+    "units": "新莊分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T07:31:31.287240"
+      }
+    ]
+  },
+  "a8f65231b5e309814499959ec8d7f655": {
+    "time": "2026/10/17 07:30:23",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市美濃區中興路",
+    "units": "美濃分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T07:31:31.287240"
       }
     ]
   }
