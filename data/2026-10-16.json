@@ -12179,7 +12179,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12192,6 +12192,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T23:24:31.210910"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T23:28:31.342891"
       }
     ]
   },
@@ -12219,11 +12223,15 @@
     "sub_category": "急病",
     "location": "高雄市橋頭區",
     "units": "橋頭分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T23:25:31.394123"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T23:28:31.342891"
       }
     ]
   },
@@ -12242,6 +12250,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T23:26:31.295765"
+      }
+    ]
+  },
+  "5968d17ab2022cee29bba0e6a4715e9c": {
+    "time": "2026/10/16 23:27:27",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區三多一路",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T23:28:31.342891"
       }
     ]
   }
