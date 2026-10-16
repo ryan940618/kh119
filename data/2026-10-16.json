@@ -8911,7 +8911,7 @@
     "sub_category": "車禍",
     "location": "高雄市林園區力行路",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -8920,6 +8920,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T17:37:32.255032"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T17:44:32.237156"
       }
     ]
   },
@@ -9125,11 +9129,15 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區自強三路",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T17:42:32.349643"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T17:44:32.237156"
       }
     ]
   },
@@ -9157,11 +9165,29 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T17:43:32.452240"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T17:44:32.237156"
+      }
+    ]
+  },
+  "ad7afe40e3275377bc1d64bdad0cd5f1": {
+    "time": "2026/10/16 17:43:33",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T17:44:32.237156"
       }
     ]
   }
