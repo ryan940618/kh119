@@ -10627,7 +10627,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區宏平路",
     "units": "高桂分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10644,6 +10644,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T19:57:31.967058"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T19:59:32.114477"
       }
     ]
   },
@@ -10764,6 +10768,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T19:58:32.008490"
+      }
+    ]
+  },
+  "e0e9625b35c240e39f692d442707bdd0": {
+    "time": "2026/10/16 19:58:36",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T19:59:32.114477"
       }
     ]
   }
