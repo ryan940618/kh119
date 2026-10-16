@@ -7545,7 +7545,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -7558,6 +7558,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T15:41:31.384662"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T15:58:31.473955"
       }
     ]
   },
@@ -7719,7 +7723,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區林森三路",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -7732,6 +7736,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T15:53:31.451009"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T15:58:31.473955"
       }
     ]
   },
@@ -7888,6 +7896,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T15:57:31.509275"
+      }
+    ]
+  },
+  "f98fcb1119bdee8df22964ce00bb8faf": {
+    "time": "2026/10/16 15:57:38",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市林園區鳳林路",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T15:58:31.473955"
       }
     ]
   }
