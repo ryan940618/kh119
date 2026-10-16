@@ -2957,7 +2957,7 @@
     "sub_category": "車禍",
     "location": "高雄市林園區東林西路",
     "units": "林園分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -2966,6 +2966,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T08:35:31.384509"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T08:42:31.760881"
       }
     ]
   },
@@ -3033,11 +3037,15 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-16T08:37:31.575942"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T08:42:31.760881"
       }
     ]
   },
