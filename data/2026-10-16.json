@@ -8079,7 +8079,7 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區草衙二路",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8096,6 +8096,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T16:31:31.749475"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T16:42:32.034742"
       }
     ]
   },
@@ -8219,7 +8223,7 @@
     "sub_category": "車禍",
     "location": "高雄市大社區中華路",
     "units": "大社分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8232,6 +8236,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T16:36:34.810867"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T16:42:32.034742"
       }
     ]
   },
@@ -8250,6 +8258,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T16:37:31.785707"
+      }
+    ]
+  },
+  "2de3f9429cc44c82fa7229d8734ae913": {
+    "time": "2026/10/16 16:41:32",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區青少年籃球場[高雄市苓雅區明德街",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T16:42:32.034742"
+      }
+    ]
+  },
+  "a38dda4973aaad2a55552d9bc7e0121b": {
+    "time": "2026/10/16 16:41:01",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市路竹區環球路",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T16:42:32.034742"
       }
     ]
   }
