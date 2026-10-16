@@ -11801,7 +11801,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區嘉峰路",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11818,6 +11818,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T22:46:32.004490"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T22:51:32.089406"
       }
     ]
   },
@@ -11863,11 +11867,15 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T22:50:32.094835"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T22:51:32.089406"
       }
     ]
   },
@@ -11896,6 +11904,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T22:50:32.094835"
+      }
+    ]
+  },
+  "3950987c04e1e51d4f4fe3b087ae63ff": {
+    "time": "2026/10/16 22:48:59",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T22:51:32.089406"
       }
     ]
   }
