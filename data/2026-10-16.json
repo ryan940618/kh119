@@ -11101,7 +11101,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區廣昌街",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11118,6 +11118,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T20:53:31.512862"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T20:59:31.416230"
       }
     ]
   },
@@ -11224,6 +11228,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T20:58:31.464067"
+      }
+    ]
+  },
+  "164f8ebefc1f045ab938ada5a9a06533": {
+    "time": "2026/10/16 20:57:41",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區國富路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T20:59:31.416230"
       }
     ]
   }
