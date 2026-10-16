@@ -9165,7 +9165,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區自強三路",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9182,6 +9182,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T17:57:31.232226"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T18:01:31.436380"
       }
     ]
   },
@@ -9353,7 +9357,7 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9362,6 +9366,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T17:57:31.232226"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T18:01:31.436380"
       }
     ]
   },
@@ -9380,6 +9388,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T17:59:31.318753"
+      }
+    ]
+  },
+  "83744bd2480816ff169e7a3a3964f396": {
+    "time": "2026/10/16 18:00:29",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T18:01:31.436380"
       }
     ]
   }
