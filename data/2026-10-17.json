@@ -1451,7 +1451,7 @@
     "sub_category": "其他",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1460,6 +1460,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T04:40:31.195322"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T04:48:31.245579"
       }
     ]
   },
@@ -1500,6 +1504,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T04:46:31.187699"
+      }
+    ]
+  },
+  "a0b4daeaa24a0c073095f0cce8e05cd2": {
+    "time": "2026/10/17 04:45:19",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T04:48:31.245579"
       }
     ]
   }
