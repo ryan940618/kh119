@@ -10097,7 +10097,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10110,6 +10110,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T19:16:31.920973"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T19:27:31.916120"
       }
     ]
   },
@@ -10331,11 +10335,15 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T19:23:31.842111"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T19:27:31.916120"
       }
     ]
   },
@@ -10345,11 +10353,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-16T19:23:31.842111"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T19:27:31.916120"
       }
     ]
   },
@@ -10377,11 +10389,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區博愛路",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已到達",
         "timestamp": "2026-10-16T19:24:31.711776"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T19:27:31.916120"
       }
     ]
   },
@@ -10391,11 +10407,15 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T19:26:31.812085"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T19:27:31.916120"
       }
     ]
   }
