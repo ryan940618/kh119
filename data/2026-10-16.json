@@ -3369,11 +3369,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T09:00:31.811341"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T09:01:32.038288"
       }
     ]
   },
@@ -3388,6 +3392,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T09:00:31.811341"
+      }
+    ]
+  },
+  "6d83f5fa0ecc35d7154d4be15fe3102f": {
+    "time": "2026/10/16 09:00:49",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鹽埕區新樂街",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T09:01:32.038288"
+      }
+    ]
+  },
+  "0a06e295844d5750247ca6e7bb426b97": {
+    "time": "2026/10/16 08:59:26",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T09:01:32.038288"
       }
     ]
   }
