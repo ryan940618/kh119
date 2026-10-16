@@ -521,7 +521,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -530,6 +530,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T01:20:31.925406"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T01:25:32.045904"
       }
     ]
   },
@@ -558,6 +562,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T01:24:31.963350"
+      }
+    ]
+  },
+  "02271cfd74a2e6b5d71288c3c48e9604": {
+    "time": "2026/10/17 01:24:10",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T01:25:32.045904"
+      }
+    ]
+  },
+  "c9792b9e5ba1aad0d5b88120dde7f178": {
+    "time": "2026/10/17 01:24:09",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市路竹區大公路",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T01:25:32.045904"
       }
     ]
   }
