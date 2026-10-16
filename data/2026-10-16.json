@@ -10119,7 +10119,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區過埤路",
     "units": "鳳祥分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10132,6 +10132,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T19:14:31.874473"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T19:23:31.842111"
       }
     ]
   },
@@ -10306,6 +10310,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T19:20:31.764255"
+      }
+    ]
+  },
+  "d81e8a02e0459c7229ede6b2d68c6ccc": {
+    "time": "2026/10/16 19:22:50",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T19:23:31.842111"
+      }
+    ]
+  },
+  "c875aa9fca637b496d551461b624cad0": {
+    "time": "2026/10/16 19:22:24",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T19:23:31.842111"
+      }
+    ]
+  },
+  "a79e1bc49cfd74a069f2fa010a93c237": {
+    "time": "2026/10/16 19:22:11",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區鳳埤街",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T19:23:31.842111"
       }
     ]
   }
