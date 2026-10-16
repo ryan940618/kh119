@@ -2095,7 +2095,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -2104,6 +2104,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T07:49:31.192957"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T08:00:31.161909"
       }
     ]
   },
@@ -2259,11 +2263,15 @@
     "sub_category": "創傷",
     "location": "高雄市左營區菜公路",
     "units": "左營小隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-16T07:55:31.238408"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T08:00:31.161909"
       }
     ]
   },
@@ -2291,11 +2299,29 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區藍昌路",
     "units": "右昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T07:58:31.358213"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T08:00:31.161909"
+      }
+    ]
+  },
+  "bfbd360a4506ffc5625aa3a03bb0ec56": {
+    "time": "2026/10/16 07:58:36",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "後勁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T08:00:31.161909"
       }
     ]
   }
