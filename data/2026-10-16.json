@@ -2619,7 +2619,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2632,6 +2632,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T08:23:31.344617"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T08:30:31.423626"
       }
     ]
   },
@@ -2890,6 +2894,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T08:29:31.452573"
+      }
+    ]
+  },
+  "9aa58e841d872e4cf5b80b6576182c91": {
+    "time": "2026/10/16 08:29:09",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區翠亨南路",
+    "units": "瑞隆分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T08:30:31.423626"
       }
     ]
   }
