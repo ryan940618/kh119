@@ -8275,7 +8275,7 @@
     "sub_category": "創傷",
     "location": "高雄市苓雅區青少年籃球場[高雄市苓雅區明德街",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8284,6 +8284,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T16:43:31.854398"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T16:48:31.826491"
       }
     ]
   },
@@ -8329,11 +8333,15 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區鼓山二路和鐵路街",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T16:45:31.954816"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T16:48:31.826491"
       }
     ]
   },
@@ -8348,6 +8356,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T16:46:31.803042"
+      }
+    ]
+  },
+  "f4e8f1b31ff84c7fae4286c1c136f082": {
+    "time": "2026/10/16 16:47:13",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T16:48:31.826491"
       }
     ]
   }
