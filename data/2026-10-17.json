@@ -2281,7 +2281,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2290,6 +2290,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T07:26:31.335396"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T07:30:31.259970"
       }
     ]
   },
@@ -2304,6 +2308,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T07:28:31.291575"
+      }
+    ]
+  },
+  "50b04b5e8490adf14fc52eaceca40fbd": {
+    "time": "2026/10/17 07:29:35",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區壽天路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T07:30:31.259970"
+      }
+    ]
+  },
+  "364bdbbe768edc8f57646460c9ddd842": {
+    "time": "2026/10/17 07:29:10",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T07:30:31.259970"
       }
     ]
   }
