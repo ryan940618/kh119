@@ -7767,7 +7767,7 @@
     "sub_category": "其他",
     "location": "高雄市鳳山區",
     "units": "",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7784,6 +7784,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T16:08:31.871645"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T16:16:31.674899"
       }
     ]
   },
@@ -8082,6 +8086,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T16:14:31.632177"
+      }
+    ]
+  },
+  "d5f80c19d3eaefafe18f84236f4c8f08": {
+    "time": "2026/10/16 16:15:28",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T16:16:31.674899"
+      }
+    ]
+  },
+  "e37e94a2c9fe3cdbade75d9f22b19c7e": {
+    "time": "2026/10/16 16:14:08",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市路竹區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T16:16:31.674899"
       }
     ]
   }
