@@ -5779,7 +5779,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5792,6 +5792,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T12:32:31.310752"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T12:40:31.327636"
       }
     ]
   },
@@ -5881,7 +5885,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5890,6 +5894,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T12:36:31.430402"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T12:40:31.327636"
       }
     ]
   },
@@ -5917,11 +5925,15 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T12:37:31.412186"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T12:40:31.327636"
       }
     ]
   }
