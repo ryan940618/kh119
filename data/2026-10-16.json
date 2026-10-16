@@ -9725,7 +9725,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9738,6 +9738,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T18:42:31.684156"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T18:49:31.687874"
       }
     ]
   },
@@ -9880,6 +9884,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T18:47:31.773393"
+      }
+    ]
+  },
+  "8f20850a706c0faf10575d74e0367f4d": {
+    "time": "2026/10/16 18:48:42",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T18:49:31.687874"
+      }
+    ]
+  },
+  "dc4ce63d7388335b1cea9f863ce32f95": {
+    "time": "2026/10/16 18:48:25",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市小港區",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T18:49:31.687874"
       }
     ]
   }
