@@ -5707,7 +5707,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5716,6 +5716,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T12:23:31.392493"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T12:28:31.439436"
       }
     ]
   },
@@ -5725,7 +5729,7 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區環球路",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5734,6 +5738,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T12:23:31.392493"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T12:28:31.439436"
       }
     ]
   },
@@ -5743,11 +5751,29 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T12:27:31.323788"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T12:28:31.439436"
+      }
+    ]
+  },
+  "3b49e1489f0c3d2304cc19e62d669c3d": {
+    "time": "2026/10/16 12:27:20",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市桃源區",
+    "units": "桃源分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T12:28:31.439436"
       }
     ]
   }
