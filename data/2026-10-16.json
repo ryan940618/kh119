@@ -2347,7 +2347,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區藍昌路",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2356,6 +2356,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T08:00:31.161909"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T08:10:31.285448"
       }
     ]
   },
@@ -2405,7 +2409,7 @@
     "sub_category": "汽機車",
     "location": "高雄市三民區十全三路和德裕街",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2414,6 +2418,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T08:07:31.263324"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T08:10:31.285448"
       }
     ]
   },
@@ -2473,11 +2481,29 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區宏毅二路",
     "units": "後勁分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T08:09:31.263400"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T08:10:31.285448"
+      }
+    ]
+  },
+  "1a1720ebd1f6415f8df3292129bdbb64": {
+    "time": "2026/10/16 08:09:09",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鼓山區裕豐街",
+    "units": "左營分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T08:10:31.285448"
       }
     ]
   }
