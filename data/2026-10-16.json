@@ -5769,7 +5769,7 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區環球路",
     "units": "路竹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5786,6 +5786,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T12:41:31.347275"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T12:48:31.385452"
       }
     ]
   },
@@ -6019,11 +6023,15 @@
     "sub_category": "路倒",
     "location": "高雄市仁武區竹楠路",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T12:47:31.489581"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T12:48:31.385452"
       }
     ]
   }
