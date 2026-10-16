@@ -10741,7 +10741,7 @@
     "sub_category": "創傷",
     "location": "高雄市林園區王公路",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10750,6 +10750,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T19:58:32.008490"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T20:01:32.166819"
       }
     ]
   },
@@ -10759,7 +10763,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10768,6 +10772,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T19:58:32.008490"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T20:01:32.166819"
       }
     ]
   },
@@ -10777,11 +10785,15 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T19:59:32.114477"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T20:01:32.166819"
       }
     ]
   }
