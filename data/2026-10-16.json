@@ -9811,7 +9811,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9828,6 +9828,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T18:51:31.779627"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T19:03:31.718348"
       }
     ]
   },
@@ -9903,7 +9907,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區文衡路",
     "units": "鳥松分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -9912,6 +9916,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T18:53:31.677916"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T19:03:31.718348"
       }
     ]
   },
@@ -10014,6 +10022,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T19:01:31.795245"
+      }
+    ]
+  },
+  "8ae617ed21035bff1000fd013393a825": {
+    "time": "2026/10/16 19:02:30",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區環河街",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T19:03:31.718348"
       }
     ]
   }
