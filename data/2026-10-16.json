@@ -7035,7 +7035,7 @@
     "sub_category": "急病",
     "location": "高雄市美濃區",
     "units": "美濃分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7052,6 +7052,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T14:54:32.177054"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T15:29:31.348381"
       }
     ]
   },
@@ -7395,7 +7399,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7408,6 +7412,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T15:16:34.407390"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T15:29:31.348381"
       }
     ]
   },
@@ -7457,7 +7465,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -7466,6 +7474,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T15:26:31.510118"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T15:29:31.348381"
       }
     ]
   },
@@ -7475,11 +7487,15 @@
     "sub_category": "創傷",
     "location": "高雄市左營區孟子路",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T15:26:31.510118"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T15:29:31.348381"
       }
     ]
   },
@@ -7521,11 +7537,15 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-16T15:26:31.510118"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T15:29:31.348381"
       }
     ]
   },
