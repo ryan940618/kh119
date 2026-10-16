@@ -9527,7 +9527,7 @@
     "sub_category": "急病",
     "location": "高雄市六龜區",
     "units": "茂林分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9544,6 +9544,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T18:28:31.578136"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T18:52:31.670859"
       }
     ]
   },
@@ -9699,7 +9703,7 @@
     "sub_category": "車禍",
     "location": "高雄市林園區後厝路",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9716,6 +9720,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T18:44:31.968478"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T18:52:31.670859"
       }
     ]
   },
@@ -9920,6 +9928,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T18:49:31.687874"
+      }
+    ]
+  },
+  "e91e0fdae0b315983cab5287305c7852": {
+    "time": "2026/10/16 18:51:32",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區富國路和德威街",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T18:52:31.670859"
       }
     ]
   }
