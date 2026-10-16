@@ -7205,7 +7205,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊,大寮分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7218,6 +7218,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T15:02:32.182685"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T15:08:31.282648"
       }
     ]
   },
@@ -7227,7 +7231,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區澄清路",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7244,6 +7248,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T15:03:31.245630"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T15:08:31.282648"
       }
     ]
   },
@@ -7342,6 +7350,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T15:07:31.227055"
+      }
+    ]
+  },
+  "fab562deb9cdd6dfdde4a080aca93af5": {
+    "time": "2026/10/16 15:07:11",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市路竹區",
+    "units": "路竹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T15:08:31.282648"
       }
     ]
   }
