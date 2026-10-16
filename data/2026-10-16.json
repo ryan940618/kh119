@@ -9491,7 +9491,7 @@
     "sub_category": "急病",
     "location": "高雄市六龜區",
     "units": "茂林分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9500,6 +9500,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T18:07:31.398902"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T18:19:31.536322"
       }
     ]
   },
@@ -9584,6 +9588,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T18:13:31.409682"
+      }
+    ]
+  },
+  "dc78c66576343dacbeb629edeae38d06": {
+    "time": "2026/10/16 18:18:56",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T18:19:31.536322"
       }
     ]
   }
