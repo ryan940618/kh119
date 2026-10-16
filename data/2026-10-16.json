@@ -10749,7 +10749,7 @@
     "sub_category": "創傷",
     "location": "高雄市林園區王公路",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10766,6 +10766,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T20:04:32.045620"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T20:07:32.076432"
       }
     ]
   },
@@ -10815,11 +10819,43 @@
     "sub_category": "急病",
     "location": "高雄市茄萣區",
     "units": "茄萣分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T20:06:32.127057"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T20:07:32.076432"
+      }
+    ]
+  },
+  "a3c68e7dc87f26b8dad76982bb0e3040": {
+    "time": "2026/10/16 20:06:34",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T20:07:32.076432"
+      }
+    ]
+  },
+  "a0aa99d16a4ddf6fd613c5cb8e3c5918": {
+    "time": "2026/10/16 20:06:12",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市楠梓區楠梓路",
+    "units": "楠梓分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T20:07:32.076432"
       }
     ]
   }
