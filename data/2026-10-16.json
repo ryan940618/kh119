@@ -3157,7 +3157,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3170,6 +3170,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T08:46:31.827249"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T09:06:32.010918"
       }
     ]
   },
@@ -3470,6 +3474,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T09:04:31.942286"
+      }
+    ]
+  },
+  "66719e886eb723da12f8d6979298d839": {
+    "time": "2026/10/16 09:05:21",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區陽明路",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T09:06:32.010918"
       }
     ]
   }
