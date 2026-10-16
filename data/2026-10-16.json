@@ -8313,7 +8313,7 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區環球路",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8322,6 +8322,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T16:44:31.744104"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T16:57:31.969275"
       }
     ]
   },
@@ -8419,7 +8423,7 @@
     "sub_category": "其他",
     "location": "高雄市三民區鼎中路",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8428,6 +8432,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T16:51:31.963030"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T16:57:31.969275"
       }
     ]
   },
@@ -8491,11 +8499,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-16T16:53:31.977263"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T16:57:31.969275"
       }
     ]
   },
@@ -8510,6 +8522,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T16:55:32.137574"
+      }
+    ]
+  },
+  "f951cad2c8ac7f5f5f63dd42cc9de3eb": {
+    "time": "2026/10/16 16:56:58",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市湖內區保生路",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T16:57:31.969275"
+      }
+    ]
+  },
+  "423e6d097045f0f27d6bc7ed32b91eff": {
+    "time": "2026/10/16 16:56:07",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區和成路",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T16:57:31.969275"
       }
     ]
   }
