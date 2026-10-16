@@ -3123,7 +3123,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區重慶街",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3136,6 +3136,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T08:45:31.890419"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T08:54:31.906363"
       }
     ]
   },
@@ -3264,6 +3268,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T08:53:31.866878"
+      }
+    ]
+  },
+  "d2aa04fbeba5a6f5e69b97ba438095e1": {
+    "time": "2026/10/16 08:53:39",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區鼎山街",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T08:54:31.906363"
       }
     ]
   }
