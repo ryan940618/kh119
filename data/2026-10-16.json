@@ -6951,7 +6951,7 @@
     "sub_category": "創傷",
     "location": "高雄市橋頭區甲田路",
     "units": "橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6960,6 +6960,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T14:31:32.109062"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T14:35:32.134902"
       }
     ]
   },
@@ -7009,11 +7013,29 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區中興街",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T14:34:31.994098"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T14:35:32.134902"
+      }
+    ]
+  },
+  "f00557af84b6d15ad2803fbaa14b0c4f": {
+    "time": "2026/10/16 14:34:10",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市前鎮區復興三路和建盛街",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T14:35:32.134902"
       }
     ]
   }
