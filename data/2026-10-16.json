@@ -6467,7 +6467,7 @@
     "sub_category": "急病",
     "location": "高雄市林園區",
     "units": "林園分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6484,6 +6484,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T13:46:31.739011"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T13:56:43.490858"
       }
     ]
   },
@@ -6613,7 +6617,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區家齊路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6622,6 +6626,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T13:52:31.895976"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T13:56:43.490858"
       }
     ]
   },
@@ -6631,7 +6639,7 @@
     "sub_category": "其他",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6640,6 +6648,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T13:52:31.895976"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T13:56:43.490858"
       }
     ]
   },
@@ -6658,6 +6670,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T13:54:32.007965"
+      }
+    ]
+  },
+  "5a9985db2aed82477ce880dade7e758c": {
+    "time": "2026/10/16 13:55:46",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區博愛二路",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T13:56:43.490858"
       }
     ]
   }
