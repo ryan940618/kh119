@@ -5325,11 +5325,15 @@
     "sub_category": "其他",
     "location": "高雄市旗山區",
     "units": "",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-16T11:36:31.916967"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T11:43:32.249447"
       }
     ]
   },
@@ -5375,11 +5379,29 @@
     "sub_category": "路倒",
     "location": "高雄市湖內區東方路",
     "units": "湖內分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T11:42:32.132961"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T11:43:32.249447"
+      }
+    ]
+  },
+  "95d944b135ad255dc94cc5512856a627": {
+    "time": "2026/10/16 11:40:00",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T11:43:32.249447"
       }
     ]
   }
