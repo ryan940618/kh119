@@ -11757,7 +11757,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區九如一路",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -11766,6 +11766,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T22:39:31.999453"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T22:50:32.094835"
       }
     ]
   },
@@ -11850,6 +11854,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T22:49:32.148417"
+      }
+    ]
+  },
+  "e95288e920fd18b9d5348915785d7c48": {
+    "time": "2026/10/16 22:49:16",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T22:50:32.094835"
+      }
+    ]
+  },
+  "b22b7da3fb369a4dcffa5a2a969bf96c": {
+    "time": "2026/10/16 22:49:02",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區濱山街",
+    "units": "鳥松分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T22:50:32.094835"
+      }
+    ]
+  },
+  "5b404ce4d8e0f3603a801b1040a52058": {
+    "time": "2026/10/16 22:48:59",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區黃興路",
+    "units": "大昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T22:50:32.094835"
       }
     ]
   }
