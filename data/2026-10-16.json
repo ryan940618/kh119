@@ -7041,7 +7041,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區中興街",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7054,6 +7054,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T14:43:32.062541"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T14:49:32.041108"
       }
     ]
   },
@@ -7063,7 +7067,7 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區復興三路和建盛街",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7080,6 +7084,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T14:48:32.123366"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T14:49:32.041108"
       }
     ]
   },
@@ -7112,6 +7120,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T14:48:32.123366"
+      }
+    ]
+  },
+  "4406b03773d81db20a2effd322b59c45": {
+    "time": "2026/10/16 14:48:28",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T14:49:32.041108"
+      }
+    ]
+  },
+  "b9a6e03792bc6eb018f7025d44883c03": {
+    "time": "2026/10/16 14:48:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T14:49:32.041108"
       }
     ]
   }
