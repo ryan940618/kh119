@@ -3209,7 +3209,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3226,6 +3226,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T08:58:31.811246"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T09:07:32.228439"
       }
     ]
   },
@@ -3429,7 +3433,7 @@
     "sub_category": "車禍",
     "location": "高雄市鹽埕區新樂街",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3442,6 +3446,10 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T09:05:31.945417"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T09:07:32.228439"
       }
     ]
   },
@@ -3488,6 +3496,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T09:06:32.010918"
+      }
+    ]
+  },
+  "82b70df83a07c184540c9e21b5ed27dc": {
+    "time": "2026/10/16 09:06:46",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市前鎮區保泰路",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T09:07:32.228439"
       }
     ]
   }
