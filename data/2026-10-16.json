@@ -4525,7 +4525,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已到達",
@@ -4534,6 +4534,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T10:38:31.811408"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T10:49:31.717547"
       }
     ]
   },
@@ -4707,7 +4711,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4716,6 +4720,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T10:47:31.660625"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T10:49:31.717547"
       }
     ]
   },
@@ -4739,11 +4747,15 @@
     "sub_category": "路倒",
     "location": "高雄市左營區榮耀街",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T10:47:31.660625"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T10:49:31.717547"
       }
     ]
   }
