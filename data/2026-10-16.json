@@ -2821,7 +2821,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2838,6 +2838,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T08:37:31.575942"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T08:49:31.915241"
       }
     ]
   },
@@ -2847,7 +2851,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區佛公路",
     "units": "前鎮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2864,6 +2868,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T08:39:31.504732"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T08:49:31.915241"
       }
     ]
   },
@@ -3209,11 +3217,29 @@
     "sub_category": "車禍",
     "location": "高雄市三民區自由一路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T08:48:31.999678"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T08:49:31.915241"
+      }
+    ]
+  },
+  "0c8500e8e37c0f4853f3857438edac27": {
+    "time": "2026/10/16 08:48:42",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T08:49:31.915241"
       }
     ]
   }
