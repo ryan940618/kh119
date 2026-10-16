@@ -3189,7 +3189,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "和發分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3202,6 +3202,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T08:53:31.866878"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-16T08:58:31.811246"
       }
     ]
   },
@@ -3295,11 +3299,15 @@
     "sub_category": "車禍",
     "location": "高雄市小港區平正街",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T08:56:31.899614"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T08:58:31.811246"
       }
     ]
   },
@@ -3309,11 +3317,15 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區青年一路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T08:57:31.863182"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T08:58:31.811246"
       }
     ]
   },
@@ -3323,11 +3335,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T08:57:31.863182"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T08:58:31.811246"
       }
     ]
   }
