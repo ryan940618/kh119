@@ -755,7 +755,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -772,6 +772,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T02:38:31.428324"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T02:39:31.410780"
       }
     ]
   },
@@ -852,6 +856,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T02:37:31.428218"
+      }
+    ]
+  },
+  "74edbfe4330adf31e5a5da908ae2b82a": {
+    "time": "2026/10/17 02:37:49",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區博愛一路",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T02:39:31.410780"
       }
     ]
   }
