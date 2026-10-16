@@ -8379,7 +8379,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8396,6 +8396,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T16:55:32.137574"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T17:01:32.009957"
       }
     ]
   },
@@ -8449,7 +8453,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區華榮路",
     "units": "左營分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8458,6 +8462,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T16:55:32.137574"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T17:01:32.009957"
       }
     ]
   },
@@ -8592,6 +8600,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T16:59:31.947239"
+      }
+    ]
+  },
+  "bc0a00314cacd579673ee16f31be3d60": {
+    "time": "2026/10/16 17:00:35",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區八德路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T17:01:32.009957"
       }
     ]
   }
