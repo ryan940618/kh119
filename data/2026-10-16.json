@@ -5847,7 +5847,7 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區久昌街",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -5860,6 +5860,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T12:42:31.358788"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T12:49:31.529767"
       }
     ]
   },
@@ -5991,7 +5995,7 @@
     "sub_category": "路倒",
     "location": "高雄市鳳山區五甲二路",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6000,6 +6004,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T12:46:31.475571"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T12:49:31.529767"
       }
     ]
   },
@@ -6032,6 +6040,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T12:48:31.385452"
+      }
+    ]
+  },
+  "2e030eedfca28379b16f631d85ca34cc": {
+    "time": "2026/10/16 12:49:11",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T12:49:31.529767"
       }
     ]
   }
