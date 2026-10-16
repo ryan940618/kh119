@@ -8625,7 +8625,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區和成路",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8642,6 +8642,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T17:12:31.996832"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T17:24:32.103761"
       }
     ]
   },
@@ -8848,6 +8852,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T17:23:31.974393"
+      }
+    ]
+  },
+  "491fc2699d437194387e92e45b361659": {
+    "time": "2026/10/16 17:23:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市梓官區",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T17:24:32.103761"
+      }
+    ]
+  },
+  "c7e15b0c310278330d93bfebc4d29e76": {
+    "time": "2026/10/16 17:22:54",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市林園區力行路",
+    "units": "林園分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T17:24:32.103761"
+      }
+    ]
+  },
+  "391ddd18cc494ac73907d3d5a8594d77": {
+    "time": "2026/10/16 17:21:32",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳥松區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T17:24:32.103761"
       }
     ]
   }
