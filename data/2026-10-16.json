@@ -8983,7 +8983,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -8992,6 +8992,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T17:36:32.204984"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T17:43:32.452240"
       }
     ]
   },
@@ -9135,11 +9139,29 @@
     "sub_category": "其他",
     "location": "高雄市楠梓區清平街",
     "units": "楠梓分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T17:42:32.349643"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T17:43:32.452240"
+      }
+    ]
+  },
+  "eaa817135adc3b270cef68e5e3aa6690": {
+    "time": "2026/10/16 17:42:33",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T17:43:32.452240"
       }
     ]
   }
