@@ -6875,7 +6875,7 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6892,6 +6892,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T14:31:32.109062"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T14:37:32.021706"
       }
     ]
   },
@@ -7035,11 +7039,15 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區復興三路和建盛街",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T14:35:32.134902"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T14:37:32.021706"
       }
     ]
   },
