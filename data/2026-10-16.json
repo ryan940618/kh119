@@ -8019,7 +8019,7 @@
     "sub_category": "創傷",
     "location": "高雄市鹽埕區大禮街",
     "units": "鼓山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8036,6 +8036,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-16T16:22:31.801441"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-16T16:30:31.656546"
       }
     ]
   },
@@ -8151,11 +8155,15 @@
     "sub_category": "車禍",
     "location": "高雄市路竹區東安路",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-16T16:21:31.749388"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T16:30:31.656546"
       }
     ]
   },
