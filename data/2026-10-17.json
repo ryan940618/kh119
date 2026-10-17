@@ -3799,7 +3799,7 @@
     "sub_category": "車禍",
     "location": "高雄市大樹區中興東路",
     "units": "大樹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -3808,6 +3808,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T09:21:32.166354"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T09:25:32.049917"
       }
     ]
   },
@@ -3871,11 +3875,15 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T09:23:32.078159"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T09:25:32.049917"
       }
     ]
   },
@@ -3885,11 +3893,29 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T09:24:32.097204"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T09:25:32.049917"
+      }
+    ]
+  },
+  "fad05836d0e28b3ee937c251a4b2e0c3": {
+    "time": "2026/10/17 09:24:09",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市左營區高鐵前站 左營車站[高雄市左營區高鐵路",
+    "units": "左營小隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T09:25:32.049917"
       }
     ]
   }
