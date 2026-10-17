@@ -7065,7 +7065,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區後昌路",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7082,6 +7082,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T13:46:31.695747"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T13:48:31.727971"
       }
     ]
   },
@@ -7113,7 +7117,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7122,6 +7126,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T13:44:31.707132"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T13:48:31.727971"
       }
     ]
   },
@@ -7149,11 +7157,15 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區柳橋東路",
     "units": "岡山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T13:45:31.787566"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T13:48:31.727971"
       }
     ]
   },
@@ -7163,11 +7175,29 @@
     "sub_category": "車禍",
     "location": "高雄市橋頭區仕隆路",
     "units": "橋頭分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T13:47:31.650974"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T13:48:31.727971"
+      }
+    ]
+  },
+  "434da266eb5f996e2d796b19e38e371d": {
+    "time": "2026/10/17 13:45:36",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "台南市仁德區",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-17T13:48:31.727971"
       }
     ]
   }
