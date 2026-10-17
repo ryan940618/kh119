@@ -10573,7 +10573,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區光明路",
     "units": "和發分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10590,6 +10590,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T18:50:31.895393"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T19:01:32.021391"
       }
     ]
   },
@@ -10731,7 +10735,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區新康街",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10744,6 +10748,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T18:53:31.780766"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T19:01:32.021391"
       }
     ]
   },
@@ -10877,7 +10885,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10886,6 +10894,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T18:59:31.925183"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T19:01:32.021391"
+      }
+    ]
+  },
+  "2b999455d0f07c62444920a9a29c1670": {
+    "time": "2026/10/17 19:00:35",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區南華一路",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T19:01:32.021391"
       }
     ]
   }
