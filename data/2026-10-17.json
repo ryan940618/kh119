@@ -2913,7 +2913,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區鼎山街",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2922,6 +2922,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T08:24:31.643929"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T08:27:31.628650"
       }
     ]
   },
@@ -2949,11 +2953,43 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T08:26:31.624609"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T08:27:31.628650"
+      }
+    ]
+  },
+  "aed4fbf54ad071d6404c04e4da4fa23d": {
+    "time": "2026/10/17 08:26:45",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T08:27:31.628650"
+      }
+    ]
+  },
+  "ce5ce2f3fb0a745a21ad822e3084c9b0": {
+    "time": "2026/10/17 08:26:21",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區六和路",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T08:27:31.628650"
       }
     ]
   }
