@@ -6933,7 +6933,7 @@
     "sub_category": "雜草(含廢棄物、墓地)",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "火已控",
+    "current_status": "火已滅",
     "status_history": [
       {
         "status": "已派遣",
@@ -6950,6 +6950,10 @@
       {
         "status": "火已控",
         "timestamp": "2026-10-17T13:44:31.707132"
+      },
+      {
+        "status": "火已滅",
+        "timestamp": "2026-10-17T14:18:31.916139"
       }
     ]
   },
@@ -7441,7 +7445,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區九如一路",
     "units": "",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已受理",
@@ -7450,6 +7454,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T14:13:31.902855"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T14:18:31.916139"
       }
     ]
   },
@@ -7468,6 +7476,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T14:17:31.948427"
+      }
+    ]
+  },
+  "5a6055c0c595ed1abf617e13ae636e00": {
+    "time": "2026/10/17 14:17:49",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T14:18:31.916139"
       }
     ]
   }
