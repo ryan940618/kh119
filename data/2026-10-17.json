@@ -10339,7 +10339,7 @@
     "sub_category": "車禍",
     "location": "高雄市田寮區崇德路",
     "units": "崇德駐地",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10356,6 +10356,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T18:33:31.698605"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T18:51:31.911175"
       }
     ]
   },
@@ -10752,6 +10756,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T18:50:31.895393"
+      }
+    ]
+  },
+  "c4e007a152c480ed4a855086dbfc69b2": {
+    "time": "2026/10/17 18:51:08",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T18:51:31.911175"
       }
     ]
   }
