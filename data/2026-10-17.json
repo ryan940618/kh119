@@ -9243,7 +9243,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區國軒路",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9256,6 +9256,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T17:00:32.171072"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T17:03:32.018280"
       }
     ]
   },
@@ -9369,11 +9373,29 @@
     "sub_category": "創傷",
     "location": "高雄市小港區松崗路",
     "units": "鳳祥分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T17:01:32.087869"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T17:03:32.018280"
+      }
+    ]
+  },
+  "debc87a8658457a4aa9fa5f5cc6e66d8": {
+    "time": "2026/10/17 17:02:14",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市田寮區崇德路",
+    "units": "崇德駐地",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T17:03:32.018280"
       }
     ]
   }
