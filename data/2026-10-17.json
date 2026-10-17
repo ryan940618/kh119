@@ -3189,7 +3189,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3206,6 +3206,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T08:57:31.897135"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T09:03:31.844256"
       }
     ]
   },
@@ -3369,7 +3373,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區寶鼎街",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -3378,6 +3382,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T08:51:31.861675"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T09:03:31.844256"
       }
     ]
   },
@@ -3479,7 +3487,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "梓官分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3492,6 +3500,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T09:00:31.932330"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T09:03:31.844256"
       }
     ]
   },
@@ -3506,6 +3518,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T08:54:31.885796"
+      }
+    ]
+  },
+  "013bc56093b1ffb262ca846debbd6d23": {
+    "time": "2026/10/17 09:02:37",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市杉林區",
+    "units": "杉林分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T09:03:31.844256"
       }
     ]
   }
