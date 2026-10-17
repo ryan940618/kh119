@@ -3191,7 +3191,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -3200,6 +3200,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T08:41:31.745098"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T08:51:31.861675"
       }
     ]
   },
@@ -3329,11 +3333,15 @@
     "sub_category": "創傷",
     "location": "高雄市三民區寶鼎街",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-17T08:44:31.969933"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T08:51:31.861675"
       }
     ]
   },
@@ -3393,11 +3401,15 @@
     "sub_category": "創傷",
     "location": "高雄市新興區八德一路",
     "units": "新興分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T08:50:32.332244"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T08:51:31.861675"
       }
     ]
   }
