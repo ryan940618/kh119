@@ -6625,7 +6625,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6642,6 +6642,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T13:17:31.519116"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T13:35:31.838877"
       }
     ]
   },
@@ -6817,7 +6821,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區義華路",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6834,6 +6838,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T13:30:31.697635"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T13:35:31.838877"
       }
     ]
   },
@@ -6994,6 +7002,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T13:34:31.674770"
+      }
+    ]
+  },
+  "3e641901505b44cb3792a5be6558e482": {
+    "time": "2026/10/17 13:34:44",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鳳山區文龍東路",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T13:35:31.838877"
+      }
+    ]
+  },
+  "cb3d96f4d56b67d247e86dd1f4ee7730": {
+    "time": "2026/10/17 13:34:34",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區後昌路",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T13:35:31.838877"
       }
     ]
   }
