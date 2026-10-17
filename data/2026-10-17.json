@@ -10257,7 +10257,7 @@
     "sub_category": "急病",
     "location": "高雄市橋頭區",
     "units": "橋頭分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10274,6 +10274,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T18:30:31.716394"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T18:40:31.707748"
       }
     ]
   },
@@ -10570,6 +10574,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T18:38:31.721646"
+      }
+    ]
+  },
+  "61a830e85ab3d22683251740f704dcca": {
+    "time": "2026/10/17 18:39:23",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市彌陀區",
+    "units": "彌陀分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T18:40:31.707748"
       }
     ]
   }
