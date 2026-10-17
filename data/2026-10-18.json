@@ -831,7 +831,7 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區成功路",
     "units": "中庄分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -840,6 +840,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-18T02:20:31.537334"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-18T02:24:31.510896"
       }
     ]
   },
@@ -849,11 +853,15 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-18T02:21:31.641350"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-18T02:24:31.510896"
       }
     ]
   }
