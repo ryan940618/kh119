@@ -873,7 +873,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -890,6 +890,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-18T02:36:31.610448"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-18T02:42:31.640189"
       }
     ]
   },
@@ -918,6 +922,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-18T02:41:31.746058"
+      }
+    ]
+  },
+  "a7bffa57c576674bb7d71ee387780ada": {
+    "time": "2026/10/18 02:41:55",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市新興區復興一路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-18T02:42:31.640189"
+      }
+    ]
+  },
+  "4fa2be89afda4a83d981a2d61a976633": {
+    "time": "2026/10/18 02:40:52",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市楠梓區後昌新路",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-18T02:42:31.640189"
       }
     ]
   }
