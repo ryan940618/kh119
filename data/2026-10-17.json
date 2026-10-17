@@ -6213,7 +6213,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區王生明路",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6226,6 +6226,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T12:23:32.310724"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T12:28:32.182127"
       }
     ]
   },
@@ -6271,11 +6275,29 @@
     "sub_category": "車禍",
     "location": "高雄市三民區同盟三路",
     "units": "中華分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T12:26:32.261948"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T12:28:32.182127"
+      }
+    ]
+  },
+  "c061aa45c7bbd5844dad72e99040e881": {
+    "time": "2026/10/17 12:27:19",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區民族一路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T12:28:32.182127"
       }
     ]
   }
