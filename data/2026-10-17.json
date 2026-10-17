@@ -2851,7 +2851,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -2864,6 +2864,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T08:18:31.503677"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T08:42:31.774235"
       }
     ]
   },
@@ -3119,7 +3123,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3128,6 +3132,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T08:37:31.822693"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T08:42:31.774235"
       }
     ]
   },
@@ -3206,6 +3214,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T08:41:31.745098"
+      }
+    ]
+  },
+  "d982ad7c1318b51879ccf369ab847017": {
+    "time": "2026/10/17 08:41:46",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區後昌路",
+    "units": "右昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T08:42:31.774235"
+      }
+    ]
+  },
+  "0bad6e14ad2eb3a732501122cf769de9": {
+    "time": "2026/10/17 08:41:35",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區後昌路",
+    "units": "右昌分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T08:42:31.774235"
       }
     ]
   }
