@@ -9501,7 +9501,7 @@
     "sub_category": "車禍",
     "location": "高雄市茄萣區濱海路",
     "units": "茄萣分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -9510,6 +9510,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T17:11:32.081848"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T17:20:32.508626"
       }
     ]
   },
@@ -9569,11 +9573,15 @@
     "sub_category": "路倒",
     "location": "高雄市大社區三民路",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T17:17:32.138566"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T17:20:32.508626"
       }
     ]
   },
