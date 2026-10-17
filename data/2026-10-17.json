@@ -7585,7 +7585,7 @@
     "sub_category": "其他",
     "location": "高雄市彌陀區",
     "units": "彌陀分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7602,6 +7602,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T14:41:32.152895"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T14:56:32.292181"
       }
     ]
   },
@@ -7707,7 +7711,7 @@
     "sub_category": "車禍",
     "location": "高雄市梓官區大舍南路",
     "units": "梓官分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7720,6 +7724,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T14:37:32.010398"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T14:56:32.292181"
       }
     ]
   },
@@ -7840,6 +7848,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T14:54:32.357660"
+      }
+    ]
+  },
+  "f43c686419f4b14dfce313e3c88f5f1b": {
+    "time": "2026/10/17 14:55:27",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區自由三路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T14:56:32.292181"
       }
     ]
   }
