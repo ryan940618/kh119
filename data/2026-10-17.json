@@ -10811,7 +10811,7 @@
     "sub_category": "車禍",
     "location": "高雄市內門區",
     "units": "內門分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -10820,6 +10820,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T19:05:32.145727"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T19:20:32.396898"
       }
     ]
   },
@@ -11141,11 +11145,15 @@
     "sub_category": "車禍",
     "location": "高雄市小港區大業北路和宮仁街",
     "units": "小港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T19:15:32.150837"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T19:20:32.396898"
       }
     ]
   },
