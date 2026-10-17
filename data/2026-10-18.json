@@ -847,7 +847,7 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區成功路",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -864,6 +864,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-18T02:34:31.696100"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-18T02:44:31.841391"
       }
     ]
   },
@@ -959,11 +963,15 @@
     "sub_category": "其他",
     "location": "高雄市楠梓區後昌新路",
     "units": "右昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-18T02:43:31.760064"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-18T02:44:31.841391"
       }
     ]
   }
