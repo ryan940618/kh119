@@ -5863,7 +5863,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區立信路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5872,6 +5872,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T11:47:31.811513"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T11:52:32.002855"
       }
     ]
   },
@@ -5943,11 +5947,15 @@
     "sub_category": "其他",
     "location": "高雄市左營區",
     "units": "",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T11:47:31.811513"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T11:52:32.002855"
       }
     ]
   },
@@ -5980,6 +5988,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T11:51:31.946502"
+      }
+    ]
+  },
+  "4515c67bb9d4fa294a57db0cbb72c251": {
+    "time": "2026/10/17 11:51:12",
+    "category": "其他",
+    "sub_category": "其他",
+    "location": "高雄市茄萣區成功路",
+    "units": "茄萣分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T11:52:32.002855"
       }
     ]
   }
