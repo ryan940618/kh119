@@ -4453,7 +4453,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區大昌一路和鼎勇街",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4466,6 +4466,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T09:58:31.329812"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T10:14:31.720461"
       }
     ]
   },
@@ -4533,7 +4537,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區漢民路",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4546,6 +4550,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T10:08:31.674633"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T10:14:31.720461"
       }
     ]
   },
@@ -4673,7 +4681,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "路竹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4682,6 +4690,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T10:08:31.674633"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T10:14:31.720461"
       }
     ]
   },
@@ -4709,11 +4721,15 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區高楠公路",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T10:08:31.674633"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T10:14:31.720461"
       }
     ]
   }
