@@ -5749,7 +5749,7 @@
     "sub_category": "車禍",
     "location": "高雄市湖內區環球路",
     "units": "路竹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5766,6 +5766,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T12:03:32.067372"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T12:16:32.152250"
       }
     ]
   },
@@ -6180,6 +6184,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T12:12:32.019000"
+      }
+    ]
+  },
+  "39f2949f42a651828a500a0a6bd5a43f": {
+    "time": "2026/10/17 12:15:32",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區王生明路",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T12:16:32.152250"
       }
     ]
   }
