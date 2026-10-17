@@ -7139,7 +7139,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7148,6 +7148,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T13:44:31.707132"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T13:50:31.704205"
       }
     ]
   },
@@ -7157,7 +7161,7 @@
     "sub_category": "車禍",
     "location": "高雄市岡山區柳橋東路",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7166,6 +7170,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T13:48:31.727971"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T13:50:31.704205"
       }
     ]
   },
@@ -7198,6 +7206,20 @@
       {
         "status": "已受理",
         "timestamp": "2026-10-17T13:48:31.727971"
+      }
+    ]
+  },
+  "c60c6c29e1d1526fde8685b63cf0c0a4": {
+    "time": "2026/10/17 13:49:25",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T13:50:31.704205"
       }
     ]
   }
