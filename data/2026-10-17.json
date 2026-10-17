@@ -9357,7 +9357,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "小港分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -9374,6 +9374,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T17:16:32.280813"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T17:18:32.034378"
       }
     ]
   },
@@ -9580,6 +9584,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T17:17:32.138566"
+      }
+    ]
+  },
+  "28a63b3e0a4a2598381817df4952bb61": {
+    "time": "2026/10/17 17:17:05",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "橋頭分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T17:18:32.034378"
       }
     ]
   }
