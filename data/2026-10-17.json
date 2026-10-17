@@ -12243,11 +12243,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T21:17:31.783793"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T21:18:31.740373"
       }
     ]
   },
@@ -12262,6 +12266,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T21:17:31.783793"
+      }
+    ]
+  },
+  "90de5c3a634cfa382d23d0b711f7fd1b": {
+    "time": "2026/10/17 21:18:01",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大樹區",
+    "units": "大樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T21:18:31.740373"
+      }
+    ]
+  },
+  "c4aa1b1f725b24e0961a439a3de8c975": {
+    "time": "2026/10/17 21:16:35",
+    "category": "火災",
+    "sub_category": "其他",
+    "location": "高雄市小港區沿海三路",
+    "units": "大林分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T21:18:31.740373"
       }
     ]
   }
