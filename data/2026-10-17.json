@@ -10393,7 +10393,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10402,6 +10402,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T18:30:31.716394"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T18:35:31.681968"
       }
     ]
   },
@@ -10480,6 +10484,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T18:33:31.698605"
+      }
+    ]
+  },
+  "d678970210e0d3431754cec0da3d4047": {
+    "time": "2026/10/17 18:34:54",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區光明路",
+    "units": "和發分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T18:35:31.681968"
+      }
+    ]
+  },
+  "072bb9da43624df80a27d0dc2864221f": {
+    "time": "2026/10/17 18:34:27",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市旗津區",
+    "units": "旗津分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T18:35:31.681968"
       }
     ]
   }
