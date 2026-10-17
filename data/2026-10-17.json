@@ -10497,7 +10497,7 @@
     "sub_category": "急病",
     "location": "高雄市內門區",
     "units": "內門分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -10510,6 +10510,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T18:39:31.902809"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T18:46:31.870261"
       }
     ]
   },
@@ -10563,7 +10567,7 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10572,6 +10576,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T18:36:31.629632"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T18:46:31.870261"
       }
     ]
   },
@@ -10581,7 +10589,7 @@
     "sub_category": "其他",
     "location": "高雄市苓雅區永平路",
     "units": "成功分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10590,6 +10598,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T18:38:31.721646"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T18:46:31.870261"
       }
     ]
   },
@@ -10621,11 +10633,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-17T18:42:31.660872"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T18:46:31.870261"
       }
     ]
   },
@@ -10640,6 +10656,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T18:45:31.754368"
+      }
+    ]
+  },
+  "537995a8b4599e6c075631f64e6413e8": {
+    "time": "2026/10/17 18:45:31",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區瀋陽街",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T18:46:31.870261"
+      }
+    ]
+  },
+  "efb9f2659db0c9e523bf7181a3ff2d88": {
+    "time": "2026/10/17 18:44:38",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區新康街",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T18:46:31.870261"
       }
     ]
   }
