@@ -12241,7 +12241,7 @@
     "sub_category": "車禍",
     "location": "高雄市新興區中正三路",
     "units": "新興分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -12258,6 +12258,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T21:27:31.965359"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T21:43:32.089801"
       }
     ]
   },
@@ -12311,7 +12315,7 @@
     "sub_category": "急病",
     "location": "高雄市大樹區",
     "units": "大樹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12324,6 +12328,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T21:29:31.963369"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T21:43:32.089801"
       }
     ]
   },
@@ -12429,7 +12437,7 @@
     "sub_category": "急病",
     "location": "高雄市燕巢區",
     "units": "燕巢分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12442,6 +12450,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T21:35:31.991622"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T21:43:32.089801"
       }
     ]
   },
@@ -12536,6 +12548,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T21:37:32.137241"
+      }
+    ]
+  },
+  "3846ea3bf80d8e06b3330a80860a11d5": {
+    "time": "2026/10/17 21:42:07",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T21:43:32.089801"
       }
     ]
   }
