@@ -4377,7 +4377,7 @@
     "sub_category": "其他",
     "location": "高雄市梓官區大舍東路",
     "units": "梓官分隊",
-    "current_status": "已出動",
+    "current_status": "已派遣",
     "status_history": [
       {
         "status": "已派遣",
@@ -4386,6 +4386,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T09:54:31.598244"
+      },
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T10:01:31.736469"
       }
     ]
   },
@@ -4453,7 +4457,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區民族一路",
     "units": "鼎金分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4462,6 +4466,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T09:58:31.329812"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T10:01:31.736469"
       }
     ]
   },
@@ -4494,6 +4502,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T10:00:31.403294"
+      }
+    ]
+  },
+  "0475328c96fcb1733c84b4b2f71bee88": {
+    "time": "2026/10/17 10:00:36",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區新莊一路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T10:01:31.736469"
       }
     ]
   }
