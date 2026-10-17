@@ -5317,7 +5317,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5330,6 +5330,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T11:01:31.704307"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T11:14:31.747221"
       }
     ]
   },
@@ -5459,7 +5463,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5468,6 +5472,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T11:09:31.904617"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T11:14:31.747221"
       }
     ]
   },
@@ -5513,11 +5521,15 @@
     "sub_category": "車禍",
     "location": "高雄市鳥松區本舘路",
     "units": "鳥松分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-17T11:08:31.765424"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T11:14:31.747221"
       }
     ]
   },
@@ -5532,6 +5544,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T11:09:31.904617"
+      }
+    ]
+  },
+  "ee3c9479a8f1f6178a7a15d549f03df8": {
+    "time": "2026/10/17 11:13:10",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "左營小隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T11:14:31.747221"
       }
     ]
   }
