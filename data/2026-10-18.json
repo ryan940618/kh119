@@ -731,7 +731,7 @@
     "sub_category": "創傷",
     "location": "高雄市鼓山區美術東六街",
     "units": "中華分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -748,6 +748,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-18T02:14:31.452854"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-18T02:15:31.584991"
       }
     ]
   },
@@ -757,7 +761,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區重清路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -766,6 +770,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-18T02:11:31.373284"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-18T02:15:31.584991"
       }
     ]
   },
@@ -806,6 +814,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-18T02:13:31.467038"
+      }
+    ]
+  },
+  "25cde0570dcb99dabdd6b7e61fb41c02": {
+    "time": "2026/10/18 02:14:49",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市大寮區成功路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-18T02:15:31.584991"
       }
     ]
   }
