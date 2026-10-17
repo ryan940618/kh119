@@ -10189,7 +10189,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10202,6 +10202,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T18:06:31.615933"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T18:24:31.596616"
       }
     ]
   },
@@ -10211,7 +10215,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區前庄路",
     "units": "中庄分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10232,6 +10236,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T18:14:31.678929"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T18:24:31.596616"
       }
     ]
   },
@@ -10272,6 +10280,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T18:18:31.764810"
+      }
+    ]
+  },
+  "052b5c86108aeafe348fde8340ddd99e": {
+    "time": "2026/10/17 18:24:02",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區二聖一路",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T18:24:31.596616"
       }
     ]
   }
