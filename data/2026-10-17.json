@@ -7637,7 +7637,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7650,6 +7650,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T14:32:32.051112"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T15:01:31.233556"
       }
     ]
   },
@@ -7851,7 +7855,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7860,6 +7864,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T14:54:32.357660"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T15:01:31.233556"
       }
     ]
   },
@@ -7883,11 +7891,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區澄和路",
     "units": "苓雅分隊,鳥松分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T15:00:31.244800"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T15:01:31.233556"
       }
     ]
   },
@@ -7902,6 +7914,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T15:00:31.244800"
+      }
+    ]
+  },
+  "914462c0e71f252bb7943254ff82f0eb": {
+    "time": "2026/10/17 15:00:54",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T15:01:31.233556"
+      }
+    ]
+  },
+  "bb5e33c8d401bcbee9ae6a6afa82a7ce": {
+    "time": "2026/10/17 15:00:27",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區澄清路",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T15:01:31.233556"
       }
     ]
   }
