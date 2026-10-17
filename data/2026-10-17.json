@@ -3981,7 +3981,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "左營分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3994,6 +3994,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T09:31:32.119357"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T09:47:32.449246"
       }
     ]
   },
@@ -4221,7 +4225,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -4230,6 +4234,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T09:40:32.312682"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T09:47:32.449246"
       }
     ]
   },
@@ -4239,7 +4247,7 @@
     "sub_category": "創傷",
     "location": "高雄市左營區環潭路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4248,6 +4256,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T09:43:32.662210"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T09:47:32.449246"
       }
     ]
   },
@@ -4266,6 +4278,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T09:41:32.214537"
+      }
+    ]
+  },
+  "5532c570eb168cd741184cd8e7c606cf": {
+    "time": "2026/10/17 09:46:24",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市茄萣區白砂路",
+    "units": "茄萣分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T09:47:32.449246"
       }
     ]
   }
