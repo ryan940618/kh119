@@ -3645,7 +3645,7 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區翁園路",
     "units": "中庄分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3662,6 +3662,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T09:27:32.085697"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T09:38:32.678170"
       }
     ]
   },
@@ -3927,7 +3931,7 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3940,6 +3944,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T09:30:32.202695"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T09:38:32.678170"
       }
     ]
   },
@@ -4025,7 +4033,7 @@
     "sub_category": "創傷",
     "location": "高雄市梓官區大舍東路",
     "units": "橋頭分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4034,6 +4042,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T09:28:32.150794"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T09:38:32.678170"
       }
     ]
   },
@@ -4129,11 +4141,15 @@
     "sub_category": "車禍",
     "location": "高雄市仁武區中正路",
     "units": "仁武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T09:36:32.180903"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T09:38:32.678170"
       }
     ]
   },
