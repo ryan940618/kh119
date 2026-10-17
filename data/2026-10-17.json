@@ -8347,7 +8347,7 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區晉昌街",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8360,6 +8360,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T15:43:31.561673"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T16:05:31.594358"
       }
     ]
   },
@@ -8395,7 +8399,7 @@
     "sub_category": "工廠及倉庫(含石化工業設備設施)",
     "location": "高雄市永安區永工二路",
     "units": "彌陀分隊,永安分隊",
-    "current_status": "已到達",
+    "current_status": "火已滅",
     "status_history": [
       {
         "status": "已派遣",
@@ -8412,6 +8416,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T15:59:31.560810"
+      },
+      {
+        "status": "火已滅",
+        "timestamp": "2026-10-17T16:05:31.594358"
       }
     ]
   },
@@ -8443,11 +8451,15 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區鎮賢街",
     "units": "成功分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T16:02:31.627038"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T16:05:31.594358"
       }
     ]
   },
