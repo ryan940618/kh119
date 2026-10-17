@@ -3705,7 +3705,7 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區大同街",
     "units": "和發分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3722,6 +3722,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T09:32:32.178795"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T09:50:31.390067"
       }
     ]
   },
@@ -4291,11 +4295,29 @@
     "sub_category": "創傷",
     "location": "高雄市茄萣區白砂路",
     "units": "茄萣分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-17T09:47:32.449246"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T09:50:31.390067"
+      }
+    ]
+  },
+  "c7b6722c32c355c569d6d8374691316c": {
+    "time": "2026/10/17 09:49:21",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市新興區球庭路",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T09:50:31.390067"
       }
     ]
   }
