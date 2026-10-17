@@ -11355,7 +11355,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "成功分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11372,6 +11372,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T19:51:31.282780"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T19:58:31.467089"
       }
     ]
   },
@@ -11491,7 +11495,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "高桂分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -11500,6 +11504,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T19:48:31.225160"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T19:58:31.467089"
       }
     ]
   },
@@ -11612,6 +11620,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T19:57:31.336281"
+      }
+    ]
+  },
+  "cdb7f0adafb1f9c9db38f149b2a9db83": {
+    "time": "2026/10/17 19:58:02",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市左營區重和路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T19:58:31.467089"
+      }
+    ]
+  },
+  "0013af3cd08ca2be666d1ed46d9b50bb": {
+    "time": "2026/10/17 19:56:53",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市新興區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T19:58:31.467089"
       }
     ]
   }
