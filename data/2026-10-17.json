@@ -9923,7 +9923,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區保生街",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -9936,6 +9936,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T17:54:31.582692"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T18:02:31.462616"
       }
     ]
   },
@@ -10154,6 +10158,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T17:59:31.603819"
+      }
+    ]
+  },
+  "ec4a4bb40de469ea9faedcdc94f122d0": {
+    "time": "2026/10/17 18:01:13",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區前庄路",
+    "units": "中庄分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T18:02:31.462616"
       }
     ]
   }
