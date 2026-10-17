@@ -7427,7 +7427,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7436,6 +7436,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T14:11:31.879947"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T14:19:31.961842"
       }
     ]
   },
@@ -7485,11 +7489,29 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "苓雅分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T14:18:31.916139"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T14:19:31.961842"
+      }
+    ]
+  },
+  "7b0ad10edb036d9d71a0564a867a5eaa": {
+    "time": "2026/10/17 14:18:58",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳥松區",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T14:19:31.961842"
       }
     ]
   }
