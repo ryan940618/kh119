@@ -10547,7 +10547,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10564,6 +10564,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T18:49:31.869135"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T19:07:32.041825"
       }
     ]
   },
@@ -10743,7 +10747,7 @@
     "sub_category": "創傷",
     "location": "高雄市鳳山區新康街",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10760,6 +10764,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T19:01:32.021391"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T19:07:32.041825"
       }
     ]
   },
@@ -10976,6 +10984,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T19:06:32.076194"
+      }
+    ]
+  },
+  "2348e01602064ffcf8133af27e65ffcc": {
+    "time": "2026/10/17 19:06:58",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T19:07:32.041825"
+      }
+    ]
+  },
+  "3aa3fc320b0825457a9aceb9b308cf74": {
+    "time": "2026/10/17 19:06:35",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "大寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T19:07:32.041825"
       }
     ]
   }
