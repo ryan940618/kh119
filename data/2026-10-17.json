@@ -8347,7 +8347,7 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區晉昌街",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8364,6 +8364,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T16:05:31.594358"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T16:06:31.545166"
       }
     ]
   },
@@ -8373,7 +8377,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8390,6 +8394,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T15:51:31.917143"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T16:06:31.545166"
       }
     ]
   },
@@ -8474,6 +8482,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T16:04:31.751922"
+      }
+    ]
+  },
+  "40be0eb37224dce5e17947f66a547331": {
+    "time": "2026/10/17 16:05:07",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T16:06:31.545166"
       }
     ]
   }
