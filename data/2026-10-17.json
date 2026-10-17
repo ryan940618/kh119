@@ -12361,7 +12361,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區嫩江街",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -12370,6 +12370,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T21:28:32.807509"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T21:31:32.248693"
       }
     ]
   },
@@ -12379,11 +12383,29 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T21:29:31.963369"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T21:31:32.248693"
+      }
+    ]
+  },
+  "b96c6f77674495cfa3c5f2f6a905d690": {
+    "time": "2026/10/17 21:30:34",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市燕巢區",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T21:31:32.248693"
       }
     ]
   }
