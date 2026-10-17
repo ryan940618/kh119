@@ -7961,7 +7961,7 @@
     "sub_category": "車禍",
     "location": "高雄市田寮區",
     "units": "仁武分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7978,6 +7978,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T15:28:31.371772"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T15:37:31.573275"
       }
     ]
   },
@@ -8127,7 +8131,7 @@
     "sub_category": "車禍",
     "location": "高雄市燕巢區瓊林路",
     "units": "燕巢分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8144,6 +8148,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T15:25:31.467541"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T15:37:31.573275"
       }
     ]
   },
@@ -8211,11 +8219,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區金鼎路",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T15:35:31.521966"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T15:37:31.573275"
       }
     ]
   },
@@ -8230,6 +8242,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T15:35:31.521966"
+      }
+    ]
+  },
+  "9ac9d344ca9cdc9d135f444ebeb2cca5": {
+    "time": "2026/10/17 15:37:12",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T15:37:31.573275"
       }
     ]
   }
