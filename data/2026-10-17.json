@@ -3273,11 +3273,15 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區後昌路",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-17T08:42:31.774235"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T08:48:31.789562"
       }
     ]
   },
@@ -3310,6 +3314,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T08:44:31.969933"
+      }
+    ]
+  },
+  "3d6e7b9e9159267dea5a94eb1335e52b": {
+    "time": "2026/10/17 08:47:55",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區五權南路和立志街",
+    "units": "鳳山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T08:48:31.789562"
+      }
+    ]
+  },
+  "3552b5911011e3ff426fbf02860f7cef": {
+    "time": "2026/10/17 08:47:14",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市梓官區",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T08:48:31.789562"
       }
     ]
   }
