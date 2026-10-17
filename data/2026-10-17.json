@@ -11033,7 +11033,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -11050,6 +11050,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T19:16:32.088342"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T19:31:32.528749"
       }
     ]
   },
@@ -11245,7 +11249,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11254,6 +11258,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T19:26:32.293451"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T19:31:32.528749"
       }
     ]
   },
@@ -11304,6 +11312,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T19:30:32.346296"
+      }
+    ]
+  },
+  "eebf7f8d87f64d986ac58fee0dde3f43": {
+    "time": "2026/10/17 19:29:53",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區自由路",
+    "units": "苓雅分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T19:31:32.528749"
       }
     ]
   }
