@@ -6651,7 +6651,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區熱河一街",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6668,6 +6668,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T13:16:31.623380"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T13:22:31.617656"
       }
     ]
   },
@@ -6805,7 +6809,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區義華路",
     "units": "大昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -6814,6 +6818,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T13:17:31.519116"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T13:22:31.617656"
       }
     ]
   },
@@ -6846,6 +6854,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T13:21:31.552193"
+      }
+    ]
+  },
+  "e65f67d77dc7e858e84e0b4a20d6095e": {
+    "time": "2026/10/17 13:20:41",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市苓雅區中正二路",
+    "units": "新興分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T13:22:31.617656"
       }
     ]
   }
