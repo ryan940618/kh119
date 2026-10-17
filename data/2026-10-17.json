@@ -3663,7 +3663,7 @@
     "sub_category": "車禍",
     "location": "高雄市小港區平和路",
     "units": "小港分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3676,6 +3676,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T09:12:31.989536"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T09:23:32.078159"
       }
     ]
   },
@@ -3707,7 +3711,7 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區大學十街",
     "units": "右昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -3720,6 +3724,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T09:22:32.093579"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T09:23:32.078159"
       }
     ]
   },
@@ -3840,6 +3848,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T09:22:32.093579"
+      }
+    ]
+  },
+  "131e5af445e2465e9d4598e769c4375c": {
+    "time": "2026/10/17 09:22:40",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區哈爾濱街",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T09:23:32.078159"
+      }
+    ]
+  },
+  "2f611195cdef1bc13ba860283073bba4": {
+    "time": "2026/10/17 09:22:11",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市小港區",
+    "units": "高桂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T09:23:32.078159"
       }
     ]
   }
