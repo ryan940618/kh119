@@ -2929,7 +2929,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區鼎山街",
     "units": "鼎金分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2942,6 +2942,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T08:27:31.628650"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T08:45:31.718958"
       }
     ]
   },
@@ -2977,7 +2981,7 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2994,6 +2998,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T08:38:31.674309"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T08:45:31.718958"
       }
     ]
   },
@@ -3189,11 +3197,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-17T08:39:31.704007"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T08:45:31.718958"
       }
     ]
   },
@@ -3217,7 +3229,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "中華分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3226,6 +3238,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T08:43:31.779606"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T08:45:31.718958"
       }
     ]
   },
@@ -3267,11 +3283,15 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T08:44:31.969933"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T08:45:31.718958"
       }
     ]
   },
