@@ -2947,7 +2947,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2956,6 +2956,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T08:25:31.639847"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T08:32:31.764058"
       }
     ]
   },
@@ -3027,7 +3031,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營小隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3036,6 +3040,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T08:30:31.653507"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T08:32:31.764058"
       }
     ]
   },
@@ -3045,11 +3053,29 @@
     "sub_category": "其他",
     "location": "高雄市大樹區九大路",
     "units": "大樹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T08:31:31.662188"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T08:32:31.764058"
+      }
+    ]
+  },
+  "9f517bfb45c9c643ea8c0bbae363c6bf": {
+    "time": "2026/10/17 08:30:55",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳥松區鳥松路",
+    "units": "鳥松分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T08:32:31.764058"
       }
     ]
   }
