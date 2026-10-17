@@ -6889,7 +6889,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "苓雅分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -6902,6 +6902,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T13:40:31.779891"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T13:44:31.707132"
       }
     ]
   },
@@ -6929,7 +6933,7 @@
     "sub_category": "雜草(含廢棄物、墓地)",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "已到達",
+    "current_status": "火已控",
     "status_history": [
       {
         "status": "已派遣",
@@ -6942,6 +6946,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T13:32:31.733577"
+      },
+      {
+        "status": "火已控",
+        "timestamp": "2026-10-17T13:44:31.707132"
       }
     ]
   },
@@ -6991,7 +6999,7 @@
     "sub_category": "其他",
     "location": "高雄市新興區",
     "units": "新興分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7004,6 +7012,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T13:31:31.665067"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T13:44:31.707132"
       }
     ]
   },
@@ -7089,11 +7101,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "十全分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T13:43:31.781236"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T13:44:31.707132"
       }
     ]
   },
@@ -7103,11 +7119,15 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "鼎金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T13:43:31.781236"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T13:44:31.707132"
       }
     ]
   }
