@@ -6965,7 +6965,7 @@
     "sub_category": "急病",
     "location": "高雄市鳥松區",
     "units": "仁武分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6978,6 +6978,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T13:37:31.784376"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T13:43:31.781236"
       }
     ]
   },
@@ -7076,6 +7080,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T13:40:31.779891"
+      }
+    ]
+  },
+  "f0fd4c7db89da7694f8659020265f5a5": {
+    "time": "2026/10/17 13:42:44",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T13:43:31.781236"
+      }
+    ]
+  },
+  "4d2185208f3577f0312b2d12c91cec44": {
+    "time": "2026/10/17 13:42:13",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T13:43:31.781236"
       }
     ]
   }
