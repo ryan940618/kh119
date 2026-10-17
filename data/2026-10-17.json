@@ -9191,7 +9191,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9200,6 +9200,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T16:54:32.057085"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T16:57:32.085435"
       }
     ]
   },
@@ -9245,11 +9249,29 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T16:55:32.074727"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T16:57:32.085435"
+      }
+    ]
+  },
+  "d03f88bb4cf728930f9a15d33362d820": {
+    "time": "2026/10/17 16:56:53",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區科學工藝博物館[高雄市三民區九如一路",
+    "units": "大昌分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T16:57:32.085435"
       }
     ]
   }
