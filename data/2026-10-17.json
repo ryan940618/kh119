@@ -4623,7 +4623,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區民族一路",
     "units": "十全分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4640,6 +4640,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T10:26:31.739029"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T10:28:31.776309"
       }
     ]
   },
@@ -4709,7 +4713,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4722,6 +4726,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T10:14:31.720461"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T10:28:31.776309"
       }
     ]
   },
@@ -4833,7 +4841,7 @@
     "sub_category": "車禍",
     "location": "高雄市鳳山區長興街",
     "units": "鳳山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4846,6 +4854,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T10:24:31.607713"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T10:28:31.776309"
       }
     ]
   },
@@ -4855,7 +4867,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4864,6 +4876,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T10:21:31.505615"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T10:28:31.776309"
       }
     ]
   },
@@ -4909,7 +4925,7 @@
     "sub_category": "車禍",
     "location": "高雄市楠梓區鳳楠路",
     "units": "楠梓分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4918,6 +4934,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T10:24:31.607713"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T10:28:31.776309"
       }
     ]
   },
@@ -4950,6 +4970,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T10:27:31.514387"
+      }
+    ]
+  },
+  "5fc45e117f7a6ab92ff19ccc2893cb6a": {
+    "time": "2026/10/17 10:27:28",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市燕巢區義大路",
+    "units": "燕巢分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T10:28:31.776309"
+      }
+    ]
+  },
+  "6d4c79232bc7344cc8fdefac71d490e9": {
+    "time": "2026/10/17 10:26:35",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區三商街",
+    "units": "五甲分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T10:28:31.776309"
       }
     ]
   }
