@@ -11721,7 +11721,7 @@
     "sub_category": "急病",
     "location": "高雄市彌陀區",
     "units": "梓官分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11734,6 +11734,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T20:07:31.402560"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T20:12:31.348864"
       }
     ]
   },
@@ -11783,11 +11787,15 @@
     "sub_category": "急病",
     "location": "高雄市杉林區",
     "units": "杉林分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T20:11:31.459555"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T20:12:31.348864"
       }
     ]
   }
