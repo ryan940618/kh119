@@ -2367,7 +2367,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -2380,6 +2380,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T07:52:31.431261"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T08:00:31.498976"
       }
     ]
   },
@@ -2503,7 +2507,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區十全二路",
     "units": "中華分隊,十全分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2516,6 +2520,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T07:52:31.431261"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T08:00:31.498976"
       }
     ]
   },
@@ -2631,11 +2639,15 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T07:59:31.487913"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T08:00:31.498976"
       }
     ]
   },
@@ -2650,6 +2662,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T07:59:31.487913"
+      }
+    ]
+  },
+  "d16d9774c025aa050e4925b4182d938d": {
+    "time": "2026/10/17 07:58:38",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市旗山區旗南三路",
+    "units": "旗山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T08:00:31.498976"
       }
     ]
   }
