@@ -7717,7 +7717,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "五甲分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7730,6 +7730,24 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T14:43:32.065449"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T14:46:32.231005"
+      }
+    ]
+  },
+  "e79ba76567570440598c56953d2a8dff": {
+    "time": "2026/10/17 14:45:01",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "前金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T14:46:32.231005"
       }
     ]
   }
