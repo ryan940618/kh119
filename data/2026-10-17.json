@@ -10189,7 +10189,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "左營分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10206,6 +10206,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T18:24:31.596616"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T18:25:31.658764"
       }
     ]
   },
@@ -10294,6 +10298,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T18:24:31.596616"
+      }
+    ]
+  },
+  "deee0d7deb407cdd3e231d074e207fbc": {
+    "time": "2026/10/17 18:25:04",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市田寮區崇德路",
+    "units": "崇德駐地",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T18:25:31.658764"
+      }
+    ]
+  },
+  "4f72cf6dc35db249291148ae4c02d9c2": {
+    "time": "2026/10/17 18:24:56",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市湖內區",
+    "units": "湖內分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T18:25:31.658764"
       }
     ]
   }
