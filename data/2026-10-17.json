@@ -10651,7 +10651,7 @@
     "sub_category": "其他",
     "location": "高雄市彌陀區",
     "units": "彌陀分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10668,6 +10668,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T18:47:31.792899"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T19:05:32.145727"
       }
     ]
   },
@@ -10791,11 +10795,15 @@
     "sub_category": "車禍",
     "location": "高雄市內門區",
     "units": "內門分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-17T18:50:31.895393"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T19:05:32.145727"
       }
     ]
   },
