@@ -5911,7 +5911,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5928,6 +5928,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T11:54:32.096147"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T11:57:32.155322"
       }
     ]
   },
@@ -6048,6 +6052,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T11:55:32.006354"
+      }
+    ]
+  },
+  "e693a0f4bc25c750615b5d95f9f59673": {
+    "time": "2026/10/17 11:56:51",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區中山二路",
+    "units": "成功分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T11:57:32.155322"
       }
     ]
   }
