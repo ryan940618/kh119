@@ -483,7 +483,7 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "大昌分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -500,6 +500,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-18T01:43:31.188723"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-18T01:53:31.258578"
       }
     ]
   },
@@ -557,7 +561,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -574,6 +578,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-18T01:45:31.357150"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-18T01:53:31.258578"
       }
     ]
   },
@@ -583,7 +591,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "十全分隊",
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -596,6 +604,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-18T01:34:31.404533"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-18T01:53:31.258578"
       }
     ]
   },
@@ -627,7 +639,7 @@
     "sub_category": "路倒",
     "location": "高雄市左營區自由二路",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -636,6 +648,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-18T01:47:31.261945"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-18T01:53:31.258578"
       }
     ]
   },
@@ -654,6 +670,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-18T01:48:31.400533"
+      }
+    ]
+  },
+  "612a768aabff0dd727a7e62d91ad0071": {
+    "time": "2026/10/18 01:53:01",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-18T01:53:31.258578"
       }
     ]
   }
