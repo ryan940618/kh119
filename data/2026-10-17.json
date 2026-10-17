@@ -13339,11 +13339,15 @@
     "sub_category": "急病",
     "location": "高雄市旗津區",
     "units": "旗津分隊",
-    "current_status": "已派遣",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T23:41:31.452894"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T23:50:31.464389"
       }
     ]
   },
@@ -13366,6 +13370,34 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T23:48:31.480141"
+      }
+    ]
+  },
+  "d097ea25e83124846fb60a5de08bd8d0": {
+    "time": "2026/10/17 23:50:10",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T23:50:31.464389"
+      }
+    ]
+  },
+  "57464c444bd8bc0c5f6d6cfdbc8a2dbd": {
+    "time": "2026/10/17 23:50:05",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市岡山區前和路",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T23:50:31.464389"
       }
     ]
   }
