@@ -5379,11 +5379,15 @@
     "sub_category": "車禍",
     "location": "高雄市三民區安東街",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-17T11:03:31.666949"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T11:07:31.681272"
       }
     ]
   },
@@ -5434,6 +5438,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T11:06:31.589538"
+      }
+    ]
+  },
+  "79cb9e1df7a6c16f4c8e52f60eb998f6": {
+    "time": "2026/10/17 11:06:42",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T11:07:31.681272"
+      }
+    ]
+  },
+  "843e0f978a9d376f1d61703b09beca9f": {
+    "time": "2026/10/17 11:06:20",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區本館路",
+    "units": "鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T11:07:31.681272"
+      }
+    ]
+  },
+  "1568de4ee469635d1d3cee5fa94faeff": {
+    "time": "2026/10/17 11:05:57",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區鼎新路",
+    "units": "鼎金分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T11:07:31.681272"
       }
     ]
   }
