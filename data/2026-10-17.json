@@ -9707,7 +9707,7 @@
     "sub_category": "急病",
     "location": "高雄市旗山區",
     "units": "旗山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9720,6 +9720,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T17:36:31.273138"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T17:38:31.282797"
       }
     ]
   },
@@ -9747,7 +9751,7 @@
     "sub_category": "急病",
     "location": "高雄市仁武區",
     "units": "新莊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9756,6 +9760,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T17:33:31.310664"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T17:38:31.282797"
       }
     ]
   },
@@ -9765,7 +9773,7 @@
     "sub_category": "車禍",
     "location": "高雄市新興區復興二路",
     "units": "新興分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -9774,6 +9782,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T17:34:31.320179"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T17:38:31.282797"
       }
     ]
   },
@@ -9783,11 +9795,15 @@
     "sub_category": "創傷",
     "location": "高雄市三民區平等路",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-17T17:35:31.308747"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T17:38:31.282797"
       }
     ]
   },
@@ -9806,6 +9822,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T17:36:31.273138"
+      }
+    ]
+  },
+  "9f91704fbdc479898baba4a146a19048": {
+    "time": "2026/10/17 17:37:17",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市岡山區",
+    "units": "岡山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T17:38:31.282797"
       }
     ]
   }
