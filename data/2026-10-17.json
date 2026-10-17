@@ -4159,11 +4159,15 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T09:36:32.180903"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T09:39:32.307218"
       }
     ]
   },
@@ -4178,6 +4182,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T09:37:32.358723"
+      }
+    ]
+  },
+  "ef9f0548a2b4a394bb44bdddfe389a94": {
+    "time": "2026/10/17 09:38:08",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市左營區環潭路",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T09:39:32.307218"
+      }
+    ]
+  },
+  "a2ecb43b09d2aca8ef7bd0b3fc470f19": {
+    "time": "2026/10/17 09:34:24",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市桃源區南橫公路",
+    "units": "桃源分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T09:39:32.307218"
       }
     ]
   }
