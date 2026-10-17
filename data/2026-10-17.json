@@ -10373,7 +10373,7 @@
     "sub_category": "急病",
     "location": "高雄市湖內區",
     "units": "湖內分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10390,6 +10390,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T18:41:31.764019"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T18:55:31.952696"
       }
     ]
   },
@@ -10809,11 +10813,15 @@
     "sub_category": "急病",
     "location": "高雄市內門區",
     "units": "內門分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T18:54:32.090382"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T18:55:31.952696"
       }
     ]
   },
