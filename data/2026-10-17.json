@@ -10021,7 +10021,7 @@
     "sub_category": "車禍",
     "location": "高雄市鼓山區鼓波街",
     "units": "鼓山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10030,6 +10030,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T17:53:31.487222"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T17:56:31.384700"
       }
     ]
   },
@@ -10089,11 +10093,29 @@
     "sub_category": "創傷",
     "location": "高雄市路竹區華光路",
     "units": "路竹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T17:54:31.582692"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T17:56:31.384700"
+      }
+    ]
+  },
+  "e20854417c25ba666cd5e7821a13e353": {
+    "time": "2026/10/17 17:55:28",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "新莊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T17:56:31.384700"
       }
     ]
   }
