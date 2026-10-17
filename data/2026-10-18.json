@@ -1023,7 +1023,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1036,6 +1036,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-18T03:04:31.976637"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-18T03:12:31.722836"
       }
     ]
   },
@@ -1045,7 +1049,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1054,6 +1058,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-18T03:07:32.264893"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-18T03:12:31.722836"
       }
     ]
   }
