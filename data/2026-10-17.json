@@ -11129,7 +11129,7 @@
     "sub_category": "急病",
     "location": "高雄市鳳山區",
     "units": "鳳祥分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -11142,6 +11142,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T19:29:32.244781"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T19:39:32.479247"
       }
     ]
   },
@@ -11367,11 +11371,15 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "右昌分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-17T19:33:32.394436"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T19:39:32.479247"
       }
     ]
   },
@@ -11381,7 +11389,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區瑞隆路和瑞和街",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11390,6 +11398,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T19:36:32.244045"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T19:39:32.479247"
       }
     ]
   },
@@ -11418,6 +11430,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T19:37:32.199754"
+      }
+    ]
+  },
+  "61d4adbb0e866160d524c5e571a824e4": {
+    "time": "2026/10/17 19:37:37",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "高桂分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T19:39:32.479247"
       }
     ]
   }
