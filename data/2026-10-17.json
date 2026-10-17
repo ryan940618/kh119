@@ -10293,7 +10293,7 @@
     "sub_category": "車禍",
     "location": "高雄市前鎮區二聖一路",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10302,6 +10302,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T18:26:31.654821"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T18:29:31.652127"
       }
     ]
   },
@@ -10360,6 +10364,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T18:28:31.931079"
+      }
+    ]
+  },
+  "bf520b5e658cd63815e64ffd920639cc": {
+    "time": "2026/10/17 18:28:40",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市楠梓區",
+    "units": "後勁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T18:29:31.652127"
+      }
+    ]
+  },
+  "b67f6adccf97bc7122563e4a913a70b9": {
+    "time": "2026/10/17 18:27:10",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市苓雅區四維三路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T18:29:31.652127"
       }
     ]
   }
