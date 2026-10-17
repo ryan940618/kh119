@@ -7659,7 +7659,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7676,6 +7676,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T14:47:32.151337"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T15:00:31.244800"
       }
     ]
   },
@@ -7737,7 +7741,7 @@
     "sub_category": "急病",
     "location": "高雄市苓雅區",
     "units": "五甲分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -7754,6 +7758,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T14:46:32.231005"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T15:00:31.244800"
       }
     ]
   },
@@ -7866,6 +7874,34 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T14:56:32.292181"
+      }
+    ]
+  },
+  "f06fee52f5b67acbac21768334b3ba9f": {
+    "time": "2026/10/17 14:59:48",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區澄和路",
+    "units": "苓雅分隊,鳥松分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T15:00:31.244800"
+      }
+    ]
+  },
+  "da42350335c9d4aa6eb4362acef5d027": {
+    "time": "2026/10/17 14:58:10",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市田寮區",
+    "units": "仁武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T15:00:31.244800"
       }
     ]
   }
