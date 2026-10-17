@@ -4703,7 +4703,7 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區林森二路",
     "units": "苓雅分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -4712,6 +4712,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T10:08:31.674633"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T10:15:31.813378"
       }
     ]
   },
@@ -4730,6 +4734,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T10:14:31.720461"
+      }
+    ]
+  },
+  "fd9f86dfa76cafd8a492efcdc69bae9e": {
+    "time": "2026/10/17 10:14:48",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市前鎮區",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T10:15:31.813378"
+      }
+    ]
+  },
+  "c86f0b450a05d62c495a9ce6deac7ea3": {
+    "time": "2026/10/17 10:14:46",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市前鎮區瑞隆路",
+    "units": "瑞隆分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T10:15:31.813378"
       }
     ]
   }
