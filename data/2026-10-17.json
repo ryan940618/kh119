@@ -3583,7 +3583,7 @@
     "sub_category": "急病",
     "location": "高雄市杉林區",
     "units": "杉林分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -3596,6 +3596,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T09:18:32.190523"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T09:32:32.178795"
       }
     ]
   },
@@ -3697,7 +3701,7 @@
     "sub_category": "創傷",
     "location": "高雄市大寮區大同街",
     "units": "和發分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3710,6 +3714,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T09:18:32.190523"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T09:32:32.178795"
       }
     ]
   },
@@ -3863,7 +3871,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3872,6 +3880,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T09:22:32.093579"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T09:32:32.178795"
       }
     ]
   },
@@ -4011,11 +4023,43 @@
     "sub_category": "其他",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-17T09:28:32.150794"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T09:32:32.178795"
+      }
+    ]
+  },
+  "2d665ef8e1153387b196fb7ff93e99e5": {
+    "time": "2026/10/17 09:31:47",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區五甲三路",
+    "units": "前鎮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T09:32:32.178795"
+      }
+    ]
+  },
+  "abe9402d442bca5b0bc3e54c34ed8fa5": {
+    "time": "2026/10/17 09:31:28",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區義華路",
+    "units": "十全分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T09:32:32.178795"
       }
     ]
   }
