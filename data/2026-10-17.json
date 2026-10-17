@@ -3557,7 +3557,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -3570,6 +3570,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T09:21:32.166354"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T09:22:32.093579"
       }
     ]
   },
@@ -3703,7 +3707,7 @@
     "sub_category": "創傷",
     "location": "高雄市楠梓區大學十街",
     "units": "右昌分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已出動",
@@ -3712,6 +3716,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T09:16:32.030267"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T09:22:32.093579"
       }
     ]
   },
@@ -3801,7 +3809,7 @@
     "sub_category": "創傷",
     "location": "高雄市前鎮區崗山中街",
     "units": "瑞隆分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3810,6 +3818,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T09:20:32.045768"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T09:22:32.093579"
       }
     ]
   },
@@ -3819,11 +3831,15 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T09:21:32.166354"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T09:22:32.093579"
       }
     ]
   }
