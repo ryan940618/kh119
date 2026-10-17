@@ -7473,7 +7473,7 @@
     "sub_category": "車禍",
     "location": "高雄市三民區九如一路",
     "units": "",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已受理",
@@ -7490,6 +7490,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T14:32:32.051112"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T14:47:32.151337"
       }
     ]
   },
@@ -7651,7 +7655,7 @@
     "sub_category": "急病",
     "location": "高雄市前鎮區",
     "units": "瑞隆分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7664,6 +7668,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T14:34:32.087164"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T14:47:32.151337"
       }
     ]
   },
@@ -7743,11 +7751,29 @@
     "sub_category": "急病",
     "location": "高雄市三民區",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T14:46:32.231005"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T14:47:32.151337"
+      }
+    ]
+  },
+  "5a41e5a91316cf1909d8a10c0dbf6b11": {
+    "time": "2026/10/17 14:46:52",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市梓官區",
+    "units": "梓官分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T14:47:32.151337"
       }
     ]
   }
