@@ -3055,7 +3055,7 @@
     "sub_category": "急病",
     "location": "高雄市左營區",
     "units": "左營小隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3068,6 +3068,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T08:32:31.764058"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T08:50:32.332244"
       }
     ]
   },
@@ -3303,7 +3307,7 @@
     "sub_category": "急病",
     "location": "高雄市大寮區",
     "units": "大寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3312,6 +3316,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T08:45:31.718958"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T08:50:32.332244"
       }
     ]
   },
@@ -3362,6 +3370,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T08:49:32.035810"
+      }
+    ]
+  },
+  "8a889ba2902c0029f475292013bdebae": {
+    "time": "2026/10/17 08:49:27",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鳳山區中崙四路",
+    "units": "鳳祥分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T08:50:32.332244"
+      }
+    ]
+  },
+  "954602124c0946cea3400e0972463636": {
+    "time": "2026/10/17 08:49:17",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市新興區八德一路",
+    "units": "新興分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T08:50:32.332244"
       }
     ]
   }
