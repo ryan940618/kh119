@@ -7823,7 +7823,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7836,6 +7836,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T14:59:31.448247"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T15:07:31.207385"
       }
     ]
   },
@@ -8007,11 +8011,15 @@
     "sub_category": "車禍",
     "location": "高雄市苓雅區忠孝二路",
     "units": "前金分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T15:06:31.238589"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T15:07:31.207385"
       }
     ]
   }
