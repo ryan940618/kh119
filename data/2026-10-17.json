@@ -5275,7 +5275,7 @@
     "sub_category": "急病",
     "location": "高雄市鼓山區",
     "units": "中華分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5288,6 +5288,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T10:49:31.901416"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T10:59:31.780583"
       }
     ]
   },
@@ -5306,6 +5310,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T10:57:31.765984"
+      }
+    ]
+  },
+  "569dca76fa66143fd7fb8c08c02a4c39": {
+    "time": "2026/10/17 10:58:40",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區中山大學-武嶺宿舍[高雄市鼓山區蓮海路",
+    "units": "鼓山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T10:59:31.780583"
       }
     ]
   }
