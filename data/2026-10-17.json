@@ -4301,7 +4301,7 @@
     "sub_category": "車禍",
     "location": "高雄市桃源區南橫公路",
     "units": "桃源分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -4314,6 +4314,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T09:54:31.598244"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T10:50:31.693260"
       }
     ]
   },
@@ -4929,7 +4933,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "燕巢分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -4946,6 +4950,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T10:41:31.612850"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T10:50:31.693260"
       }
     ]
   },
@@ -5213,11 +5221,15 @@
     "sub_category": "創傷",
     "location": "高雄市林園區港埔一路",
     "units": "林園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-17T10:43:31.658720"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T10:50:31.693260"
       }
     ]
   },
