@@ -10413,7 +10413,7 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "後勁分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -10430,6 +10430,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T18:39:31.902809"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T18:50:31.895393"
       }
     ]
   },
@@ -10553,7 +10557,7 @@
     "sub_category": "車禍",
     "location": "高雄市大寮區光明路",
     "units": "和發分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -10566,6 +10570,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T18:39:31.902809"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T18:50:31.895393"
       }
     ]
   },
@@ -10677,7 +10685,7 @@
     "sub_category": "路倒",
     "location": "高雄市三民區瀋陽街",
     "units": "十全分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10686,6 +10694,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T18:47:31.792899"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T18:50:31.895393"
       }
     ]
   },
@@ -10713,7 +10725,7 @@
     "sub_category": "車禍",
     "location": "高雄市茄萣區濱海路",
     "units": "茄萣分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -10722,6 +10734,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T18:48:31.752454"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T18:50:31.895393"
+      }
+    ]
+  },
+  "d06a777d8ebb51cf27c14bec51b825ca": {
+    "time": "2026/10/17 18:48:11",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市內門區",
+    "units": "內門分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T18:50:31.895393"
       }
     ]
   }
