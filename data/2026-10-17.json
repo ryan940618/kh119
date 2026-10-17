@@ -9521,7 +9521,7 @@
     "sub_category": "車禍",
     "location": "高雄市茄萣區濱海路",
     "units": "茄萣分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -9534,6 +9534,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T17:20:32.508626"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T17:41:31.315654"
       }
     ]
   },
@@ -9663,7 +9667,7 @@
     "sub_category": "急病",
     "location": "高雄市路竹區",
     "units": "路竹分隊",
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9676,6 +9680,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T17:30:31.282115"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-17T17:41:31.315654"
       }
     ]
   },
@@ -9737,7 +9745,7 @@
     "sub_category": "創傷",
     "location": "高雄市三民區陽明路",
     "units": "鳥松分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已到達",
@@ -9746,6 +9754,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-17T17:35:31.308747"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-17T17:41:31.315654"
       }
     ]
   },
@@ -9872,6 +9884,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T17:40:31.293633"
+      }
+    ]
+  },
+  "a8ca92b6425f86e2e9ce9ec6e3036046": {
+    "time": "2026/10/17 17:39:35",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區",
+    "units": "中華分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T17:41:31.315654"
       }
     ]
   }
