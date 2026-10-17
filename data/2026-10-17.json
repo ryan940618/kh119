@@ -5855,11 +5855,15 @@
     "sub_category": "創傷",
     "location": "高雄市左營區立信路",
     "units": "新莊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T11:42:31.947420"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T11:47:31.811513"
       }
     ]
   },
@@ -5887,7 +5891,7 @@
     "sub_category": "急病",
     "location": "高雄市岡山區",
     "units": "岡山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5896,6 +5900,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T11:44:31.934361"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-17T11:47:31.811513"
       }
     ]
   },
@@ -5905,11 +5913,29 @@
     "sub_category": "創傷",
     "location": "高雄市鼓山區",
     "units": "鼓山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T11:44:31.934361"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T11:47:31.811513"
+      }
+    ]
+  },
+  "d582d1829a145d3a05fdbd6ab7426c1d": {
+    "time": "2026/10/17 11:44:40",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市左營區",
+    "units": "",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T11:47:31.811513"
       }
     ]
   }
