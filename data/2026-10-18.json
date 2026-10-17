@@ -337,7 +337,7 @@
     "sub_category": "急病",
     "location": "高雄市阿蓮區",
     "units": "阿蓮分隊",
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -354,6 +354,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-18T01:09:32.016210"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-18T01:27:31.255583"
       }
     ]
   },
@@ -517,11 +521,29 @@
     "sub_category": "急病",
     "location": "高雄市楠梓區",
     "units": "楠梓分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-18T01:26:31.222083"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-18T01:27:31.255583"
+      }
+    ]
+  },
+  "c857f2e17f95cff4d62b97e9e58505cc": {
+    "time": "2026/10/18 01:26:37",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市左營區",
+    "units": "十全分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-18T01:27:31.255583"
       }
     ]
   }
