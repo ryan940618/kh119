@@ -8633,11 +8633,15 @@
     "sub_category": "急病",
     "location": "高雄市小港區",
     "units": "高桂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T16:22:31.650176"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T16:24:31.703537"
       }
     ]
   },
@@ -8647,11 +8651,29 @@
     "sub_category": "路倒",
     "location": "高雄市前鎮區瑞福路",
     "units": "瑞隆分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T16:23:31.765955"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T16:24:31.703537"
+      }
+    ]
+  },
+  "26be59db85febbb1e35ffaf5f88015be": {
+    "time": "2026/10/17 16:24:07",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市橋頭區橋新一路",
+    "units": "楠梓分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T16:24:31.703537"
       }
     ]
   }
