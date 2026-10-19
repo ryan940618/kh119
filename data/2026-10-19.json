@@ -2301,7 +2301,7 @@
         "timestamp": "2026-10-19T17:46:31.235962"
       }
     ],
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2318,6 +2318,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-19T18:04:00"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-19T18:24:00"
       }
     ]
   },
@@ -2483,7 +2487,7 @@
         "timestamp": "2026-10-19T17:59:31.555876"
       }
     ],
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2500,6 +2504,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-19T18:13:00"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-19T18:31:00"
       }
     ]
   },
@@ -2528,7 +2536,7 @@
         "timestamp": "2026-10-19T18:04:00"
       }
     ],
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -2545,6 +2553,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-19T18:17:00"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-19T18:21:00"
       }
     ]
   },
@@ -2627,7 +2639,7 @@
         "timestamp": "2026-10-19T18:13:31.579169"
       }
     ],
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2640,6 +2652,14 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-19T18:17:00"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-19T18:32:00"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-19T18:45:00"
       }
     ]
   },
@@ -2656,7 +2676,7 @@
         "timestamp": "2026-10-19T18:13:31.579169"
       }
     ],
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2665,6 +2685,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-19T18:14:00"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T18:22:00"
       }
     ]
   },
@@ -2681,7 +2705,7 @@
         "timestamp": "2026-10-19T18:17:31.405480"
       }
     ],
-    "current_status": "已出動",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2690,6 +2714,1043 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-19T18:20:00"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T18:24:00"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-19T18:37:00"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-19T18:44:00"
+      }
+    ]
+  },
+  "5b1a059b6771633c3061e2c587737d04": {
+    "time": "2026/10/19 18:21:46",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市左營區博愛二路",
+    "units": "中華分隊",
+    "current_units": "中華分隊",
+    "units_history": [
+      {
+        "units": "中華分隊",
+        "timestamp": "2026-10-19T18:23:31.520834"
+      }
+    ],
+    "current_status": "已到院",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T18:23:31.520834"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T18:24:00"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T18:30:00"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-19T18:44:00"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-19T18:47:00"
+      }
+    ]
+  },
+  "042e50ed8ee50c2557159b953ba22560": {
+    "time": "2026/10/19 18:24:13",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳥松區本舘路",
+    "units": "大昌分隊",
+    "current_units": "大昌分隊",
+    "units_history": [
+      {
+        "units": "大昌分隊",
+        "timestamp": "2026-10-19T18:25:31.455171"
+      }
+    ],
+    "current_status": "已到院",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T18:25:31.455171"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T18:30:00"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-19T18:35:00"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-19T18:43:00"
+      }
+    ]
+  },
+  "f36d24980acf7a37f51811d3ffb66bd1": {
+    "time": "2026/10/19 18:28:09",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_units": "林園分隊",
+    "units_history": [
+      {
+        "units": "林園分隊",
+        "timestamp": "2026-10-19T18:28:31.490983"
+      }
+    ],
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T18:28:31.490983"
+      }
+    ]
+  },
+  "176e7db995fcbf1ab5bdb35c6b2b440f": {
+    "time": "2026/10/19 18:27:58",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "苓雅分隊",
+    "current_units": "苓雅分隊",
+    "units_history": [
+      {
+        "units": "苓雅分隊",
+        "timestamp": "2026-10-19T18:28:31.490983"
+      }
+    ],
+    "current_status": "已到院",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T18:28:31.490983"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T18:29:00"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T18:35:00"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-19T18:44:00"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-19T18:46:00"
+      }
+    ]
+  },
+  "a2d675bc0281c685efddc53fd98d978b": {
+    "time": "2026/10/19 18:28:09",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市林園區林家路",
+    "units": "林園分隊",
+    "current_units": "林園分隊",
+    "units_history": [
+      {
+        "units": "林園分隊",
+        "timestamp": "2026-10-19T18:29:31.565070"
+      }
+    ],
+    "current_status": "已到院",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T18:29:31.565070"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T18:34:00"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-19T18:41:00"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-19T18:53:00"
+      }
+    ]
+  },
+  "82742f4ea204e685efaf8aa1ffbabb93": {
+    "time": "2026/10/19 18:33:09",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市小港區廠邊二路",
+    "units": "高桂分隊",
+    "current_units": "高桂分隊",
+    "units_history": [
+      {
+        "units": "高桂分隊",
+        "timestamp": "2026-10-19T18:34:31.625071"
+      }
+    ],
+    "current_status": "已到院",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T18:34:31.625071"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T18:35:00"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T18:41:00"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-19T18:55:00"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-19T18:58:00"
+      }
+    ]
+  },
+  "07b73fa55f0240b222b9339fd0e83aa3": {
+    "time": "2026/10/19 18:32:34",
+    "category": "緊急救護",
+    "sub_category": "其他",
+    "location": "高雄市田寮區",
+    "units": "田寮分隊",
+    "current_units": "田寮分隊",
+    "units_history": [
+      {
+        "units": "田寮分隊",
+        "timestamp": "2026-10-19T18:35:31.475078"
+      }
+    ],
+    "current_status": "已到院",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T18:35:31.475078"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T18:37:00"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T18:45:00"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-19T18:52:00"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-19T19:16:00"
+      }
+    ]
+  },
+  "b0c58e807fa39070d44d586eb3ccf9de": {
+    "time": "2026/10/19 18:36:50",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "新興分隊",
+    "current_units": "新興分隊",
+    "units_history": [
+      {
+        "units": "新興分隊",
+        "timestamp": "2026-10-19T18:37:31.611249"
+      }
+    ],
+    "current_status": "已到院",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T18:37:31.611249"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T18:38:00"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T18:42:00"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-19T18:56:00"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-19T19:01:00"
+      }
+    ]
+  },
+  "80b25cf9907aee465962fea9bf9f2dd5": {
+    "time": "2026/10/19 18:36:17",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鼓山區九如四路",
+    "units": "中華分隊",
+    "current_units": "中華分隊",
+    "units_history": [
+      {
+        "units": "中華分隊",
+        "timestamp": "2026-10-19T18:37:31.611249"
+      }
+    ],
+    "current_status": "已到院",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T18:37:31.611249"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T18:38:00"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T18:42:00"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-19T18:49:00"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-19T18:53:00"
+      }
+    ]
+  },
+  "58f24c1a37dd3ca52438c909922a885c": {
+    "time": "2026/10/19 18:37:42",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市三民區褒忠街",
+    "units": "苓雅分隊",
+    "current_units": "苓雅分隊",
+    "units_history": [
+      {
+        "units": "苓雅分隊",
+        "timestamp": "2026-10-19T18:38:31.595440"
+      }
+    ],
+    "current_status": "已到院",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T18:38:31.595440"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T18:47:00"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-19T19:00:00"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-19T19:01:00"
+      }
+    ]
+  },
+  "e98f7af2e58f33b16b6690e9ddabc30a": {
+    "time": "2026/10/19 18:39:45",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市甲仙區",
+    "units": "甲仙分隊",
+    "current_units": "甲仙分隊",
+    "units_history": [
+      {
+        "units": "甲仙分隊",
+        "timestamp": "2026-10-19T18:40:31.836530"
+      }
+    ],
+    "current_status": "已到院",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T18:40:31.836530"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T18:41:00"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T18:44:00"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-19T18:53:00"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-19T19:21:00"
+      }
+    ]
+  },
+  "73bd017320ba4bf614d082e06fb75198": {
+    "time": "2026/10/19 18:40:06",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_units": "鳳山分隊",
+    "units_history": [
+      {
+        "units": "鳳山分隊",
+        "timestamp": "2026-10-19T18:41:31.747231"
+      }
+    ],
+    "current_status": "已到院",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T18:41:31.747231"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T18:42:00"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T18:46:00"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-19T19:01:00"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-19T19:07:00"
+      }
+    ]
+  },
+  "e580e52005a877049d93971d90723382": {
+    "time": "2026/10/19 18:45:36",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市鳳山區大明路",
+    "units": "五甲分隊",
+    "current_units": "五甲分隊",
+    "units_history": [
+      {
+        "units": "五甲分隊",
+        "timestamp": "2026-10-19T18:46:31.759978"
+      }
+    ],
+    "current_status": "已到院",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T18:46:31.759978"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T18:49:00"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T18:54:00"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-19T19:07:00"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-19T19:14:00"
+      }
+    ]
+  },
+  "748b1e99dad3f2b8b28b337958c2e310": {
+    "time": "2026/10/19 18:45:52",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市阿蓮區南雄南路",
+    "units": "阿蓮分隊",
+    "current_units": "阿蓮分隊",
+    "units_history": [
+      {
+        "units": "阿蓮分隊",
+        "timestamp": "2026-10-19T18:47:31.646481"
+      }
+    ],
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T18:47:31.646481"
+      }
+    ]
+  },
+  "eb2fff9fd67520d6a91f12a28e9ab52c": {
+    "time": "2026/10/19 18:48:34",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鹽埕區",
+    "units": "鼓山分隊",
+    "current_units": "鼓山分隊",
+    "units_history": [
+      {
+        "units": "鼓山分隊",
+        "timestamp": "2026-10-19T18:49:31.690777"
+      }
+    ],
+    "current_status": "已到院",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T18:49:31.690777"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T18:51:00"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T18:54:00"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-19T19:05:00"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-19T19:12:00"
+      }
+    ]
+  },
+  "f4dcf1147f21603ff26d3e3519b0b045": {
+    "time": "2026/10/19 18:48:56",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區凱旋四路和瑞南街",
+    "units": "成功分隊",
+    "current_units": "成功分隊",
+    "units_history": [
+      {
+        "units": "成功分隊",
+        "timestamp": "2026-10-19T18:50:31.720928"
+      }
+    ],
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T18:50:31.720928"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T18:54:00"
+      }
+    ]
+  },
+  "5269366d0e44d77840856d3021a88170": {
+    "time": "2026/10/19 18:54:15",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "前金分隊",
+    "current_units": "前金分隊",
+    "units_history": [
+      {
+        "units": "前金分隊",
+        "timestamp": "2026-10-19T18:55:31.834388"
+      }
+    ],
+    "current_status": "送醫中",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T18:55:31.834388"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T18:57:00"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T19:03:00"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-19T19:27:00"
+      }
+    ]
+  },
+  "fd7059c17f1253ebf9391a62959c3a7d": {
+    "time": "2026/10/19 19:01:23",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "新興分隊",
+    "current_units": "新興分隊",
+    "units_history": [
+      {
+        "units": "新興分隊",
+        "timestamp": "2026-10-19T19:02:31.798080"
+      }
+    ],
+    "current_status": "已到院",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T19:02:31.798080"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T19:03:00"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T19:08:00"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-19T19:16:00"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-19T19:24:00"
+      }
+    ]
+  },
+  "25604904c1c9cb4e3109f77650008366": {
+    "time": "2026/10/19 19:08:07",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鼓山區",
+    "units": "鼓山分隊",
+    "current_units": "鼓山分隊",
+    "units_history": [
+      {
+        "units": "鼓山分隊",
+        "timestamp": "2026-10-19T19:08:31.824597"
+      }
+    ],
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T19:08:31.824597"
+      }
+    ]
+  },
+  "5976e6966a8a9cdcb9d0db0a5efe7b7f": {
+    "time": "2026/10/19 19:07:29",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市三民區建工路",
+    "units": "十全分隊",
+    "current_units": "十全分隊",
+    "units_history": [
+      {
+        "units": "十全分隊",
+        "timestamp": "2026-10-19T19:08:31.824597"
+      }
+    ],
+    "current_status": "已到院",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T19:08:31.824597"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T19:09:00"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T19:12:00"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-19T19:22:00"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-19T19:25:00"
+      }
+    ]
+  },
+  "be5636253796a2012fd29aaa2ceec03e": {
+    "time": "2026/10/19 19:08:28",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區",
+    "units": "中庄分隊",
+    "current_units": "中庄分隊",
+    "units_history": [
+      {
+        "units": "中庄分隊",
+        "timestamp": "2026-10-19T19:09:31.828072"
+      }
+    ],
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T19:09:31.828072"
+      }
+    ]
+  },
+  "554e12adee0c69ea92d7d1a0063b626e": {
+    "time": "2026/10/19 19:08:07",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市鼓山區蓮海路",
+    "units": "鼓山分隊",
+    "current_units": "鼓山分隊",
+    "units_history": [
+      {
+        "units": "鼓山分隊",
+        "timestamp": "2026-10-19T19:09:31.828072"
+      }
+    ],
+    "current_status": "送醫中",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T19:09:31.828072"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T19:11:00"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-19T19:29:00"
+      }
+    ]
+  },
+  "e639cc42498932f48bd2f766a41cc984": {
+    "time": "2026/10/19 19:09:39",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市岡山區國軒路",
+    "units": "岡山分隊",
+    "current_units": "岡山分隊",
+    "units_history": [
+      {
+        "units": "岡山分隊",
+        "timestamp": "2026-10-19T19:11:32.023810"
+      }
+    ],
+    "current_status": "已到院",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T19:11:32.023810"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T19:13:00"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T19:16:00"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-19T19:21:00"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-19T19:27:00"
+      }
+    ]
+  },
+  "590372ec0b80c9c675f7074d6393eb49": {
+    "time": "2026/10/19 19:08:28",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區國華街",
+    "units": "中庄分隊",
+    "current_units": "中庄分隊",
+    "units_history": [
+      {
+        "units": "中庄分隊",
+        "timestamp": "2026-10-19T19:11:32.023810"
+      }
+    ],
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T19:11:32.023810"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T19:13:00"
+      }
+    ]
+  },
+  "bd7c2bcbf780883464cdf2695270d302": {
+    "time": "2026/10/19 19:12:03",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市苓雅區",
+    "units": "大昌分隊",
+    "current_units": "大昌分隊",
+    "units_history": [
+      {
+        "units": "大昌分隊",
+        "timestamp": "2026-10-19T19:13:31.797896"
+      }
+    ],
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T19:13:31.797896"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T19:14:00"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T19:23:00"
+      }
+    ]
+  },
+  "7853e289ccabd6509ceda61030a11610": {
+    "time": "2026/10/19 19:15:54",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區大寮路",
+    "units": "和發分隊",
+    "current_units": "和發分隊",
+    "units_history": [
+      {
+        "units": "和發分隊",
+        "timestamp": "2026-10-19T19:16:31.882474"
+      }
+    ],
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T19:16:31.882474"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T19:18:00"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T19:22:00"
+      }
+    ]
+  },
+  "40149e7746f009edf020afad0129341f": {
+    "time": "2026/10/19 19:15:10",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市大寮區",
+    "units": "和發分隊",
+    "current_units": "和發分隊",
+    "units_history": [
+      {
+        "units": "和發分隊",
+        "timestamp": "2026-10-19T19:16:31.882474"
+      }
+    ],
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T19:16:31.882474"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T19:18:00"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T19:25:00"
+      }
+    ]
+  },
+  "c780749785c9dcffbc6a1196b88a7c94": {
+    "time": "2026/10/19 19:16:26",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市茄萣區文化路",
+    "units": "茄萣分隊",
+    "current_units": "茄萣分隊",
+    "units_history": [
+      {
+        "units": "茄萣分隊",
+        "timestamp": "2026-10-19T19:17:31.916403"
+      }
+    ],
+    "current_status": "送醫中",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T19:17:31.916403"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T19:18:00"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T19:22:00"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-19T19:27:00"
+      }
+    ]
+  },
+  "0df3b343d691b7ae44c9e1acb7d1305f": {
+    "time": "2026/10/19 19:18:47",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市前鎮區凱旋四路",
+    "units": "瑞隆分隊",
+    "current_units": "瑞隆分隊",
+    "units_history": [
+      {
+        "units": "瑞隆分隊",
+        "timestamp": "2026-10-19T19:19:32.104928"
+      }
+    ],
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T19:19:32.104928"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T19:20:00"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T19:23:00"
+      }
+    ]
+  },
+  "298d245e65d41f81339dfa1be7ed6c6d": {
+    "time": "2026/10/19 19:22:00",
+    "category": "緊急救護",
+    "sub_category": "創傷",
+    "location": "高雄市林園區文聖街",
+    "units": "林園分隊",
+    "current_units": "林園分隊",
+    "units_history": [
+      {
+        "units": "林園分隊",
+        "timestamp": "2026-10-19T19:22:32.022337"
+      }
+    ],
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T19:22:32.022337"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T19:23:00"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T19:28:00"
+      }
+    ]
+  },
+  "c83b85552965b6f0f9a24dd1da349897": {
+    "time": "2026/10/19 19:23:15",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "十全分隊",
+    "current_units": "十全分隊",
+    "units_history": [
+      {
+        "units": "十全分隊",
+        "timestamp": "2026-10-19T19:24:32.037553"
+      }
+    ],
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T19:24:32.037553"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T19:25:00"
+      }
+    ]
+  },
+  "329f24dfed22ffb260c1b2c438ec3518": {
+    "time": "2026/10/19 19:24:20",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市三民區",
+    "units": "鼎金分隊",
+    "current_units": "鼎金分隊",
+    "units_history": [
+      {
+        "units": "鼎金分隊",
+        "timestamp": "2026-10-19T19:25:32.073434"
+      }
+    ],
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T19:25:32.073434"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T19:26:00"
+      }
+    ]
+  },
+  "4d12b2ac244f07ffbd9d9dd19bdf40bc": {
+    "time": "2026/10/19 19:24:10",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "瑞隆分隊",
+    "current_units": "瑞隆分隊",
+    "units_history": [
+      {
+        "units": "瑞隆分隊",
+        "timestamp": "2026-10-19T19:25:32.073434"
+      }
+    ],
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T19:25:32.073434"
       }
     ]
   }
