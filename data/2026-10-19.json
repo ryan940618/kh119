@@ -6139,7 +6139,7 @@
         "timestamp": "2026-10-19T23:23:31.506980"
       }
     ],
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已出動",
@@ -6152,6 +6152,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-19T23:31:00"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-19T23:36:00"
       }
     ]
   },
@@ -6168,7 +6172,7 @@
         "timestamp": "2026-10-19T23:27:31.627112"
       }
     ],
-    "current_status": "已到達",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6181,6 +6185,14 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-19T23:32:00"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-19T23:58:00"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-20T00:15:00"
       }
     ]
   },
@@ -6197,7 +6209,7 @@
         "timestamp": "2026-10-19T23:28:31.607924"
       }
     ],
-    "current_status": "已出動",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6206,6 +6218,18 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-19T23:29:00"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T23:34:00"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-19T23:42:00"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-19T23:53:00"
       }
     ]
   },
@@ -6222,7 +6246,7 @@
         "timestamp": "2026-10-19T23:32:31.674117"
       }
     ],
-    "current_status": "已出動",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -6231,6 +6255,249 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-19T23:33:00"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T23:39:00"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-19T23:52:00"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-19T23:57:00"
+      }
+    ]
+  },
+  "e2e793865e02ebef32a6d06c5e999bdd": {
+    "time": "2026/10/19 23:41:16",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市大寮區興隆路",
+    "units": "大寮分隊",
+    "current_units": "大寮分隊",
+    "units_history": [
+      {
+        "units": "大寮分隊",
+        "timestamp": "2026-10-19T23:41:31.876923"
+      }
+    ],
+    "current_status": "已到院",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T23:41:31.876923"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T23:45:00"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T23:49:00"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-19T23:57:00"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-20T00:13:00"
+      }
+    ]
+  },
+  "5113b2aa6a518d6e24a3c67fc7d2cc1a": {
+    "time": "2026/10/19 23:41:21",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "鳳山分隊",
+    "current_units": "鳳山分隊",
+    "units_history": [
+      {
+        "units": "鳳山分隊",
+        "timestamp": "2026-10-19T23:42:31.845687"
+      }
+    ],
+    "current_status": "已到院",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T23:42:31.845687"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T23:43:00"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T23:48:00"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-20T00:11:00"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-20T00:15:00"
+      }
+    ]
+  },
+  "25a92a35e0bfdb2f69ee4162a50512ef": {
+    "time": "2026/10/19 23:42:46",
+    "category": "緊急救護",
+    "sub_category": "車禍",
+    "location": "高雄市楠梓區創新路和寶溪北街",
+    "units": "楠梓分隊",
+    "current_units": "楠梓分隊",
+    "units_history": [
+      {
+        "units": "楠梓分隊",
+        "timestamp": "2026-10-19T23:43:31.939371"
+      }
+    ],
+    "current_status": "已到院",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T23:43:31.939371"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T23:44:00"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T23:49:00"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-19T23:54:00"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-19T23:57:00"
+      }
+    ]
+  },
+  "8c62607a6e04d347d7963cf131582cc2": {
+    "time": "2026/10/19 23:43:38",
+    "category": "火災",
+    "sub_category": "汽機車",
+    "location": "高雄市大寮區興隆路",
+    "units": "大寮分隊",
+    "current_units": "大寮分隊",
+    "units_history": [
+      {
+        "units": "大寮分隊",
+        "timestamp": "2026-10-19T23:44:31.814388"
+      }
+    ],
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T23:44:31.814388"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T23:52:00"
+      }
+    ]
+  },
+  "d6d02356bd466ed84bb4c4a4f4122b89": {
+    "time": "2026/10/19 23:46:11",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市鳳山區五權南路",
+    "units": "鳳山分隊",
+    "current_units": "鳳山分隊",
+    "units_history": [
+      {
+        "units": "鳳山分隊",
+        "timestamp": "2026-10-19T23:47:31.830017"
+      }
+    ],
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T23:47:31.830017"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T23:48:00"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T23:53:00"
+      }
+    ]
+  },
+  "9283bcd7542fef2caac907ddc902b056": {
+    "time": "2026/10/19 23:46:47",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市新興區",
+    "units": "新興分隊",
+    "current_units": "新興分隊",
+    "units_history": [
+      {
+        "units": "新興分隊",
+        "timestamp": "2026-10-19T23:48:31.705064"
+      }
+    ],
+    "current_status": "已到院",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T23:48:31.705064"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T23:49:00"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-19T23:53:00"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-19T23:58:00"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-20T00:07:00"
+      }
+    ]
+  },
+  "6421b8c57ec904b396aee338559b9644": {
+    "time": "2026/10/19 23:57:08",
+    "category": "緊急救護",
+    "sub_category": "路倒",
+    "location": "高雄市三民區南台路",
+    "units": "前金分隊",
+    "current_units": "前金分隊",
+    "units_history": [
+      {
+        "units": "前金分隊",
+        "timestamp": "2026-10-19T23:57:32.751936"
+      }
+    ],
+    "current_status": "已到達",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T23:57:32.751936"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-20T00:00:00"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-20T00:06:00"
       }
     ]
   }
