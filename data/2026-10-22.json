@@ -5312,7 +5312,7 @@
         "timestamp": "2026-10-22T10:47:00"
       }
     ],
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5329,6 +5329,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-22T11:19:00"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-22T11:29:00"
       }
     ]
   },
@@ -5655,7 +5659,7 @@
         "timestamp": "2026-10-22T11:08:31.094022"
       }
     ],
-    "current_status": "送醫中",
+    "current_status": "已到院",
     "status_history": [
       {
         "status": "已派遣",
@@ -5672,6 +5676,10 @@
       {
         "status": "送醫中",
         "timestamp": "2026-10-22T11:27:00"
+      },
+      {
+        "status": "已到院",
+        "timestamp": "2026-10-22T11:31:00"
       }
     ]
   },
@@ -5750,7 +5758,7 @@
         "timestamp": "2026-10-22T11:13:31.341242"
       }
     ],
-    "current_status": "已到達",
+    "current_status": "送醫中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5763,6 +5771,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-22T11:18:00"
+      },
+      {
+        "status": "送醫中",
+        "timestamp": "2026-10-22T11:30:00"
       }
     ]
   },
@@ -5813,6 +5825,48 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-22T11:19:31.246421"
+      }
+    ]
+  },
+  "77407116d2184de49bb38c185278e860": {
+    "time": "2026/10/22 11:30:34",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市林園區",
+    "units": "林園分隊",
+    "current_units": "林園分隊",
+    "units_history": [
+      {
+        "units": "林園分隊",
+        "timestamp": "2026-10-22T11:31:32.989630"
+      }
+    ],
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-22T11:31:32.989630"
+      }
+    ]
+  },
+  "836d4f445f22fee34bf507763264ded7": {
+    "time": "2026/10/22 11:30:28",
+    "category": "緊急救護",
+    "sub_category": "急病",
+    "location": "高雄市鳳山區",
+    "units": "瑞隆分隊",
+    "current_units": "瑞隆分隊",
+    "units_history": [
+      {
+        "units": "瑞隆分隊",
+        "timestamp": "2026-10-22T11:31:32.989630"
+      }
+    ],
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-22T11:31:32.989630"
       }
     ]
   }
